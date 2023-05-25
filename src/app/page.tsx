@@ -177,7 +177,7 @@ const Home: NextPage = () => {
   };
 
   const handleInputKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
-    if (event.key === "Enter" && input != "") {
+    if (!isShowingAnswer && event.key === "Enter" && input != "") {
       HandleNext();
     }
   };
