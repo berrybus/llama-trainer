@@ -1,0 +1,77 @@
+{
+    "league": 64,
+    "day": 25,
+    "date": "April 2, 2015",
+    "1": {
+        "category": "LITERATURE",
+        "prompt": "Le P\u00e9dant jou\u00e9 and L'Autre monde ou les \u00e9tats et empires de la Lune are among the works of what French dramatist and romantic (pictured), who is perhaps best known today for fictional depictions of him in other works? ",
+        "answer": "cyrano de bergerac",
+        "image": "/images/art/389489yn40c89y40.jpg",
+        "a_percent": "69",
+        "b_percent": "46",
+        "c_percent": "39",
+        "d_percent": "29",
+        "e_percent": "17",
+        "r_percent": "28"
+    },
+    "2": {
+        "category": "CLASS MUSIC",
+        "prompt": "Mme Nadezhda von Meck is remembered today for her patronage, as well as her complex and exclusively epistolary relationship, with what composer, who dedicated his Fourth Symphony to her in 1877?",
+        "answer": "pyotr tchaikovsky",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "52",
+        "c_percent": "36",
+        "d_percent": "26",
+        "e_percent": "13",
+        "r_percent": "24"
+    },
+    "3": {
+        "category": "FILM",
+        "prompt": "The staging of a theatrical adaptation of \"What We Talk About When We Talk About Love,\" a short story from a 1981 collection of the same title by Raymond Carver, provides the basis for what Academy Award-winning film?",
+        "answer": "birdman",
+        "image": null,
+        "a_percent": "72",
+        "b_percent": "55",
+        "c_percent": "54",
+        "d_percent": "41",
+        "e_percent": "32",
+        "r_percent": "37"
+    },
+    "4": {
+        "category": "LIFESTYLE",
+        "prompt": "Identify the New Jersey university named after the woman who became the first native-born U.S. citizen to be canonized as a saint in the Roman Catholic Church.",
+        "answer": "seton hall university",
+        "image": null,
+        "a_percent": "73",
+        "b_percent": "57",
+        "c_percent": "46",
+        "d_percent": "33",
+        "e_percent": "20",
+        "r_percent": "36"
+    },
+    "5": {
+        "category": "GAMES/SPORT",
+        "prompt": "Of the five teams that have won the Cricket World Cup in its history, four are nations (India, Australia, Pakistan, Sri Lanka), while the fifth is a multinational team known by what name?",
+        "answer": "west indies",
+        "image": null,
+        "a_percent": "60",
+        "b_percent": "41",
+        "c_percent": "39",
+        "d_percent": "27",
+        "e_percent": "14",
+        "r_percent": "26"
+    },
+    "6": {
+        "category": "SCIENCE",
+        "prompt": "If an atom (or group of atoms) gains electrons or loses protons, it becomes a specific type of ion called an anion. What is the term for the opposite\u2014an ion in which an atom loses electrons?",
+        "answer": "cation",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "70",
+        "c_percent": "64",
+        "d_percent": "52",
+        "e_percent": "40",
+        "r_percent": "53"
+    }
+}

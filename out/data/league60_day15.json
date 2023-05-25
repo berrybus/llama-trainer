@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 15,
+    "date": "March 10, 2014",
+    "1": {
+        "category": "GAMES/SPORT",
+        "prompt": "Give the name, from Portuguese, for the sport being played in this photograph. ",
+        "answer": "futsal",
+        "image": "/images/art/598mf998m5.png",
+        "a_percent": "43",
+        "b_percent": "26",
+        "c_percent": "24",
+        "d_percent": "16",
+        "e_percent": "9",
+        "r_percent": "16"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "Vitruvius, a Roman architect, engineer, and builder from the 1st c. BC, shares his name with a prominent character from what popular 2014 film?",
+        "answer": "the lego movie",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "58",
+        "c_percent": "56",
+        "d_percent": "45",
+        "e_percent": "32",
+        "r_percent": "40"
+    },
+    "3": {
+        "category": "LITERATURE",
+        "prompt": "The English baronet and popinjay Sir Percy Blakeney is the true identity of what eponymous hero from a 1903 play and 1905 novel by Emma Orczy?",
+        "answer": "the scarlet pimpernel",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "74",
+        "c_percent": "64",
+        "d_percent": "47",
+        "e_percent": "22",
+        "r_percent": "44"
+    },
+    "4": {
+        "category": "MATH",
+        "prompt": "This term from statistics, which sounds like a medical condition, is the degree of peakedness of a distribution of values. A high level of this would produce a distribution curve with fat tails and a distinct peak. ",
+        "answer": "kurtosis",
+        "image": null,
+        "a_percent": "42",
+        "b_percent": "21",
+        "c_percent": "21",
+        "d_percent": "17",
+        "e_percent": "10",
+        "r_percent": "15"
+    },
+    "5": {
+        "category": "FOOD/DRINK",
+        "prompt": "What is the fine-textured long-grained rice, grown primarily in the outer Himalayas where it has been cultivated for centuries, whose name translates from Hindi as \"queen of fragrance\"?",
+        "answer": "basmati",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "87",
+        "c_percent": "82",
+        "d_percent": "70",
+        "e_percent": "61",
+        "r_percent": "66"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "Former members of the rock bands The Byrds, Buffalo Springfield, and The Hollies gained even greater success in the late 1960s and 1970s as members of what other influential band? ",
+        "answer": "crosby, stills & nash (& young)",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "78",
+        "c_percent": "65",
+        "d_percent": "51",
+        "e_percent": "28",
+        "r_percent": "51"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 71,
+    "day": 16,
+    "date": "December 8, 2016",
+    "1": {
+        "category": "FILM",
+        "prompt": "A 1986 film, whose plot is derived from a novella published in 1982 (as part of an anthology), takes its title from a song first released in 1961. What is that title?",
+        "answer": "stand by me",
+        "image": null,
+        "a_percent": "72",
+        "b_percent": "56",
+        "c_percent": "45",
+        "d_percent": "33",
+        "e_percent": "20",
+        "r_percent": "31"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "\"High Land\" is the English translation of the name of what midwestern U.S. city, describing its location on a plateau overlooking the Wabash River?",
+        "answer": "terre haute, indiana",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "80",
+        "c_percent": "67",
+        "d_percent": "50",
+        "e_percent": "32",
+        "r_percent": "47"
+    },
+    "3": {
+        "category": "LITERATURE",
+        "prompt": "Of the two great epic poems of India, the longer is the Mah\u0101bh\u0101rata. The shorter, composed in Sanskrit by the poet Valmiki and with 24,000 couplets divided into seven books is its modern form, has what name?",
+        "answer": "ramayana",
+        "image": null,
+        "a_percent": "51",
+        "b_percent": "36",
+        "c_percent": "21",
+        "d_percent": "14",
+        "e_percent": "8",
+        "r_percent": "16"
+    },
+    "4": {
+        "category": "AMER HIST",
+        "prompt": "What Scottish-born American detective and spy led an intelligence network for General George McClellan and served President Lincoln as head of what would be the precursor to the Secret Service? Later, his namesake National Detective Agency would battle the Molly Maguires and police other labor disputes (often controversially and violently).",
+        "answer": "allan pinkerton",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "85",
+        "c_percent": "78",
+        "d_percent": "63",
+        "e_percent": "39",
+        "r_percent": "55"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "Prince, Tron Carter, Negrodamus, Ashy Larry, and Rick James are among the characters (real and fictional) who appeared on what sketch comedy series?",
+        "answer": "chappelle's show",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "81",
+        "c_percent": "75",
+        "d_percent": "74",
+        "e_percent": "67",
+        "r_percent": "72"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "The object pictured here is among the regulation equipment produced for use in what game? ",
+        "answer": "tetherball",
+        "image": "/images/art/8775985nc0870.jpg",
+        "a_percent": "57",
+        "b_percent": "52",
+        "c_percent": "50",
+        "d_percent": "45",
+        "e_percent": "41",
+        "r_percent": "40"
+    }
+}

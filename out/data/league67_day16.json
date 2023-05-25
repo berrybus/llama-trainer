@@ -1,0 +1,77 @@
+{
+    "league": 67,
+    "day": 16,
+    "date": "December 4, 2015",
+    "1": {
+        "category": "WORLD HIST",
+        "prompt": "What man, the Soviet Union's powerful minister of foreign affairs from 1985 to 1991, became Georgia's head of state in 1992, and was elected the country's president in 1995, a position he would hold until the Rose Revolution of 2003?",
+        "answer": "eduard shevardnadze",
+        "image": null,
+        "a_percent": "60",
+        "b_percent": "46",
+        "c_percent": "31",
+        "d_percent": "17",
+        "e_percent": "8",
+        "r_percent": "14"
+    },
+    "2": {
+        "category": "TELEVISION",
+        "prompt": "Pictured here are the main characters from what television series? ",
+        "answer": "we bare bears",
+        "image": "/images/art/894y05cny0458930.jpg",
+        "a_percent": "24",
+        "b_percent": "16",
+        "c_percent": "8",
+        "d_percent": "7",
+        "e_percent": "5",
+        "r_percent": "12"
+    },
+    "3": {
+        "category": "POP MUSIC",
+        "prompt": "Steve Jones, Glen Matlock, and Paul Cook were original members of a rowdy and influential musical group founded in London in 1975. Name either of the band's other two official members (one an original member, the other Matlock's replacement on bass guitar). Note: looking for a band member, not the band name.",
+        "answer": "john lydon/johnny rotten, sid vicious",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "72",
+        "c_percent": "66",
+        "d_percent": "54",
+        "e_percent": "36",
+        "r_percent": "49"
+    },
+    "4": {
+        "category": "LIFESTYLE",
+        "prompt": "In Greek mythology, what is the name of either of the twin archers, themselves major Olympian deities, born to Zeus and the Titan Leto?",
+        "answer": "apollo, artemis",
+        "image": null,
+        "a_percent": "79",
+        "b_percent": "71",
+        "c_percent": "58",
+        "d_percent": "50",
+        "e_percent": "34",
+        "r_percent": "50"
+    },
+    "5": {
+        "category": "LITERATURE",
+        "prompt": "The 2004 novel The Namesake centers, in part, on the Bengali tradition of giving a child two names\u2014a bhaalo naam (formal name) and daak naam (pet name). The novel's author herself has a bhaalo naam of Nilanjana Sudeshna\u2014what is this Pulitzer-winner's daak naam (i.e. her common first name -- note that last name alone is not sufficient)?",
+        "answer": "jhumpa (lahiri)",
+        "image": null,
+        "a_percent": "45",
+        "b_percent": "35",
+        "c_percent": "32",
+        "d_percent": "26",
+        "e_percent": "18",
+        "r_percent": "25"
+    },
+    "6": {
+        "category": "CLASS MUSIC",
+        "prompt": "The use of the archaic British term colly, an adjective derived from coal and meaning \"black,\" has been replaced with a similar-sounding (but unsimilar-meaning) word in modern versions of what Christmas carol?",
+        "answer": "the twelve days of christmas",
+        "image": null,
+        "a_percent": "46",
+        "b_percent": "30",
+        "c_percent": "18",
+        "d_percent": "12",
+        "e_percent": "6",
+        "r_percent": "16"
+    }
+}

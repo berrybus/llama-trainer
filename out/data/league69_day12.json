@@ -1,0 +1,77 @@
+{
+    "league": 69,
+    "day": 12,
+    "date": "June 10, 2016",
+    "1": {
+        "category": "LITERATURE",
+        "prompt": "The 1966 Jean Rhys novel Wide Sargasso Sea tells the story of Antoinette \"Bertha\" Cosway's life prior to (and including) her mental descent in the attic of Thornfield Hall. The novel was written as a prequel to what other work?",
+        "answer": "jane eyre",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "58",
+        "c_percent": "47",
+        "d_percent": "36",
+        "e_percent": "24",
+        "r_percent": "42"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "Identify the Austrian physicist and philosopher of science who is the namesake of the quantity roughly equivalent, at sea level, to about 1,115 feet (340 meters) per second.",
+        "answer": "ernst mach",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "74",
+        "c_percent": "62",
+        "d_percent": "54",
+        "e_percent": "37",
+        "r_percent": "52"
+    },
+    "3": {
+        "category": "CLASS MUSIC",
+        "prompt": "What word links the title of a 1914 opera by Igor Stravinsky and the nickname of the nineteenth-century superstar Swedish soprano, Jenny Lind?",
+        "answer": "nightingale",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "42",
+        "c_percent": "32",
+        "d_percent": "19",
+        "e_percent": "8",
+        "r_percent": "22"
+    },
+    "4": {
+        "category": "FOOD/DRINK",
+        "prompt": "A distinctly American sandwich comprising an absurd number of layers of various meats, cheeses, vegetables, and condiments takes its name from that of what popular comic-strip character?",
+        "answer": "dagwood",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "86",
+        "c_percent": "80",
+        "d_percent": "68",
+        "e_percent": "54",
+        "r_percent": "65"
+    },
+    "5": {
+        "category": "GEOGRAPHY",
+        "prompt": "A tribe of Pueblo people in western New Mexico; a seaport city in southern Brazil; a Philippine province on the island of Luzon; a dam across the Colorado River near Yuma, Arizona; and a beach in Orange County, California, all share what name?",
+        "answer": "laguna",
+        "image": null,
+        "a_percent": "52",
+        "b_percent": "36",
+        "c_percent": "31",
+        "d_percent": "24",
+        "e_percent": "18",
+        "r_percent": "25"
+    },
+    "6": {
+        "category": "FILM",
+        "prompt": "A specially constructed 98' x 185' x 40' sound stage, which included thirty-one apartments (twelve of which were fully furnished), comprised the set on which the entirety of what 1954 film was shot?",
+        "answer": "rear window",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "74",
+        "c_percent": "66",
+        "d_percent": "57",
+        "e_percent": "42",
+        "r_percent": "53"
+    }
+}

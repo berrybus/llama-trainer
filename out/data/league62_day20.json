@@ -1,0 +1,77 @@
+{
+    "league": 62,
+    "day": 20,
+    "date": "September 15, 2014",
+    "1": {
+        "category": "FOOD/DRINK",
+        "prompt": "La Marzocco, Rancilio, Nuova Simonelli, and La Spaziale are among the leading manufacturers of machines used to produce what?",
+        "answer": "espresso",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "49",
+        "c_percent": "44",
+        "d_percent": "37",
+        "e_percent": "31",
+        "r_percent": "38"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "In mammals, the skeleton of what organ is formed by nine cartilages, including the thyroid cartilage, the arytenoid cartilages, and the epiglottis?",
+        "answer": "larynx",
+        "image": null,
+        "a_percent": "56",
+        "b_percent": "42",
+        "c_percent": "31",
+        "d_percent": "23",
+        "e_percent": "16",
+        "r_percent": "28"
+    },
+    "3": {
+        "category": "GAMES/SPORT",
+        "prompt": "In standard elite competitions of artistic gymnastics, men compete on six events, whereas women compete on four. Which two events/apparatus are shared by both men and women (i.e., components of both competitions)?",
+        "answer": "floor exercise, vault",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "59",
+        "c_percent": "59",
+        "d_percent": "50",
+        "e_percent": "41",
+        "r_percent": "48"
+    },
+    "4": {
+        "category": "LITERATURE",
+        "prompt": "A literary collection known as the Lunyu, believed to have been written during what is now known as the Warring States period, is a compilation of analects by whom?",
+        "answer": "confucius",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "75",
+        "c_percent": "73",
+        "d_percent": "57",
+        "e_percent": "39",
+        "r_percent": "60"
+    },
+    "5": {
+        "category": "WORLD HIST",
+        "prompt": "This temple, built in the 12th century by King Suryavarman II as a dedication to the Hindu god Vishnu, remains the largest religious building in the world.",
+        "answer": "angkor wat",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "66",
+        "c_percent": "58",
+        "d_percent": "42",
+        "e_percent": "27",
+        "r_percent": "39"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "The video for the song excerpted here, a remake of a 1966 hit by The Young Rascals, was the second ever broadcast on MTV on August 1, 1981. Identify the song. (16 seconds) ",
+        "answer": "you better run",
+        "image": "/images/art/78765499c87n4.mp3",
+        "a_percent": "46",
+        "b_percent": "27",
+        "c_percent": "20",
+        "d_percent": "14",
+        "e_percent": "11",
+        "r_percent": "14"
+    }
+}

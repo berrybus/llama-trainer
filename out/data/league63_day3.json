@@ -1,0 +1,77 @@
+{
+    "league": 63,
+    "day": 3,
+    "date": "November 12, 2014",
+    "1": {
+        "category": "WORLD HIST",
+        "prompt": "A failed coup d'etat (or putsch) led by Adolf Hitler in November, 1923, in Munich, led to the banning of the Nazi Party and his 264-day encarceration at Landsberg Prison, where he wrote Mein Kampf. This unsuccessful overthrow is known today by a name which references the type of business where it was launched\u2014what is that type of business?",
+        "answer": "beer hall",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "82",
+        "c_percent": "77",
+        "d_percent": "58",
+        "e_percent": "34",
+        "r_percent": "60"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "The three main stars of the 1979 film The China Syndrome all won Academy Awards for leading roles in other films, four times among the three. Name any one of these four other films (not actors).",
+        "answer": "klute, save the tiger, coming home, wall street",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "48",
+        "c_percent": "35",
+        "d_percent": "24",
+        "e_percent": "14",
+        "r_percent": "22"
+    },
+    "3": {
+        "category": "GAMES/SPORT",
+        "prompt": "The uniform number of basketball Hall-of-Famer David Robinson, when expressed in hexadecimal, becomes the uniform number of basketball Hall-of-Famer Magic Johnson. Please provide both numbers.",
+        "answer": "50, 32",
+        "image": null,
+        "a_percent": "59",
+        "b_percent": "42",
+        "c_percent": "33",
+        "d_percent": "24",
+        "e_percent": "19",
+        "r_percent": "22"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "Red blood cells are produced in adult mammals through a process called hematopoiesis, which occurs mainly in what specific part of the body?",
+        "answer": "bone marrow",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "67",
+        "c_percent": "62",
+        "d_percent": "54",
+        "e_percent": "44",
+        "r_percent": "54"
+    },
+    "5": {
+        "category": "LITERATURE",
+        "prompt": "The Lightning Thief, The Sea of Monsters, The Titan's Curse, The Battle of the Labyrinth, and The Last Olympian are books in the young-adult series which features (and is named after) what main character, with the Olympians?",
+        "answer": "percy jackson",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "79",
+        "c_percent": "79",
+        "d_percent": "70",
+        "e_percent": "58",
+        "r_percent": "65"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "Wild, sweet, and pot are the three most familiar types of what herb (pictured)? The \"sweet\" type is most popular in Mediterranean cuisine, while the \"wild\" type is more commonly known as oregano. ",
+        "answer": "marjoram",
+        "image": "/images/art/8y0948yn38904yn230.jpg",
+        "a_percent": "41",
+        "b_percent": "22",
+        "c_percent": "21",
+        "d_percent": "12",
+        "e_percent": "8",
+        "r_percent": "10"
+    }
+}

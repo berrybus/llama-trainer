@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 6,
+    "date": "February 25, 2014",
+    "1": {
+        "category": "SCIENCE",
+        "prompt": "The evergreen oak tree quercus suber, native to southwest Europe and northwest Africa, is the world's primary source for what common water-resistant material?",
+        "answer": "cork",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "56",
+        "c_percent": "48",
+        "d_percent": "31",
+        "e_percent": "18",
+        "r_percent": "33"
+    },
+    "2": {
+        "category": "LITERATURE",
+        "prompt": "Grave Descend, Odds On, Drug of Choice, and Easy Go were among the paperback suspense thrillers written by what prolific American novelist (and filmmaker and television producer), under the pen name of John Lange, while a student at Harvard Medical School in the late 1960s?",
+        "answer": "michael crichton",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "72",
+        "c_percent": "68",
+        "d_percent": "55",
+        "e_percent": "36",
+        "r_percent": "48"
+    },
+    "3": {
+        "category": "ART",
+        "prompt": "Identify this Trojan priest, shown here agonizing with his sons. ",
+        "answer": "laoco\u00f6n",
+        "image": "/images/art/5786j956d4896.jpg",
+        "a_percent": "55",
+        "b_percent": "41",
+        "c_percent": "31",
+        "d_percent": "20",
+        "e_percent": "7",
+        "r_percent": "18"
+    },
+    "4": {
+        "category": "FILM",
+        "prompt": "Delbert Mann won the 1955 Oscar for Best Director for Marty, his film debut, and Jerome Robbins repeated the feat for 1961's West Side Story. Since then, four additional men have won Best Director Oscars for their film directing debuts -- name any one of the four.",
+        "answer": "robert redford, james l. brooks, kevin costner, sam mendes",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "55",
+        "c_percent": "40",
+        "d_percent": "29",
+        "e_percent": "17",
+        "r_percent": "32"
+    },
+    "5": {
+        "category": "LANGUAGE",
+        "prompt": "Cleave is a word in English, known as an auto-antonym, with two synonyms which are themselves antonyms (\"adhere\" and \"separate\"). What other such word is an auto-antonym that can mean \"garnish\" or \"prune\"?",
+        "answer": "trim or top",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "75",
+        "c_percent": "75",
+        "d_percent": "71",
+        "e_percent": "59",
+        "r_percent": "65"
+    },
+    "6": {
+        "category": "WORLD HIST",
+        "prompt": "The first formal arms control accord established during the Cold War was a treaty entered into force in 1961, prohibiting military activity, mineral mining, nuclear explosions and disposal of nuclear material, as well as supporting scientific research and environmental protections, where?",
+        "answer": "antarctica",
+        "image": null,
+        "a_percent": "64",
+        "b_percent": "57",
+        "c_percent": "51",
+        "d_percent": "39",
+        "e_percent": "22",
+        "r_percent": "37"
+    }
+}

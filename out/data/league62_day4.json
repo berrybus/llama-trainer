@@ -1,0 +1,77 @@
+{
+    "league": 62,
+    "day": 4,
+    "date": "August 21, 2014",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "This island was first explored by the Portuguese in the 16th century, controlled by the French in the 18th century, and granted independence from the British in 1968, but it was the Dutch who initially settled the island, named it, and killed all the dodos. ",
+        "answer": "mauritius",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "50",
+        "c_percent": "46",
+        "d_percent": "22",
+        "e_percent": "11",
+        "r_percent": "28"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "A former vassal defeated rival commanders in 1600 and established a shogunate that initiated a period of two and a half centuries of internal stability in Japan. What was the name of this shogun (and his namesake shogunate)?",
+        "answer": "tokugawa ieyasu",
+        "image": null,
+        "a_percent": "54",
+        "b_percent": "45",
+        "c_percent": "41",
+        "d_percent": "21",
+        "e_percent": "13",
+        "r_percent": "25"
+    },
+    "3": {
+        "category": "THEATRE",
+        "prompt": "This multi-talented Broadway star is the only person to win Tony Awards in the same categories in consecutive years  (Best Choreography and Best Direction of a Musical in 1990-91, for Grand Hotel and The Will Rogers Follies), and the first to win in four different categories (the aforementioned plus featured actor and leading actor). ",
+        "answer": "tommy tune",
+        "image": null,
+        "a_percent": "43",
+        "b_percent": "32",
+        "c_percent": "20",
+        "d_percent": "16",
+        "e_percent": "8",
+        "r_percent": "15"
+    },
+    "4": {
+        "category": "FOOD/DRINK",
+        "prompt": "Robert \"Rosebud\" Butt, a bartender at the Oak Beach Inn in Suffolk County, New York, near Jones Beach, is credited with inventing what alcoholic drink, during a contest to create a new mixed drink which includes Triple Sec?",
+        "answer": "long island iced tea",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "66",
+        "c_percent": "59",
+        "d_percent": "54",
+        "e_percent": "44",
+        "r_percent": "53"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "\"Come with me if you want to live\" is a famous line, probably the second-most famous line (certainly not the first), from what 1984 film?",
+        "answer": "the terminator",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "85",
+        "c_percent": "86",
+        "d_percent": "79",
+        "e_percent": "72",
+        "r_percent": "79"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "Uncas, also referrred to as Le Cerf Agile, is the title character of what historical novel from 1826?",
+        "answer": "the last of the mohicans",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "64",
+        "c_percent": "51",
+        "d_percent": "34",
+        "e_percent": "16",
+        "r_percent": "28"
+    }
+}

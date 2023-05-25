@@ -1,0 +1,77 @@
+{
+    "league": 65,
+    "day": 17,
+    "date": "June 10, 2015",
+    "1": {
+        "category": "CURR EVENTS",
+        "prompt": "While there were a small number of fatalities in numerous countries, including the United States, the vast majority of victims in the 2014 Ebola outbreak in West Africa occurred in three countries. Name any one of these three countries. ",
+        "answer": "guinea, liberia, sierra leone",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "88",
+        "c_percent": "86",
+        "d_percent": "79",
+        "e_percent": "67",
+        "r_percent": "77"
+    },
+    "2": {
+        "category": "AMER HIST",
+        "prompt": "Political adviser, U.S. Air Force veteran, and civil rights figure James Howard Meredith is a 1963 graduate of what university?",
+        "answer": "university of mississippi",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "51",
+        "c_percent": "38",
+        "d_percent": "30",
+        "e_percent": "14",
+        "r_percent": "26"
+    },
+    "3": {
+        "category": "CLASS MUSIC",
+        "prompt": "Pictured here is the chorus to what song (lyrics redacted), written in 1908 and first performed in the manner most associated with the song in the early 1930s? ",
+        "answer": "take me out to the ball game",
+        "image": "/images/art/5098cy095ny80n6.jpg",
+        "a_percent": "69",
+        "b_percent": "63",
+        "c_percent": "59",
+        "d_percent": "54",
+        "e_percent": "49",
+        "r_percent": "51"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "The 1884 Treaty of Valparaiso, at the end of the four-year War of the Pacific, resulted in the complete loss of sea coastline for what country, which has remained landlocked ever since?",
+        "answer": "bolivia",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "67",
+        "c_percent": "59",
+        "d_percent": "42",
+        "e_percent": "24",
+        "r_percent": "45"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "Name the 1994 film whose plot is constructed in four segments, three of which are titled \"The Gold Watch,\" \"The Bonnie Situation,\" and \"The Diner.\"",
+        "answer": "pulp fiction",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "87",
+        "c_percent": "84",
+        "d_percent": "85",
+        "e_percent": "75",
+        "r_percent": "77"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "The name of Boris Badenov, a Pottsylvanian villain in the Rocky and Bullwinkle cartoons of the 1960s, is a play on that of a tsar who was title character of an 1831 play and an 1873 opera. Identify the author/composer of either work.",
+        "answer": "aleksandr pushkin, modest mussorgsky",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "53",
+        "c_percent": "38",
+        "d_percent": "19",
+        "e_percent": "6",
+        "r_percent": "21"
+    }
+}

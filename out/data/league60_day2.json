@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 2,
+    "date": "February 19, 2014",
+    "1": {
+        "category": "LIFESTYLE",
+        "prompt": "In the Bible, this angel appears to the prophet Daniel, interpreting his visions, and to Mary, annunciating the conception and birth of Jesus. In Islam, he visited Muhammad and delivered the prophet's first divine revelation (sura 96 of the Quran).",
+        "answer": "gabriel",
+        "image": null,
+        "a_percent": "96",
+        "b_percent": "94",
+        "c_percent": "91",
+        "d_percent": "87",
+        "e_percent": "75",
+        "r_percent": "86"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "Give the most common name for the scientific instrument pictured here. ",
+        "answer": "geiger counter",
+        "image": "/images/art/984y0598340598d304n.jpg",
+        "a_percent": "90",
+        "b_percent": "84",
+        "c_percent": "80",
+        "d_percent": "74",
+        "e_percent": "60",
+        "r_percent": "67"
+    },
+    "3": {
+        "category": "POP MUSIC",
+        "prompt": "After the suicide of lead singer Ian Curtis, the members of the English rock band Joy Division re-formed to create what other influential band?",
+        "answer": "new order",
+        "image": null,
+        "a_percent": "73",
+        "b_percent": "60",
+        "c_percent": "58",
+        "d_percent": "43",
+        "e_percent": "25",
+        "r_percent": "36"
+    },
+    "4": {
+        "category": "CLASS MUSIC",
+        "prompt": "The traditional baroque suite might begin with a French ouverture, normally followed by four core dances, originating from Germany, France, Spain, and Britain/Ireland, respectively (other galanteries were also common, following the third movement). Name any one of these four core suite movements.",
+        "answer": "allemande, courante, sarabande, gigue",
+        "image": null,
+        "a_percent": "39",
+        "b_percent": "21",
+        "c_percent": "19",
+        "d_percent": "11",
+        "e_percent": "5",
+        "r_percent": "8"
+    },
+    "5": {
+        "category": "WORLD HIST",
+        "prompt": "In January of 1943, shortly before the retreat of German forces from Stalingrad, Allied leaders (notably minus Joseph Stalin) met to discuss matters of diplomacy, resource allocation, and war tactics -- and, of greatest historical significance, to declare the Allied demand of \"unconditional surrender.\" This conference took place in what city, which already had a separate, unrelated association to WWII?",
+        "answer": "casablanca",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "47",
+        "c_percent": "31",
+        "d_percent": "19",
+        "e_percent": "6",
+        "r_percent": "19"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "In Major League Baseball, from 1991 to 1998, six of the eight National League Cy Young Awards were bestowed among three members of which team (a seventh was awarded to one of those three while playing for another team)?",
+        "answer": "atlanta braves",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "73",
+        "c_percent": "72",
+        "d_percent": "65",
+        "e_percent": "53",
+        "r_percent": "58"
+    }
+}

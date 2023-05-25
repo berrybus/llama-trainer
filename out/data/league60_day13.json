@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 13,
+    "date": "March 6, 2014",
+    "1": {
+        "category": "BUS/ECON",
+        "prompt": "In finance, a measure of financial performance calculated as a change in operational monetary balance (over a given period), minus capital expenditures, is often abbreviated FCF. What do the letters in FCF stand for?",
+        "answer": "free cash flow",
+        "image": null,
+        "a_percent": "56",
+        "b_percent": "42",
+        "c_percent": "34",
+        "d_percent": "33",
+        "e_percent": "19",
+        "r_percent": "30"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "There are seven base units defined by the International System of Units (SI), through which all other SI units are derived. Which of the seven units measures the amount of a substance? Specifically, it is defined as the amount of substance of a system which contains as many elementary units as there are atoms in 0.012 kg of carbon-12.",
+        "answer": "mole",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "70",
+        "c_percent": "72",
+        "d_percent": "56",
+        "e_percent": "39",
+        "r_percent": "51"
+    },
+    "3": {
+        "category": "FILM",
+        "prompt": "The following are quotes from what film? \"Ooooh, I wish I were you! Gosh, to be able to smell your own ear!\"; \"It must wonderful to wake up in the morning and smell the coffee... in Brazil!\"; \"Uh, would you mind not bobbing your head? The, uh, orchestra keeps changing tempo.\"",
+        "answer": "roxanne",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "62",
+        "c_percent": "51",
+        "d_percent": "40",
+        "e_percent": "28",
+        "r_percent": "40"
+    },
+    "4": {
+        "category": "AMER HIST",
+        "prompt": "The Continental Army cavalry officer nicknamed \"Light-Horse Harry\"  was decorated for his actions during the American Revolution, and later served as Governor of Virginia, and U.S. Congressman. Despite all that, he's perhaps even better known today as the father of whom?",
+        "answer": "robert e. lee",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "73",
+        "c_percent": "58",
+        "d_percent": "46",
+        "e_percent": "22",
+        "r_percent": "43"
+    },
+    "5": {
+        "category": "ART",
+        "prompt": "This stone slab, currently on display in The Louvre, is associated with what Babylonian king? ",
+        "answer": "hammurabi",
+        "image": "/images/art/845nc04895703498c57.jpg",
+        "a_percent": "89",
+        "b_percent": "76",
+        "c_percent": "66",
+        "d_percent": "57",
+        "e_percent": "36",
+        "r_percent": "55"
+    },
+    "6": {
+        "category": "THEATRE",
+        "prompt": "In the form of classical Japanese dance theatre known as Noh, the only ornamentation on the stage is the kagami-ita, which is a particular object painted on the wood wall at the back of the rear stage area. What is this object? ",
+        "answer": "pine tree",
+        "image": null,
+        "a_percent": "48",
+        "b_percent": "33",
+        "c_percent": "22",
+        "d_percent": "23",
+        "e_percent": "15",
+        "r_percent": "25"
+    }
+}

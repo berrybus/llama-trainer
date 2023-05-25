@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 20,
+    "date": "September 22, 2016",
+    "1": {
+        "category": "WORLD HIST",
+        "prompt": "The group of territories known collectively by the formal names Union indochinoise or F\u00e9d\u00e9ration indochinoise consisted primarily of land area now within what three countries?",
+        "answer": "cambodia, laos, vietnam",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "86",
+        "c_percent": "80",
+        "d_percent": "66",
+        "e_percent": "43",
+        "r_percent": "58"
+    },
+    "2": {
+        "category": "LITERATURE",
+        "prompt": "Name the manga series, about an android child developed by a Japanese roboticist to replace the scientist's lost son, that is the most famous and enduring work of \"father of manga\" Osamu Tezuka?",
+        "answer": "astro boy (mighty atom)",
+        "image": null,
+        "a_percent": "47",
+        "b_percent": "33",
+        "c_percent": "29",
+        "d_percent": "22",
+        "e_percent": "17",
+        "r_percent": "23"
+    },
+    "3": {
+        "category": "BUS/ECON",
+        "prompt": "In 1997, regional Bell operating company Bell Atlantic merged with fellow \"Baby Bell\" NYNEX, then merged, in 2000, with the independent telephone company GTE. At that point, this new entity was renamed what?",
+        "answer": "verizon communications",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "73",
+        "c_percent": "61",
+        "d_percent": "53",
+        "e_percent": "36",
+        "r_percent": "49"
+    },
+    "4": {
+        "category": "THEATRE",
+        "prompt": "What is the name of the boastful, unscrupulous, and unreliable servant who is a stock clown character from the Italian commedia dell'arte (and the \"Bohemian Rhapsody\")?",
+        "answer": "scaramouche",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "65",
+        "c_percent": "58",
+        "d_percent": "46",
+        "e_percent": "26",
+        "r_percent": "38"
+    },
+    "5": {
+        "category": "GAMES/SPORT",
+        "prompt": "The Boston Marathon is held annually on a state holiday with what name, which might be distasteful to followers of Jets, Colts, and others?",
+        "answer": "patriots' day",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "95",
+        "c_percent": "92",
+        "d_percent": "90",
+        "e_percent": "80",
+        "r_percent": "84"
+    },
+    "6": {
+        "category": "LANGUAGE",
+        "prompt": "Derived from the Latin word for \"rope\" is what term for a counterbalanced two-car cable railway used on steep grades like mountainsides? Pictured here is an example, the Saltburn Cliff Lift in North Yorkshire, England. ",
+        "answer": "funicular",
+        "image": "/images/art/8o98dy4jo58973y9.jpg",
+        "a_percent": "82",
+        "b_percent": "72",
+        "c_percent": "67",
+        "d_percent": "52",
+        "e_percent": "33",
+        "r_percent": "46"
+    }
+}

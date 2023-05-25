@@ -1,0 +1,77 @@
+{
+    "league": 65,
+    "day": 21,
+    "date": "June 16, 2015",
+    "1": {
+        "category": "AMER HIST",
+        "prompt": "Of the eight battleships damaged during the December 7, 1941, attack on the U.S. naval base at Pearl Harbor, four were sunk, and one was never raised, her wreckage still lying today at the bottom of the harbor. What is the name of that ship, where 1,177 officers and crewmen were killed?",
+        "answer": "uss arizona",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "83",
+        "c_percent": "78",
+        "d_percent": "68",
+        "e_percent": "55",
+        "r_percent": "67"
+    },
+    "2": {
+        "category": "FOOD/DRINK",
+        "prompt": "Name the sweetmeat confection, a specialty of southeastern France (where it is one of the traditional Provencal \"thirteen Christmas desserts\"), whose original ancient Roman recipe was based on honey, walnuts, and eggs. Its modern mass-produced version, such as in ZERO candy bars and Salted Nut Rolls, is rather different.",
+        "answer": "nougat",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "74",
+        "c_percent": "75",
+        "d_percent": "63",
+        "e_percent": "55",
+        "r_percent": "62"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "Mitochondria, chloroplasts, lysosomes, ribosomes, and nuclei are examples of discrete and specialized functional structures within living cells, structures that are best known by what biological term?",
+        "answer": "organelles",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "66",
+        "c_percent": "60",
+        "d_percent": "47",
+        "e_percent": "33",
+        "r_percent": "50"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "The South China city of Guangzhou, the country's third-most-populous city and the economic and manufacturing hub of the Pearl River Delta, has for much of its history been known by what Romanized name, which is still somewhat common (particularly in its adjectival form)?",
+        "answer": "canton",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "72",
+        "c_percent": "61",
+        "d_percent": "43",
+        "e_percent": "21",
+        "r_percent": "42"
+    },
+    "5": {
+        "category": "THEATRE",
+        "prompt": "In the semi-autobiographical Eugene Trilogy, whose three plays premiered on Broadway in the mid-1980s, the central character, Eugene Jerome is the alter-ego of what playwright?",
+        "answer": "neil simon",
+        "image": null,
+        "a_percent": "69",
+        "b_percent": "52",
+        "c_percent": "44",
+        "d_percent": "32",
+        "e_percent": "19",
+        "r_percent": "29"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "A jazz supergroup of sorts, which included saxophonist Branford Marsalis, Weather Report drummer Omar Hakim, prolific session bassist Darryl Jones, and classical jazz keyboardist Kenny Kirkland, was assembled as the studio and touring band for the smash 1985 debut solo album by what pop and rock superstar?",
+        "answer": "sting",
+        "image": null,
+        "a_percent": "57",
+        "b_percent": "39",
+        "c_percent": "33",
+        "d_percent": "26",
+        "e_percent": "16",
+        "r_percent": "28"
+    }
+}

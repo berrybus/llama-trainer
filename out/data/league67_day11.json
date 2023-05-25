@@ -1,0 +1,77 @@
+{
+    "league": 67,
+    "day": 11,
+    "date": "November 24, 2015",
+    "1": {
+        "category": "GAMES/SPORT",
+        "prompt": "Evolve, Call of Duty: Black Ops III, Battlefield Hardline, and Halo 5: Guardians are examples of popular FPS video games released in 2015. What do the letters in FPS stand for, most typically?",
+        "answer": "first person shooter",
+        "image": null,
+        "a_percent": "95",
+        "b_percent": "92",
+        "c_percent": "91",
+        "d_percent": "88",
+        "e_percent": "82",
+        "r_percent": "86"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "The collection of mud hovels that in Roman times was known as Lutetia (possibly from the Latin lutum, \"mud\") became the Merovingian capital of Clovis I, and is today known by what name?",
+        "answer": "paris",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "71",
+        "c_percent": "60",
+        "d_percent": "44",
+        "e_percent": "21",
+        "r_percent": "40"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "The 1997 animated short film Larry & Steve, about a middle-aged doofus and his intellectual talking dog, along with its predecessor The Life of Larry, led directly to the development of what TV sitcom?",
+        "answer": "family guy",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "85",
+        "c_percent": "84",
+        "d_percent": "77",
+        "e_percent": "71",
+        "r_percent": "76"
+    },
+    "4": {
+        "category": "ART",
+        "prompt": "Identify the artist in this montage of her works. ",
+        "answer": "marina abramovi\u0107",
+        "image": "/images/art/4985yu0c98y50n8.jpg",
+        "a_percent": "37",
+        "b_percent": "32",
+        "c_percent": "27",
+        "d_percent": "24",
+        "e_percent": "17",
+        "r_percent": "21"
+    },
+    "5": {
+        "category": "GEOGRAPHY",
+        "prompt": "As measured by land area, which US state is the fourth-largest?",
+        "answer": "montana",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "80",
+        "c_percent": "72",
+        "d_percent": "66",
+        "e_percent": "56",
+        "r_percent": "65"
+    },
+    "6": {
+        "category": "THEATRE",
+        "prompt": "Cinderella and her Prince, Little Red Riding Hood and the Wolf, Jack the Giant Killer, Rapunzel, Sleeping Beauty, and Snow White are among the characters in what popular and frequently produced musical that debuted on Broadway in November 1987?",
+        "answer": "into the woods",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "84",
+        "c_percent": "78",
+        "d_percent": "70",
+        "e_percent": "59",
+        "r_percent": "68"
+    }
+}

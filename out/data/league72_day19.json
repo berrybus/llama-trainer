@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 19,
+    "date": "March 17, 2017",
+    "1": {
+        "category": "MATH",
+        "prompt": "What number fills the fifth and final blank in this sequence of triangle numbers? 0, 1, 3, 6, ___, ___, ___, ___, ___.",
+        "answer": "36",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "73",
+        "c_percent": "67",
+        "d_percent": "65",
+        "e_percent": "59",
+        "r_percent": "70"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "Venezuela was, in September 1960, among the five founding members of what intergovernmental economic association?",
+        "answer": "organization of the petroleum exporting countries (opec)",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "79",
+        "c_percent": "75",
+        "d_percent": "63",
+        "e_percent": "49",
+        "r_percent": "62"
+    },
+    "3": {
+        "category": "GAMES/SPORT",
+        "prompt": "All Fives, Bergen, Blind Hughie, Cyprus, and Matador are all games using what gaming implement?",
+        "answer": "dominoes",
+        "image": null,
+        "a_percent": "43",
+        "b_percent": "27",
+        "c_percent": "16",
+        "d_percent": "13",
+        "e_percent": "7",
+        "r_percent": "18"
+    },
+    "4": {
+        "category": "CLASS MUSIC",
+        "prompt": "George Balanchine, Igor Stravinsky, Claude Debussy, Vaslav Nijinsky, L\u00e9onid Massine, and Sergei Prokofiev were among the many proteges of what Russian dance impresario and titan of Western ballet?",
+        "answer": "sergei diaghilev",
+        "image": null,
+        "a_percent": "41",
+        "b_percent": "23",
+        "c_percent": "15",
+        "d_percent": "8",
+        "e_percent": "3",
+        "r_percent": "10"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "The opening scene of a television drama series shows its main character stating into the camera, \"There are two kinds of pain. The sort of pain that makes you strong. Or useless pain. The sort of pain that's only suffering. I have no patience for useless things. Moments like this require someone who will act. To do the unpleasant thing.\" He says this as he calmly strangles a dog that has just been hit by a car, foreshadowing behavior and an attitude that would continue through four seasons (so far). What is the series?",
+        "answer": "house of cards",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "61",
+        "c_percent": "52",
+        "d_percent": "48",
+        "e_percent": "46",
+        "r_percent": "52"
+    },
+    "6": {
+        "category": "LIFESTYLE",
+        "prompt": "What is the legal term for the order by a judge that demands that a prisoner be brought before the court to determine the legality of the imprisonment?",
+        "answer": "habeas corpus",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "79",
+        "c_percent": "78",
+        "d_percent": "66",
+        "e_percent": "49",
+        "r_percent": "60"
+    }
+}

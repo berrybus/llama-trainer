@@ -1,0 +1,77 @@
+{
+    "league": 65,
+    "day": 14,
+    "date": "June 5, 2015",
+    "1": {
+        "category": "SCIENCE",
+        "prompt": "What is the name for the branch of physics that deals with the transformation of heat into, and from, other forms of energy? The term, first used by Lord Kelvin in the mid-19th c.,  is derived in part from the Greek for \"heat.\"",
+        "answer": "thermodynamics",
+        "image": null,
+        "a_percent": "95",
+        "b_percent": "95",
+        "c_percent": "89",
+        "d_percent": "87",
+        "e_percent": "80",
+        "r_percent": "86"
+    },
+    "2": {
+        "category": "GAMES/SPORT",
+        "prompt": "Everton F.C., which has competed in the top division of English soccer for a record 110 seasons (and continuously since 1954), has, since 1892, played its home fixtures at Goodison Park, which is located in what city?",
+        "answer": "liverpool",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "56",
+        "c_percent": "46",
+        "d_percent": "39",
+        "e_percent": "29",
+        "r_percent": "41"
+    },
+    "3": {
+        "category": "FOOD/DRINK",
+        "prompt": "What is the most common Japanese name for the item the youngster is holding in this photo? ",
+        "answer": "nori",
+        "image": "/images/art/4098yy50x9n48y5.jpg",
+        "a_percent": "79",
+        "b_percent": "68",
+        "c_percent": "66",
+        "d_percent": "54",
+        "e_percent": "47",
+        "r_percent": "55"
+    },
+    "4": {
+        "category": "ART",
+        "prompt": "In October 1990, a jury famously acquitted Dennis Barrie, director of the Contemporary Arts Center in Cincinnati, of obscenity charges stemming from an exhibition of pictures by what American photographer?",
+        "answer": "robert mapplethorpe",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "70",
+        "c_percent": "62",
+        "d_percent": "49",
+        "e_percent": "30",
+        "r_percent": "44"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "Willow Rosenberg, Tabitha Stephens, and sisters Prue, Piper, and Phoebe Halliwell were all TV characters who were most distinctive for being what?",
+        "answer": "witches",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "90",
+        "c_percent": "90",
+        "d_percent": "83",
+        "e_percent": "77",
+        "r_percent": "83"
+    },
+    "6": {
+        "category": "LANGUAGE",
+        "prompt": "The Russian phrase Do svidaniya translates idiomatically to what in English?",
+        "answer": "goodbye",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "72",
+        "c_percent": "66",
+        "d_percent": "54",
+        "e_percent": "41",
+        "r_percent": "54"
+    }
+}

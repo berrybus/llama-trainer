@@ -1,0 +1,77 @@
+{
+    "league": 66,
+    "day": 25,
+    "date": "September 24, 2015",
+    "1": {
+        "category": "GAMES/SPORT",
+        "prompt": "Identify this athlete. ",
+        "answer": "carli lloyd",
+        "image": "/images/art/8n8n9ny98n8yn.jpg",
+        "a_percent": "60",
+        "b_percent": "44",
+        "c_percent": "43",
+        "d_percent": "34",
+        "e_percent": "29",
+        "r_percent": "38"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "With some astronomical exceptions, photon radiation emitted by electrons outside the nucleus is, by definition and common practice, x-rays. Alternately, radiation produced by a nuclear reaction, subatomic particle decay, or radioactive decay within the nucleus is, in this convention, best known as what?",
+        "answer": "gamma rays",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "80",
+        "c_percent": "78",
+        "d_percent": "74",
+        "e_percent": "67",
+        "r_percent": "70"
+    },
+    "3": {
+        "category": "CURR EVENTS",
+        "prompt": "At the time this photograph was taken, the individuals in it constituted the complete set of people who shared what distinction? ",
+        "answer": "female united states senators",
+        "image": "/images/art/4u5y9c8y40958n.jpg",
+        "a_percent": "79",
+        "b_percent": "70",
+        "c_percent": "67",
+        "d_percent": "63",
+        "e_percent": "48",
+        "r_percent": "55"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "Identify the country highlighted in red on this map. ",
+        "answer": "azerbaijan",
+        "image": "/images/art/7ync94875n987.jpg",
+        "a_percent": "82",
+        "b_percent": "72",
+        "c_percent": "62",
+        "d_percent": "46",
+        "e_percent": "28",
+        "r_percent": "46"
+    },
+    "5": {
+        "category": "POP MUSIC",
+        "prompt": "Branford and Wynton Marsalis, Keith Jarrett, Wayne Shorter, Chuck Mangione, Benny Golson, and Woody Shaw are among the many successful alumni of a group known as The Jazz Messengers, which for its over three decades of existence was led by what drummer and bandleader?",
+        "answer": "art blakey",
+        "image": null,
+        "a_percent": "37",
+        "b_percent": "25",
+        "c_percent": "18",
+        "d_percent": "11",
+        "e_percent": "7",
+        "r_percent": "15"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "Which is the only Shakespeare play whose title contains an English place name?",
+        "answer": "the merry wives of windsor",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "86",
+        "c_percent": "70",
+        "d_percent": "60",
+        "e_percent": "40",
+        "r_percent": "53"
+    }
+}

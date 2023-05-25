@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 25,
+    "date": "March 24, 2014",
+    "1": {
+        "category": "SCIENCE",
+        "prompt": "In two different places in this image, a prefix is obscured by a red box. What is the prefix, from Greek for turn, that is obscured in both places (note: one answer only)? ",
+        "answer": "tropo",
+        "image": "/images/art/839y40x983y0498y3.jpg",
+        "a_percent": "89",
+        "b_percent": "73",
+        "c_percent": "74",
+        "d_percent": "57",
+        "e_percent": "33",
+        "r_percent": "51"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "What nickname, used previously and subsequently for unrelated items, was during World War I associated with a 420mm howitzer manufactured by armaments supplier Krupp for the German Imperial Army? At the time, it was the world's largest and most powerful artillery.",
+        "answer": "big bertha",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "71",
+        "c_percent": "65",
+        "d_percent": "52",
+        "e_percent": "25",
+        "r_percent": "46"
+    },
+    "3": {
+        "category": "FILM",
+        "prompt": "The 1984 made-for-TV movie Solomon Northup's Odyssey, starring Avery Brooks, was based on material that also provided the source for what theatrical film?",
+        "answer": "12 years a slave",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "80",
+        "c_percent": "67",
+        "d_percent": "50",
+        "e_percent": "34",
+        "r_percent": "56"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "While Frenchmen have won cycling's Tour de France 36 times, racers representing what other country have won it only twice -- but the most recent two, in 2012 and 2013? ",
+        "answer": "united kingdom",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "50",
+        "c_percent": "40",
+        "d_percent": "34",
+        "e_percent": "24",
+        "r_percent": "39"
+    },
+    "5": {
+        "category": "GEOGRAPHY",
+        "prompt": "List the five Great Lakes (the interconnected Laurentian Great Lakes of North America), in order, from smallest to largest, as measured by area.",
+        "answer": "ontario, erie, michigan, huron, superior",
+        "image": null,
+        "a_percent": "49",
+        "b_percent": "32",
+        "c_percent": "25",
+        "d_percent": "15",
+        "e_percent": "5",
+        "r_percent": "16"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "While the name for this popular Mediterranean dish is derived from Arabic for \"chilled,\" in Greek cuisine it is usually served warm. It often consists of layers of eggplant, minced lamb and tomatoes, and white sauce, which are cooked separately and then baked together.",
+        "answer": "moussaka",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "68",
+        "c_percent": "64",
+        "d_percent": "55",
+        "e_percent": "43",
+        "r_percent": "47"
+    }
+}

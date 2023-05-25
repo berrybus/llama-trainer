@@ -1,0 +1,77 @@
+{
+    "league": 67,
+    "day": 21,
+    "date": "December 11, 2015",
+    "1": {
+        "category": "BUS/ECON",
+        "prompt": "What business term is defined as either the gradual paying off of a debt in regular installments over a fixed payment schedule, or the depreciation of the book value of an asset over a time period?",
+        "answer": "amortization",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "77",
+        "c_percent": "69",
+        "d_percent": "63",
+        "e_percent": "51",
+        "r_percent": "58"
+    },
+    "2": {
+        "category": "AMER HIST",
+        "prompt": "A region that includes the Arizona cities of Yuma, Tucson, Nogales, and Florence, as well as the El Paso suburb of Sunland Park, New Mexico, is today a part of the United States thanks largely to the bargaining efforts in the 1850s of what American diplomat and ambassador to Mexico?",
+        "answer": "james gadsden",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "60",
+        "c_percent": "50",
+        "d_percent": "32",
+        "e_percent": "16",
+        "r_percent": "30"
+    },
+    "3": {
+        "category": "GEOGRAPHY",
+        "prompt": "The Princely House of Grimaldi is the royal family that currently rules what sovereign state?",
+        "answer": "monaco",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "87",
+        "c_percent": "80",
+        "d_percent": "66",
+        "e_percent": "53",
+        "r_percent": "64"
+    },
+    "4": {
+        "category": "LIFESTYLE",
+        "prompt": "Various similar deities in the mythology of Mesoamerican civilizations, including Kukulkan, Q'uq'umatz, Tohil, and Quetzalcoatl, take a supernatural feathered form of what type of animal?",
+        "answer": "serpent/snake",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "72",
+        "c_percent": "58",
+        "d_percent": "47",
+        "e_percent": "31",
+        "r_percent": "48"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "The current geological epoch, which began 10,000-12,000 years ago after the last Pleistocene ice age, is most commonly known by what name, from the Greek for (roughly) \"entirely new\"?",
+        "answer": "holocene",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "52",
+        "c_percent": "38",
+        "d_percent": "26",
+        "e_percent": "12",
+        "r_percent": "23"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "The popularity of the man pictured here is derived primarily from what sport? ",
+        "answer": "soccer",
+        "image": "/images/art/8yu509c48ny04985y.jpg",
+        "a_percent": "69",
+        "b_percent": "60",
+        "c_percent": "54",
+        "d_percent": "46",
+        "e_percent": "44",
+        "r_percent": "44"
+    }
+}

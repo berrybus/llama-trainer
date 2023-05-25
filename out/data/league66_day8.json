@@ -1,0 +1,77 @@
+{
+    "league": 66,
+    "day": 8,
+    "date": "August 26, 2015",
+    "1": {
+        "category": "WORLD HIST",
+        "prompt": "Name the man who succeeded Helmut Kohl, and preceded Angela Merkel, as Chancellor of the Federal Republic of Germany.",
+        "answer": "gerhard schr\u00f6der",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "57",
+        "c_percent": "43",
+        "d_percent": "30",
+        "e_percent": "16",
+        "r_percent": "32"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "What was the first Vietnam War film to win the Academy Award for Best Picture (as well as Best Director and Best Supporting Actor)?",
+        "answer": "the deer hunter",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "52",
+        "c_percent": "44",
+        "d_percent": "35",
+        "e_percent": "18",
+        "r_percent": "32"
+    },
+    "3": {
+        "category": "POP MUSIC",
+        "prompt": "In a current chart-topping single from Jamaica-born artist OMI, the singer does not really feel like cheating because he thinks that he's found himself a what?",
+        "answer": "cheerleader",
+        "image": null,
+        "a_percent": "53",
+        "b_percent": "35",
+        "c_percent": "35",
+        "d_percent": "29",
+        "e_percent": "35",
+        "r_percent": "37"
+    },
+    "4": {
+        "category": "ART",
+        "prompt": "This sculpture was found on, and is commonly named after, what Greek island? ",
+        "answer": "samothrace",
+        "image": "/images/art/87450987nc095348.jpg",
+        "a_percent": "65",
+        "b_percent": "47",
+        "c_percent": "33",
+        "d_percent": "22",
+        "e_percent": "9",
+        "r_percent": "17"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "While other common units of pressure are the bar and the torr, the SI unit of pressure\u2014named after a 17th c. polymath and equal to a pressure of one newton per square meter\u2014is what?",
+        "answer": "pascal",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "67",
+        "c_percent": "54",
+        "d_percent": "46",
+        "e_percent": "32",
+        "r_percent": "46"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "Daikon, Spanish black, Icicle, and Cherry Belle are among the better known varieties of what vegetable?",
+        "answer": "radish",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "79",
+        "c_percent": "75",
+        "d_percent": "66",
+        "e_percent": "55",
+        "r_percent": "65"
+    }
+}

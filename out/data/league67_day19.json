@@ -1,0 +1,77 @@
+{
+    "league": 67,
+    "day": 19,
+    "date": "December 9, 2015",
+    "1": {
+        "category": "WORLD HIST",
+        "prompt": "On October 5, 1847, Joseph Jenkins Roberts, who was born in 1809 in Norfolk, Virginia, was elected president of what country?",
+        "answer": "liberia",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "82",
+        "c_percent": "69",
+        "d_percent": "55",
+        "e_percent": "29",
+        "r_percent": "44"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "In computing, one type of integrated circuit commonly used in electronic products is known as TTL. In this abbreviation, L stands for \"logic\" and both Ts stand for the same word, repeated, representing the bipolar devices used for both amplifying and logic gating. What is that word?",
+        "answer": "transistor",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "65",
+        "c_percent": "56",
+        "d_percent": "49",
+        "e_percent": "37",
+        "r_percent": "49"
+    },
+    "3": {
+        "category": "CLASS MUSIC",
+        "prompt": "A ritual in which a young girl dances herself to death, as a sacrifice to win the favor of the fertility god, is central to the story of what ballet, which created one of the most legendary theatrical events of the twentieth century?",
+        "answer": "the rite of spring",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "58",
+        "c_percent": "41",
+        "d_percent": "29",
+        "e_percent": "13",
+        "r_percent": "27"
+    },
+    "4": {
+        "category": "CURR EVENTS",
+        "prompt": "Currently, there are three living former presidents of France. One is Val\u00e9ry Giscard d'Estaing; name both of the other two.",
+        "answer": "jacques chirac, nicolas sarkozy",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "66",
+        "c_percent": "56",
+        "d_percent": "41",
+        "e_percent": "24",
+        "r_percent": "39"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "Name the man who preceded Jon Stewart as the host of The Daily Show, and Craig Ferguson as the host of The Late Late Show.",
+        "answer": "craig kilborn",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "84",
+        "c_percent": "78",
+        "d_percent": "73",
+        "e_percent": "58",
+        "r_percent": "65"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "Although the city gives its name to the somewhat similar but lesser \"bologna\" (\"baloney\") sausage common commercially in the United States, the Italian city of Bologna originated and is associated with what large, pink pork sausage (pictured), which was banned for import into the US for thirty-three years starting in 1967? ",
+        "answer": "mortadella",
+        "image": "/images/art/88567509v865j096.jpg",
+        "a_percent": "76",
+        "b_percent": "63",
+        "c_percent": "52",
+        "d_percent": "43",
+        "e_percent": "31",
+        "r_percent": "44"
+    }
+}

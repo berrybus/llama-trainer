@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 17,
+    "date": "March 15, 2017",
+    "1": {
+        "category": "CURR EVENTS",
+        "prompt": "In September 2015, a research study led by Dr. Mona Hanna-Attisha was released that revealed that the proportion of infants and children in the study group with elevated blood lead levels had nearly doubled since April 2014. The study participants were patients at Hurley Children's Hospital, where \"Dr. Mona\" serves as program director for pediatric residency, and which is located in what U.S. city?",
+        "answer": "flint, michigan",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "86",
+        "c_percent": "87",
+        "d_percent": "78",
+        "e_percent": "69",
+        "r_percent": "72"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "The 1958 film The Long, Hot Summer was the first on-screen pairing of what soon-to-be couple, who would wed shortly after filming and appear together in feature films nine additional times while remaining married until the husband's death in 2008?",
+        "answer": "paul newman, joanne woodward",
+        "image": null,
+        "a_percent": "69",
+        "b_percent": "53",
+        "c_percent": "39",
+        "d_percent": "32",
+        "e_percent": "16",
+        "r_percent": "31"
+    },
+    "3": {
+        "category": "FOOD/DRINK",
+        "prompt": "Although there are dozens of French cheeses with protected designations, what blue or white \"King of English Cheeses,\" made under strict specifications in the counties of Leicestershire, Derbyshire, and Nottinghamshire, is among the relatively few English cheeses to enjoy certified legal protection?",
+        "answer": "stilton",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "71",
+        "c_percent": "64",
+        "d_percent": "48",
+        "e_percent": "31",
+        "r_percent": "48"
+    },
+    "4": {
+        "category": "WORLD HIST",
+        "prompt": "From July 1983 until a final concession of defeat in May 2009, a civil war was waged in Sri Lanka between the Buddhist Sinhalese majority government and the minority Hindu rebels of what ethnicity?",
+        "answer": "tamil",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "81",
+        "c_percent": "74",
+        "d_percent": "58",
+        "e_percent": "38",
+        "r_percent": "52"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "In engineering, what is the term for a watertight chamber built to surround an object, such as a bridge foundation, that would otherwise be submerged in the water, allowing for construction in a dry environment?",
+        "answer": "caisson/cofferdam",
+        "image": null,
+        "a_percent": "48",
+        "b_percent": "33",
+        "c_percent": "25",
+        "d_percent": "16",
+        "e_percent": "8",
+        "r_percent": "18"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "The titles of a 1984 song recorded by Bruce Springsteen, a 1964 song by Martha and the Vandellas, a 1986 song by Lionel Richie, and a 1976 song by A\u15faBA all begin with what word?",
+        "answer": "dancing",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "86",
+        "c_percent": "79",
+        "d_percent": "69",
+        "e_percent": "56",
+        "r_percent": "64"
+    }
+}

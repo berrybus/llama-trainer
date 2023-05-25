@@ -1,0 +1,77 @@
+{
+    "league": 65,
+    "day": 11,
+    "date": "June 2, 2015",
+    "1": {
+        "category": "POP MUSIC",
+        "prompt": "The two tone movement and musical genre, as represented by the music of the 2 Tone Records label and popular in Britain in the late 1970s, combined components of punk rock with traditional elements from what other musical genre?",
+        "answer": "ska/reggae",
+        "image": null,
+        "a_percent": "75",
+        "b_percent": "62",
+        "c_percent": "55",
+        "d_percent": "46",
+        "e_percent": "33",
+        "r_percent": "43"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "The 13th c. military leader and civil administrator named Tolui, also known as Jui-Tsung, is remembered today (if he's remembered at all) for his famous father and famous son. Give the name of either.",
+        "answer": "genghis khan, kublai khan",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "81",
+        "c_percent": "76",
+        "d_percent": "61",
+        "e_percent": "50",
+        "r_percent": "63"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "Naturally occurring dyes include cochineal, a red dye made from crushed insects, logwood and madder produced from plants, and what other plant-based dye, extremely common for use in blue jean denim and food colorant FD&C Blue No. 2?",
+        "answer": "indigo",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "81",
+        "c_percent": "82",
+        "d_percent": "72",
+        "e_percent": "59",
+        "r_percent": "73"
+    },
+    "4": {
+        "category": "LANGUAGE",
+        "prompt": "What is the term (Greek for \"long\") for the diacritic used to mark a long vowel? It consists of a straight bar placed above a letter.",
+        "answer": "macron",
+        "image": null,
+        "a_percent": "49",
+        "b_percent": "35",
+        "c_percent": "24",
+        "d_percent": "14",
+        "e_percent": "6",
+        "r_percent": "18"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "Name the duo, subjects of a \"New Hollywood\" film from 1967, who died 33 years earlier in Bienville Parish, Louisiana.",
+        "answer": "bonnie (parker) & clyde (barrow)",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "96",
+        "c_percent": "94",
+        "d_percent": "90",
+        "e_percent": "79",
+        "r_percent": "90"
+    },
+    "6": {
+        "category": "GEOGRAPHY",
+        "prompt": "Of the 20 (or so) municipalities in the United States with this name, Ohio's is the most populous, Maryland's is the oldest, and Mississippi's is the most literary, but their namesake in England surpasses them in all three areas. What's the name?",
+        "answer": "oxford",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "80",
+        "c_percent": "70",
+        "d_percent": "62",
+        "e_percent": "48",
+        "r_percent": "51"
+    }
+}

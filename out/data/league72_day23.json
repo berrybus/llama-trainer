@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 23,
+    "date": "March 23, 2017",
+    "1": {
+        "category": "BUS/ECON",
+        "prompt": "By virtue of its status as a center for the information technology industry\u2014and headquarters of the major IT multinational corporations Infosys and Wipro\u2014what capital of the southwestern state of Karnataka is nicknamed the \"Silicon Valley of India\"?",
+        "answer": "bangalore (bengaluru)",
+        "image": null,
+        "a_percent": "69",
+        "b_percent": "55",
+        "c_percent": "47",
+        "d_percent": "36",
+        "e_percent": "24",
+        "r_percent": "38"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "This is a screenshot of an iconic osculation that occurs in what film? ",
+        "answer": "from here to eternity",
+        "image": "/images/art/3y509c80684y45.jpg",
+        "a_percent": "85",
+        "b_percent": "75",
+        "c_percent": "67",
+        "d_percent": "54",
+        "e_percent": "36",
+        "r_percent": "49"
+    },
+    "3": {
+        "category": "ART",
+        "prompt": "Urban realism was the subject matter for what informal group of American artists active in the early 20th century? The name of their \"school\" was allegedly coined by a hostile critic (but adopted by the artists) and derived from a particular item in a gritty scene drawn in 1915 by George Bellows.",
+        "answer": "ashcan school",
+        "image": null,
+        "a_percent": "54",
+        "b_percent": "33",
+        "c_percent": "21",
+        "d_percent": "13",
+        "e_percent": "4",
+        "r_percent": "14"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "What is the anatomic term most often used to describe the area of the human body located at or near the part of the back lying between the lowest ribs and the hips, and also for the five spinal vertebrae in this area? It is where the needle is inserted for a spinal tap puncture.",
+        "answer": "lumbar",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "83",
+        "c_percent": "79",
+        "d_percent": "71",
+        "e_percent": "64",
+        "r_percent": "75"
+    },
+    "5": {
+        "category": "AMER HIST",
+        "prompt": "A diplomatic incident arose between the United States and France in 1797 when three French agents solicited a bribe from American agents sent to negotiate an end to maritime hostilities that were threatening to evolve into a full-scale war. This scandal is known by what name?",
+        "answer": "xyz affair",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "61",
+        "c_percent": "51",
+        "d_percent": "35",
+        "e_percent": "19",
+        "r_percent": "30"
+    },
+    "6": {
+        "category": "LIFESTYLE",
+        "prompt": "The ancient Greeks had four words for \"love\": storge (familial love), philia (love in friendship), agape (higher, selfless, transcending love), and what fourth, which is love based on desire and passion?",
+        "answer": "eros",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "82",
+        "c_percent": "74",
+        "d_percent": "60",
+        "e_percent": "45",
+        "r_percent": "59"
+    }
+}

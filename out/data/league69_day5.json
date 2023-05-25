@@ -1,0 +1,77 @@
+{
+    "league": 69,
+    "day": 5,
+    "date": "June 1, 2016",
+    "1": {
+        "category": "CLASS MUSIC",
+        "prompt": "Jean Sibelius is Finland's greatest composer. By virtue of an extensive body of work that includes his 2009 Violin Concerto, 2004 composition Wing on Wing, and 1997 L.A. Variations (composed while music director of that city's Philharmonic), what innovator stakes a claim for second place?",
+        "answer": "esa-pekka salonen",
+        "image": null,
+        "a_percent": "30",
+        "b_percent": "19",
+        "c_percent": "15",
+        "d_percent": "7",
+        "e_percent": "3",
+        "r_percent": "9"
+    },
+    "2": {
+        "category": "MATH",
+        "prompt": "In geometry, a curve known as a lemniscate takes a shape resembling what?",
+        "answer": "figure eight/infinity",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "46",
+        "c_percent": "31",
+        "d_percent": "21",
+        "e_percent": "13",
+        "r_percent": "24"
+    },
+    "3": {
+        "category": "GAMES/SPORT",
+        "prompt": "A humorous and campy video released in 1985, in VHS and Beta versions, is widely considered the first videotape-related video game. It was a spinoff of what popular board game, which also inspired a feature film that same year?",
+        "answer": "clue (cluedo)",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "86",
+        "c_percent": "84",
+        "d_percent": "77",
+        "e_percent": "67",
+        "r_percent": "74"
+    },
+    "4": {
+        "category": "WORLD HIST",
+        "prompt": "Provide the name missing from this complete and chronological list: Abdulaziz, Saud, Faisal, Khalid, _____________, Abdullah, Salman.",
+        "answer": "fahd",
+        "image": null,
+        "a_percent": "58",
+        "b_percent": "38",
+        "c_percent": "25",
+        "d_percent": "13",
+        "e_percent": "4",
+        "r_percent": "16"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "Actor Chris Pratt was \"discovered\" while working in Hawaii as a waiter at a theme restaurant, part of an international chain, which is based on a popular 1994 film. Name either the restaurant chain or the film.",
+        "answer": "bubba gump shrimp company/forrest gump",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "73",
+        "c_percent": "65",
+        "d_percent": "55",
+        "e_percent": "44",
+        "r_percent": "56"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "A sedentary and ambitionless government official named Mycroft is the older brother of what famous fictional character?",
+        "answer": "sherlock holmes",
+        "image": null,
+        "a_percent": "96",
+        "b_percent": "93",
+        "c_percent": "86",
+        "d_percent": "80",
+        "e_percent": "69",
+        "r_percent": "80"
+    }
+}

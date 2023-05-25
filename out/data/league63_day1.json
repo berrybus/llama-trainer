@@ -1,0 +1,77 @@
+{
+    "league": 63,
+    "day": 1,
+    "date": "November 10, 2014",
+    "1": {
+        "category": "CURR EVENTS",
+        "prompt": "While the Supreme Leader of Iran (since 1989, Ali Khamenei) is the nation's head of state, the highest popularly elected official is President. Identify the current President of Iran, who succeeded Mahmoud Ahmadinejad in August, 2013. ",
+        "answer": "hassan rouhani",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "44",
+        "c_percent": "38",
+        "d_percent": "27",
+        "e_percent": "17",
+        "r_percent": "30"
+    },
+    "2": {
+        "category": "AMER HIST",
+        "prompt": "In addition to being a named party in the historic U.S. Supreme Court case Roe v. Wade, long-time Dallas District Attorney Henry M. Wade also famously led the 1964 prosecution of whom?",
+        "answer": "jack ruby",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "85",
+        "c_percent": "74",
+        "d_percent": "61",
+        "e_percent": "42",
+        "r_percent": "54"
+    },
+    "3": {
+        "category": "FILM",
+        "prompt": "The 1921 Ry\u016bnosuke Akutagawa short story \"Yabu no Naka\" (\"In the Grove\"), in which several characters relate mutually contradictory versions of a rape and murder, supplied the plot to what celebrated Akira Kurosawa film\u2014whose title is taken, incidentally, from that of a different Akutagawa story?",
+        "answer": "rash\u014dmon",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "70",
+        "c_percent": "63",
+        "d_percent": "50",
+        "e_percent": "31",
+        "r_percent": "41"
+    },
+    "4": {
+        "category": "FOOD/DRINK",
+        "prompt": "Name the aniseed-flavored liqueur native to southern France, similar to Pernod in the north, whose name comes from a local dialect for \"mixed\" or \"confused,\" and which is no longer produced with any of the absinthe that made it most distinctive.",
+        "answer": "pastis",
+        "image": null,
+        "a_percent": "40",
+        "b_percent": "31",
+        "c_percent": "23",
+        "d_percent": "15",
+        "e_percent": "9",
+        "r_percent": "15"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "The Keck 1 and Keck 2, Hobby-Eberly, Subaru, and GranTeCan are among the world's largest what?",
+        "answer": "telescope",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "68",
+        "c_percent": "55",
+        "d_percent": "40",
+        "e_percent": "28",
+        "r_percent": "38"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "The book, culture, and current affairs journal abbreviated TLS is produced weekly by British-based newspaper publisher News UK, in cooperation with one of the company's main London dailies (but not as a part of it since 1914, despite the journal's name). What do the letters TLS stand for?",
+        "answer": "times literary supplement",
+        "image": null,
+        "a_percent": "62",
+        "b_percent": "44",
+        "c_percent": "38",
+        "d_percent": "23",
+        "e_percent": "12",
+        "r_percent": "24"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 69,
+    "day": 13,
+    "date": "June 13, 2016",
+    "1": {
+        "category": "ART",
+        "prompt": "The English-born architect and designer Calvert Vaux is remembered today for a transcendent collaboration and partnership, beginning in 1857, with what other individual?",
+        "answer": "frederick law olmsted",
+        "image": null,
+        "a_percent": "43",
+        "b_percent": "28",
+        "c_percent": "20",
+        "d_percent": "13",
+        "e_percent": "6",
+        "r_percent": "19"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "What scientific institution, formally established in 1830 and on whose grounds Vice President Joseph Biden and his wife Dr. Jill Biden currently reside, is officially responsible for measuring time and providing precise time information in the United States?",
+        "answer": "u.s. naval observatory",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "70",
+        "c_percent": "62",
+        "d_percent": "51",
+        "e_percent": "31",
+        "r_percent": "46"
+    },
+    "3": {
+        "category": "WORLD HIST",
+        "prompt": "One name was shared by six different sultans of the Ottoman Empire, including one (the Second) who conquered Istanbul in 1453, another (the Third) who had his nineteen brothers executed by strangulation, and another (the Sixth) who was the last, removed when the sultanate was abolished by Mustafa Kemal Atat\u00fcrk and the new Turkish parliament in 1922? Both in modern Turkish and in the West, this name is most often rendered as what?",
+        "answer": "mehmed/mehmet",
+        "image": null,
+        "a_percent": "43",
+        "b_percent": "29",
+        "c_percent": "19",
+        "d_percent": "13",
+        "e_percent": "5",
+        "r_percent": "18"
+    },
+    "4": {
+        "category": "CURR EVENTS",
+        "prompt": "What, it has been asserted (though never proven), arrived in Brazil during the 2013 FIFA Confederations Cup in June of that year, when Tahiti's national soccer team (and some of the team's fans) traveled to a match in Recife against the national team of Uruguay?",
+        "answer": "zika virus",
+        "image": null,
+        "a_percent": "95",
+        "b_percent": "95",
+        "c_percent": "92",
+        "d_percent": "91",
+        "e_percent": "82",
+        "r_percent": "82"
+    },
+    "5": {
+        "category": "POP MUSIC",
+        "prompt": "The Sound of the Life of the Mind, The Unauthorized Biography of Reinhold Messner, Whatever and Ever Amen, and their self-titled 1995 debut are studio albums from what misnamed North Carolina rock trio?",
+        "answer": "ben folds five",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "57",
+        "c_percent": "52",
+        "d_percent": "43",
+        "e_percent": "28",
+        "r_percent": "40"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "What is the most famous poem (or poetic fragment) published in 1816 and famously composed in 1797 (or thereabouts) under the influence of laudanum\u2014a \"vision in a dream\"?",
+        "answer": "kubla khan",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "46",
+        "c_percent": "37",
+        "d_percent": "25",
+        "e_percent": "11",
+        "r_percent": "27"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 18,
+    "date": "March 13, 2014",
+    "1": {
+        "category": "POP MUSIC",
+        "prompt": "This trumpet, currently in the collection of the Smithsonian Institution, belonged to whom? ",
+        "answer": "dizzy gillespie",
+        "image": "/images/art/48509cn804958cn3049.jpg",
+        "a_percent": "74",
+        "b_percent": "54",
+        "c_percent": "55",
+        "d_percent": "38",
+        "e_percent": "30",
+        "r_percent": "43"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "The First Sino-Japanese War in 1894-95, and the Russo-Japanese War of 1904-05, were both fought primarily over control of what sovereign state (which would then be under the dominion of Japan until the end of WWII)?",
+        "answer": "korea",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "68",
+        "c_percent": "61",
+        "d_percent": "53",
+        "e_percent": "36",
+        "r_percent": "48"
+    },
+    "3": {
+        "category": "LANGUAGE",
+        "prompt": "The name of Jumbo the circus elephant was derived (probably) from the word jambo, which means \"hello\" in what language?",
+        "answer": "swahili",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "88",
+        "c_percent": "82",
+        "d_percent": "76",
+        "e_percent": "63",
+        "r_percent": "72"
+    },
+    "4": {
+        "category": "TELEVISION",
+        "prompt": "What was the name of the character who appeared in exactly six episodes of the sitcom The Brady Bunch -- specifically (but not coincidentally), the final six episodes of the series' fifth and final season?",
+        "answer": "oliver",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "51",
+        "c_percent": "46",
+        "d_percent": "37",
+        "e_percent": "20",
+        "r_percent": "32"
+    },
+    "5": {
+        "category": "LITERATURE",
+        "prompt": "From the years 1973 to 1980, American author Judy Blume published five novels for children or young adults, four of which have one-word titles (the fifth is Starring Sally J. Freedman as Herself). Name any one of these four one-word-titled novels.",
+        "answer": "deenie, blubber, forever, superfudge",
+        "image": null,
+        "a_percent": "79",
+        "b_percent": "67",
+        "c_percent": "58",
+        "d_percent": "49",
+        "e_percent": "35",
+        "r_percent": "46"
+    },
+    "6": {
+        "category": "BUS/ECON",
+        "prompt": "Identify the firm, headquartered in Ludwigshafen, Germany, and founded in 1865 in Baden as an aniline and soda factory (manufacturing acids and soda for dyes). It is today the world's largest chemical company.",
+        "answer": "basf",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "37",
+        "c_percent": "30",
+        "d_percent": "23",
+        "e_percent": "11",
+        "r_percent": "23"
+    }
+}

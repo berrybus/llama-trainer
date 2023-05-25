@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 15,
+    "date": "March 13, 2017",
+    "1": {
+        "category": "LIFESTYLE",
+        "prompt": "A fictional criminal mastermind (and unfortunate ethnic stereotype), who appeared in stories by British author Sax Rohmer, has a name which lives on today in the area of grooming. What is that name?",
+        "answer": "fu manchu",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "82",
+        "c_percent": "69",
+        "d_percent": "57",
+        "e_percent": "38",
+        "r_percent": "53"
+    },
+    "2": {
+        "category": "TELEVISION",
+        "prompt": "Name any one of the three 1990s sitcom kids who were the children of Danny Tanner and Pam Katsopolis Tanner.",
+        "answer": "d.j., stephanie, michelle",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "75",
+        "c_percent": "70",
+        "d_percent": "70",
+        "e_percent": "71",
+        "r_percent": "69"
+    },
+    "3": {
+        "category": "ART",
+        "prompt": "What American artist's 1952 painting Mountains and Sea, pictured here, was her first professionally exhibited work and is today likely her best-known, though she would continue to produce pieces into the 21st century? ",
+        "answer": "helen frankenthaler",
+        "image": "/images/art/430985uc04yc6y65y.jpg",
+        "a_percent": "15",
+        "b_percent": "7",
+        "c_percent": "4",
+        "d_percent": "3",
+        "e_percent": "2",
+        "r_percent": "5"
+    },
+    "4": {
+        "category": "WORLD HIST",
+        "prompt": "Name any one of the British monarchs (with regnal number) who are members of the dynasty originally known as the House of Saxe-Coburg and Gotha.",
+        "answer": "edward vii, george v, edward viii, george vi, elizabeth ii",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "62",
+        "c_percent": "49",
+        "d_percent": "32",
+        "e_percent": "15",
+        "r_percent": "34"
+    },
+    "5": {
+        "category": "GAMES/SPORT",
+        "prompt": "\"A player landing in one of the 12 'Roll again' spaces continues the turn by rolling the die again\" and \"Any number of tokens may occupy the same space\" are quotes within the \"Continuation of Play\" section of the \"Master Game\u2014Rules of Play\" for what game?",
+        "answer": "trivial pursuit",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "65",
+        "c_percent": "58",
+        "d_percent": "51",
+        "e_percent": "40",
+        "r_percent": "46"
+    },
+    "6": {
+        "category": "SCIENCE",
+        "prompt": "Identify any one of the three properties (by name, not letter) in the equation that defines what is commonly known as Newton's Second Law.",
+        "answer": "acceleration, (net) force, mass",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "86",
+        "c_percent": "84",
+        "d_percent": "76",
+        "e_percent": "70",
+        "r_percent": "78"
+    }
+}

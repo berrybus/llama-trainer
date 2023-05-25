@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 16,
+    "date": "March 11, 2014",
+    "1": {
+        "category": "LITERATURE",
+        "prompt": "1988's The Sackett Companion, published a few months after the author's death, is a guided tour through the stories and background of the seventeen western novels featuring the fictional Sackett family. Who wrote these novels, and this final companion book?",
+        "answer": "louis l'amour",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "55",
+        "c_percent": "51",
+        "d_percent": "37",
+        "e_percent": "18",
+        "r_percent": "33"
+    },
+    "2": {
+        "category": "MATH",
+        "prompt": "In mathematics, a Mersenne prime is defined as a prime number of the form 2n - 1. 3, 7, and 31 are the first three Mersenne primes; what is the fourth?",
+        "answer": "127",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "71",
+        "c_percent": "75",
+        "d_percent": "70",
+        "e_percent": "55",
+        "r_percent": "61"
+    },
+    "3": {
+        "category": "GEOGRAPHY",
+        "prompt": "While the \"main\" Alps are in Europe, another separate mountain range with that name -- with a distinguishing forename, and formally a component of a larger cordillera called the Great Dividing Range -- is the highest in what country?",
+        "answer": "australia",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "50",
+        "c_percent": "44",
+        "d_percent": "30",
+        "e_percent": "14",
+        "r_percent": "34"
+    },
+    "4": {
+        "category": "AMER HIST",
+        "prompt": "Philadelphia's historic Bellevue-Stratford Hotel achieved international newsworthiness in July of 1976, by virtue of its hosting what organization?",
+        "answer": "american legion",
+        "image": null,
+        "a_percent": "70",
+        "b_percent": "56",
+        "c_percent": "44",
+        "d_percent": "26",
+        "e_percent": "11",
+        "r_percent": "26"
+    },
+    "5": {
+        "category": "POP MUSIC",
+        "prompt": "The machine pictured here, which was first produced in early 1980 and quickly created the signature sound of hip hop and electronic music of the era, was manufactured by what musical electronics company (whose name has been edited from the image)? ",
+        "answer": "roland",
+        "image": "/images/art/4895y09cn4.jpg",
+        "a_percent": "47",
+        "b_percent": "28",
+        "c_percent": "23",
+        "d_percent": "16",
+        "e_percent": "12",
+        "r_percent": "20"
+    },
+    "6": {
+        "category": "BUS/ECON",
+        "prompt": "An investor may sell a financial contract (e.g. a share) that she does not actually own, with the expectation that its price will fall, at which point it can then be purchased, resulting in profit. This investment activity is most commonly known as what?",
+        "answer": "shorting",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "80",
+        "c_percent": "83",
+        "d_percent": "73",
+        "e_percent": "58",
+        "r_percent": "65"
+    }
+}

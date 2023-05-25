@@ -1,0 +1,77 @@
+{
+    "league": 71,
+    "day": 23,
+    "date": "December 19, 2016",
+    "1": {
+        "category": "CURR EVENTS",
+        "prompt": "Operation Car Wash is the name given to a wide-ranging corruption and money-laundering investigation that has ensnared business and political leaders, including the president (since impeached), of what country?",
+        "answer": "brazil",
+        "image": null,
+        "a_percent": "75",
+        "b_percent": "63",
+        "c_percent": "53",
+        "d_percent": "46",
+        "e_percent": "32",
+        "r_percent": "47"
+    },
+    "2": {
+        "category": "FOOD/DRINK",
+        "prompt": "What food, common as grits or as the main ingredient in posole, is dried or hulled and alkaline-treated maize kernels? Its name is derived from Algonquian, as it was one of the first foods accepted by English settlers from native North Americans.",
+        "answer": "hominy",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "69",
+        "c_percent": "62",
+        "d_percent": "47",
+        "e_percent": "30",
+        "r_percent": "45"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "One of the three base types in cloud nomenclature is stratus; what are both of the other two? The three, alone or in combination with themselves and/or nimbus (\"raincloud\") or altus, make up the ten basic types of cloud classification (e.g., nimbostratus).",
+        "answer": "cirrus, cumulus",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "89",
+        "c_percent": "82",
+        "d_percent": "70",
+        "e_percent": "56",
+        "r_percent": "64"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "Rossignol, Salomon, Elan, Dynastar and Fischer are all brands most prominently of what type of sporting equipment?",
+        "answer": "skis",
+        "image": null,
+        "a_percent": "79",
+        "b_percent": "71",
+        "c_percent": "66",
+        "d_percent": "62",
+        "e_percent": "53",
+        "r_percent": "57"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "Two months before the U.S. Supreme Court's decision in the Roe v. Wade case in January 1973, what sitcom's title character famously and controversially made TV history by undergoing an abortion (legal at the time in the state of New York) to terminate an unplanned pregnancy at age 47?",
+        "answer": "maude",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "62",
+        "c_percent": "53",
+        "d_percent": "40",
+        "e_percent": "26",
+        "r_percent": "37"
+    },
+    "6": {
+        "category": "LANGUAGE",
+        "prompt": "Though the term itself dates back centuries and is derived from Hebrew, its modern meaning\u2014a group of people united in ideology or intrigue\u2014 is believed to come from (or at least be popularized by) five leading advisers to England's Charles II between 1667 and 1673, whose initials spell out the word. What is that word?",
+        "answer": "cabal",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "82",
+        "c_percent": "75",
+        "d_percent": "63",
+        "e_percent": "36",
+        "r_percent": "54"
+    }
+}

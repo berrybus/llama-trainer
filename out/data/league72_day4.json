@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 4,
+    "date": "February 24, 2017",
+    "1": {
+        "category": "SCIENCE",
+        "prompt": "What programming language, a common business-oriented language declining in popularity but still in wide use on legacy mainframe applications, was developed in 1959 based on machine-independent programming language design work by legendary computer scientist Grace Hopper?",
+        "answer": "cobol",
+        "image": null,
+        "a_percent": "75",
+        "b_percent": "59",
+        "c_percent": "48",
+        "d_percent": "39",
+        "e_percent": "25",
+        "r_percent": "35"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "St. Augustine began the mass conversion of England to Christianity in 597 in what town, which would be the site of the martyrdom of Thomas Becket 573 years later? ",
+        "answer": "canterbury",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "79",
+        "c_percent": "69",
+        "d_percent": "53",
+        "e_percent": "32",
+        "r_percent": "48"
+    },
+    "3": {
+        "category": "LIFESTYLE",
+        "prompt": "The Greek mythological figure Hippomenes, also known as Melanion, is mostly remembered for defeating whom in a footrace (but only with the help of Aphrodite's golden apples)?",
+        "answer": "atalanta",
+        "image": null,
+        "a_percent": "58",
+        "b_percent": "36",
+        "c_percent": "24",
+        "d_percent": "15",
+        "e_percent": "7",
+        "r_percent": "16"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "What type of gazelle, native to southern Africa, has been used as a name for South Africa's national sports teams, particularly cricket and rugby?",
+        "answer": "springbok",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "69",
+        "c_percent": "59",
+        "d_percent": "42",
+        "e_percent": "28",
+        "r_percent": "40"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "What is the two-word term most commonly used for the member of a film crew who serves as the assistant to the gaffer (master electrician)? The same term is also used for the assistant to the key grip, who is in charge of lighting and rigging.",
+        "answer": "best boy",
+        "image": null,
+        "a_percent": "95",
+        "b_percent": "89",
+        "c_percent": "84",
+        "d_percent": "74",
+        "e_percent": "54",
+        "r_percent": "65"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "According to the title of a 1973 Alice Childress young-adult novel that tells the story of a 13-year-old African American boy's descent into delinquency and drug addiction, a hero ain't nothin' but a what?",
+        "answer": "sandwich",
+        "image": null,
+        "a_percent": "58",
+        "b_percent": "40",
+        "c_percent": "29",
+        "d_percent": "21",
+        "e_percent": "9",
+        "r_percent": "20"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 68,
+    "day": 16,
+    "date": "March 14, 2016",
+    "1": {
+        "category": "FOOD/DRINK",
+        "prompt": "What word follows each of these terms to create names of various British breakfast, tea, or dessert sweets? Bath, Chelsea, Colston, London, Saffron, Sally Lunn.",
+        "answer": "bun",
+        "image": null,
+        "a_percent": "53",
+        "b_percent": "38",
+        "c_percent": "29",
+        "d_percent": "19",
+        "e_percent": "10",
+        "r_percent": "27"
+    },
+    "2": {
+        "category": "SCIENCE",
+        "prompt": "Neutrinos are elementary particles that come in three flavors, with names derived from Greek. One flavor is electron; name either of the other two flavors.",
+        "answer": "muon, tau",
+        "image": null,
+        "a_percent": "56",
+        "b_percent": "38",
+        "c_percent": "28",
+        "d_percent": "18",
+        "e_percent": "10",
+        "r_percent": "23"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "Adam Richman, Andrew Zimmern, Dhani Jones, Samantha Brown, and Kirsten Gum are personalities closely associated with what television network?",
+        "answer": "travel channel",
+        "image": null,
+        "a_percent": "62",
+        "b_percent": "47",
+        "c_percent": "40",
+        "d_percent": "34",
+        "e_percent": "29",
+        "r_percent": "37"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "The Sahrawi Arab Democratic Republic is a limited-recognition state that claims sovereignty over a disputed territory within the Maghreb region of Africa. This territory, of which the SADR actually controls only a small segment, is known internationally by what name?",
+        "answer": "western sahara",
+        "image": null,
+        "a_percent": "73",
+        "b_percent": "56",
+        "c_percent": "46",
+        "d_percent": "34",
+        "e_percent": "17",
+        "r_percent": "28"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "Name the actress whose first film role (uncredited) was at age five in 1969's Easy Rider and who had major starring roles in some movies in the 1990s before essentially retiring from feature films in 2001 at age 37.",
+        "answer": "bridget fonda",
+        "image": null,
+        "a_percent": "56",
+        "b_percent": "40",
+        "c_percent": "29",
+        "d_percent": "21",
+        "e_percent": "9",
+        "r_percent": "22"
+    },
+    "6": {
+        "category": "CLASS MUSIC",
+        "prompt": "What is the name of the puppet, the Russian equivalent of Harlequin, who is the central and title character in a 1911 ballet composed by Igor Stravinsky?",
+        "answer": "petrushka",
+        "image": null,
+        "a_percent": "55",
+        "b_percent": "37",
+        "c_percent": "26",
+        "d_percent": "15",
+        "e_percent": "7",
+        "r_percent": "16"
+    }
+}

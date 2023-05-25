@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 24,
+    "date": "March 21, 2014",
+    "1": {
+        "category": "AMER HIST",
+        "prompt": "President Franklin Roosevelt appointed eight Justices to the U.S. Supreme Court during his tenure, which is the second-most in history. Which President appointed a total of ten during his two terms?",
+        "answer": "george washington",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "83",
+        "c_percent": "74",
+        "d_percent": "64",
+        "e_percent": "36",
+        "r_percent": "63"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "What Central Asian country is, with an area of over one million mi2 (2.7 million km2), by far the world's largest landlocked country?",
+        "answer": "kazakhstan",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "63",
+        "c_percent": "57",
+        "d_percent": "45",
+        "e_percent": "30",
+        "r_percent": "40"
+    },
+    "3": {
+        "category": "FILM",
+        "prompt": "Give the last word of each title of the three films which starred Matt Damon as CIA assassin Jason Bourne (note: answer will be three words).",
+        "answer": "identity, supremacy, ultimatum",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "77",
+        "c_percent": "73",
+        "d_percent": "66",
+        "e_percent": "61",
+        "r_percent": "71"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "Identify the type of tree pictured here, which gives its name to the National Preserve in southern Florida (adjacent to Everglades National Park) in which this photo was taken. ",
+        "answer": "cypress",
+        "image": "/images/art/8974y59cn87.jpg",
+        "a_percent": "60",
+        "b_percent": "46",
+        "c_percent": "38",
+        "d_percent": "33",
+        "e_percent": "21",
+        "r_percent": "33"
+    },
+    "5": {
+        "category": "BUS/ECON",
+        "prompt": "Name the man, a relative of the president (and later, territorial governor) of Hawaii, who founded the Hawaiian Pineapple Company in 1901, becoming known as the \"Pineapple King\".",
+        "answer": "james dole",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "91",
+        "c_percent": "86",
+        "d_percent": "82",
+        "e_percent": "62",
+        "r_percent": "74"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "One of the enduring works of the popular and successful (and notorious) English writer Edward Bulwer-Lytton is his 1834 novel describing the last days of what city?",
+        "answer": "pompeii",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "76",
+        "c_percent": "73",
+        "d_percent": "62",
+        "e_percent": "44",
+        "r_percent": "63"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 11,
+    "date": "March 7, 2017",
+    "1": {
+        "category": "FILM",
+        "prompt": "1999's The Green Mile was the third Best Picture Oscar nominee in six years with roles played by Tom Hanks and Gary Sinise. What were the first two?",
+        "answer": "forrest gump, apollo 13",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "66",
+        "c_percent": "57",
+        "d_percent": "54",
+        "e_percent": "43",
+        "r_percent": "52"
+    },
+    "2": {
+        "category": "GAMES/SPORT",
+        "prompt": "This image is taken from what video game franchise? ",
+        "answer": "half-life",
+        "image": "/images/art/54893cy60.jpg",
+        "a_percent": "53",
+        "b_percent": "52",
+        "c_percent": "46",
+        "d_percent": "43",
+        "e_percent": "39",
+        "r_percent": "43"
+    },
+    "3": {
+        "category": "CURR EVENTS",
+        "prompt": "Name the Portuguese diplomat who replaced Ban Ki-moon on January 1, 2017, as the Secretary-General of the United Nations.",
+        "answer": "ant\u00f3nio guterres",
+        "image": null,
+        "a_percent": "55",
+        "b_percent": "29",
+        "c_percent": "20",
+        "d_percent": "12",
+        "e_percent": "6",
+        "r_percent": "17"
+    },
+    "4": {
+        "category": "AMER HIST",
+        "prompt": "In December 1955, Rosa Parks was arrested and fined $14 for refusing to obey orders of a bus driver, by declining to give up her bus seat to a white man in what city?",
+        "answer": "montgomery, alabama",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "83",
+        "c_percent": "73",
+        "d_percent": "61",
+        "e_percent": "48",
+        "r_percent": "61"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "Chyme is a substance associated with (and produced in) what bodily organ?",
+        "answer": "stomach",
+        "image": null,
+        "a_percent": "72",
+        "b_percent": "46",
+        "c_percent": "34",
+        "d_percent": "27",
+        "e_percent": "19",
+        "r_percent": "31"
+    },
+    "6": {
+        "category": "TELEVISION",
+        "prompt": "A (real-life) fashion magazine, aimed towards plus-size women, that existed from 1997 to 2001, and the (fictional) trendy fashion and lifestyle magazine that employed the title character on the television series Ugly Betty had the same name. What name did these magazines share? It is, incidentally, not the title that appears most often in the history of magazine publishing.",
+        "answer": "mode",
+        "image": null,
+        "a_percent": "53",
+        "b_percent": "34",
+        "c_percent": "21",
+        "d_percent": "16",
+        "e_percent": "9",
+        "r_percent": "18"
+    }
+}

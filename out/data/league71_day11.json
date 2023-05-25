@@ -1,0 +1,77 @@
+{
+    "league": 71,
+    "day": 11,
+    "date": "December 1, 2016",
+    "1": {
+        "category": "BUS/ECON",
+        "prompt": "Identify this woman. ",
+        "answer": "sheryl sandberg",
+        "image": "/images/art/485970c8n9.jpg",
+        "a_percent": "74",
+        "b_percent": "66",
+        "c_percent": "61",
+        "d_percent": "55",
+        "e_percent": "46",
+        "r_percent": "52"
+    },
+    "2": {
+        "category": "LITERATURE",
+        "prompt": "The Prix Renaudot, Prix Goncourt, and Prix Femina are all prizes awarded annually in what field?",
+        "answer": "literature",
+        "image": null,
+        "a_percent": "61",
+        "b_percent": "44",
+        "c_percent": "29",
+        "d_percent": "22",
+        "e_percent": "13",
+        "r_percent": "23"
+    },
+    "3": {
+        "category": "GEOGRAPHY",
+        "prompt": "Custer National Cemetery is located within Little Bighorn Battlefield National Monument, which itself is in Big Horn County, in what state?",
+        "answer": "montana",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "62",
+        "c_percent": "49",
+        "d_percent": "38",
+        "e_percent": "27",
+        "r_percent": "37"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "Four Green Dragons, four Red Dragons, four White Dragons, four North Winds, four East Winds, four South Winds, and four West Winds: this \"Honor\" set of 28 is associated with what game?",
+        "answer": "mah-jongg",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "68",
+        "c_percent": "60",
+        "d_percent": "50",
+        "e_percent": "36",
+        "r_percent": "46"
+    },
+    "5": {
+        "category": "WORLD HIST",
+        "prompt": "Following the attacks of September 11, 2001, the first major Afghan city to fall to the U.S. Special Forces-backed Northern Alliance was what strategically important city in the far northern Balkh province, roughly 200 miles northwest of Kabul?",
+        "answer": "mazar-i-sharif",
+        "image": null,
+        "a_percent": "21",
+        "b_percent": "10",
+        "c_percent": "6",
+        "d_percent": "5",
+        "e_percent": "2",
+        "r_percent": "6"
+    },
+    "6": {
+        "category": "LIFESTYLE",
+        "prompt": "A 1983 strategy game for the Atari 8-bit family; a 1981 film credited with launching (or at least boosting) the film careers of Patrick Stewart, Helen Mirren, Liam Neeson, and others; and a hotel and casino in Las Vegas are all named after what weapon?",
+        "answer": "excalibur",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "83",
+        "c_percent": "72",
+        "d_percent": "62",
+        "e_percent": "47",
+        "r_percent": "55"
+    }
+}
