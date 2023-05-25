@@ -1,0 +1,77 @@
+{
+    "league": 71,
+    "day": 2,
+    "date": "November 15, 2016",
+    "1": {
+        "category": "LIFESTYLE",
+        "prompt": "The style of tailored overcoat like the example seen here is colloquially named after what world leader? ",
+        "answer": "jawaharlal nehru",
+        "image": "/images/art/p4985y0cn439.jpg",
+        "a_percent": "83",
+        "b_percent": "74",
+        "c_percent": "64",
+        "d_percent": "51",
+        "e_percent": "28",
+        "r_percent": "40"
+    },
+    "2": {
+        "category": "MATH",
+        "prompt": "In mathematics, a function is a non-empty set of ordered pairs of which no two can have the same first element. The set of all first elements in a function's ordered pairs is the domain, while the set of all second elements is the what?",
+        "answer": "range/codomain",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "66",
+        "c_percent": "63",
+        "d_percent": "56",
+        "e_percent": "47",
+        "r_percent": "53"
+    },
+    "3": {
+        "category": "LITERATURE",
+        "prompt": "The title of a 1976 live album by the rock band Rush references the first line of a soliloquy by the melancholy traveler Jaques in Shakespeare's As You Like It. What is that line?",
+        "answer": "all the world's a stage",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "65",
+        "c_percent": "47",
+        "d_percent": "36",
+        "e_percent": "20",
+        "r_percent": "32"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "A unit of acceleration, used in geological surveying and elsewhere, which is defined as one centimeter per second squared (1 cm/s2), is named (appropriately) after what mathematician and physicist?",
+        "answer": "galileo galilei",
+        "image": null,
+        "a_percent": "36",
+        "b_percent": "22",
+        "c_percent": "14",
+        "d_percent": "8",
+        "e_percent": "3",
+        "r_percent": "8"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "What titular television character was employed as an investigative journalist for the fictional newsmagazine program FYI?",
+        "answer": "murphy brown",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "76",
+        "c_percent": "70",
+        "d_percent": "58",
+        "e_percent": "43",
+        "r_percent": "48"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "The ANA Inspiration, an event of the LPGA Tour and one of the five major championships of women's professional golf, was for many years hosted by and named after what singer, talk-show personality, and Chevrolet pitchwoman?",
+        "answer": "dinah shore",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "47",
+        "c_percent": "37",
+        "d_percent": "27",
+        "e_percent": "17",
+        "r_percent": "22"
+    }
+}

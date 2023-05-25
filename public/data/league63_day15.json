@@ -1,0 +1,77 @@
+{
+    "league": 63,
+    "day": 15,
+    "date": "December 3, 2014",
+    "1": {
+        "category": "AMER HIST",
+        "prompt": "A historical series that began in Ottawa, Illinois, on August 21, 1858, and ended in Alton, Illinois, on October 15 of that same year ultimately resulted, the following January, in the re-election of what incumbent?",
+        "answer": "stephen a. douglas",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "65",
+        "c_percent": "57",
+        "d_percent": "48",
+        "e_percent": "25",
+        "r_percent": "43"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "From 1958 until 1984, the republic highlighted in green in this map was known by what name? ",
+        "answer": "upper volta",
+        "image": "/images/art/87y94085n0c948y.jpg",
+        "a_percent": "70",
+        "b_percent": "54",
+        "c_percent": "42",
+        "d_percent": "23",
+        "e_percent": "8",
+        "r_percent": "24"
+    },
+    "3": {
+        "category": "POP MUSIC",
+        "prompt": "The title of what Neil Diamond hit single refers not, as it might seem, to a prostitute (or \"store-bought woman\"), but rather to a type of wine?",
+        "answer": "cracklin' rosie",
+        "image": null,
+        "a_percent": "60",
+        "b_percent": "49",
+        "c_percent": "35",
+        "d_percent": "31",
+        "e_percent": "18",
+        "r_percent": "27"
+    },
+    "4": {
+        "category": "FOOD/DRINK",
+        "prompt": "What Swiss dish, typically served for breakfast, originally consisted of apples, oats, milk, and nuts when invented by physician Maximilian Bircher-Benner around the turn of the 20th century? Today, it often also includes other grains, fruits, and seeds.",
+        "answer": "muesli",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "88",
+        "c_percent": "81",
+        "d_percent": "79",
+        "e_percent": "63",
+        "r_percent": "68"
+    },
+    "5": {
+        "category": "BUS/ECON",
+        "prompt": "GAAP stands for \"generally accepted accounting principles.\" An alternative and largely theoretical set of accounting principles, abbreviated LGAP, dictates full and transparent disclosure of all information, including information not normally reported under GAAP, such as all off-balance sheet items. After whom are the LGAP named?",
+        "answer": "lady godiva",
+        "image": null,
+        "a_percent": "34",
+        "b_percent": "19",
+        "c_percent": "10",
+        "d_percent": "5",
+        "e_percent": "3",
+        "r_percent": "9"
+    },
+    "6": {
+        "category": "CURR EVENTS",
+        "prompt": "In the United States gubernatorial elections of 2014, a Republican incumbent lost to a Democratic challenger in only one of the 36 governorships that were up for grabs. The incumbent's deep unpopularity has been attributed to his views regarding gun control, Medicaid expansion, and same-sex marriage, as well as residual fallout from a child sex abuse scandal. Identify the state.",
+        "answer": "pennsylvania",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "55",
+        "c_percent": "45",
+        "d_percent": "40",
+        "e_percent": "23",
+        "r_percent": "41"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 3,
+    "date": "February 23, 2017",
+    "1": {
+        "category": "THEATRE",
+        "prompt": "Falstaff is the main character and Mistresses Page and Ford the title characters of what theatrical comedy (and subsequent operas and films)?",
+        "answer": "the merry wives of windsor",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "78",
+        "c_percent": "65",
+        "d_percent": "44",
+        "e_percent": "22",
+        "r_percent": "41"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "From 1971 until 1997, the country that is today the eleventh-largest in the world (by area) was known by what name?",
+        "answer": "zaire",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "76",
+        "c_percent": "66",
+        "d_percent": "48",
+        "e_percent": "32",
+        "r_percent": "42"
+    },
+    "3": {
+        "category": "CLASS MUSIC",
+        "prompt": "While it premiered in his hometown of New York City at Carnegie Hall in late 1928, what George Gershwin \"rhapsodic ballet\" was actually largely composed during his travels abroad earlier that year?",
+        "answer": "an american in paris",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "57",
+        "c_percent": "42",
+        "d_percent": "31",
+        "e_percent": "17",
+        "r_percent": "28"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "What is the term for any of several related, heat-resistant minerals with a fibrous structure that are woven together or bound by an inert material and made of naturally occurring mineral silicates of the serpentine and amphibole series?",
+        "answer": "asbestos",
+        "image": null,
+        "a_percent": "70",
+        "b_percent": "54",
+        "c_percent": "47",
+        "d_percent": "32",
+        "e_percent": "19",
+        "r_percent": "30"
+    },
+    "5": {
+        "category": "LITERATURE",
+        "prompt": "Name the American author and member of the Algonquin Round Table who won the Pulitzer Prize for her 1924 novel So Big and also wrote the novels Show Boat (which became a popular Kern-Hammerstein musical), Cimarron, and Giant (both adapted into successful Hollywood films)?",
+        "answer": "edna ferber",
+        "image": null,
+        "a_percent": "62",
+        "b_percent": "35",
+        "c_percent": "24",
+        "d_percent": "15",
+        "e_percent": "5",
+        "r_percent": "16"
+    },
+    "6": {
+        "category": "ART",
+        "prompt": "The contemporary English visual artist Tracey Emin first achieved public acclaim (and notoriety) for her \"confessional\" installation works, including a 1998 exhibition piece which featured what title object of hers, stained and disheveled with detritus littered before it?",
+        "answer": "bed",
+        "image": null,
+        "a_percent": "53",
+        "b_percent": "35",
+        "c_percent": "30",
+        "d_percent": "22",
+        "e_percent": "15",
+        "r_percent": "21"
+    }
+}

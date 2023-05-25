@@ -1,0 +1,77 @@
+{
+    "league": 68,
+    "day": 11,
+    "date": "March 7, 2016",
+    "1": {
+        "category": "FOOD/DRINK",
+        "prompt": "Originally applied to a stew of game birds, this term now refers to the edible internal organs of a fowl (particularly the heart, liver, and gizzard). What is this term, which often precedes the word \"gravy\" on Thanksgiving menus in the United States?",
+        "answer": "giblet",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "84",
+        "c_percent": "79",
+        "d_percent": "69",
+        "e_percent": "58",
+        "r_percent": "67"
+    },
+    "2": {
+        "category": "LIFESTYLE",
+        "prompt": "In Twelver Shia Islam, the highest-ranking clerical authorities on religious law, known as mar\u0101ji', are afforded the \"Grand\" version of what title?",
+        "answer": "ayatollah",
+        "image": null,
+        "a_percent": "44",
+        "b_percent": "38",
+        "c_percent": "28",
+        "d_percent": "25",
+        "e_percent": "18",
+        "r_percent": "26"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "Susan Stafford, paired with Chuck Woolery, was in 1975 the first to hold a unique job that has been held since 1982 by what other woman? ",
+        "answer": "vanna white",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "84",
+        "c_percent": "80",
+        "d_percent": "70",
+        "e_percent": "60",
+        "r_percent": "61"
+    },
+    "4": {
+        "category": "WORLD HIST",
+        "prompt": "Of the twenty-six different states federated during the formal unification of Germany in January 1871, four were kingdoms. Prussia was one of those kingdoms; name any one of the other three, all of whose names endure today in some German state names.",
+        "answer": "bavaria, saxony, w\u00fcrttemberg",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "88",
+        "c_percent": "83",
+        "d_percent": "76",
+        "e_percent": "61",
+        "r_percent": "71"
+    },
+    "5": {
+        "category": "FILM",
+        "prompt": "Of the six characters in the Quentin Tarantino film Reservoir Dogs who use a \"color\" alias, which one flees at the very end with the briefcase of diamonds (only to be immediately apprehended by the police, off-screen)?",
+        "answer": "mr. pink",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "70",
+        "c_percent": "65",
+        "d_percent": "57",
+        "e_percent": "45",
+        "r_percent": "52"
+    },
+    "6": {
+        "category": "CURR EVENTS",
+        "prompt": "In January 2016, the Mexican drug lord Joaqu\u00edn Guzm\u00e1n Loera was apprehended by Mexican marines in his home state of Sinaloa six months after escaping from the country's most secure prison. By what nickname is this kingpin widely known?",
+        "answer": "el chapo",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "92",
+        "c_percent": "92",
+        "d_percent": "88",
+        "e_percent": "82",
+        "r_percent": "86"
+    }
+}

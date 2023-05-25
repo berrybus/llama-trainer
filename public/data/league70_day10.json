@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 10,
+    "date": "September 8, 2016",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "Since the 11th century, a central district known as the Rialto has been an important commercial and financial area of what European city?",
+        "answer": "venice",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "75",
+        "c_percent": "60",
+        "d_percent": "51",
+        "e_percent": "35",
+        "r_percent": "52"
+    },
+    "2": {
+        "category": "CURR EVENTS",
+        "prompt": "In April 2016, 11.5 million documents were leaked that reveal financial details relating to sprawling and secretive offshore entities used by wealthy individuals and public officials. What term is used for these documents, referencing the location of the law firm that created the documents over the past five decades?",
+        "answer": "panama papers",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "86",
+        "c_percent": "80",
+        "d_percent": "73",
+        "e_percent": "63",
+        "r_percent": "69"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "What tick-borne disease was originally named \"black measles\" but is now named in reference to the region in which it was first identified (although it is found throughout the contiguous U.S. and elsewhere)? Caused by the Rickettsia rickettsii bacterium, it was frequently fatal before the advent of effective antibiotic therapy.",
+        "answer": "rocky mountain spotted fever",
+        "image": null,
+        "a_percent": "59",
+        "b_percent": "43",
+        "c_percent": "37",
+        "d_percent": "28",
+        "e_percent": "17",
+        "r_percent": "28"
+    },
+    "4": {
+        "category": "FILM",
+        "prompt": "J. M. Barrie's original Peter and Wendy gives the location of \"Neverland\" as \"second to the right, and straight on till morning.\" What word was added to these directions beginning with Walt Disney's 1953 film version of Peter Pan?",
+        "answer": "star",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "80",
+        "c_percent": "75",
+        "d_percent": "68",
+        "e_percent": "59",
+        "r_percent": "65"
+    },
+    "5": {
+        "category": "LANGUAGE",
+        "prompt": "It has been asserted, incorrectly, that a common nickname for a particular food item comes from a nineteenth-century British activist group known as the Society for the Prevention of an Unwholesome Diet. What is that food?",
+        "answer": "potato/spud",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "87",
+        "c_percent": "81",
+        "d_percent": "73",
+        "e_percent": "61",
+        "r_percent": "69"
+    },
+    "6": {
+        "category": "WORLD HIST",
+        "prompt": "The sadistic zeal of what infamous Spanish Inquisitor General has made his name an embodiment of cruel persecution? Interestingly, while his name evokes a Latin verb for inflicting extreme pain, it actually derives from a village in his Castilian homeland.",
+        "answer": "tomas de torquemada",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "73",
+        "c_percent": "58",
+        "d_percent": "40",
+        "e_percent": "17",
+        "r_percent": "34"
+    }
+}

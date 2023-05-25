@@ -1,0 +1,77 @@
+{
+    "league": 61,
+    "day": 11,
+    "date": "May 27, 2014",
+    "1": {
+        "category": "BUS/ECON",
+        "prompt": "What company, founded in Tennessee in 1952 and now owned by the multinational British corporation IHG, was named after a hit 1942 musical film?",
+        "answer": "holiday inn",
+        "image": null,
+        "a_percent": "76",
+        "b_percent": "51",
+        "c_percent": "40",
+        "d_percent": "28",
+        "e_percent": "14",
+        "r_percent": "30"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "The stucco known as formstone, which is a common facing for urban row houses such as those pictured here, is most often associated with what eastern U.S. city (where this photograph was taken)? ",
+        "answer": "baltimore",
+        "image": "/images/art/9847n0987n0498.jpg",
+        "a_percent": "85",
+        "b_percent": "71",
+        "c_percent": "68",
+        "d_percent": "65",
+        "e_percent": "57",
+        "r_percent": "62"
+    },
+    "3": {
+        "category": "THEATRE",
+        "prompt": "With his wife, born Louisa Lane, the Irish-American actor and Philadelphia theatre manager John Drew, who died in 1862, is the progenitor of a prominent acting family that is more associated with what other name?",
+        "answer": "barrymore",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "82",
+        "c_percent": "82",
+        "d_percent": "75",
+        "e_percent": "55",
+        "r_percent": "69"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "With an apparent visual magnitude of 1.15, roughly equivalent to the planet Mars, the reddish giant star Pollux is the brightest star in what constellation?",
+        "answer": "gemini",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "77",
+        "c_percent": "59",
+        "d_percent": "43",
+        "e_percent": "24",
+        "r_percent": "46"
+    },
+    "5": {
+        "category": "LITERATURE",
+        "prompt": "Pictured here (cropped) is a dust jacket for a children's book authored by what comedian? ",
+        "answer": "stephen colbert",
+        "image": "/images/art/9u4059umc09.png",
+        "a_percent": "92",
+        "b_percent": "80",
+        "c_percent": "76",
+        "d_percent": "73",
+        "e_percent": "59",
+        "r_percent": "71"
+    },
+    "6": {
+        "category": "WORLD HIST",
+        "prompt": "On November 4, 1922, London-born excavator Howard Carter experienced a major life event that would forever associate him most indelibly with what other individual?",
+        "answer": "tutankhamun",
+        "image": null,
+        "a_percent": "95",
+        "b_percent": "89",
+        "c_percent": "86",
+        "d_percent": "73",
+        "e_percent": "56",
+        "r_percent": "73"
+    }
+}

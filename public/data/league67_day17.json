@@ -1,0 +1,77 @@
+{
+    "league": 67,
+    "day": 17,
+    "date": "December 7, 2015",
+    "1": {
+        "category": "FILM",
+        "prompt": "The 1930 film adaptation of the Eugene O'Neill play Anna Christie is famous, and was specifically marketed during its initial release, as the first talking picture featuring what theretofore silent film star?",
+        "answer": "greta garbo",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "60",
+        "c_percent": "43",
+        "d_percent": "28",
+        "e_percent": "14",
+        "r_percent": "27"
+    },
+    "2": {
+        "category": "GAMES/SPORT",
+        "prompt": "This creatively shaped board is designed for use in what game? ",
+        "answer": "cribbage",
+        "image": "/images/art/8950vn095867.jpg",
+        "a_percent": "84",
+        "b_percent": "77",
+        "c_percent": "64",
+        "d_percent": "59",
+        "e_percent": "50",
+        "r_percent": "55"
+    },
+    "3": {
+        "category": "GEOGRAPHY",
+        "prompt": "In addition to the autonomous provinces of Kosovo and Vojvodina, the Socialist Federal Republic of Yugoslavia, which existed from 1943 until 1992, comprised six republics, all of which are sovereign nations today. Which of those six is missing from the following list? Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia.",
+        "answer": "slovenia",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "81",
+        "c_percent": "72",
+        "d_percent": "55",
+        "e_percent": "31",
+        "r_percent": "47"
+    },
+    "4": {
+        "category": "AMER HIST",
+        "prompt": "Name the politician, considered the \"Father of the United Nations\" (and Nobel Peace Prize laureate in 1945 \"for his long and indefatigable work for understanding between nations\"), who was\u2014by far\u2014the longest-serving secretary of state in U.S. history.",
+        "answer": "cordell hull",
+        "image": null,
+        "a_percent": "55",
+        "b_percent": "28",
+        "c_percent": "18",
+        "d_percent": "8",
+        "e_percent": "4",
+        "r_percent": "14"
+    },
+    "5": {
+        "category": "ART",
+        "prompt": "Robert Capa, Margaret Bourke-White, Garry Winogrand, Walker Evans, and Martin Parr are all best known as practitioners of what profession?",
+        "answer": "photography",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "64",
+        "c_percent": "54",
+        "d_percent": "37",
+        "e_percent": "19",
+        "r_percent": "34"
+    },
+    "6": {
+        "category": "SCIENCE",
+        "prompt": "Parasites that live outside the host, such as lice and fleas, are referred to as ectoparasites. What is the corresponding term for parasites that live in the interior, such as tapeworms and flukes?",
+        "answer": "endoparasites",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "96",
+        "c_percent": "91",
+        "d_percent": "92",
+        "e_percent": "84",
+        "r_percent": "88"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 69,
+    "day": 18,
+    "date": "June 20, 2016",
+    "1": {
+        "category": "ART",
+        "prompt": "This proto-Baroque work is the final painting in the career and life of what artist? ",
+        "answer": "raphael",
+        "image": "/images/art/34875yc9.jpg",
+        "a_percent": "37",
+        "b_percent": "32",
+        "c_percent": "26",
+        "d_percent": "26",
+        "e_percent": "18",
+        "r_percent": "27"
+    },
+    "2": {
+        "category": "AMER HIST",
+        "prompt": "In the history of the United States, two men have served as vice president under two different presidents. One is George Clinton, who served under Jefferson and Madison. What onetime nationalist, latter-day rabid sectionalist, and fiery slavery advocate is the other, serving under both John Quincy Adams and Andrew Jackson?",
+        "answer": "john c. calhoun",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "68",
+        "c_percent": "57",
+        "d_percent": "43",
+        "e_percent": "22",
+        "r_percent": "45"
+    },
+    "3": {
+        "category": "LITERATURE",
+        "prompt": "Iphigenia, Electra, Orestes, and Chrysothemis were children of what rather turbulent pair, the king and queen of Mycenae?",
+        "answer": "agamemnon, clytemnestra",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "55",
+        "c_percent": "39",
+        "d_percent": "25",
+        "e_percent": "12",
+        "r_percent": "29"
+    },
+    "4": {
+        "category": "POP MUSIC",
+        "prompt": "After being fired from Metallica in April 1983 after serious clashes with his bandmates (among other issues), lead guitarist Dave Mustaine immediately went on to form a band that would soon be named what\u2014a name under which the band achieved great success that continues to the present?",
+        "answer": "megadeth",
+        "image": null,
+        "a_percent": "73",
+        "b_percent": "63",
+        "c_percent": "51",
+        "d_percent": "41",
+        "e_percent": "32",
+        "r_percent": "45"
+    },
+    "5": {
+        "category": "CLASS MUSIC",
+        "prompt": "What musical-instrument maker and inventor, best remembered today for his namesake woodwind, achieved renown at an early age when, as a fifteen-year-old, he exhibited flutes and a clarinet he produced in his father's shop at the 1830 Brussels Industrial Exhibition?",
+        "answer": "adolphe sax",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "55",
+        "c_percent": "42",
+        "d_percent": "27",
+        "e_percent": "13",
+        "r_percent": "30"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "The English Premier League, Spanish Primera Divisi\u00f3n (La Liga), the French Ligue 1, Italian Serie A, and Dutch Eredivisie: What is the German entity that corresponds to the items in this list?",
+        "answer": "bundesliga",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "74",
+        "c_percent": "64",
+        "d_percent": "54",
+        "e_percent": "41",
+        "r_percent": "51"
+    }
+}

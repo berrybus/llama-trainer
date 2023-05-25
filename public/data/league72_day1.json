@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 1,
+    "date": "February 21, 2017",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "Tavau is the local Romansh name for what fashionable resort town and geopolitical destination in the Rhaetian Alps?",
+        "answer": "davos",
+        "image": null,
+        "a_percent": "70",
+        "b_percent": "60",
+        "c_percent": "52",
+        "d_percent": "40",
+        "e_percent": "26",
+        "r_percent": "34"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "What is the full name of the man who assumed the position of Eternal President of the Democratic People's Republic of Korea in September 1998, despite having died four years prior?",
+        "answer": "kim il-sung",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "69",
+        "c_percent": "61",
+        "d_percent": "46",
+        "e_percent": "27",
+        "r_percent": "37"
+    },
+    "3": {
+        "category": "FILM",
+        "prompt": "What actor died in 2008 during the filming of the Terry Gilliam fantasy film The Imaginarium of Doctor Parnassus, which was completed with parts of the actor's role played by Johnny Depp, Jude Law, and Colin Farrell?",
+        "answer": "heath ledger",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "87",
+        "c_percent": "81",
+        "d_percent": "77",
+        "e_percent": "72",
+        "r_percent": "78"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "In 1832, Sam Houston, formerly a governor of Tennessee, settled in what would become the state of Texas, where he would also become governor. Unrelatedly, in 1997, a well-known organization made a highly publicized reverse trip of sorts, migrating from Texas to Tennessee. What is the current name of that organization?",
+        "answer": "tennessee titans",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "69",
+        "c_percent": "65",
+        "d_percent": "56",
+        "e_percent": "46",
+        "r_percent": "52"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "The mammalian brain is typically classified anatomically into six lobes. Five are the frontal, parietal, temporal, limbic, and insular. What is the sixth?",
+        "answer": "occipital",
+        "image": null,
+        "a_percent": "75",
+        "b_percent": "59",
+        "c_percent": "49",
+        "d_percent": "38",
+        "e_percent": "25",
+        "r_percent": "38"
+    },
+    "6": {
+        "category": "BUS/ECON",
+        "prompt": "A coffee house on London's Tower Street was the birthplace in 1688 of a namesake center of shipping intelligence and marine insurance market that has evolved into a giant and diverse general insurance marketplace. What is that shared name?",
+        "answer": "lloyd's",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "83",
+        "c_percent": "71",
+        "d_percent": "57",
+        "e_percent": "39",
+        "r_percent": "52"
+    }
+}

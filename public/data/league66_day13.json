@@ -1,0 +1,77 @@
+{
+    "league": 66,
+    "day": 13,
+    "date": "September 8, 2015",
+    "1": {
+        "category": "AMER HIST",
+        "prompt": "The Morrill Land-Grant Acts, passed by the U.S. Congress in 1862 and 1890, provided for the creation of what type of institution?",
+        "answer": "colleges",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "77",
+        "c_percent": "72",
+        "d_percent": "60",
+        "e_percent": "45",
+        "r_percent": "55"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "One specific portion of a song that spent three weeks at #1 on the Billboard chart in August 1965 appeared ten different times as diegetic music (i.e. occurring in the scenes themselves, not added in) in what popular comedy film?",
+        "answer": "groundhog day",
+        "image": null,
+        "a_percent": "48",
+        "b_percent": "37",
+        "c_percent": "33",
+        "d_percent": "26",
+        "e_percent": "18",
+        "r_percent": "25"
+    },
+    "3": {
+        "category": "FOOD/DRINK",
+        "prompt": "A popular British emergency dish since the Middle Ages is what descriptively (and accurately) named porridge of wheat flour and boiling milk or water? Originating (as a term) in the late 1500s, its recipe was recorded in 1747 in Hannah Glasse's The Art of Cookery Made Plain and Easy.",
+        "answer": "hasty pudding",
+        "image": null,
+        "a_percent": "16",
+        "b_percent": "11",
+        "c_percent": "5",
+        "d_percent": "4",
+        "e_percent": "1",
+        "r_percent": "4"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "Although no player has eclipsed a .400 batting average in Major League Baseball since Ted Williams's .406 in 1941, what late perennial All-Star outfielder and Hall of Famer has come the closest, finishing with a .394 average in the strike-shortened 1994 season?",
+        "answer": "tony gwynn",
+        "image": null,
+        "a_percent": "70",
+        "b_percent": "54",
+        "c_percent": "46",
+        "d_percent": "39",
+        "e_percent": "32",
+        "r_percent": "39"
+    },
+    "5": {
+        "category": "LIFESTYLE",
+        "prompt": "Selling tens of millions per year during its heyday (but very few today), the \"spider,\" commissioned by business executive David Sarnoff and created by American inventor Thomas Hutchison, was used as an adaptor for what product?",
+        "answer": "45 rpm record",
+        "image": null,
+        "a_percent": "46",
+        "b_percent": "32",
+        "c_percent": "22",
+        "d_percent": "14",
+        "e_percent": "8",
+        "r_percent": "19"
+    },
+    "6": {
+        "category": "SCIENCE",
+        "prompt": "From the Latin for \"center\" and \"seek,\" what is the term from physics for the net force acting on an object moving in a circular path (the force directed toward the center of that path)?",
+        "answer": "centripetal force",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "74",
+        "c_percent": "66",
+        "d_percent": "60",
+        "e_percent": "51",
+        "r_percent": "55"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 64,
+    "day": 9,
+    "date": "February 27, 2015",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "The 1,099-mile-long Baku-Tbilisi-Ceyhan pipeline transports crude oil originating from fields in what body of water?",
+        "answer": "caspian sea",
+        "image": null,
+        "a_percent": "79",
+        "b_percent": "65",
+        "c_percent": "64",
+        "d_percent": "43",
+        "e_percent": "26",
+        "r_percent": "44"
+    },
+    "2": {
+        "category": "TELEVISION",
+        "prompt": "What was private investigator and guesthouse-resident Thomas S. Magnum's favorite baseball team?",
+        "answer": "detroit tigers",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "50",
+        "c_percent": "41",
+        "d_percent": "33",
+        "e_percent": "22",
+        "r_percent": "29"
+    },
+    "3": {
+        "category": "POP MUSIC",
+        "prompt": "Shortly after the conclusion of WWII hostilities in Europe in May of 1945, the #1 single on the Billboard \"Best Sellers in Stores\" chart was, fittingly, \"Sentimental Journey\", which became an unofficial homecoming theme for returning veterans. This original recording, backed by Les Brown and His Band of Renown, was the first #1 hit for what artist, who would soon become a major star of music and film in her own right?",
+        "answer": "doris day",
+        "image": null,
+        "a_percent": "64",
+        "b_percent": "45",
+        "c_percent": "34",
+        "d_percent": "30",
+        "e_percent": "13",
+        "r_percent": "26"
+    },
+    "4": {
+        "category": "WORLD HIST",
+        "prompt": "The paradoxically cordial-sounding Treaty of Friendship, Co-operation, and Mutual Assistance was formed in May of 1955 as the military complement to an economic organization formally named the Council for Mutual Economic Assistance. By what name is this treaty best known?",
+        "answer": "warsaw pact",
+        "image": null,
+        "a_percent": "82",
+        "b_percent": "65",
+        "c_percent": "63",
+        "d_percent": "42",
+        "e_percent": "22",
+        "r_percent": "39"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "The ultramafic igneous rock known as kimberlite is today the world's primary source of what mineral with important scientific and industrial applications?",
+        "answer": "diamond",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "46",
+        "c_percent": "40",
+        "d_percent": "23",
+        "e_percent": "12",
+        "r_percent": "26"
+    },
+    "6": {
+        "category": "LITERATURE",
+        "prompt": "The Henry Wadsworth Longfellow poem which appeared in his 1863 Tales of a Wayside Inn collection as \"The Landlord's Tale\" describes legendary (and largely fictional) exploits of what American hero?",
+        "answer": "paul revere",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "62",
+        "c_percent": "50",
+        "d_percent": "43",
+        "e_percent": "27",
+        "r_percent": "41"
+    }
+}

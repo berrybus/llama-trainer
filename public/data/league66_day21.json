@@ -1,0 +1,77 @@
+{
+    "league": 66,
+    "day": 21,
+    "date": "September 18, 2015",
+    "1": {
+        "category": "GAMES/SPORT",
+        "prompt": "In the standard English language version of the game Scrabble, of the one hundred letter tiles, there is one that is worth exactly five points. What letter is on that tile?",
+        "answer": "k",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "69",
+        "c_percent": "62",
+        "d_percent": "53",
+        "e_percent": "44",
+        "r_percent": "50"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "Emmental, Maritime, Ligurian, Cottian, Graian, Dauphin\u00e9, Lepontine, Rhaetian, Bernese, Noric, Dinaric, Hohe Tauern, Karawanken: these are all among the most widely known examples of what, specifically?",
+        "answer": "alpine mountain ranges",
+        "image": null,
+        "a_percent": "47",
+        "b_percent": "26",
+        "c_percent": "20",
+        "d_percent": "10",
+        "e_percent": "2",
+        "r_percent": "13"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "Not including the Sun itself, Jupiter is the largest object in the solar system, with an equatorial radius of over 71,000 km. The seventh-largest object (still excluding the Sun), with a radius just under 4,000 km, is best known by what name?",
+        "answer": "mars",
+        "image": null,
+        "a_percent": "61",
+        "b_percent": "48",
+        "c_percent": "42",
+        "d_percent": "33",
+        "e_percent": "24",
+        "r_percent": "35"
+    },
+    "4": {
+        "category": "BUS/ECON",
+        "prompt": "Pictured here is the logo for what multinational corporation? ",
+        "answer": "lg",
+        "image": "/images/art/7y4598y9cn847t5y73.jpg",
+        "a_percent": "95",
+        "b_percent": "93",
+        "c_percent": "92",
+        "d_percent": "91",
+        "e_percent": "90",
+        "r_percent": "91"
+    },
+    "5": {
+        "category": "AMER HIST",
+        "prompt": "A precursor to minstrel show popularity in the mid-nineteenth-century United States was a nationally famous song-and-dance routine done in blackface by white performer Thomas Dartmouth Rice. The ethnic caricature Rice performed went by what name\u2014a name whose racist connotation and association would be applied more broadly over the subsequent 100+ years?",
+        "answer": "jim crow",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "62",
+        "c_percent": "53",
+        "d_percent": "39",
+        "e_percent": "28",
+        "r_percent": "44"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "Although perhaps rivaled by the Medjool, the world commerce of what fruit has long been dominated by the sweet, mild, and slightly nutty Deglet Noor?",
+        "answer": "date",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "81",
+        "c_percent": "72",
+        "d_percent": "66",
+        "e_percent": "53",
+        "r_percent": "63"
+    }
+}

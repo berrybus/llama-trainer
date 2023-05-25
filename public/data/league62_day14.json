@@ -1,0 +1,77 @@
+{
+    "league": 62,
+    "day": 14,
+    "date": "September 5, 2014",
+    "1": {
+        "category": "SCIENCE",
+        "prompt": "The change in internal energy of a system is equal to the heat supplied to the system, minus the work done by the system. Or, \u0394U=Q-W. These are expressions of a law of physics, a version of the law of conservation of energy, which is most commonly known as what?",
+        "answer": "first law of thermodynamics",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "50",
+        "c_percent": "46",
+        "d_percent": "34",
+        "e_percent": "23",
+        "r_percent": "32"
+    },
+    "2": {
+        "category": "ART",
+        "prompt": "The paintings in this montage all currently hang near, and are associated with (though are not necessarily of), what river? ",
+        "answer": "hudson",
+        "image": "/images/art/88nxn04893n098y.jpg",
+        "a_percent": "70",
+        "b_percent": "57",
+        "c_percent": "48",
+        "d_percent": "37",
+        "e_percent": "20",
+        "r_percent": "29"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "After the firing of the show's creator John Kricfalusi in 1992, Billy West took over voicing duties for both title characters in what animated television series?",
+        "answer": "the ren & stimpy show",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "81",
+        "c_percent": "78",
+        "d_percent": "71",
+        "e_percent": "55",
+        "r_percent": "66"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "Western Michigan native Julie Krone is noteworthy as the first woman ever inducted into the primary American hall of fame associated with what sport?",
+        "answer": "horse racing",
+        "image": null,
+        "a_percent": "47",
+        "b_percent": "33",
+        "c_percent": "22",
+        "d_percent": "18",
+        "e_percent": "10",
+        "r_percent": "14"
+    },
+    "5": {
+        "category": "GEOGRAPHY",
+        "prompt": "British Honduras was the colonial name of what current country, which, because of its Anglophone legacy, is the only country in Central America with English as its official language?",
+        "answer": "belize",
+        "image": null,
+        "a_percent": "96",
+        "b_percent": "89",
+        "c_percent": "81",
+        "d_percent": "71",
+        "e_percent": "48",
+        "r_percent": "62"
+    },
+    "6": {
+        "category": "AMER HIST",
+        "prompt": "This organization, which was established in 1971 as an evolution of the informal Democratic Select Committee, has grown from its original 12 members to over 40 today, including its current Chair, U.S. Representative Marcia Fudge of Cleveland, Ohio.",
+        "answer": "congressional black caucus",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "56",
+        "c_percent": "53",
+        "d_percent": "41",
+        "e_percent": "23",
+        "r_percent": "30"
+    }
+}

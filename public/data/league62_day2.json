@@ -1,0 +1,77 @@
+{
+    "league": 62,
+    "day": 2,
+    "date": "August 19, 2014",
+    "1": {
+        "category": "WORLD HIST",
+        "prompt": "Lord Byng of Vimy (Julian Hedworth George Byng, 1st Viscount Byng of Vimy -- a.k.a. \"Bungo\"), served from 1921 to 1926 as Governor General of what British Dominion?",
+        "answer": "canada",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "58",
+        "c_percent": "48",
+        "d_percent": "29",
+        "e_percent": "15",
+        "r_percent": "25"
+    },
+    "2": {
+        "category": "LITERATURE",
+        "prompt": "What book, first published in 1653, remains today almost surely the most celebrated work of literature on the vitality and artistry of fly fishing (while living a life of pleasant serenity)?",
+        "answer": "the compleat angler",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "51",
+        "c_percent": "40",
+        "d_percent": "23",
+        "e_percent": "8",
+        "r_percent": "17"
+    },
+    "3": {
+        "category": "CLASS MUSIC",
+        "prompt": "A musical march known as a screamer, such as those written by famous screamer composer Karl L. King, is most closely associated with what type of event?",
+        "answer": "circus",
+        "image": null,
+        "a_percent": "44",
+        "b_percent": "32",
+        "c_percent": "23",
+        "d_percent": "12",
+        "e_percent": "7",
+        "r_percent": "15"
+    },
+    "4": {
+        "category": "ART",
+        "prompt": "Identify the woman in this image (last name not required). ",
+        "answer": "christina (anna christina olson)",
+        "image": "/images/art/8u0c98u540986uv059v8y60.jpg",
+        "a_percent": "71",
+        "b_percent": "52",
+        "c_percent": "40",
+        "d_percent": "28",
+        "e_percent": "17",
+        "r_percent": "31"
+    },
+    "5": {
+        "category": "THEATRE",
+        "prompt": "These comedic theatre legends first appeared together on stage in 1924, in Ferenc Moln\u00e1r's The Guardsman, two years after their marriage, and had their swan song in 1958's The Visit, in the Broadway theatre renamed in their honor. Name these stage stars.",
+        "answer": "alfred lunt, lynn fontanne",
+        "image": null,
+        "a_percent": "40",
+        "b_percent": "26",
+        "c_percent": "14",
+        "d_percent": "16",
+        "e_percent": "7",
+        "r_percent": "12"
+    },
+    "6": {
+        "category": "TELEVISION",
+        "prompt": "Yo dawg, TLC's Overhaulin', CMT's Trick My Truck, Speed Channel's Unique Whips, and Spike TV's Ride with Funkmaster Flex were all thematically similar to what MTV hit series, which premiered in March, 2004?",
+        "answer": "pimp my ride",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "92",
+        "c_percent": "93",
+        "d_percent": "92",
+        "e_percent": "88",
+        "r_percent": "89"
+    }
+}

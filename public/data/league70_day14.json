@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 14,
+    "date": "September 14, 2016",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "Upon its completion in July 1904, the Trans-Siberian Railway connected Moscow and European Russia with what Pacific Ocean port city?",
+        "answer": "vladivostok",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "73",
+        "c_percent": "66",
+        "d_percent": "48",
+        "e_percent": "26",
+        "r_percent": "46"
+    },
+    "2": {
+        "category": "POP MUSIC",
+        "prompt": "\"Chandelier,\" \"Elastic Heart,\" and \"Cheap Thrills\" are the biggest hits (so far) from what Australian singer-songwriter?",
+        "answer": "sia (furler)",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "68",
+        "c_percent": "63",
+        "d_percent": "56",
+        "e_percent": "56",
+        "r_percent": "63"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "What is the term, often applied conceptually in relation to the first law of thermodynamics, for a process in which there is no transfer of heat between a system and its surroundings? The word comes directly from the Greek for \"impassable\".",
+        "answer": "adiabatic",
+        "image": null,
+        "a_percent": "34",
+        "b_percent": "21",
+        "c_percent": "14",
+        "d_percent": "10",
+        "e_percent": "6",
+        "r_percent": "12"
+    },
+    "4": {
+        "category": "AMER HIST",
+        "prompt": "With the creation of the U.S. Department of Education in 1979, another cabinet-level department saw its scope of functions reduced and, accordingly, its name changed. What was the new (and still current) full name of this department, whose original incarnation was formed in 1953?",
+        "answer": "health and human services",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "73",
+        "c_percent": "64",
+        "d_percent": "50",
+        "e_percent": "29",
+        "r_percent": "46"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "Dunder Mifflin is to Scranton as Wernham Hogg is to what English town?",
+        "answer": "slough",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "52",
+        "c_percent": "39",
+        "d_percent": "31",
+        "e_percent": "15",
+        "r_percent": "31"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "The chief use of the plant Althaea officinalis is the mucilaginous substance yielded by its roots, which is the traditional basis for a popular confection (though largely replaced today by gum arabic or gelatin). What is the common name of this plant, which is also the name for the confection itself?",
+        "answer": "marshmallow",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "46",
+        "c_percent": "36",
+        "d_percent": "26",
+        "e_percent": "17",
+        "r_percent": "32"
+    }
+}

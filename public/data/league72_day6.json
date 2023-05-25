@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 6,
+    "date": "February 28, 2017",
+    "1": {
+        "category": "TELEVISION",
+        "prompt": "The characters on the animated sitcom Family Guy frequent The Drunken Clam, a bar whose name is possibly in reference to the fictional town in which the show is set. What is the name of that town?",
+        "answer": "quahog",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "86",
+        "c_percent": "81",
+        "d_percent": "75",
+        "e_percent": "68",
+        "r_percent": "74"
+    },
+    "2": {
+        "category": "ART",
+        "prompt": "The paintings pictured here, as well as more than 50 works by Rembrandt and dozens by Vincent Van Gogh (including one that sold for $71.5 million in 1998), all share, most prominently, what distinction? ",
+        "answer": "self-portraits",
+        "image": "/images/art/3498c5y0.jpg",
+        "a_percent": "80",
+        "b_percent": "68",
+        "c_percent": "66",
+        "d_percent": "54",
+        "e_percent": "44",
+        "r_percent": "52"
+    },
+    "3": {
+        "category": "WORLD HIST",
+        "prompt": "What was the name given to the ecclesiastical court established by the Roman Catholic Church, beginning with Pope Gregory IX in 1231, whose jurisdiction was the prosecution of heresy?",
+        "answer": "inquisition",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "83",
+        "c_percent": "78",
+        "d_percent": "67",
+        "e_percent": "53",
+        "r_percent": "64"
+    },
+    "4": {
+        "category": "LITERATURE",
+        "prompt": "The iamb is the metrical foot consisting of one short or unstressed syllable followed by one long or stressed syllable (as in the words belong, exist, and impeach). What metrical foot consists of the reverse\u2014one stressed syllable followed by one unstressed syllable (as in planet, nugget, and learned)?",
+        "answer": "trochee",
+        "image": null,
+        "a_percent": "62",
+        "b_percent": "43",
+        "c_percent": "34",
+        "d_percent": "22",
+        "e_percent": "12",
+        "r_percent": "22"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "In analytical chemistry, the technique used to find the concentration of one compound in a solution by determining the quantity that will react with a defined amount of another compound in solution is known as what?",
+        "answer": "titration",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "55",
+        "c_percent": "51",
+        "d_percent": "42",
+        "e_percent": "36",
+        "r_percent": "41"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "The \"whites-only\" restriction of this Harlem night club was limited to the patrons, as it's largely remembered for featuring the most popular black entertainers of its day, including the four-year Prohibition-era residence of Duke Ellington and his band. What was the name of this legendary venue?",
+        "answer": "cotton club",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "76",
+        "c_percent": "61",
+        "d_percent": "51",
+        "e_percent": "30",
+        "r_percent": "42"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 65,
+    "day": 16,
+    "date": "June 9, 2015",
+    "1": {
+        "category": "BUS/ECON",
+        "prompt": "The United Fruit Company, formed in 1899, held monopolistic power in much of Central America, and contributed greatly (and in many cases, negatively) to the national politics of the region, particularly in countries that came to be known as \"banana republics\" due to the company's influence. After a series of mergers and acquisitions, UFC is now what successor company?",
+        "answer": "chiquita (brands international)",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "69",
+        "c_percent": "62",
+        "d_percent": "51",
+        "e_percent": "47",
+        "r_percent": "54"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "This is a screenshot from what film? ",
+        "answer": "spirited away",
+        "image": "/images/art/343895c0m950.jpg",
+        "a_percent": "64",
+        "b_percent": "53",
+        "c_percent": "52",
+        "d_percent": "47",
+        "e_percent": "39",
+        "r_percent": "49"
+    },
+    "3": {
+        "category": "LITERATURE",
+        "prompt": "Michiko Kakutani, who has been on staff at the New York Times since 1979, and in her current role since 1983, was awarded a Pulitzer Prize in 1998 in what category?",
+        "answer": "criticism",
+        "image": null,
+        "a_percent": "57",
+        "b_percent": "46",
+        "c_percent": "34",
+        "d_percent": "23",
+        "e_percent": "13",
+        "r_percent": "25"
+    },
+    "4": {
+        "category": "POP MUSIC",
+        "prompt": "1963's \"Green, Green\"; 1973's \"Panama Red\"; 1983's \"Blue Monday\"; 1989's \"Didn't I (Blow Your Mind)\"; 1993's \"7\"; 1996's \"Hit Me Off\"; and 1998's \"You Get What You Give\" are songs by bands that all have what word in their names?",
+        "answer": "new",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "71",
+        "c_percent": "66",
+        "d_percent": "58",
+        "e_percent": "41",
+        "r_percent": "56"
+    },
+    "5": {
+        "category": "WORLD HIST",
+        "prompt": "The 2001 EDSA Revolution was a political protest in January of that year resulting in the peaceful overthrow of President Joseph Estrada, who was the 13th president of what nation?",
+        "answer": "philippines",
+        "image": null,
+        "a_percent": "62",
+        "b_percent": "45",
+        "c_percent": "32",
+        "d_percent": "21",
+        "e_percent": "13",
+        "r_percent": "27"
+    },
+    "6": {
+        "category": "THEATRE",
+        "prompt": "The transformation of a men's shoe factory in the East Midlands of England into one that produces women's footwear, but catering to men, is the central plotline to what Tony award-winning Broadway musical?",
+        "answer": "kinky boots",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "73",
+        "c_percent": "67",
+        "d_percent": "63",
+        "e_percent": "52",
+        "r_percent": "60"
+    }
+}

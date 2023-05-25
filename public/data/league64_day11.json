@@ -1,0 +1,77 @@
+{
+    "league": 64,
+    "day": 11,
+    "date": "March 3, 2015",
+    "1": {
+        "category": "GAMES/SPORT",
+        "prompt": "The popular card game Klondike, which uses a standard 52-card deck with no Jokers, is also known (and perhaps better known) by an alternate name that is actually the category of card game under which Klondike falls. What is that other name?",
+        "answer": "solitaire (patience)",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "80",
+        "c_percent": "79",
+        "d_percent": "68",
+        "e_percent": "53",
+        "r_percent": "62"
+    },
+    "2": {
+        "category": "POP MUSIC",
+        "prompt": "Mick Jones, guitarist and founding member of the rock band Foreigner, is the (former) stepfather of what current chart-topping English musician and producer (as well as his twin sisters)?",
+        "answer": "mark ronson",
+        "image": null,
+        "a_percent": "49",
+        "b_percent": "34",
+        "c_percent": "33",
+        "d_percent": "21",
+        "e_percent": "12",
+        "r_percent": "21"
+    },
+    "3": {
+        "category": "WORLD HIST",
+        "prompt": "Following France's humiliating defeat at the hands of the North German Confederation (the soon-to-be German Empire) in 1871, a socialist revolutionary uprising gained rule in the nation's capital city via the election of a municipal council, which was hastily and very violently suppressed by the monarchist French government by May of that year. What is the common name given both to this council and the uprising itself?",
+        "answer": "paris commune",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "51",
+        "c_percent": "43",
+        "d_percent": "28",
+        "e_percent": "9",
+        "r_percent": "26"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "Treatment of animal fats or vegetable oils with sodium hydroxide or potassium hydroxide is the fundamental process used most often to create what?",
+        "answer": "soap",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "74",
+        "c_percent": "63",
+        "d_percent": "55",
+        "e_percent": "42",
+        "r_percent": "54"
+    },
+    "5": {
+        "category": "LANGUAGE",
+        "prompt": "The verb in the following sentence is in the present tense; please rewrite the sentence with the verb in the present perfect tense. I enjoy eating cheese.",
+        "answer": "i have enjoyed eating cheese",
+        "image": null,
+        "a_percent": "77",
+        "b_percent": "61",
+        "c_percent": "55",
+        "d_percent": "40",
+        "e_percent": "27",
+        "r_percent": "38"
+    },
+    "6": {
+        "category": "MATH",
+        "prompt": "What is the term from mathematics for the fractional part of a common logarithm (i.e. the part after the decimal point)? It's also used more generally for the fractional part of any real number\u2014for example, the .259 in 8.259.",
+        "answer": "mantissa",
+        "image": null,
+        "a_percent": "32",
+        "b_percent": "23",
+        "c_percent": "19",
+        "d_percent": "11",
+        "e_percent": "8",
+        "r_percent": "12"
+    }
+}

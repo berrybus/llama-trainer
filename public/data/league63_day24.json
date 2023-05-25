@@ -1,0 +1,77 @@
+{
+    "league": 63,
+    "day": 24,
+    "date": "December 16, 2014",
+    "1": {
+        "category": "SCIENCE",
+        "prompt": "Typically, acne is caused by blockage and inflammation of what skin glands, due to the overproduction of the glands' oily secretion (from which the gland takes its name)?",
+        "answer": "sebaceous glands",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "74",
+        "c_percent": "65",
+        "d_percent": "56",
+        "e_percent": "37",
+        "r_percent": "56"
+    },
+    "2": {
+        "category": "POP MUSIC",
+        "prompt": "With the help of his sister Estelle Axton, Tennessee businessman Jim Stewart founded the seminal record label Satellite Records in 1957 and\u2014after the discovery of another California-based Satellite Records\u2014changed its name in 1961 to what new name, which it retained through its 1977 bankruptcy?",
+        "answer": "stax records",
+        "image": null,
+        "a_percent": "52",
+        "b_percent": "34",
+        "c_percent": "33",
+        "d_percent": "22",
+        "e_percent": "11",
+        "r_percent": "21"
+    },
+    "3": {
+        "category": "GEOGRAPHY",
+        "prompt": "This English navigator sailed with Captain James Cook on explorations of Australia, New Zealand, and the Hawaiian Islands, but he is best remembered today for his extensive and precise survey work on the Pacific coast of northern North America, where numerous locations have been named in his honor (including a major city in the region). Name the man.",
+        "answer": "george vancouver",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "72",
+        "c_percent": "71",
+        "d_percent": "58",
+        "e_percent": "36",
+        "r_percent": "53"
+    },
+    "4": {
+        "category": "FOOD/DRINK",
+        "prompt": "Whereas most leavened bread is yeast risen, the type of bread that instead uses NaHCO3 as a leavening agent is best known generally as what? Specific examples include Scottish bannocks, Australian damper, and a popular Irish namesake variety.",
+        "answer": "soda bread",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "81",
+        "c_percent": "83",
+        "d_percent": "79",
+        "e_percent": "68",
+        "r_percent": "73"
+    },
+    "5": {
+        "category": "THEATRE",
+        "prompt": "Name the successful and enduring 1959 play, the first written by an African American woman to be produced on Broadway, whose title comes from the 1951 Langston Hughes poem \"Harlem\".",
+        "answer": "a raisin in the sun",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "81",
+        "c_percent": "74",
+        "d_percent": "63",
+        "e_percent": "46",
+        "r_percent": "60"
+    },
+    "6": {
+        "category": "LIFESTYLE",
+        "prompt": "What American organization holds membership in the international federation that also includes Israel's Magen David Adom, Turkey's T\u00fcrk K\u0131z\u0131lay\u0131, and Saudi Arabia's SRCA?",
+        "answer": "american red cross",
+        "image": null,
+        "a_percent": "69",
+        "b_percent": "54",
+        "c_percent": "43",
+        "d_percent": "33",
+        "e_percent": "20",
+        "r_percent": "38"
+    }
+}

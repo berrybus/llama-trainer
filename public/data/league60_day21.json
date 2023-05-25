@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 21,
+    "date": "March 18, 2014",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "What is the most populous country in the world that has no land border with any other nation?",
+        "answer": "japan",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "61",
+        "c_percent": "61",
+        "d_percent": "55",
+        "e_percent": "46",
+        "r_percent": "52"
+    },
+    "2": {
+        "category": "TELEVISION",
+        "prompt": "All Growed Up was a special television movie, first airing on Nickelodeon in July 2001, which celebrated the 10th anniversary of what original Nicktoons series? The movie served as the pilot for the spinoff series All Grown Up!, which itself ran until 2008.",
+        "answer": "rugrats",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "81",
+        "c_percent": "83",
+        "d_percent": "74",
+        "e_percent": "69",
+        "r_percent": "81"
+    },
+    "3": {
+        "category": "WORLD HIST",
+        "prompt": "The highest military decoration for gallantry and valor awarded by the armed forces of the British Commonwealth is what medal?",
+        "answer": "victoria cross",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "51",
+        "c_percent": "50",
+        "d_percent": "32",
+        "e_percent": "14",
+        "r_percent": "31"
+    },
+    "4": {
+        "category": "LITERATURE",
+        "prompt": "The murder of an elderly pawnbroker and her younger half-sister is the titular felony in what classic novel, first published in 1866?",
+        "answer": "crime and punishment",
+        "image": null,
+        "a_percent": "89",
+        "b_percent": "77",
+        "c_percent": "67",
+        "d_percent": "56",
+        "e_percent": "34",
+        "r_percent": "54"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "Pictured here is an electronic device used to convert direct current power to alternating current power. By what term is such a device most commonly known? ",
+        "answer": "inverter",
+        "image": "/images/art/4895u0m93485y09.jpg",
+        "a_percent": "52",
+        "b_percent": "31",
+        "c_percent": "28",
+        "d_percent": "23",
+        "e_percent": "17",
+        "r_percent": "24"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "The 1979-80 season of the National Hockey League saw the addition of four teams from the recently disbanded World Hockey Association. Of the four, the Hartford Whalers, Winnipeg Jets, and Quebec Nordiques eventually relocated to different cities. Identify the fourth team, which remains today in its 1979 home city.",
+        "answer": "edmonton oilers",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "44",
+        "c_percent": "39",
+        "d_percent": "26",
+        "e_percent": "20",
+        "r_percent": "34"
+    }
+}

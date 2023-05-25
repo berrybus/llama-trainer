@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 24,
+    "date": "September 28, 2016",
+    "1": {
+        "category": "LITERATURE",
+        "prompt": "Journalist Ta-Nehisi Coates, poet Ellen Bryant Voigt, photographer LaToya Ruby Frazier, and playwright Lin-Manuel Miranda are among the 2015 recipients of the fellowship awarded by the private John D. and Catherine T. MacArthur Foundation. This prestigious prize is best known, colloquially, as what?",
+        "answer": "genius grant",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "88",
+        "c_percent": "85",
+        "d_percent": "76",
+        "e_percent": "60",
+        "r_percent": "68"
+    },
+    "2": {
+        "category": "FILM",
+        "prompt": "Who portrayed the characters Mars Blackmon in She's Gotta Have It (1986), Half-Pint in School Daze (1988), Mookie in Do the Right Thing (1989), and Snuffy in Crooklyn (1994)?",
+        "answer": "spike lee",
+        "image": null,
+        "a_percent": "90",
+        "b_percent": "86",
+        "c_percent": "77",
+        "d_percent": "68",
+        "e_percent": "50",
+        "r_percent": "61"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "Grey's Anatomy, Private Practice, and Scandal are (or were) all successful network series created and produced by what television mogul?",
+        "answer": "shonda rhimes",
+        "image": null,
+        "a_percent": "80",
+        "b_percent": "74",
+        "c_percent": "66",
+        "d_percent": "59",
+        "e_percent": "50",
+        "r_percent": "56"
+    },
+    "4": {
+        "category": "LIFESTYLE",
+        "prompt": "Until relatively recently, this name was most closely associated with the sister and wife of Osiris and mother of Horus in the Egyptian pantheon (or, perhaps, a DC Comics superheroine). What is that name?",
+        "answer": "isis",
+        "image": null,
+        "a_percent": "98",
+        "b_percent": "94",
+        "c_percent": "91",
+        "d_percent": "80",
+        "e_percent": "63",
+        "r_percent": "74"
+    },
+    "5": {
+        "category": "ART",
+        "prompt": "Who painted The Bus (pictured), which satirizes class divisions in Mexican society while recording a moment before a terrible accident that occurred in September 1925? ",
+        "answer": "frida kahlo",
+        "image": "/images/art/4985yc0984yn5034.jpg",
+        "a_percent": "74",
+        "b_percent": "68",
+        "c_percent": "60",
+        "d_percent": "54",
+        "e_percent": "47",
+        "r_percent": "52"
+    },
+    "6": {
+        "category": "SCIENCE",
+        "prompt": "In the early 2000s, the Women's Health Initiative, launched by the U.S. National Institutes of Health, as well as the Million Women Study conducted in the UK, both found an increase in the likelihood of developing breast cancer (and other ailments) among women who were undergoing what treatment, resulting in a precipitous drop in its use?",
+        "answer": "hormone replacement therapy (hrt)",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "56",
+        "c_percent": "49",
+        "d_percent": "47",
+        "e_percent": "37",
+        "r_percent": "45"
+    }
+}

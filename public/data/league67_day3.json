@@ -1,0 +1,77 @@
+{
+    "league": 67,
+    "day": 3,
+    "date": "November 12, 2015",
+    "1": {
+        "category": "LITERATURE",
+        "prompt": "The Pulitzer Prize-winning 1968 novel House Made of Dawn, which tells the story of a young man's return from military service to his Kiowa pueblo, is the work of what Native American novelist and poet?",
+        "answer": "n. scott momaday",
+        "image": null,
+        "a_percent": "26",
+        "b_percent": "13",
+        "c_percent": "7",
+        "d_percent": "4",
+        "e_percent": "2",
+        "r_percent": "6"
+    },
+    "2": {
+        "category": "AMER HIST",
+        "prompt": "Three U.S. federal legislative amendments between 1982 and 1984, known collectively as the Boland Amendment, aimed to restrict United States government assistance to what group (but were scandalously unsuccessful in doing so)?",
+        "answer": "contras",
+        "image": null,
+        "a_percent": "85",
+        "b_percent": "71",
+        "c_percent": "66",
+        "d_percent": "47",
+        "e_percent": "29",
+        "r_percent": "39"
+    },
+    "3": {
+        "category": "CLASS MUSIC",
+        "prompt": "Give the term, common in classical music, which is a Latin translation (in the nominative case) of the word works. Note, this word is a plural noun.",
+        "answer": "opera",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "48",
+        "c_percent": "39",
+        "d_percent": "24",
+        "e_percent": "10",
+        "r_percent": "20"
+    },
+    "4": {
+        "category": "LIFESTYLE",
+        "prompt": "The 1982 Carolyn Seebohm biography The Man Who Was Vogue describes the life and times of what famous American magazine publisher and lover of luxury?",
+        "answer": "cond\u00e9 nast",
+        "image": null,
+        "a_percent": "62",
+        "b_percent": "48",
+        "c_percent": "35",
+        "d_percent": "23",
+        "e_percent": "13",
+        "r_percent": "23"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "Loam is a term used for a particular fertile soil that contains, in significant percentages, all three soil texture particle sizes. One of these three is silt, which makes up about 40% of loam; name both of the other two, which constitute 40% and 20% of loam, respectively.",
+        "answer": "sand, clay",
+        "image": null,
+        "a_percent": "61",
+        "b_percent": "44",
+        "c_percent": "31",
+        "d_percent": "24",
+        "e_percent": "17",
+        "r_percent": "28"
+    },
+    "6": {
+        "category": "TELEVISION",
+        "prompt": "On The Honeymooners, Ralph and Ed were faithful members of the Bensonhurst chapter of the Royal Order of Raccoons. On The Flintstones, beginning toward the end of the show's first season, Fred and Barney were members of the Loyal Order of what?",
+        "answer": "water buffalo",
+        "image": null,
+        "a_percent": "79",
+        "b_percent": "63",
+        "c_percent": "56",
+        "d_percent": "46",
+        "e_percent": "34",
+        "r_percent": "44"
+    }
+}

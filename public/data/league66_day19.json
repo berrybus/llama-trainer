@@ -1,0 +1,77 @@
+{
+    "league": 66,
+    "day": 19,
+    "date": "September 16, 2015",
+    "1": {
+        "category": "LANGUAGE",
+        "prompt": "What is the English translation of the Spanish phrase manzanas y naranjas?",
+        "answer": "apples and oranges",
+        "image": null,
+        "a_percent": "95",
+        "b_percent": "89",
+        "c_percent": "86",
+        "d_percent": "84",
+        "e_percent": "77",
+        "r_percent": "82"
+    },
+    "2": {
+        "category": "AMER HIST",
+        "prompt": "Whereas Abraham Lincoln won the 1860 U.S. presidential election running as a Republican, what Californian ran four years earlier as that party's first-ever official candidate for the office, losing to Democrat James Buchanan?",
+        "answer": "john c. fr\u00e9mont",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "49",
+        "c_percent": "34",
+        "d_percent": "21",
+        "e_percent": "7",
+        "r_percent": "26"
+    },
+    "3": {
+        "category": "MATH",
+        "prompt": "No three positive integers a, b, and c can satisfy the equation an + bn = cn for any integer value of n greater than two. This was first proven by British mathematician Andrew Wiles in 1994, and first conjectured in 1637 by whom?",
+        "answer": "pierre de fermat",
+        "image": null,
+        "a_percent": "78",
+        "b_percent": "66",
+        "c_percent": "53",
+        "d_percent": "41",
+        "e_percent": "25",
+        "r_percent": "35"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "The People's Republic of China shares a land border with fourteen other sovereign nations, but its longest border is with what country? It is the fourth-longest international land border in the world, after Canada/United States, Kazakhstan/Russia, and Argentina/Chile.",
+        "answer": "mongolia",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "86",
+        "c_percent": "83",
+        "d_percent": "76",
+        "e_percent": "64",
+        "r_percent": "74"
+    },
+    "5": {
+        "category": "LIFESTYLE",
+        "prompt": "This phrase, literally translating to \"Lord have mercy,\" was originally the people's response to the petitions of a litany, but although the litany eventually disappeared from the Catholic mass, the response remains as a fixed part. What is the phrase?",
+        "answer": "kyrie eleison",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "54",
+        "c_percent": "38",
+        "d_percent": "28",
+        "e_percent": "18",
+        "r_percent": "29"
+    },
+    "6": {
+        "category": "TELEVISION",
+        "prompt": "Boy Meets Grill, Throwdown!, Grillin' & Chillin', and 3 Days to Open, along with self-titled programs centered on brunch, BBQ, and \"dinner battles,\" are among the television series featuring what celebrity chef?",
+        "answer": "bobby flay",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "76",
+        "c_percent": "71",
+        "d_percent": "63",
+        "e_percent": "60",
+        "r_percent": "65"
+    }
+}

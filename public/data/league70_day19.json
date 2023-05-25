@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 19,
+    "date": "September 21, 2016",
+    "1": {
+        "category": "THEATRE",
+        "prompt": "What is the title of Eugene O'Neill's resetting of Aeschylus's Oresteia, premiering in October 1931? O'Neill reinterprets the title character as Lavinia, the sister of Orin (Orestes) and daughter of General Ezra Mannon (Agamemnon).",
+        "answer": "mourning becomes electra",
+        "image": null,
+        "a_percent": "65",
+        "b_percent": "45",
+        "c_percent": "28",
+        "d_percent": "14",
+        "e_percent": "6",
+        "r_percent": "19"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "\"Socialism with a human face\" was the description applied to the reform communism that was introduced in 1968 in Czechoslovakia. It provoked the Soviet invasion in August of that year and quickly failed. Who was the leader (and human) who proposed this new approach, about twenty years too early?",
+        "answer": "alexander dub\u010dek",
+        "image": null,
+        "a_percent": "53",
+        "b_percent": "31",
+        "c_percent": "17",
+        "d_percent": "10",
+        "e_percent": "4",
+        "r_percent": "15"
+    },
+    "3": {
+        "category": "BUS/ECON",
+        "prompt": "Standard & Poor's Depositary Receipts were the first of a family of U.S.-based exchange-traded funds (ETFs), which are today among the world's largest products traded on major exchanges. These funds, managed by State Street Global Advisors, are well known informally by what nickname?",
+        "answer": "spiders (spdr)",
+        "image": null,
+        "a_percent": "39",
+        "b_percent": "34",
+        "c_percent": "25",
+        "d_percent": "19",
+        "e_percent": "12",
+        "r_percent": "19"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "Hansen's disease, a mildly contagious and curable infectious condition now rare in the United States (and becoming rarer globally), is also known by what name?",
+        "answer": "leprosy",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "67",
+        "c_percent": "58",
+        "d_percent": "41",
+        "e_percent": "25",
+        "r_percent": "45"
+    },
+    "5": {
+        "category": "GEOGRAPHY",
+        "prompt": "What non-US island, despite a land area less than half the size of Rhode Island, is currently home to 32 U.S. military bases and about 10,000 American military personnel?",
+        "answer": "okinawa",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "64",
+        "c_percent": "56",
+        "d_percent": "43",
+        "e_percent": "28",
+        "r_percent": "44"
+    },
+    "6": {
+        "category": "FOOD/DRINK",
+        "prompt": "A picture of what appears, appropriately, on the label for HP Sauce, England's favorite brown sauce?",
+        "answer": "houses of parliament (big ben)",
+        "image": null,
+        "a_percent": "64",
+        "b_percent": "53",
+        "c_percent": "40",
+        "d_percent": "29",
+        "e_percent": "20",
+        "r_percent": "36"
+    }
+}

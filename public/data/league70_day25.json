@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 25,
+    "date": "September 29, 2016",
+    "1": {
+        "category": "GAMES/SPORT",
+        "prompt": "Identify the baseball star pictured here. ",
+        "answer": "mike trout",
+        "image": "/images/art/4895y09cyn405983.jpg",
+        "a_percent": "55",
+        "b_percent": "51",
+        "c_percent": "46",
+        "d_percent": "40",
+        "e_percent": "34",
+        "r_percent": "39"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "Upon the completion of its full route in 1889, what were the eastern and western terminuses of the original passenger train service dubbed the Orient Express? (Note: two cities required in answer.)",
+        "answer": "paris, istanbul",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "68",
+        "c_percent": "50",
+        "d_percent": "36",
+        "e_percent": "18",
+        "r_percent": "39"
+    },
+    "3": {
+        "category": "LIFESTYLE",
+        "prompt": "This is an example of a cosmetic applicator designed and marketed for the application of what? Note that the term itself is edited from the photo. ",
+        "answer": "(liquid) eyeliner",
+        "image": "/images/art/948yc054n0938.jpg",
+        "a_percent": "81",
+        "b_percent": "77",
+        "c_percent": "75",
+        "d_percent": "74",
+        "e_percent": "77",
+        "r_percent": "77"
+    },
+    "4": {
+        "category": "MATH",
+        "prompt": "An equilateral triangle has all sides of equal length, while an isosceles triangle has exactly two sides the same length. What's the accompanying term for any triangle with all sides of different lengths?",
+        "answer": "scalene",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "83",
+        "c_percent": "77",
+        "d_percent": "64",
+        "e_percent": "48",
+        "r_percent": "61"
+    },
+    "5": {
+        "category": "WORLD HIST",
+        "prompt": "What is the two-word title customarily conferred by a British monarch on his or her eldest daughter? There have officially been seven such title-holders, including the incumbent Anne, the oldest daughter of Elizabeth II (and her second eldest child after Charles).",
+        "answer": "princess royal",
+        "image": null,
+        "a_percent": "64",
+        "b_percent": "45",
+        "c_percent": "33",
+        "d_percent": "19",
+        "e_percent": "9",
+        "r_percent": "28"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "What smash hit song, the biggest in the career of country music group Little Big Town, won both the Song of the Year and Single of the Year at the CMA Awards in 2015, as well as the Best Country Song at the 2016 Grammys (losing to Ed Sheeran's \"Thinking Out Loud\" for Song of the Year Grammy)?",
+        "answer": "girl crush",
+        "image": null,
+        "a_percent": "34",
+        "b_percent": "22",
+        "c_percent": "15",
+        "d_percent": "13",
+        "e_percent": "9",
+        "r_percent": "20"
+    }
+}

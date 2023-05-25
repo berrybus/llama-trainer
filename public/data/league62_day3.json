@@ -1,0 +1,77 @@
+{
+    "league": 62,
+    "day": 3,
+    "date": "August 20, 2014",
+    "1": {
+        "category": "LIFESTYLE",
+        "prompt": "James B. Beam, Edmund Haynes Taylor, Jr., Albert B. Blanton, and James E. Pepper were famous American bourbon whiskey distillers who were all formally bestowed, by an act of government, with what honorific title?",
+        "answer": "colonel",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "50",
+        "c_percent": "50",
+        "d_percent": "32",
+        "e_percent": "20",
+        "r_percent": "32"
+    },
+    "2": {
+        "category": "GEOGRAPHY",
+        "prompt": "Although John Denver associates it with West Virginia in \"Take Me Home, Country Roads\", this tributary of the Potomac only runs through the state for approximately 20 miles, while the vast majority of the river and its major forks are in Virginia. Name the river.",
+        "answer": "shenandoah",
+        "image": null,
+        "a_percent": "83",
+        "b_percent": "76",
+        "c_percent": "66",
+        "d_percent": "52",
+        "e_percent": "39",
+        "r_percent": "54"
+    },
+    "3": {
+        "category": "POP MUSIC",
+        "prompt": "While \"Boom Clap\" became her first Billboard top ten single as a solo artist, what British singer and songwriter had already achieved significant popularity as a co-writer and featured artist on the hit songs \"I Love It\" by Icona Pop and \"Fancy\" by Iggy Azalea?",
+        "answer": "charli xcx",
+        "image": null,
+        "a_percent": "49",
+        "b_percent": "32",
+        "c_percent": "33",
+        "d_percent": "22",
+        "e_percent": "20",
+        "r_percent": "28"
+    },
+    "4": {
+        "category": "SCIENCE",
+        "prompt": "\"Universal donors\" is a term (not strictly accurate) used to refer to individuals who are classified by what blood type (in the most common blood group system, including Rh factor)?",
+        "answer": "type o negative",
+        "image": null,
+        "a_percent": "81",
+        "b_percent": "71",
+        "c_percent": "66",
+        "d_percent": "58",
+        "e_percent": "50",
+        "r_percent": "58"
+    },
+    "5": {
+        "category": "AMER HIST",
+        "prompt": "Mary, Eliza, Julia, Lucy, Lucretia, Mary (a different one), Rose, Frances, Caroline, Frances (the same one), and Ida were names of women among those who served during the second half of the 19th century in what exclusive position?",
+        "answer": "first lady of the united states",
+        "image": null,
+        "a_percent": "94",
+        "b_percent": "88",
+        "c_percent": "87",
+        "d_percent": "82",
+        "e_percent": "68",
+        "r_percent": "73"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "Both the youngest and the oldest winners of college football's Heisman Trophy award did so while playing for what university?",
+        "answer": "florida state university",
+        "image": null,
+        "a_percent": "51",
+        "b_percent": "38",
+        "c_percent": "29",
+        "d_percent": "26",
+        "e_percent": "23",
+        "r_percent": "19"
+    }
+}

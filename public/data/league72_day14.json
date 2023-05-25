@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 14,
+    "date": "March 10, 2017",
+    "1": {
+        "category": "AMER HIST",
+        "prompt": "What historian and sociologist\u2014the first African American to earn a doctorate from Harvard\u2014co-founded the National Association for the Advancement of Colored People (NAACP) in 1909?",
+        "answer": "w. e. b. du bois",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "80",
+        "c_percent": "70",
+        "d_percent": "57",
+        "e_percent": "39",
+        "r_percent": "54"
+    },
+    "2": {
+        "category": "CURR EVENTS",
+        "prompt": "Sadiq Khan, a 46-year-old son of Pakistani immigrants, was elected in 2016 as Mayor of what metropolis, becoming the first ethnic minority and first Muslim to hold the position in its sixteen years of existence?",
+        "answer": "london",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "83",
+        "c_percent": "77",
+        "d_percent": "61",
+        "e_percent": "45",
+        "r_percent": "60"
+    },
+    "3": {
+        "category": "LANGUAGE",
+        "prompt": "Seven of the English language's \"coordinating conjunctions\" are referenced in the mnemonic FANBOYS. Which of the seven is represented by the letter \"S\"?",
+        "answer": "so",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "80",
+        "c_percent": "73",
+        "d_percent": "69",
+        "e_percent": "63",
+        "r_percent": "72"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "Bridgetown, named for a primitive, Arawak-built bridge over the \"Careenage\" (or Constitution River) and a later bridge constructed by British settlers, is the capital of what island nation?",
+        "answer": "barbados",
+        "image": null,
+        "a_percent": "74",
+        "b_percent": "53",
+        "c_percent": "43",
+        "d_percent": "29",
+        "e_percent": "17",
+        "r_percent": "29"
+    },
+    "5": {
+        "category": "LITERATURE",
+        "prompt": "The adventures (and misadventures) of a group of Californians in a working-class factory district provide the vignettes that make up what episodic 1945 John Steinbeck novel?",
+        "answer": "cannery row",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "71",
+        "c_percent": "58",
+        "d_percent": "46",
+        "e_percent": "26",
+        "r_percent": "43"
+    },
+    "6": {
+        "category": "POP MUSIC",
+        "prompt": "A rock festival series, which was initiated by the Beastie Boys and began with a two-day event in San Francisco's Golden Gate Park in June 1996 (continuing in other locations over the next few years), was organized to raise money and promote awareness for what movement?",
+        "answer": "tibetan independence",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "51",
+        "c_percent": "42",
+        "d_percent": "35",
+        "e_percent": "24",
+        "r_percent": "33"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 60,
+    "day": 23,
+    "date": "March 20, 2014",
+    "1": {
+        "category": "CURR EVENTS",
+        "prompt": "According to Twitter, a Tweet by this person on March 2, 2014, is, with now over 3 million RTs, the most re-tweeted Tweet in the history of Twitter.",
+        "answer": "ellen degeneres (@theellenshow)",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "89",
+        "c_percent": "82",
+        "d_percent": "77",
+        "e_percent": "74",
+        "r_percent": "79"
+    },
+    "2": {
+        "category": "GAMES/SPORT",
+        "prompt": "With victories that include three gold medals in slalom events at the 1988 and 1992 Winter Olympics, one of the most successful competitive alpine skiers in history is what Italian, who remains today one of the most popular athletes in his country?",
+        "answer": "alberto tomba",
+        "image": null,
+        "a_percent": "67",
+        "b_percent": "55",
+        "c_percent": "45",
+        "d_percent": "33",
+        "e_percent": "19",
+        "r_percent": "30"
+    },
+    "3": {
+        "category": "SCIENCE",
+        "prompt": "The common tool known as the Snellen chart, the primary legacy of 19th c. Dutch physician Hermann Snellen, is used to measure what?",
+        "answer": "visual acuity",
+        "image": null,
+        "a_percent": "93",
+        "b_percent": "76",
+        "c_percent": "76",
+        "d_percent": "61",
+        "e_percent": "44",
+        "r_percent": "57"
+    },
+    "4": {
+        "category": "LIFESTYLE",
+        "prompt": "What is the most common name for the fashion accessory pictured here? ",
+        "answer": "cummerbund",
+        "image": "/images/art/8y09c8y0ync0958.jpg",
+        "a_percent": "94",
+        "b_percent": "95",
+        "c_percent": "92",
+        "d_percent": "93",
+        "e_percent": "89",
+        "r_percent": "89"
+    },
+    "5": {
+        "category": "TELEVISION",
+        "prompt": "With seven-season runs, Mission: Impossible (1966-73) and The Avengers (1961-69) were the longest-running espionage-themed programs in American television history, until surpassed in 2010 by the eighth (and final) season of what fast-paced drama series?",
+        "answer": "24",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "85",
+        "c_percent": "84",
+        "d_percent": "80",
+        "e_percent": "76",
+        "r_percent": "76"
+    },
+    "6": {
+        "category": "WORLD HIST",
+        "prompt": "Three different islands have particular associations with the life of Napoleon Bonaparte -- where he was born, where he was exiled in 1814, and where he died in 1821. Identify these three islands.",
+        "answer": "corsica, elba, st. helena",
+        "image": null,
+        "a_percent": "87",
+        "b_percent": "71",
+        "c_percent": "66",
+        "d_percent": "43",
+        "e_percent": "12",
+        "r_percent": "40"
+    }
+}

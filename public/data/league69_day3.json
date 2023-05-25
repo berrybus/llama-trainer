@@ -1,0 +1,77 @@
+{
+    "league": 69,
+    "day": 3,
+    "date": "May 27, 2016",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "Bocchetta, La Cisa, La Futa, Giovi, Pescara, Sparvo, and Scheggia are all notable passes or tunnels located within what mountain range?",
+        "answer": "apennines",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "48",
+        "c_percent": "38",
+        "d_percent": "22",
+        "e_percent": "9",
+        "r_percent": "24"
+    },
+    "2": {
+        "category": "POP MUSIC",
+        "prompt": "Keren Woodward, who is currently the long-term mate of \"the other guy\" from Wham! (Andrew Ridgeley), her statuesque childhood friend Sara Dallin, and future Shakespears Sister founder Siobhan Fahey together formed what popular musical trio?",
+        "answer": "bananarama",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "47",
+        "c_percent": "38",
+        "d_percent": "27",
+        "e_percent": "16",
+        "r_percent": "28"
+    },
+    "3": {
+        "category": "WORLD HIST",
+        "prompt": "The US Embassy in Saigon, the city of Hue, and more than one hundred South Vietnamese towns were targets in a successful 1968 Viet Cong attack that took place during what Vietnamese holiday?",
+        "answer": "tet",
+        "image": null,
+        "a_percent": "98",
+        "b_percent": "98",
+        "c_percent": "93",
+        "d_percent": "87",
+        "e_percent": "71",
+        "r_percent": "83"
+    },
+    "4": {
+        "category": "FILM",
+        "prompt": "Paris, Istanbul, and Los Angeles are a very particular set of cities that provide the main settings for what film trilogy?",
+        "answer": "taken",
+        "image": null,
+        "a_percent": "63",
+        "b_percent": "53",
+        "c_percent": "44",
+        "d_percent": "41",
+        "e_percent": "33",
+        "r_percent": "40"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "The term crescent refers to lunar phases in which the moon is less than half-illuminated. What is the corresponding term for phases in which the moon is more than half-illuminated?",
+        "answer": "gibbous",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "81",
+        "c_percent": "74",
+        "d_percent": "60",
+        "e_percent": "43",
+        "r_percent": "56"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "In many poker variations, one or more community cards are dealt face up on the table and counted by each player as a part of his or her hand. What is the term most commonly used for these cards (in Texas hold 'em it's specifically the first three community cards)\u2014a term which is also used for the act of dealing them?",
+        "answer": "flop",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "79",
+        "c_percent": "70",
+        "d_percent": "66",
+        "e_percent": "57",
+        "r_percent": "60"
+    }
+}

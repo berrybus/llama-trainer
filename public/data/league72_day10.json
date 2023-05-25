@@ -1,0 +1,77 @@
+{
+    "league": 72,
+    "day": 10,
+    "date": "March 6, 2017",
+    "1": {
+        "category": "FILM",
+        "prompt": "Identify the woman in this photograph. ",
+        "answer": "brie larson",
+        "image": "/images/art/3p948c5yno3890.jpg",
+        "a_percent": "73",
+        "b_percent": "62",
+        "c_percent": "53",
+        "d_percent": "49",
+        "e_percent": "43",
+        "r_percent": "48"
+    },
+    "2": {
+        "category": "FOOD/DRINK",
+        "prompt": "1.5 oz. of white rum, 0.5 oz. of simple syrup, and 1 oz. of lime juice: This is a recipe for a cocktail named after what small village and beach that US troops stormed at the end of the nineteenth century?",
+        "answer": "daiquiri",
+        "image": null,
+        "a_percent": "69",
+        "b_percent": "53",
+        "c_percent": "42",
+        "d_percent": "27",
+        "e_percent": "17",
+        "r_percent": "31"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "What is the precise four-word sentence that completes this famous television opening narration? In the criminal justice system, the people are represented by two separate yet equally important groups: the police who investigate crime, and the district attorneys who prosecute the offenders.",
+        "answer": "these are their stories.",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "86",
+        "c_percent": "79",
+        "d_percent": "78",
+        "e_percent": "72",
+        "r_percent": "76"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "On two separate occasions in NFL history, the starting quarterback for the Super Bowl-winning team retired after that game, never playing again in the NFL. What team won the Super Bowl in both of those instances?",
+        "answer": "denver broncos",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "73",
+        "c_percent": "70",
+        "d_percent": "66",
+        "e_percent": "64",
+        "r_percent": "64"
+    },
+    "5": {
+        "category": "WORLD HIST",
+        "prompt": "The name of a Haitian Creole mythological character who kidnaps children and eats them for breakfast (which translates to English as \"Uncle Gunnysack\") was used for a brutal civil militia created in 1959 by Haitian dictator Fran\u00e7ois \"Papa Doc\" Duvalier. What was that character's name?",
+        "answer": "tonton macoute",
+        "image": null,
+        "a_percent": "48",
+        "b_percent": "29",
+        "c_percent": "20",
+        "d_percent": "12",
+        "e_percent": "4",
+        "r_percent": "12"
+    },
+    "6": {
+        "category": "CURR EVENTS",
+        "prompt": "A subsidiary of Dallas-based Energy Transfer Partners is constructing the controversial 1,172-mile-long underground oil pipeline from the Bakken shale oil fields in the far north central United States to the Patoka oil tank farm in south central Illinois. What is the name of this subsidiary company (as well as the pipeline itself)?",
+        "answer": "dakota access (llc)",
+        "image": null,
+        "a_percent": "71",
+        "b_percent": "65",
+        "c_percent": "56",
+        "d_percent": "51",
+        "e_percent": "43",
+        "r_percent": "53"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "league": 68,
+    "day": 6,
+    "date": "February 29, 2016",
+    "1": {
+        "category": "GEOGRAPHY",
+        "prompt": "What London landmark's 2006 restoration, which included a repair of the left arm and pigeon-proofing, revealed it to be just over 169 feet (51.5 meters) tall, at least fourteen and a half feet shorter than previously thought? ",
+        "answer": "nelson's column",
+        "image": null,
+        "a_percent": "69",
+        "b_percent": "55",
+        "c_percent": "46",
+        "d_percent": "30",
+        "e_percent": "12",
+        "r_percent": "27"
+    },
+    "2": {
+        "category": "LITERATURE",
+        "prompt": "Upon its original publication in 1900, the book on which the musical and film The Wizard of Oz were based contained a word in its title missing from the title of the adaptations. What is that word?",
+        "answer": "wonderful",
+        "image": null,
+        "a_percent": "97",
+        "b_percent": "92",
+        "c_percent": "89",
+        "d_percent": "82",
+        "e_percent": "73",
+        "r_percent": "78"
+    },
+    "3": {
+        "category": "FOOD/DRINK",
+        "prompt": "In France (and elsewhere), especially small gherkins, often paired with capers or served as a condiment with classical dishes such as p\u00e2t\u00e9, are typically sold under what French name?",
+        "answer": "cornichons",
+        "image": null,
+        "a_percent": "66",
+        "b_percent": "52",
+        "c_percent": "49",
+        "d_percent": "42",
+        "e_percent": "31",
+        "r_percent": "38"
+    },
+    "4": {
+        "category": "GAMES/SPORT",
+        "prompt": "Although the team has held opponents to one hit in a game over two dozen times (thanks to pitchers Randy Jones, Mat Latos, Andy Benes, Andrew Cashner, Dave Dravecky, and others), this major league baseball franchise has never thrown a no-hitter in its history. To add insult, Pittsburgh Pirates pitcher Dock Ellis in 1970 threw one against this team while allegedly under the influence of LSD. What is the team?",
+        "answer": "san diego padres",
+        "image": null,
+        "a_percent": "68",
+        "b_percent": "54",
+        "c_percent": "48",
+        "d_percent": "34",
+        "e_percent": "25",
+        "r_percent": "37"
+    },
+    "5": {
+        "category": "SCIENCE",
+        "prompt": "In chemistry, the standard set of conditions for experimental measurements is abbreviated STP, for standard temperature and pressure. Per both the International Union of Pure and Applied Chemistry (IUPAC) and the National Institute of Standards and Technology (NIST), as well as most chemistry textbooks, how many kelvins (to the nearest integer) are standard in this set?",
+        "answer": "273",
+        "image": null,
+        "a_percent": "52",
+        "b_percent": "37",
+        "c_percent": "28",
+        "d_percent": "22",
+        "e_percent": "18",
+        "r_percent": "22"
+    },
+    "6": {
+        "category": "AMER HIST",
+        "prompt": "Early 20th century events in New York City known as the \"Uprising of 20,000\" (1909) and \"Great Revolt\" (1910), which led to lasting victories for organized labor in the United States, were led by a workers' union known as the ILGWU. What do the letters LG stand for in the union's name?",
+        "answer": "ladies' garment",
+        "image": null,
+        "a_percent": "84",
+        "b_percent": "66",
+        "c_percent": "57",
+        "d_percent": "43",
+        "e_percent": "24",
+        "r_percent": "39"
+    }
+}

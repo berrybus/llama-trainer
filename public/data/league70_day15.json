@@ -1,0 +1,77 @@
+{
+    "league": 70,
+    "day": 15,
+    "date": "September 15, 2016",
+    "1": {
+        "category": "LITERATURE",
+        "prompt": "The powerful Norns, figures in Norse mythology who live at the foot of the ash tree Yggdrasil and water it daily from the fountain of Urd, are the rough equivalent of what triad of classical mythology?",
+        "answer": "fates",
+        "image": null,
+        "a_percent": "86",
+        "b_percent": "73",
+        "c_percent": "61",
+        "d_percent": "49",
+        "e_percent": "34",
+        "r_percent": "48"
+    },
+    "2": {
+        "category": "WORLD HIST",
+        "prompt": "A monarch of England and Ireland who ruled in the mid-16th century\u2014a devout Catholic and issue of Henry VIII and Catherine of Aragon\u2014has a nickname in Protestant hagiography that is also used as the name of both a supernatural being from folklore and a cocktail. What is that nickname?",
+        "answer": "bloody mary",
+        "image": null,
+        "a_percent": "91",
+        "b_percent": "84",
+        "c_percent": "76",
+        "d_percent": "66",
+        "e_percent": "49",
+        "r_percent": "65"
+    },
+    "3": {
+        "category": "TELEVISION",
+        "prompt": "Judy, George, Jane, and Elroy: These are the first names of what TV family?",
+        "answer": "the jetsons",
+        "image": null,
+        "a_percent": "99",
+        "b_percent": "96",
+        "c_percent": "96",
+        "d_percent": "92",
+        "e_percent": "87",
+        "r_percent": "89"
+    },
+    "4": {
+        "category": "GEOGRAPHY",
+        "prompt": "\"Three-Country Cairn\" (Treriksr\u00f8ysa/Treriksr\u00f6set/Kolmen valtakunnan rajapyykki) is the name of a monument that marks an international border shared by what three nations?",
+        "answer": "norway, sweden, finland",
+        "image": null,
+        "a_percent": "92",
+        "b_percent": "85",
+        "c_percent": "80",
+        "d_percent": "66",
+        "e_percent": "49",
+        "r_percent": "65"
+    },
+    "5": {
+        "category": "THEATRE",
+        "prompt": "The writers and performers Ruth Draper, Spalding Gray, Marshall Pinckney Wilder, and Eve Ensler are all closely associated with what theatrical form, the name of which is included in the title of the latter's most famous work?",
+        "answer": "monologue",
+        "image": null,
+        "a_percent": "88",
+        "b_percent": "77",
+        "c_percent": "71",
+        "d_percent": "55",
+        "e_percent": "39",
+        "r_percent": "51"
+    },
+    "6": {
+        "category": "GAMES/SPORT",
+        "prompt": "Wally Pipp and Babe Dahlgren were major league baseball players with successful careers in their own rights, but they are largely remembered today for serving as bookends to the career of what hall of famer?",
+        "answer": "lou gehrig",
+        "image": null,
+        "a_percent": "73",
+        "b_percent": "60",
+        "c_percent": "47",
+        "d_percent": "38",
+        "e_percent": "25",
+        "r_percent": "32"
+    }
+}
