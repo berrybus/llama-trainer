@@ -8,28 +8,56 @@ function randomInt(min: number, max: number) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-var currentData: JSON;
+var currentData: Question;
 var isShowingAnswer = true;
 var score = 0;
 var totalQuestions = 0;
 
+interface MatchDay {
+  "1": Question;
+  "2": Question;
+  "3": Question;
+  "4": Question;
+  "5": Question;
+  "6": Question;
+  date: string;
+  league: string;
+  day: string;
+}
+
+interface Question {
+  image: string;
+  answer: string;
+  prompt: string;
+  category: string;
+  a_percent: string;
+  b_percent: string;
+  c_percent: string;
+  d_percent: string;
+  e_percent: string;
+}
+
+interface SearchResult {
+  score: number;
+}
+
 const Home: NextPage = () => {
-  const [minLeague, setMinLeague] = useState(60);
-  const [maxLeague, setMaxLeague] = useState(72);
-  const [day, setDay] = useState(1);
-  const [league, setLeague] = useState(60);
-  const [prompt, setPrompt] = useState("");
-  const [category, setCategory] = useState("");
-  const [date, setDate] = useState("");
-  const [answer, setAnswer] = useState("");
-  const [image, setImage] = useState("");
-  const [a, setA] = useState(" ");
-  const [b, setB] = useState(" ");
-  const [c, setC] = useState(" ");
-  const [d, setD] = useState(" ");
-  const [e, setE] = useState(" ");
-  const [input, setInput] = useState("");
-  const [correct, setCorrect] = useState(true);
+  const [minLeague, setMinLeague] = useState<number>(60);
+  const [maxLeague, setMaxLeague] = useState<number>(72);
+  const [day, setDay] = useState<number>(1);
+  const [league, setLeague] = useState<number>(60);
+  const [prompt, setPrompt] = useState<string>("");
+  const [category, setCategory] = useState<string>("");
+  const [date, setDate] = useState<string>("");
+  const [answer, setAnswer] = useState<string>("");
+  const [image, setImage] = useState<string>("");
+  const [a, setA] = useState<string>(" ");
+  const [b, setB] = useState<string>(" ");
+  const [c, setC] = useState<string>(" ");
+  const [d, setD] = useState<string>(" ");
+  const [e, setE] = useState<string>(" ");
+  const [input, setInput] = useState<string>("");
+  const [correct, setCorrect] = useState<boolean>(true);
   const inputRef = useRef<HTMLInputElement>(null);
 
   function inputClassName() {
@@ -37,6 +65,26 @@ const Home: NextPage = () => {
       return correct ? " input-success" : " input-error";
     } else {
       return "";
+    }
+  }
+
+  // This is awful I don't know how to get TypeScript to
+  // just read the stupid random integer value if you
+  // ever want to maintain this please fix this insanity
+  function getRandomMatchQuestion(qData: MatchDay) {
+    const rand = randomInt(1, 6);
+    if (rand == 1) {
+      return qData[1];
+    } else if (rand == 2) {
+      return qData[2];
+    } else if (rand == 3) {
+      return qData[3];
+    } else if (rand == 4) {
+      return qData[4];
+    } else if (rand == 5) {
+      return qData[5];
+    } else {
+      return qData[6];
     }
   }
 
@@ -48,14 +96,14 @@ const Home: NextPage = () => {
       setLeague(newLeague);
       console.log(`fetching league ${newLeague} on day ${newDay}`);
       const response = await fetch(`data/league${newLeague}_day${newDay}.json`);
-      const jsonData = await response.json();
+      const jsonData: MatchDay = await response.json();
       const idx = String(randomInt(1, 6));
-      const qData = jsonData[idx];
+      const qData: Question = getRandomMatchQuestion(jsonData);
+      currentData = qData;
       setPrompt(qData.prompt);
       setCategory(qData.category);
       setDate(jsonData.date);
-      currentData = jsonData[idx];
-      if (currentData.image != null) {
+      if (qData.image != null) {
         const imageURL =
           "https://learnedleague.com" + String(currentData.image);
         setImage(imageURL);
@@ -103,8 +151,8 @@ const Home: NextPage = () => {
       setE("");
     } else {
       const fuse = new Fuse([currentData.answer], { includeScore: true });
-      const res = fuse.search(input);
-      if (res.length > 0 && res[0]?.score <= 0.3) {
+      const res: Array<Fuse.FuseResult<SearchResult>> = fuse.search(input);
+      if (res.length > 0 && res[0].score !== undefined && res[0].score <= 0.3) {
         score += 1;
         setCorrect(true);
       } else {
