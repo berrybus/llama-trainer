@@ -8,12 +8,19 @@ function randomInt(min: number, max: number) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-var currentData: Question;
-var isShowingAnswer = true;
-var score = 0;
-var totalQuestions = 0;
+let currentData: Question;
+let isShowingAnswer = true;
+let score = 0;
+let totalQuestions = 0;
 
-interface MatchDay {
+export interface MatchDayListing {
+  date: string;
+  league: string;
+  day: string;
+  questions: Array<Question>
+}
+
+export interface MatchDay {
   "1": Question;
   "2": Question;
   "3": Question;
@@ -25,7 +32,7 @@ interface MatchDay {
   day: string;
 }
 
-interface Question {
+export interface Question {
   image: string;
   answer: string;
   prompt: string;
@@ -73,6 +80,7 @@ const Home: NextPage = () => {
   // ever want to maintain this please fix this insanity
   function getRandomMatchQuestion(qData: MatchDay) {
     const rand = randomInt(1, 6);
+
     if (rand == 1) {
       return qData[1];
     } else if (rand == 2) {
