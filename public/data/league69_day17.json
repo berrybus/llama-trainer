@@ -1,77 +1,79 @@
 {
+    "date": "June 17, 2016",
     "league": 69,
     "day": 17,
-    "date": "June 17, 2016",
-    "1": {
-        "category": "GAMES/SPORT",
-        "prompt": "\"Snurfing\" was the original name of a sport that is today best known as what?",
-        "answer": "snowboarding",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "77",
-        "c_percent": "70",
-        "d_percent": "63",
-        "e_percent": "54",
-        "r_percent": "65"
-    },
-    "2": {
-        "category": "TELEVISION",
-        "prompt": "In October 1986, the nascent Fox Broadcasting Company network broadcast its first television series, The Late Show, which was hosted by what former \"permanent guest host\" of NBC's The Tonight Show Starring Johnny Carson?",
-        "answer": "joan rivers",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "62",
-        "c_percent": "54",
-        "d_percent": "41",
-        "e_percent": "29",
-        "r_percent": "38"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "Although a few islands within the Grenadines island chain in the Caribbean Sea are a dependency of Grenada, the majority combine with another island to form an eponymous independent nation. What is that other island?",
-        "answer": "saint vincent",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "64",
-        "c_percent": "48",
-        "d_percent": "32",
-        "e_percent": "15",
-        "r_percent": "35"
-    },
-    "4": {
-        "category": "MATH",
-        "prompt": "There are presently forty-nine known perfect numbers, none of which is odd, the smallest of which is 6, and the largest of which is 274207280 \u00d7 (274207281 \u2212 1). What is the second smallest perfect number, after 6?",
-        "answer": "28",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "56",
-        "c_percent": "45",
-        "d_percent": "38",
-        "e_percent": "25",
-        "r_percent": "40"
-    },
-    "5": {
-        "category": "FOOD/DRINK",
-        "prompt": "Canephora (or robusta) is a species of coffee shrub that accounts for about 20%\u201330% of the world production of coffee. What is the name of the species, and by extension the beans produced by it, that accounts for almost all of the rest?",
-        "answer": "arabica",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "85",
-        "c_percent": "80",
-        "d_percent": "70",
-        "e_percent": "58",
-        "r_percent": "66"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "What is the rose hybrid, first developed in 1875 and today the official flower of the District of Columbia and several sororities and fraternities, that lends its name (and symbolism) to a Best Picture-winning film?",
-        "answer": "american beauty",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "77",
-        "c_percent": "71",
-        "d_percent": "56",
-        "e_percent": "41",
-        "r_percent": "54"
-    }
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Snurfing\" was the original name of a sport that is today best known as what?",
+            "answer": "snowboarding",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "63",
+            "e_percent": "54",
+            "r_percent": "65"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In October 1986, the nascent Fox Broadcasting Company network broadcast its first television series, The Late Show, which was hosted by what former \"permanent guest host\" of NBC's The Tonight Show Starring Johnny Carson?",
+            "answer": "joan rivers",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Although a few islands within the Grenadines island chain in the Caribbean Sea are a dependency of Grenada, the majority combine with another island to form an eponymous independent nation. What is that other island?",
+            "answer": "saint vincent",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "48",
+            "d_percent": "32",
+            "e_percent": "15",
+            "r_percent": "35"
+        },
+        {
+            "category": "MATH",
+            "prompt": "There are presently forty-nine known perfect numbers, none of which is odd, the smallest of which is 6, and the largest of which is 274207280 × (274207281 − 1). What is the second smallest perfect number, after 6?",
+            "answer": "28",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "38",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Canephora (or robusta) is a species of coffee shrub that accounts for about 20%–30% of the world production of coffee. What is the name of the species, and by extension the beans produced by it, that accounts for almost all of the rest?",
+            "answer": "arabica",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "70",
+            "e_percent": "58",
+            "r_percent": "66"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What is the rose hybrid, first developed in 1875 and today the official flower of the District of Columbia and several sororities and fraternities, that lends its name (and symbolism) to a Best Picture-winning film?",
+            "answer": "american beauty",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "77",
+            "c_percent": "71",
+            "d_percent": "56",
+            "e_percent": "41",
+            "r_percent": "54"
+        }
+    ]
 }

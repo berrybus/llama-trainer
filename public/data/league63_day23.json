@@ -1,77 +1,79 @@
 {
+    "date": "December 15, 2014",
     "league": 63,
     "day": 23,
-    "date": "December 15, 2014",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "As measured by market capitalization, Apple Inc. is the most valuable company on the NASDAQ Stock Market (or any public stock exchange). What is Apple's four-letter ticker symbol on the NASDAQ? ",
-        "answer": "aapl",
-        "image": null,
-        "a_percent": "74",
-        "b_percent": "61",
-        "c_percent": "55",
-        "d_percent": "47",
-        "e_percent": "35",
-        "r_percent": "43"
-    },
-    "2": {
-        "category": "AMER HIST",
-        "prompt": "British General John Burgoyne's failed attempt to isolate New England from the middle and southern colonies during the American Revolutionary War culminated in the late summer/early fall of 1777 at the Battles of Freeman's Farm and Bemis Heights. Collectively, these battles became associated  in the historical record with what town?",
-        "answer": "saratoga",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "47",
-        "c_percent": "40",
-        "d_percent": "26",
-        "e_percent": "9",
-        "r_percent": "31"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "The capital city of Chile, the home stadium of Newcastle United F.C., the brewery that produces Guinness beer, and the current home of Side Show on Broadway are all named after an individual best known as what in English?",
-        "answer": "st. james",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "82",
-        "c_percent": "70",
-        "d_percent": "57",
-        "e_percent": "31",
-        "r_percent": "49"
-    },
-    "4": {
-        "category": "GAMES/SPORT",
-        "prompt": "Among the four major North American professional sports leagues, baseball slugger Barry Bonds has won the second-most Most Valuable Player awards, with seven. Who has the most, with nine?",
-        "answer": "wayne gretzky",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "71",
-        "c_percent": "59",
-        "d_percent": "57",
-        "e_percent": "44",
-        "r_percent": "53"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "What is the most common name for the notably soft mineral hydrous magnesium silicate, Mg3Si4O10(OH)2?",
-        "answer": "talc",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "64",
-        "c_percent": "47",
-        "d_percent": "40",
-        "e_percent": "23",
-        "r_percent": "38"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "Name the actress in this photograph. ",
-        "answer": "rosalind russell",
-        "image": "/images/art/8u0cn09485098.jpg",
-        "a_percent": "44",
-        "b_percent": "31",
-        "c_percent": "23",
-        "d_percent": "17",
-        "e_percent": "10",
-        "r_percent": "17"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "As measured by market capitalization, Apple Inc. is the most valuable company on the NASDAQ Stock Market (or any public stock exchange). What is Apple's four-letter ticker symbol on the NASDAQ? ",
+            "answer": "aapl",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "55",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "43"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "British General John Burgoyne's failed attempt to isolate New England from the middle and southern colonies during the American Revolutionary War culminated in the late summer/early fall of 1777 at the Battles of Freeman's Farm and Bemis Heights. Collectively, these battles became associated  in the historical record with what town?",
+            "answer": "saratoga",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "47",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "9",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The capital city of Chile, the home stadium of Newcastle United F.C., the brewery that produces Guinness beer, and the current home of Side Show on Broadway are all named after an individual best known as what in English?",
+            "answer": "st. james",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "70",
+            "d_percent": "57",
+            "e_percent": "31",
+            "r_percent": "49"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Among the four major North American professional sports leagues, baseball slugger Barry Bonds has won the second-most Most Valuable Player awards, with seven. Who has the most, with nine?",
+            "answer": "wayne gretzky",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "59",
+            "d_percent": "57",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the most common name for the notably soft mineral hydrous magnesium silicate, Mg3Si4O10(OH)2?",
+            "answer": "talc",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "47",
+            "d_percent": "40",
+            "e_percent": "23",
+            "r_percent": "38"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the actress in this photograph. ",
+            "answer": "rosalind russell",
+            "image": "/images/art/8u0cn09485098.jpg",
+            "a_percent": "44",
+            "b_percent": "31",
+            "c_percent": "23",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "17"
+        }
+    ]
 }

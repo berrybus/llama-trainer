@@ -1,77 +1,79 @@
 {
+    "date": "June 6, 2014",
     "league": 61,
     "day": 19,
-    "date": "June 6, 2014",
-    "1": {
-        "category": "ART",
-        "prompt": "Who painted this? ",
-        "answer": "paul gauguin",
-        "image": "/images/art/8458m0984c50.jpg",
-        "a_percent": "82",
-        "b_percent": "69",
-        "c_percent": "62",
-        "d_percent": "51",
-        "e_percent": "28",
-        "r_percent": "49"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "This writer's 1762 work The Social Contract contains the famous first line \"Man is born free and everywhere he is in chains\" and also popularized the catchphrase (and later, national motto) libert\u00e9, \u00e9galit\u00e9, fraternit\u00e9. His earlier Julie, or the New Heloise promoted the value of family, though the author himself previously abandoned his five children to an orphanage.",
-        "answer": "jean jacques rousseau",
-        "image": null,
-        "a_percent": "91",
-        "b_percent": "76",
-        "c_percent": "70",
-        "d_percent": "53",
-        "e_percent": "31",
-        "r_percent": "57"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "\"On the Banks of the Wabash, Far Away\" is the official song of what U.S. state?",
-        "answer": "indiana",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "54",
-        "c_percent": "47",
-        "d_percent": "33",
-        "e_percent": "20",
-        "r_percent": "36"
-    },
-    "4": {
-        "category": "CURR EVENTS",
-        "prompt": "The scheduled destination of Malaysia Airlines Flight 370, which was reported lost on March 8, 2014, was the main international airport in what city?",
-        "answer": "beijing",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "69",
-        "c_percent": "63",
-        "d_percent": "56",
-        "e_percent": "48",
-        "r_percent": "59"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "What was the exact name of the category that corresponded with the color orange in the original 1981 Genus Edition of the board game Trivial Pursuit?",
-        "answer": "sports & leisure",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "69",
-        "c_percent": "67",
-        "d_percent": "63",
-        "e_percent": "42",
-        "r_percent": "51"
-    },
-    "6": {
-        "category": "TELEVISION",
-        "prompt": "The song excerpted here, which reached #22 on the Billboard Adult Contemporary chart in 1998, was the theme song to what popular comedy-drama television series? (34 seconds) ",
-        "answer": "ally mcbeal",
-        "image": "/images/art/8374t98274987.mp3",
-        "a_percent": "73",
-        "b_percent": "50",
-        "c_percent": "51",
-        "d_percent": "46",
-        "e_percent": "33",
-        "r_percent": "45"
-    }
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Who painted this? ",
+            "answer": "paul gauguin",
+            "image": "/images/art/8458m0984c50.jpg",
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "51",
+            "e_percent": "28",
+            "r_percent": "49"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "This writer's 1762 work The Social Contract contains the famous first line \"Man is born free and everywhere he is in chains\" and also popularized the catchphrase (and later, national motto) liberté, égalité, fraternité. His earlier Julie, or the New Heloise promoted the value of family, though the author himself previously abandoned his five children to an orphanage.",
+            "answer": "jean jacques rousseau",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "53",
+            "e_percent": "31",
+            "r_percent": "57"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "\"On the Banks of the Wabash, Far Away\" is the official song of what U.S. state?",
+            "answer": "indiana",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "36"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The scheduled destination of Malaysia Airlines Flight 370, which was reported lost on March 8, 2014, was the main international airport in what city?",
+            "answer": "beijing",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "56",
+            "e_percent": "48",
+            "r_percent": "59"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What was the exact name of the category that corresponded with the color orange in the original 1981 Genus Edition of the board game Trivial Pursuit?",
+            "answer": "sports & leisure",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "67",
+            "d_percent": "63",
+            "e_percent": "42",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The song excerpted here, which reached #22 on the Billboard Adult Contemporary chart in 1998, was the theme song to what popular comedy-drama television series? (34 seconds) ",
+            "answer": "ally mcbeal",
+            "image": "/images/art/8374t98274987.mp3",
+            "a_percent": "73",
+            "b_percent": "50",
+            "c_percent": "51",
+            "d_percent": "46",
+            "e_percent": "33",
+            "r_percent": "45"
+        }
+    ]
 }

@@ -1,77 +1,79 @@
 {
+    "date": "June 7, 2016",
     "league": 69,
     "day": 9,
-    "date": "June 7, 2016",
-    "1": {
-        "category": "CURR EVENTS",
-        "prompt": "EgyptAir Flight 804 crashed into the Mediterranean Sea on May 19, 2016, while en route to Cairo, having departed the previous evening from the greater metropolitan area of what city?",
-        "answer": "paris",
-        "image": null,
-        "a_percent": "91",
-        "b_percent": "85",
-        "c_percent": "81",
-        "d_percent": "78",
-        "e_percent": "67",
-        "r_percent": "77"
-    },
-    "2": {
-        "category": "WORLD HIST",
-        "prompt": "The Ashanti Empire existed for 250 years in a namesake area located within what modern-day African nation, which also includes the former colonial territory known as the Gold Coast?",
-        "answer": "ghana",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "67",
-        "c_percent": "53",
-        "d_percent": "37",
-        "e_percent": "22",
-        "r_percent": "42"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "Selective serotonin reuptake inhibitors (SSRIs), along with MAOIs, SNRIs, SARIs, and TCAs, are among the major classes (and are the most prescribed) of pharmaceuticals under a category of drugs best known as what? The term was coined in the early 1950s by a private physician in Cincinnati, after witnessing side effects of the tuberculosis drug isoniazid on certain patients.",
-        "answer": "antidepressants",
-        "image": null,
-        "a_percent": "86",
-        "b_percent": "78",
-        "c_percent": "78",
-        "d_percent": "73",
-        "e_percent": "64",
-        "r_percent": "72"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "Identify the woman in this photograph. ",
-        "answer": "lee krasner",
-        "image": "/images/art/9874y59c873t.jpg",
-        "a_percent": "47",
-        "b_percent": "29",
-        "c_percent": "21",
-        "d_percent": "11",
-        "e_percent": "7",
-        "r_percent": "14"
-    },
-    "5": {
-        "category": "LIFESTYLE",
-        "prompt": "What is the term for a vivid pinkish-purplish-red color that shares its name with a flowering plant of that color, which in turn takes its name from a German botanist and physician of the sixteenth century? ",
-        "answer": "fuchsia",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "65",
-        "c_percent": "60",
-        "d_percent": "48",
-        "e_percent": "41",
-        "r_percent": "50"
-    },
-    "6": {
-        "category": "TELEVISION",
-        "prompt": "What was the name of the artificially intelligent computer module, featured throughout a popular TV series of the 1980s, which was conceived and designed by fictional eccentric billionaire genius Wilton Knight to control his super high-tech Knight 2000 automobile? (Note: name the computer, not the show.)",
-        "answer": "kitt",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "86",
-        "c_percent": "83",
-        "d_percent": "74",
-        "e_percent": "65",
-        "r_percent": "70"
-    }
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "EgyptAir Flight 804 crashed into the Mediterranean Sea on May 19, 2016, while en route to Cairo, having departed the previous evening from the greater metropolitan area of what city?",
+            "answer": "paris",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "78",
+            "e_percent": "67",
+            "r_percent": "77"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Ashanti Empire existed for 250 years in a namesake area located within what modern-day African nation, which also includes the former colonial territory known as the Gold Coast?",
+            "answer": "ghana",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "53",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "42"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Selective serotonin reuptake inhibitors (SSRIs), along with MAOIs, SNRIs, SARIs, and TCAs, are among the major classes (and are the most prescribed) of pharmaceuticals under a category of drugs best known as what? The term was coined in the early 1950s by a private physician in Cincinnati, after witnessing side effects of the tuberculosis drug isoniazid on certain patients.",
+            "answer": "antidepressants",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "78",
+            "d_percent": "73",
+            "e_percent": "64",
+            "r_percent": "72"
+        },
+        {
+            "category": "ART",
+            "prompt": "Identify the woman in this photograph. ",
+            "answer": "lee krasner",
+            "image": "/images/art/9874y59c873t.jpg",
+            "a_percent": "47",
+            "b_percent": "29",
+            "c_percent": "21",
+            "d_percent": "11",
+            "e_percent": "7",
+            "r_percent": "14"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term for a vivid pinkish-purplish-red color that shares its name with a flowering plant of that color, which in turn takes its name from a German botanist and physician of the sixteenth century? ",
+            "answer": "fuchsia",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What was the name of the artificially intelligent computer module, featured throughout a popular TV series of the 1980s, which was conceived and designed by fictional eccentric billionaire genius Wilton Knight to control his super high-tech Knight 2000 automobile? (Note: name the computer, not the show.)",
+            "answer": "kitt",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "74",
+            "e_percent": "65",
+            "r_percent": "70"
+        }
+    ]
 }

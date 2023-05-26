@@ -1,77 +1,79 @@
 {
+    "date": "September 9, 2015",
     "league": 66,
     "day": 14,
-    "date": "September 9, 2015",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "A group of islands in the north Atlantic Ocean is the birthplace, namesake, and\u2014per EU regulations\u2014exclusive production location for what Portuguese fortified wine?",
-        "answer": "madeira",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "75",
-        "c_percent": "60",
-        "d_percent": "49",
-        "e_percent": "25",
-        "r_percent": "43"
-    },
-    "2": {
-        "category": "CURR EVENTS",
-        "prompt": "Two men were arrested on August 22, 2015, after authorities discovered weapons and ammunition in their hotel room following social media threats made to individuals attending the world championships of what trading card and video game competition, held that weekend at the Hynes Convention Center in Boston?",
-        "answer": "pok\u00e9mon",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "64",
-        "c_percent": "58",
-        "d_percent": "51",
-        "e_percent": "44",
-        "r_percent": "52"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "\"NYPD Blue will not be successful when I leave.\" This was reportedly, and incorrectly, uttered by what actor, who left the series in 1994 after its debut season to pursue a lackluster film career?",
-        "answer": "david caruso",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "66",
-        "c_percent": "64",
-        "d_percent": "49",
-        "e_percent": "36",
-        "r_percent": "46"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "Who painted this? ",
-        "answer": "georges braque",
-        "image": "/images/art/84y509c4ny59348y.jpg",
-        "a_percent": "32",
-        "b_percent": "23",
-        "c_percent": "20",
-        "d_percent": "12",
-        "e_percent": "6",
-        "r_percent": "11"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "The Lateran Treaty, part of the Lateran Pacts of 1929, set the establishment of what state?",
-        "answer": "vatican city",
-        "image": null,
-        "a_percent": "86",
-        "b_percent": "70",
-        "c_percent": "56",
-        "d_percent": "37",
-        "e_percent": "15",
-        "r_percent": "36"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "The 1960s films A Fistful of Dollars, The Outrage, and The Magnificent Seven are Western remodels of films from what director?",
-        "answer": "akira kurosawa",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "76",
-        "c_percent": "71",
-        "d_percent": "62",
-        "e_percent": "40",
-        "r_percent": "50"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A group of islands in the north Atlantic Ocean is the birthplace, namesake, and—per EU regulations—exclusive production location for what Portuguese fortified wine?",
+            "answer": "madeira",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "60",
+            "d_percent": "49",
+            "e_percent": "25",
+            "r_percent": "43"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Two men were arrested on August 22, 2015, after authorities discovered weapons and ammunition in their hotel room following social media threats made to individuals attending the world championships of what trading card and video game competition, held that weekend at the Hynes Convention Center in Boston?",
+            "answer": "pokémon",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "58",
+            "d_percent": "51",
+            "e_percent": "44",
+            "r_percent": "52"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"NYPD Blue will not be successful when I leave.\" This was reportedly, and incorrectly, uttered by what actor, who left the series in 1994 after its debut season to pursue a lackluster film career?",
+            "answer": "david caruso",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "66",
+            "c_percent": "64",
+            "d_percent": "49",
+            "e_percent": "36",
+            "r_percent": "46"
+        },
+        {
+            "category": "ART",
+            "prompt": "Who painted this? ",
+            "answer": "georges braque",
+            "image": "/images/art/84y509c4ny59348y.jpg",
+            "a_percent": "32",
+            "b_percent": "23",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "11"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Lateran Treaty, part of the Lateran Pacts of 1929, set the establishment of what state?",
+            "answer": "vatican city",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "70",
+            "c_percent": "56",
+            "d_percent": "37",
+            "e_percent": "15",
+            "r_percent": "36"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1960s films A Fistful of Dollars, The Outrage, and The Magnificent Seven are Western remodels of films from what director?",
+            "answer": "akira kurosawa",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "40",
+            "r_percent": "50"
+        }
+    ]
 }

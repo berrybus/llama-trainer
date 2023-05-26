@@ -1,77 +1,79 @@
 {
+    "date": "May 20, 2015",
     "league": 65,
     "day": 3,
-    "date": "May 20, 2015",
-    "1": {
-        "category": "MATH",
-        "prompt": "In statistics, the distribution that expresses the probability of a given number of independent events occurring within a time interval (if these events occur with a known frequency) is named after what French mathematician?",
-        "answer": "sim\u00e9on denis poisson",
-        "image": null,
-        "a_percent": "51",
-        "b_percent": "43",
-        "c_percent": "34",
-        "d_percent": "27",
-        "e_percent": "24",
-        "r_percent": "27"
-    },
-    "2": {
-        "category": "WORLD HIST",
-        "prompt": "Name the political party which manifested from an Islamic ideology of the 1930s espousing Marxist social analysis, nationalism, and unification of the Arab world. It would eventually become the ruling party of Iraq and Syria (and still leads the latter).",
-        "answer": "ba'ath party",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "80",
-        "c_percent": "74",
-        "d_percent": "60",
-        "e_percent": "41",
-        "r_percent": "57"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "While it means literally \"little ear\", the term auricle in older medical texts referred to another specific and unrelated part of anatomy. What is the term now in standard usage, replacing auricle (which now applies to something else, nearby and related, but different)?",
-        "answer": "atrium",
-        "image": null,
-        "a_percent": "48",
-        "b_percent": "24",
-        "c_percent": "18",
-        "d_percent": "11",
-        "e_percent": "5",
-        "r_percent": "11"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "There are paintings by this English portraitist in almost all major art museums in the United States and Great Britain, including his masterful portrait of (possibly) merchant's son Jonathan Buttall at The Huntington in San Marino, California. Name the artist. ",
-        "answer": "thomas gainsborough",
-        "image": null,
-        "a_percent": "64",
-        "b_percent": "46",
-        "c_percent": "28",
-        "d_percent": "18",
-        "e_percent": "7",
-        "r_percent": "19"
-    },
-    "5": {
-        "category": "LITERATURE",
-        "prompt": "1814's Waverley, the first of the long series of namesake romantic \"Waverley Novels\", was the work of what author?",
-        "answer": "sir walter scott",
-        "image": null,
-        "a_percent": "59",
-        "b_percent": "47",
-        "c_percent": "30",
-        "d_percent": "16",
-        "e_percent": "6",
-        "r_percent": "20"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "While led since 1993 by Prime Ministers Manuel Esquivel, Said Musa, and Dean Barrow, Queen Elizabeth II, represented by Governor-General Colville Young, is the official head of state of what Latin American nation?",
-        "answer": "belize",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "70",
-        "c_percent": "64",
-        "d_percent": "50",
-        "e_percent": "29",
-        "r_percent": "41"
-    }
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "In statistics, the distribution that expresses the probability of a given number of independent events occurring within a time interval (if these events occur with a known frequency) is named after what French mathematician?",
+            "answer": "siméon denis poisson",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "43",
+            "c_percent": "34",
+            "d_percent": "27",
+            "e_percent": "24",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the political party which manifested from an Islamic ideology of the 1930s espousing Marxist social analysis, nationalism, and unification of the Arab world. It would eventually become the ruling party of Iraq and Syria (and still leads the latter).",
+            "answer": "ba'ath party",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "41",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While it means literally \"little ear\", the term auricle in older medical texts referred to another specific and unrelated part of anatomy. What is the term now in standard usage, replacing auricle (which now applies to something else, nearby and related, but different)?",
+            "answer": "atrium",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "24",
+            "c_percent": "18",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "ART",
+            "prompt": "There are paintings by this English portraitist in almost all major art museums in the United States and Great Britain, including his masterful portrait of (possibly) merchant's son Jonathan Buttall at The Huntington in San Marino, California. Name the artist. ",
+            "answer": "thomas gainsborough",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "46",
+            "c_percent": "28",
+            "d_percent": "18",
+            "e_percent": "7",
+            "r_percent": "19"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1814's Waverley, the first of the long series of namesake romantic \"Waverley Novels\", was the work of what author?",
+            "answer": "sir walter scott",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "47",
+            "c_percent": "30",
+            "d_percent": "16",
+            "e_percent": "6",
+            "r_percent": "20"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While led since 1993 by Prime Ministers Manuel Esquivel, Said Musa, and Dean Barrow, Queen Elizabeth II, represented by Governor-General Colville Young, is the official head of state of what Latin American nation?",
+            "answer": "belize",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "70",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "29",
+            "r_percent": "41"
+        }
+    ]
 }

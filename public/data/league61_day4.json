@@ -1,77 +1,79 @@
 {
+    "date": "May 15, 2014",
     "league": 61,
     "day": 4,
-    "date": "May 15, 2014",
-    "1": {
-        "category": "GAMES/SPORT",
-        "prompt": "While variations exist, by far the most popular form of the competition known as a triathlon consists of what disciplines, in order?",
-        "answer": "swimming, cycling, running",
-        "image": null,
-        "a_percent": "89",
-        "b_percent": "75",
-        "c_percent": "72",
-        "d_percent": "72",
-        "e_percent": "63",
-        "r_percent": "64"
-    },
-    "2": {
-        "category": "ART",
-        "prompt": "Per the common name for the work of art pictured here, what was the homeland of this expiring gentleman? ",
-        "answer": "gaul/galatia",
-        "image": "/images/art/4985y0cn.jpg",
-        "a_percent": "46",
-        "b_percent": "26",
-        "c_percent": "16",
-        "d_percent": "9",
-        "e_percent": "6",
-        "r_percent": "15"
-    },
-    "3": {
-        "category": "CURR EVENTS",
-        "prompt": "Name the woman who is missing from the otherwise complete set in this photo, taken in April, 2013. ",
-        "answer": "nancy reagan",
-        "image": "/images/art/9084y5c09n583.jpg",
-        "a_percent": "88",
-        "b_percent": "77",
-        "c_percent": "69",
-        "d_percent": "66",
-        "e_percent": "55",
-        "r_percent": "69"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "The prefix blepharo- is used for certain medical conditions that affect what specific part of the human body? Examples include blepharitis, blepharospasm, and Blepharo naso facial syndrome.",
-        "answer": "eyelid/eye lash",
-        "image": null,
-        "a_percent": "53",
-        "b_percent": "41",
-        "c_percent": "29",
-        "d_percent": "28",
-        "e_percent": "14",
-        "r_percent": "21"
-    },
-    "5": {
-        "category": "FILM",
-        "prompt": "This actress and comedian is the only person ever to have won an Emmy, Grammy, Oscar, Tony, and Nickelodeon Kids' Choice Award. She won five KCAs between 1988 and 1994 for Favorite Movie Actress, though she was also well-known during this period for her role on a science fiction television series.",
-        "answer": "whoopi goldberg",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "87",
-        "c_percent": "76",
-        "d_percent": "69",
-        "e_percent": "49",
-        "r_percent": "70"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "Name the ancient port city, named perhaps for a son of Noah, or the mother of Andromeda, which since 1950 has formally been a part of the Israeli city of Tel Aviv.",
-        "answer": "jaffa/yafo",
-        "image": null,
-        "a_percent": "65",
-        "b_percent": "43",
-        "c_percent": "28",
-        "d_percent": "21",
-        "e_percent": "12",
-        "r_percent": "29"
-    }
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While variations exist, by far the most popular form of the competition known as a triathlon consists of what disciplines, in order?",
+            "answer": "swimming, cycling, running",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "75",
+            "c_percent": "72",
+            "d_percent": "72",
+            "e_percent": "63",
+            "r_percent": "64"
+        },
+        {
+            "category": "ART",
+            "prompt": "Per the common name for the work of art pictured here, what was the homeland of this expiring gentleman? ",
+            "answer": "gaul/galatia",
+            "image": "/images/art/4985y0cn.jpg",
+            "a_percent": "46",
+            "b_percent": "26",
+            "c_percent": "16",
+            "d_percent": "9",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the woman who is missing from the otherwise complete set in this photo, taken in April, 2013. ",
+            "answer": "nancy reagan",
+            "image": "/images/art/9084y5c09n583.jpg",
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "66",
+            "e_percent": "55",
+            "r_percent": "69"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The prefix blepharo- is used for certain medical conditions that affect what specific part of the human body? Examples include blepharitis, blepharospasm, and Blepharo naso facial syndrome.",
+            "answer": "eyelid/eye lash",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "41",
+            "c_percent": "29",
+            "d_percent": "28",
+            "e_percent": "14",
+            "r_percent": "21"
+        },
+        {
+            "category": "FILM",
+            "prompt": "This actress and comedian is the only person ever to have won an Emmy, Grammy, Oscar, Tony, and Nickelodeon Kids' Choice Award. She won five KCAs between 1988 and 1994 for Favorite Movie Actress, though she was also well-known during this period for her role on a science fiction television series.",
+            "answer": "whoopi goldberg",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "87",
+            "c_percent": "76",
+            "d_percent": "69",
+            "e_percent": "49",
+            "r_percent": "70"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the ancient port city, named perhaps for a son of Noah, or the mother of Andromeda, which since 1950 has formally been a part of the Israeli city of Tel Aviv.",
+            "answer": "jaffa/yafo",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "43",
+            "c_percent": "28",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "29"
+        }
+    ]
 }

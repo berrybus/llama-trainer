@@ -1,77 +1,79 @@
 {
+    "date": "May 30, 2014",
     "league": 61,
     "day": 14,
-    "date": "May 30, 2014",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "A common street food in many parts of Mexico, elote is a dish that can be served with various condiments, but is essentially what vegetable?",
-        "answer": "corn (on the cob)",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "71",
-        "c_percent": "65",
-        "d_percent": "64",
-        "e_percent": "57",
-        "r_percent": "71"
-    },
-    "2": {
-        "category": "TELEVISION",
-        "prompt": "A giant mock-up of a Las Vegas slot machine dominated the set of what quiz show, which was produced from the 1970s into the mid-1990s, created by Jack Barry?",
-        "answer": "the joker's wild",
-        "image": null,
-        "a_percent": "67",
-        "b_percent": "47",
-        "c_percent": "39",
-        "d_percent": "33",
-        "e_percent": "17",
-        "r_percent": "24"
-    },
-    "3": {
-        "category": "POP MUSIC",
-        "prompt": "This group, named after a street in the Los Angeles County community of South Gate, was the first Latino-American hip-hop group to release an album that achieved platinum status. Two of their albums reached that level in 1993: their self-titled debut, and their follow-up LP, Black Sunday. What is the group's name?",
-        "answer": "cypress hill",
-        "image": null,
-        "a_percent": "73",
-        "b_percent": "57",
-        "c_percent": "49",
-        "d_percent": "41",
-        "e_percent": "34",
-        "r_percent": "45"
-    },
-    "4": {
-        "category": "GEOGRAPHY",
-        "prompt": "The ethnic group known as the Uyghur have their greatest population in what country (specifically, in a namesake autonomous region within this country)?",
-        "answer": "china",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "71",
-        "c_percent": "61",
-        "d_percent": "48",
-        "e_percent": "30",
-        "r_percent": "51"
-    },
-    "5": {
-        "category": "LITERATURE",
-        "prompt": "The Chicago community area of New City includes a neighborhood that in the early twentieth century was known as \"Packingtown\" and was the setting of what influential novel of the era?",
-        "answer": "the jungle",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "88",
-        "c_percent": "82",
-        "d_percent": "79",
-        "e_percent": "59",
-        "r_percent": "76"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "The Atari 2600 home video game console was released, in September 1977, with nine launch titles. Of these nine, which one was included in the box, with purchase of the system?",
-        "answer": "combat",
-        "image": null,
-        "a_percent": "39",
-        "b_percent": "20",
-        "c_percent": "18",
-        "d_percent": "14",
-        "e_percent": "6",
-        "r_percent": "10"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A common street food in many parts of Mexico, elote is a dish that can be served with various condiments, but is essentially what vegetable?",
+            "answer": "corn (on the cob)",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "71",
+            "c_percent": "65",
+            "d_percent": "64",
+            "e_percent": "57",
+            "r_percent": "71"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A giant mock-up of a Las Vegas slot machine dominated the set of what quiz show, which was produced from the 1970s into the mid-1990s, created by Jack Barry?",
+            "answer": "the joker's wild",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "47",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "17",
+            "r_percent": "24"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "This group, named after a street in the Los Angeles County community of South Gate, was the first Latino-American hip-hop group to release an album that achieved platinum status. Two of their albums reached that level in 1993: their self-titled debut, and their follow-up LP, Black Sunday. What is the group's name?",
+            "answer": "cypress hill",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "57",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "34",
+            "r_percent": "45"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The ethnic group known as the Uyghur have their greatest population in what country (specifically, in a namesake autonomous region within this country)?",
+            "answer": "china",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "48",
+            "e_percent": "30",
+            "r_percent": "51"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Chicago community area of New City includes a neighborhood that in the early twentieth century was known as \"Packingtown\" and was the setting of what influential novel of the era?",
+            "answer": "the jungle",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "79",
+            "e_percent": "59",
+            "r_percent": "76"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Atari 2600 home video game console was released, in September 1977, with nine launch titles. Of these nine, which one was included in the box, with purchase of the system?",
+            "answer": "combat",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "20",
+            "c_percent": "18",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "10"
+        }
+    ]
 }

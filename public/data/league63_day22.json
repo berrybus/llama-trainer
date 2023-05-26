@@ -1,77 +1,79 @@
 {
+    "date": "December 12, 2014",
     "league": 63,
     "day": 22,
-    "date": "December 12, 2014",
-    "1": {
-        "category": "SCIENCE",
-        "prompt": "These dogs are all members of what breed, thought to be one of the oldest still in existence? ",
-        "answer": "chow chow (chow)",
-        "image": "/images/art/4985u09c8u40958ncu0.jpg",
-        "a_percent": "67",
-        "b_percent": "60",
-        "c_percent": "49",
-        "d_percent": "46",
-        "e_percent": "41",
-        "r_percent": "53"
-    },
-    "2": {
-        "category": "GEOGRAPHY",
-        "prompt": "According to its first post-statehood census in 2011, 45% of the population of this Balkan country's 700,000 citizens identify ethnically as Crnogorci, with another 29% Srbi, 9% Bo\u0161njaci, 5% Shqiptar\u00ebt (Albanci), and 1% Hrvati. What is the country?",
-        "answer": "montenegro",
-        "image": null,
-        "a_percent": "58",
-        "b_percent": "42",
-        "c_percent": "31",
-        "d_percent": "27",
-        "e_percent": "11",
-        "r_percent": "26"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "What is the expression that is typically (and famously) represented in scripts and episode titles for the television show The Simpsons as \"(annoyed grunt)\"?",
-        "answer": "d'oh",
-        "image": null,
-        "a_percent": "99",
-        "b_percent": "97",
-        "c_percent": "98",
-        "d_percent": "96",
-        "e_percent": "92",
-        "r_percent": "92"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "This term, derived from Latin via Italian for cave or crypt and used originally for an Ancient Roman style of decorative art, is today used in an art context for a highly fanciful, fantastic, and incongruous form that subverts the natural order by depicting figures metamorphosing into one another. What is the term?",
-        "answer": "grotesque",
-        "image": null,
-        "a_percent": "52",
-        "b_percent": "31",
-        "c_percent": "27",
-        "d_percent": "16",
-        "e_percent": "7",
-        "r_percent": "18"
-    },
-    "5": {
-        "category": "FOOD/DRINK",
-        "prompt": "What (in English) is the central ingredient of the classic Spanish specialty known natively as chipirones en su tinta?",
-        "answer": "squid",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "52",
-        "c_percent": "45",
-        "d_percent": "37",
-        "e_percent": "22",
-        "r_percent": "39"
-    },
-    "6": {
-        "category": "LANGUAGE",
-        "prompt": "What word is the English translation of the Russian \u0421\u043e\u043b\u043d\u0446\u0435, Hindi \u0938\u0942\u0930\u094d\u092f (S\u016brya), Tagalog Araw, Turkish G\u00fcne\u015f, Swahili jua, Polish S\u0142o\u0144ce, Japanese \u592a\u967d (Taiy\u014d), and Greek \u0389\u03bb\u03b9\u03bf\u03c2 (\u00cd\u0331lios)? Note\u2014if some characters do not render properly in your browser, follow this link to view an image: ",
-        "answer": "sun",
-        "image": "/images/art/985u098c5098tnv40598.jpg",
-        "a_percent": "72",
-        "b_percent": "52",
-        "c_percent": "48",
-        "d_percent": "38",
-        "e_percent": "23",
-        "r_percent": "39"
-    }
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "These dogs are all members of what breed, thought to be one of the oldest still in existence? ",
+            "answer": "chow chow (chow)",
+            "image": "/images/art/4985u09c8u40958ncu0.jpg",
+            "a_percent": "67",
+            "b_percent": "60",
+            "c_percent": "49",
+            "d_percent": "46",
+            "e_percent": "41",
+            "r_percent": "53"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "According to its first post-statehood census in 2011, 45% of the population of this Balkan country's 700,000 citizens identify ethnically as Crnogorci, with another 29% Srbi, 9% Bošnjaci, 5% Shqiptarët (Albanci), and 1% Hrvati. What is the country?",
+            "answer": "montenegro",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "27",
+            "e_percent": "11",
+            "r_percent": "26"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What is the expression that is typically (and famously) represented in scripts and episode titles for the television show The Simpsons as \"(annoyed grunt)\"?",
+            "answer": "d'oh",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "98",
+            "d_percent": "96",
+            "e_percent": "92",
+            "r_percent": "92"
+        },
+        {
+            "category": "ART",
+            "prompt": "This term, derived from Latin via Italian for cave or crypt and used originally for an Ancient Roman style of decorative art, is today used in an art context for a highly fanciful, fantastic, and incongruous form that subverts the natural order by depicting figures metamorphosing into one another. What is the term?",
+            "answer": "grotesque",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "31",
+            "c_percent": "27",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What (in English) is the central ingredient of the classic Spanish specialty known natively as chipirones en su tinta?",
+            "answer": "squid",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "39"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word is the English translation of the Russian Солнце, Hindi सूर्य (Sūrya), Tagalog Araw, Turkish Güneş, Swahili jua, Polish Słońce, Japanese 太陽 (Taiyō), and Greek Ήλιος (Í̱lios)? Note—if some characters do not render properly in your browser, follow this link to view an image: ",
+            "answer": "sun",
+            "image": "/images/art/985u098c5098tnv40598.jpg",
+            "a_percent": "72",
+            "b_percent": "52",
+            "c_percent": "48",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "39"
+        }
+    ]
 }

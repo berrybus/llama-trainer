@@ -1,77 +1,79 @@
 {
+    "date": "June 8, 2016",
     "league": 69,
     "day": 10,
-    "date": "June 8, 2016",
-    "1": {
-        "category": "FILM",
-        "prompt": "While they were longtime friends, having originally met in 1967, the first formal feature-film collaboration between George Lucas and Steven Spielberg occurred in 1981 with what film?",
-        "answer": "raiders of the lost ark",
-        "image": null,
-        "a_percent": "89",
-        "b_percent": "80",
-        "c_percent": "73",
-        "d_percent": "60",
-        "e_percent": "39",
-        "r_percent": "59"
-    },
-    "2": {
-        "category": "LANGUAGE",
-        "prompt": "Among the various types of crosses are the Greek cross (arms of equal length); the Latin cross (with a longer descending arm, representing Jesus's crucifixion); the Maltese cross (four straight-lined pointed arrowheads meeting at the points); St. Andrew's cross (X-shaped); the Papal cross (staff with three bars at the top in diminishing size); and the fylfot/tetraskelion/gammadion cross (composed of four Greek capital gammas radiating from a center). This latter cross is best known by what term?",
-        "answer": "swastika",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "74",
-        "c_percent": "64",
-        "d_percent": "54",
-        "e_percent": "40",
-        "r_percent": "56"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "What is the common name for the sulfate mineral that ranks 2 on the Mohs hardness scale and is composed of hydrous calcium sulfate (CaSO4.2H2O)? Alabaster is a fine-grained version used for sculpture and ornamental work, and plaster of Paris is a roasted version used for casting molds.",
-        "answer": "gypsum",
-        "image": null,
-        "a_percent": "67",
-        "b_percent": "40",
-        "c_percent": "29",
-        "d_percent": "18",
-        "e_percent": "9",
-        "r_percent": "24"
-    },
-    "4": {
-        "category": "GAMES/SPORT",
-        "prompt": "Among the more prominent differences between American and Canadian football is the size of the field of play. How long, in yards, is the field of play in Canadian football (measured from goal line to goal line, thus not including end zones)?",
-        "answer": "110",
-        "image": null,
-        "a_percent": "65",
-        "b_percent": "53",
-        "c_percent": "47",
-        "d_percent": "38",
-        "e_percent": "24",
-        "r_percent": "33"
-    },
-    "5": {
-        "category": "FOOD/DRINK",
-        "prompt": "Bavette, bucatini, conchiglie, gemelli, and lumache (or chiocciole) are different variations of what?",
-        "answer": "pasta shapes",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "88",
-        "c_percent": "87",
-        "d_percent": "80",
-        "e_percent": "73",
-        "r_percent": "81"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "The 1836 Battle of San Jacinto was a very brief but pivotal engagement that led directly to independence for what republic?",
-        "answer": "(republic of) texas",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "86",
-        "c_percent": "77",
-        "d_percent": "63",
-        "e_percent": "43",
-        "r_percent": "59"
-    }
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "While they were longtime friends, having originally met in 1967, the first formal feature-film collaboration between George Lucas and Steven Spielberg occurred in 1981 with what film?",
+            "answer": "raiders of the lost ark",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "39",
+            "r_percent": "59"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Among the various types of crosses are the Greek cross (arms of equal length); the Latin cross (with a longer descending arm, representing Jesus's crucifixion); the Maltese cross (four straight-lined pointed arrowheads meeting at the points); St. Andrew's cross (X-shaped); the Papal cross (staff with three bars at the top in diminishing size); and the fylfot/tetraskelion/gammadion cross (composed of four Greek capital gammas radiating from a center). This latter cross is best known by what term?",
+            "answer": "swastika",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "54",
+            "e_percent": "40",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the common name for the sulfate mineral that ranks 2 on the Mohs hardness scale and is composed of hydrous calcium sulfate (CaSO4.2H2O)? Alabaster is a fine-grained version used for sculpture and ornamental work, and plaster of Paris is a roasted version used for casting molds.",
+            "answer": "gypsum",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "24"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Among the more prominent differences between American and Canadian football is the size of the field of play. How long, in yards, is the field of play in Canadian football (measured from goal line to goal line, thus not including end zones)?",
+            "answer": "110",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "53",
+            "c_percent": "47",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "33"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Bavette, bucatini, conchiglie, gemelli, and lumache (or chiocciole) are different variations of what?",
+            "answer": "pasta shapes",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "88",
+            "c_percent": "87",
+            "d_percent": "80",
+            "e_percent": "73",
+            "r_percent": "81"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The 1836 Battle of San Jacinto was a very brief but pivotal engagement that led directly to independence for what republic?",
+            "answer": "(republic of) texas",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "77",
+            "d_percent": "63",
+            "e_percent": "43",
+            "r_percent": "59"
+        }
+    ]
 }

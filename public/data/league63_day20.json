@@ -1,77 +1,79 @@
 {
+    "date": "December 10, 2014",
     "league": 63,
     "day": 20,
-    "date": "December 10, 2014",
-    "1": {
-        "category": "GAMES/SPORT",
-        "prompt": "What is the name of this character? ",
-        "answer": "steve",
-        "image": "/images/art/8y50n0v93485nvc034985ncv0.jpg",
-        "a_percent": "28",
-        "b_percent": "18",
-        "c_percent": "13",
-        "d_percent": "13",
-        "e_percent": "12",
-        "r_percent": "15"
-    },
-    "2": {
-        "category": "ART",
-        "prompt": "The mural in this photograph was commissioned in the late 15th century by Ludovico Sforza, who at the time was the Duke of what Lombard duchy? The painting remains today in the duchy's namesake city. ",
-        "answer": "milan",
-        "image": "/images/art/847y594cny598.jpg",
-        "a_percent": "84",
-        "b_percent": "70",
-        "c_percent": "63",
-        "d_percent": "42",
-        "e_percent": "24",
-        "r_percent": "45"
-    },
-    "3": {
-        "category": "AMER HIST",
-        "prompt": "James P. Gray, Matt Gonzalez, Peter Camejo, Winona LaDuke, Pat Choate, and James Stockdale are the last six individuals to finish in third place in the election for what?",
-        "answer": "vice-president of the united states",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "81",
-        "c_percent": "70",
-        "d_percent": "63",
-        "e_percent": "35",
-        "r_percent": "50"
-    },
-    "4": {
-        "category": "CLASS MUSIC",
-        "prompt": "Symphony No. 6 in B Minor, Op. 74, whose title is most often referred to by its French translation, Path\u00e9tique, was the last completed symphony of what legendary composer, who died nine days after leading its first performance in October of 1893?",
-        "answer": "pyotr tchaikovsky",
-        "image": null,
-        "a_percent": "66",
-        "b_percent": "53",
-        "c_percent": "35",
-        "d_percent": "27",
-        "e_percent": "14",
-        "r_percent": "28"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "There are 193 current United Nations member states. Based on their official names/designations used for seating in General Assembly sessions, every letter of the alphabet is the first letter of at least one member state (e.g. Afghanistan, Bahamas, Cambodia, Denmark, etc.) except for two. One is \"X\" (that is, there is no U.N. member state whose name begins with the letter \"X\"). What is the other letter?",
-        "answer": "w",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "83",
-        "c_percent": "74",
-        "d_percent": "65",
-        "e_percent": "43",
-        "r_percent": "57"
-    },
-    "6": {
-        "category": "BUS/ECON",
-        "prompt": "The IPO of this company, which occurred in August 1995, is often credited as kickstarting the dot-com bubble of the late 1990s. Although it rose from an offering price of $28 to close its first day at $58.25 (with an intraday high of $75 and ultimate peak of $174), the company was acquired three years later, accelerating its downfall, and its signature product was defunct by 2008. Name the company.",
-        "answer": "netscape",
-        "image": null,
-        "a_percent": "60",
-        "b_percent": "49",
-        "c_percent": "39",
-        "d_percent": "30",
-        "e_percent": "25",
-        "r_percent": "31"
-    }
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the name of this character? ",
+            "answer": "steve",
+            "image": "/images/art/8y50n0v93485nvc034985ncv0.jpg",
+            "a_percent": "28",
+            "b_percent": "18",
+            "c_percent": "13",
+            "d_percent": "13",
+            "e_percent": "12",
+            "r_percent": "15"
+        },
+        {
+            "category": "ART",
+            "prompt": "The mural in this photograph was commissioned in the late 15th century by Ludovico Sforza, who at the time was the Duke of what Lombard duchy? The painting remains today in the duchy's namesake city. ",
+            "answer": "milan",
+            "image": "/images/art/847y594cny598.jpg",
+            "a_percent": "84",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "42",
+            "e_percent": "24",
+            "r_percent": "45"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "James P. Gray, Matt Gonzalez, Peter Camejo, Winona LaDuke, Pat Choate, and James Stockdale are the last six individuals to finish in third place in the election for what?",
+            "answer": "vice-president of the united states",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "81",
+            "c_percent": "70",
+            "d_percent": "63",
+            "e_percent": "35",
+            "r_percent": "50"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Symphony No. 6 in B Minor, Op. 74, whose title is most often referred to by its French translation, Pathétique, was the last completed symphony of what legendary composer, who died nine days after leading its first performance in October of 1893?",
+            "answer": "pyotr tchaikovsky",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "53",
+            "c_percent": "35",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "28"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "There are 193 current United Nations member states. Based on their official names/designations used for seating in General Assembly sessions, every letter of the alphabet is the first letter of at least one member state (e.g. Afghanistan, Bahamas, Cambodia, Denmark, etc.) except for two. One is \"X\" (that is, there is no U.N. member state whose name begins with the letter \"X\"). What is the other letter?",
+            "answer": "w",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "43",
+            "r_percent": "57"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The IPO of this company, which occurred in August 1995, is often credited as kickstarting the dot-com bubble of the late 1990s. Although it rose from an offering price of $28 to close its first day at $58.25 (with an intraday high of $75 and ultimate peak of $174), the company was acquired three years later, accelerating its downfall, and its signature product was defunct by 2008. Name the company.",
+            "answer": "netscape",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "49",
+            "c_percent": "39",
+            "d_percent": "30",
+            "e_percent": "25",
+            "r_percent": "31"
+        }
+    ]
 }

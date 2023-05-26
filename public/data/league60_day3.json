@@ -1,77 +1,79 @@
 {
+    "date": "February 20, 2014",
     "league": 60,
     "day": 3,
-    "date": "February 20, 2014",
-    "1": {
-        "category": "FILM",
-        "prompt": "Name the actor cropped from the left edge of this screenshot. ",
-        "answer": "kareem abdul-jabbar",
-        "image": "/images/art/8870m98098m.jpg",
-        "a_percent": "88",
-        "b_percent": "81",
-        "c_percent": "78",
-        "d_percent": "64",
-        "e_percent": "41",
-        "r_percent": "58"
-    },
-    "2": {
-        "category": "AMER HIST",
-        "prompt": "The military statue officially named the Marine Corps War Memorial, which sits outside the walls of the Arlington National Cemetery, is also known by a name that references what WWII battle (which is strongly evoked by the features of the statue)?",
-        "answer": "iwo jima",
-        "image": null,
-        "a_percent": "98",
-        "b_percent": "98",
-        "c_percent": "93",
-        "d_percent": "86",
-        "e_percent": "72",
-        "r_percent": "83"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "The letters in the CMYK color model refer to the inks used in some four-color printing. The K refers to the black ink of the key plate; to what colors do the other three letters refer?",
-        "answer": "cyan, magenta, yellow",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "88",
-        "c_percent": "87",
-        "d_percent": "82",
-        "e_percent": "73",
-        "r_percent": "80"
-    },
-    "4": {
-        "category": "FOOD/DRINK",
-        "prompt": "What Italian dish, very thinly sliced raw meat or fish typically served with greens and/or a light sauce, was created by Giuseppe Cipriani of Harry's Bar in Venice, and is named after a Venetian painter noted for prominent use of red in his works?",
-        "answer": "carpaccio",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "71",
-        "c_percent": "71",
-        "d_percent": "59",
-        "e_percent": "47",
-        "r_percent": "54"
-    },
-    "5": {
-        "category": "LIFESTYLE",
-        "prompt": "Pictured here are variations of an automobile designed and first produced by what car manufacturer? ",
-        "answer": "lotus",
-        "image": "/images/art/4895uc0m948u50.png",
-        "a_percent": "20",
-        "b_percent": "12",
-        "c_percent": "9",
-        "d_percent": "6",
-        "e_percent": "6",
-        "r_percent": "8"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "The primary protagonists in the 10th and latest (November 2013) main installment of the video game franchise Call of Duty are U.S. Special Operations forces, trained to conduct covert missions behind enemy lines. In the game, this faction of soldiers is officially known as Task Force: STALKER, but is better known as what?",
-        "answer": "ghosts",
-        "image": null,
-        "a_percent": "50",
-        "b_percent": "32",
-        "c_percent": "27",
-        "d_percent": "26",
-        "e_percent": "19",
-        "r_percent": "23"
-    }
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Name the actor cropped from the left edge of this screenshot. ",
+            "answer": "kareem abdul-jabbar",
+            "image": "/images/art/8870m98098m.jpg",
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "78",
+            "d_percent": "64",
+            "e_percent": "41",
+            "r_percent": "58"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The military statue officially named the Marine Corps War Memorial, which sits outside the walls of the Arlington National Cemetery, is also known by a name that references what WWII battle (which is strongly evoked by the features of the statue)?",
+            "answer": "iwo jima",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "98",
+            "c_percent": "93",
+            "d_percent": "86",
+            "e_percent": "72",
+            "r_percent": "83"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The letters in the CMYK color model refer to the inks used in some four-color printing. The K refers to the black ink of the key plate; to what colors do the other three letters refer?",
+            "answer": "cyan, magenta, yellow",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "73",
+            "r_percent": "80"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What Italian dish, very thinly sliced raw meat or fish typically served with greens and/or a light sauce, was created by Giuseppe Cipriani of Harry's Bar in Venice, and is named after a Venetian painter noted for prominent use of red in his works?",
+            "answer": "carpaccio",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "71",
+            "d_percent": "59",
+            "e_percent": "47",
+            "r_percent": "54"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Pictured here are variations of an automobile designed and first produced by what car manufacturer? ",
+            "answer": "lotus",
+            "image": "/images/art/4895uc0m948u50.png",
+            "a_percent": "20",
+            "b_percent": "12",
+            "c_percent": "9",
+            "d_percent": "6",
+            "e_percent": "6",
+            "r_percent": "8"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The primary protagonists in the 10th and latest (November 2013) main installment of the video game franchise Call of Duty are U.S. Special Operations forces, trained to conduct covert missions behind enemy lines. In the game, this faction of soldiers is officially known as Task Force: STALKER, but is better known as what?",
+            "answer": "ghosts",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "32",
+            "c_percent": "27",
+            "d_percent": "26",
+            "e_percent": "19",
+            "r_percent": "23"
+        }
+    ]
 }

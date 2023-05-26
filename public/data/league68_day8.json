@@ -1,77 +1,79 @@
 {
+    "date": "March 2, 2016",
     "league": 68,
     "day": 8,
-    "date": "March 2, 2016",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "Today it's Japan's third-largest public company (after Toyota and Mitsubishi), with wide-ranging operations in mobile and fixed-line telecommunications, Internet and technology services, online gaming, and other businesses. What is this corporation\u2014not primarily a financial services company despite what might be inferred from its name\u2014which began in 1981 as a distributor of packaged computer programs? ",
-        "answer": "softbank",
-        "image": null,
-        "a_percent": "26",
-        "b_percent": "18",
-        "c_percent": "15",
-        "d_percent": "13",
-        "e_percent": "8",
-        "r_percent": "12"
-    },
-    "2": {
-        "category": "CLASS MUSIC",
-        "prompt": "Different styles of what lively dance in 2/4 meter, which is associated with Bed\u0159ich Smetana and is the state dance of Wisconsin, include Slovenian-style (or Cleveland-style), Chicago honky, Chicago push, and Eastern-style?",
-        "answer": "polka",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "90",
-        "c_percent": "87",
-        "d_percent": "78",
-        "e_percent": "64",
-        "r_percent": "72"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "Episode titles of this drama television series, which featured Kristen Bell as the off-screen titular narrator, were based on the name of a film or novel (e.g., \"The Wild Brunch,\" \"Seventeen Candles,\" \"New Haven Can Wait,\" \"The Unblairable Lightness of Being,\" \"Riding in Town Cars with Boys\"). What is the series?",
-        "answer": "gossip girl",
-        "image": null,
-        "a_percent": "63",
-        "b_percent": "49",
-        "c_percent": "44",
-        "d_percent": "37",
-        "e_percent": "31",
-        "r_percent": "37"
-    },
-    "4": {
-        "category": "GAMES/SPORT",
-        "prompt": "A \"pinochle\" in the card game of the same name, as well as a \"bezique\" in the eponymous game from which pinochle is derived, is a distinct set of two cards. What are the ranks (not suits) of these two cards?",
-        "answer": "queen, jack",
-        "image": null,
-        "a_percent": "48",
-        "b_percent": "31",
-        "c_percent": "20",
-        "d_percent": "16",
-        "e_percent": "10",
-        "r_percent": "17"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "The USS St. Lo, a US Navy escort carrier lost during the Battle of Leyte Gulf in October 1944, is most remembered today as the first major warship to have what distinction?",
-        "answer": "sunk by kamikaze (suicide attack)",
-        "image": null,
-        "a_percent": "54",
-        "b_percent": "36",
-        "c_percent": "25",
-        "d_percent": "16",
-        "e_percent": "8",
-        "r_percent": "20"
-    },
-    "6": {
-        "category": "FOOD/DRINK",
-        "prompt": "Also known as longfin, it is the only species that US law legally permits to be marketed as \"white meat tuna.\" What is the most common name for this member of the tuna family (a name used on products sold by StarKist, Bumble Bee, Chicken of the Sea, and other brands)?",
-        "answer": "albacore",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "85",
-        "c_percent": "83",
-        "d_percent": "77",
-        "e_percent": "66",
-        "r_percent": "71"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "Today it's Japan's third-largest public company (after Toyota and Mitsubishi), with wide-ranging operations in mobile and fixed-line telecommunications, Internet and technology services, online gaming, and other businesses. What is this corporation—not primarily a financial services company despite what might be inferred from its name—which began in 1981 as a distributor of packaged computer programs? ",
+            "answer": "softbank",
+            "image": null,
+            "a_percent": "26",
+            "b_percent": "18",
+            "c_percent": "15",
+            "d_percent": "13",
+            "e_percent": "8",
+            "r_percent": "12"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Different styles of what lively dance in 2/4 meter, which is associated with Bedřich Smetana and is the state dance of Wisconsin, include Slovenian-style (or Cleveland-style), Chicago honky, Chicago push, and Eastern-style?",
+            "answer": "polka",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "78",
+            "e_percent": "64",
+            "r_percent": "72"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Episode titles of this drama television series, which featured Kristen Bell as the off-screen titular narrator, were based on the name of a film or novel (e.g., \"The Wild Brunch,\" \"Seventeen Candles,\" \"New Haven Can Wait,\" \"The Unblairable Lightness of Being,\" \"Riding in Town Cars with Boys\"). What is the series?",
+            "answer": "gossip girl",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "49",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "31",
+            "r_percent": "37"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A \"pinochle\" in the card game of the same name, as well as a \"bezique\" in the eponymous game from which pinochle is derived, is a distinct set of two cards. What are the ranks (not suits) of these two cards?",
+            "answer": "queen, jack",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "31",
+            "c_percent": "20",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The USS St. Lo, a US Navy escort carrier lost during the Battle of Leyte Gulf in October 1944, is most remembered today as the first major warship to have what distinction?",
+            "answer": "sunk by kamikaze (suicide attack)",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "36",
+            "c_percent": "25",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "20"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Also known as longfin, it is the only species that US law legally permits to be marketed as \"white meat tuna.\" What is the most common name for this member of the tuna family (a name used on products sold by StarKist, Bumble Bee, Chicken of the Sea, and other brands)?",
+            "answer": "albacore",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "83",
+            "d_percent": "77",
+            "e_percent": "66",
+            "r_percent": "71"
+        }
+    ]
 }

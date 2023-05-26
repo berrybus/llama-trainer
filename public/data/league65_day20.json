@@ -1,77 +1,79 @@
 {
+    "date": "June 15, 2015",
     "league": 65,
     "day": 20,
-    "date": "June 15, 2015",
-    "1": {
-        "category": "POP MUSIC",
-        "prompt": "What is the common name for the modern jazz style, a blending of jazz and classical music, that emerged in the late 1940s/early 1950s as a softer and more reserved alternative to bebop? Associated with West Coast jazz, its \"prince\" was Chet Baker and its birth was captured on a Miles Davis album released in 1957.",
-        "answer": "cool jazz",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "61",
-        "c_percent": "53",
-        "d_percent": "36",
-        "e_percent": "24",
-        "r_percent": "36"
-    },
-    "2": {
-        "category": "GEOGRAPHY",
-        "prompt": "Sugarloaf Mountain is the English name of a prominent peak that contributes to the distinctive skyline of what harbor city?",
-        "answer": "rio de janeiro",
-        "image": null,
-        "a_percent": "86",
-        "b_percent": "74",
-        "c_percent": "61",
-        "d_percent": "44",
-        "e_percent": "24",
-        "r_percent": "42"
-    },
-    "3": {
-        "category": "FILM",
-        "prompt": "A dead horse on a piano, ants emerging from the palm of a man's hand, and \u2014most famously\u2014 a razor slicing open an eyeball are all images from what work of surrealistic cinema?",
-        "answer": "un chien andalou",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "52",
-        "c_percent": "41",
-        "d_percent": "27",
-        "e_percent": "15",
-        "r_percent": "28"
-    },
-    "4": {
-        "category": "CURR EVENTS",
-        "prompt": "Rafael Esquivel, Nicolas Leoz, Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin are individuals most closely associated with what international organization?",
-        "answer": "fifa",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "88",
-        "c_percent": "82",
-        "d_percent": "77",
-        "e_percent": "71",
-        "r_percent": "70"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "In October 1971, a lavish party was held in celebration of an imperial 2,500-year anniversary. The festivities, considered the most lavish banquet in modern history, lasted five days, required 10 years of planning, cost a reported $100 million, and were a factor in the host's eventual abdication. Who was the host of this celebration, which did leave an enduring legacy despite its gross excess?",
-        "answer": "mohammad reza shah pahlavi of iran",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "59",
-        "c_percent": "43",
-        "d_percent": "36",
-        "e_percent": "19",
-        "r_percent": "33"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "In the classic version of the board game Stratego, there are four pieces with exactly one available per player: the Marshal, the General, the Flag, and what other piece? A relatively weak piece, it can only defeat the Marshal (or capture the flag); if it attacks any other piece, or is attacked by any piece, it is defeated.",
-        "answer": "spy",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "62",
-        "c_percent": "59",
-        "d_percent": "51",
-        "e_percent": "40",
-        "r_percent": "46"
-    }
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What is the common name for the modern jazz style, a blending of jazz and classical music, that emerged in the late 1940s/early 1950s as a softer and more reserved alternative to bebop? Associated with West Coast jazz, its \"prince\" was Chet Baker and its birth was captured on a Miles Davis album released in 1957.",
+            "answer": "cool jazz",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "36"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Sugarloaf Mountain is the English name of a prominent peak that contributes to the distinctive skyline of what harbor city?",
+            "answer": "rio de janeiro",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "61",
+            "d_percent": "44",
+            "e_percent": "24",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A dead horse on a piano, ants emerging from the palm of a man's hand, and —most famously— a razor slicing open an eyeball are all images from what work of surrealistic cinema?",
+            "answer": "un chien andalou",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "27",
+            "e_percent": "15",
+            "r_percent": "28"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Rafael Esquivel, Nicolas Leoz, Jeffrey Webb, Jack Warner, Eduardo Li, Eugenio Figueredo and Jose Maria Marin are individuals most closely associated with what international organization?",
+            "answer": "fifa",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "77",
+            "e_percent": "71",
+            "r_percent": "70"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In October 1971, a lavish party was held in celebration of an imperial 2,500-year anniversary. The festivities, considered the most lavish banquet in modern history, lasted five days, required 10 years of planning, cost a reported $100 million, and were a factor in the host's eventual abdication. Who was the host of this celebration, which did leave an enduring legacy despite its gross excess?",
+            "answer": "mohammad reza shah pahlavi of iran",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the classic version of the board game Stratego, there are four pieces with exactly one available per player: the Marshal, the General, the Flag, and what other piece? A relatively weak piece, it can only defeat the Marshal (or capture the flag); if it attacks any other piece, or is attacked by any piece, it is defeated.",
+            "answer": "spy",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "59",
+            "d_percent": "51",
+            "e_percent": "40",
+            "r_percent": "46"
+        }
+    ]
 }

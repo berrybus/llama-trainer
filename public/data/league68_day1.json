@@ -1,77 +1,79 @@
 {
+    "date": "February 22, 2016",
     "league": 68,
     "day": 1,
-    "date": "February 22, 2016",
-    "1": {
-        "category": "POP MUSIC",
-        "prompt": "What is the common name of the singing game and nursery rhyme that begins with an agricultural worker taking a bride, involves a cow, dog, and cat, and often ends with cheese, standing alone?",
-        "answer": "the farmer in the dell",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "87",
-        "c_percent": "84",
-        "d_percent": "76",
-        "e_percent": "68",
-        "r_percent": "68"
-    },
-    "2": {
-        "category": "FOOD/DRINK",
-        "prompt": "Although the dish's name means literally \"covered with bread,\" shortcrust pastry is more often used to prepare what savory treat of Spain and Latin America?",
-        "answer": "empanada",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "69",
-        "c_percent": "64",
-        "d_percent": "60",
-        "e_percent": "50",
-        "r_percent": "57"
-    },
-    "3": {
-        "category": "BUS/ECON",
-        "prompt": "Zip2, SolarCity, PayPal, and SpaceX are among a small set of companies that share a distinction most particularly with what automaker?",
-        "answer": "tesla motors",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "96",
-        "c_percent": "93",
-        "d_percent": "89",
-        "e_percent": "84",
-        "r_percent": "83"
-    },
-    "4": {
-        "category": "FILM",
-        "prompt": "In what film does criminal mastermind Vincent Ludwig plan to assassinate Queen Elizabeth II while she attends a baseball game between the California Angels and Seattle Mariners at Anaheim Stadium (which looks suspiciously like Dodger Stadium)?",
-        "answer": "the naked gun",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "68",
-        "c_percent": "63",
-        "d_percent": "54",
-        "e_percent": "42",
-        "r_percent": "46"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "Harry, Homer, Lizzie, and Henry are the original names of the edacious foursome in what game, first published in the late 1960s and introduced by Milton Bradley in 1978?",
-        "answer": "hungry hungry hippos",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "82",
-        "c_percent": "79",
-        "d_percent": "69",
-        "e_percent": "58",
-        "r_percent": "66"
-    },
-    "6": {
-        "category": "WORLD HIST",
-        "prompt": "Among the group of Australian outlaws that came to be known as \"bushrangers,\" what son of an Irish convict was the most famous by far, due to his daring and profligate horse stealing, bank robbing, and police killing? His turn at the gallows in Melbourne in 1880 at age twenty-five is considered the end of the bushranger era.",
-        "answer": "ned kelly",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "53",
-        "c_percent": "42",
-        "d_percent": "30",
-        "e_percent": "13",
-        "r_percent": "24"
-    }
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What is the common name of the singing game and nursery rhyme that begins with an agricultural worker taking a bride, involves a cow, dog, and cat, and often ends with cheese, standing alone?",
+            "answer": "the farmer in the dell",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "76",
+            "e_percent": "68",
+            "r_percent": "68"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Although the dish's name means literally \"covered with bread,\" shortcrust pastry is more often used to prepare what savory treat of Spain and Latin America?",
+            "answer": "empanada",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "69",
+            "c_percent": "64",
+            "d_percent": "60",
+            "e_percent": "50",
+            "r_percent": "57"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Zip2, SolarCity, PayPal, and SpaceX are among a small set of companies that share a distinction most particularly with what automaker?",
+            "answer": "tesla motors",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "89",
+            "e_percent": "84",
+            "r_percent": "83"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In what film does criminal mastermind Vincent Ludwig plan to assassinate Queen Elizabeth II while she attends a baseball game between the California Angels and Seattle Mariners at Anaheim Stadium (which looks suspiciously like Dodger Stadium)?",
+            "answer": "the naked gun",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "68",
+            "c_percent": "63",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Harry, Homer, Lizzie, and Henry are the original names of the edacious foursome in what game, first published in the late 1960s and introduced by Milton Bradley in 1978?",
+            "answer": "hungry hungry hippos",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "82",
+            "c_percent": "79",
+            "d_percent": "69",
+            "e_percent": "58",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Among the group of Australian outlaws that came to be known as \"bushrangers,\" what son of an Irish convict was the most famous by far, due to his daring and profligate horse stealing, bank robbing, and police killing? His turn at the gallows in Melbourne in 1880 at age twenty-five is considered the end of the bushranger era.",
+            "answer": "ned kelly",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "53",
+            "c_percent": "42",
+            "d_percent": "30",
+            "e_percent": "13",
+            "r_percent": "24"
+        }
+    ]
 }

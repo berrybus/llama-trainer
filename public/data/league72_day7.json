@@ -1,77 +1,79 @@
 {
+    "date": "March 1, 2017",
     "league": 72,
     "day": 7,
-    "date": "March 1, 2017",
-    "1": {
-        "category": "TELEVISION",
-        "prompt": "Highclere Castle, a Jacobethan-style estate built between 1838 and 1878 as the scenical country seat of the Earl of Carnarvon in the English county of Hampshire, may be more widely known today for an association it's had with another entity since 2010. By what name is this other entity known?",
-        "answer": "downton abbey",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "81",
-        "c_percent": "75",
-        "d_percent": "66",
-        "e_percent": "51",
-        "r_percent": "60"
-    },
-    "2": {
-        "category": "FOOD/DRINK",
-        "prompt": "What name do these two items share? ",
-        "answer": "old fashioned",
-        "image": "/images/art/39508cynw8603.jpg",
-        "a_percent": "76",
-        "b_percent": "71",
-        "c_percent": "68",
-        "d_percent": "62",
-        "e_percent": "58",
-        "r_percent": "59"
-    },
-    "3": {
-        "category": "LITERATURE",
-        "prompt": "What was the phrase which headlined the famous open letter written in 1898 by novelist \u00c9mile Zola to F\u00e9lix Faure, the president of the French Republic, in defense of falsely accused Jewish army officer Alfred Dreyfus?",
-        "answer": "j'accuse",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "81",
-        "c_percent": "69",
-        "d_percent": "52",
-        "e_percent": "27",
-        "r_percent": "44"
-    },
-    "4": {
-        "category": "GAMES/SPORT",
-        "prompt": "A defensive player known as a libero, who is subject to special substitution rules and wears a different color shirt from other team members, was introduced in international competition in 1998 in what sport?",
-        "answer": "volleyball",
-        "image": null,
-        "a_percent": "61",
-        "b_percent": "48",
-        "c_percent": "40",
-        "d_percent": "35",
-        "e_percent": "30",
-        "r_percent": "34"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "Among the historical markers of what imperial dynasty of China, which ruled from 1368 to 1644, are legal reform and the fine quality of the porcelain produced during its period?",
-        "answer": "ming",
-        "image": null,
-        "a_percent": "98",
-        "b_percent": "97",
-        "c_percent": "94",
-        "d_percent": "90",
-        "e_percent": "77",
-        "r_percent": "81"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "The term \"documentary\" may have been first used in a cinematic context in a 1926 New York Sun review of Robert J. Flaherty's Moana. Despite that, Flaherty is better remembered today for what earlier film, which, like Moana, is more accurately described as a work of \"docufiction.\"",
-        "answer": "nanook of the north",
-        "image": null,
-        "a_percent": "65",
-        "b_percent": "44",
-        "c_percent": "33",
-        "d_percent": "19",
-        "e_percent": "9",
-        "r_percent": "16"
-    }
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Highclere Castle, a Jacobethan-style estate built between 1838 and 1878 as the scenical country seat of the Earl of Carnarvon in the English county of Hampshire, may be more widely known today for an association it's had with another entity since 2010. By what name is this other entity known?",
+            "answer": "downton abbey",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "66",
+            "e_percent": "51",
+            "r_percent": "60"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What name do these two items share? ",
+            "answer": "old fashioned",
+            "image": "/images/art/39508cynw8603.jpg",
+            "a_percent": "76",
+            "b_percent": "71",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "58",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What was the phrase which headlined the famous open letter written in 1898 by novelist Émile Zola to Félix Faure, the president of the French Republic, in defense of falsely accused Jewish army officer Alfred Dreyfus?",
+            "answer": "j'accuse",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "81",
+            "c_percent": "69",
+            "d_percent": "52",
+            "e_percent": "27",
+            "r_percent": "44"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A defensive player known as a libero, who is subject to special substitution rules and wears a different color shirt from other team members, was introduced in international competition in 1998 in what sport?",
+            "answer": "volleyball",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "35",
+            "e_percent": "30",
+            "r_percent": "34"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Among the historical markers of what imperial dynasty of China, which ruled from 1368 to 1644, are legal reform and the fine quality of the porcelain produced during its period?",
+            "answer": "ming",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "94",
+            "d_percent": "90",
+            "e_percent": "77",
+            "r_percent": "81"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The term \"documentary\" may have been first used in a cinematic context in a 1926 New York Sun review of Robert J. Flaherty's Moana. Despite that, Flaherty is better remembered today for what earlier film, which, like Moana, is more accurately described as a work of \"docufiction.\"",
+            "answer": "nanook of the north",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "44",
+            "c_percent": "33",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "16"
+        }
+    ]
 }

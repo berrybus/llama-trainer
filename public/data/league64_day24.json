@@ -1,77 +1,79 @@
 {
+    "date": "April 1, 2015",
     "league": 64,
     "day": 24,
-    "date": "April 1, 2015",
-    "1": {
-        "category": "TELEVISION",
-        "prompt": "Got kind of tired packing and unpacking, / Town to town and up and down the dial / Maybe you and me were never meant to be, / But baby think of me once in awhile. The opening theme of what television sitcom includes these lyrics, which refer to character Andy Travis's decision to settle down after years of moving from job to job?",
-        "answer": "wkrp in cincinnati",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "62",
-        "c_percent": "54",
-        "d_percent": "45",
-        "e_percent": "31",
-        "r_percent": "40"
-    },
-    "2": {
-        "category": "BUS/ECON",
-        "prompt": "Infiniti, first introduced as a brand in the United States in 1989, is the luxury division of what automobile manufacturer?",
-        "answer": "nissan",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "67",
-        "c_percent": "60",
-        "d_percent": "48",
-        "e_percent": "43",
-        "r_percent": "52"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "Unguja Island, which sits just off the southeast coast of Africa northwest of Madagascar., is a major producer of the world's supply of cloves and the largest member of an archipelago once known as the Spice Islands. The island is better known by what name?",
-        "answer": "zanzibar",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "58",
-        "c_percent": "44",
-        "d_percent": "32",
-        "e_percent": "17",
-        "r_percent": "33"
-    },
-    "4": {
-        "category": "AMER HIST",
-        "prompt": "Of the four heads carved into Mount Rushmore, which president's is on the far right?",
-        "answer": "abraham lincoln",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "64",
-        "c_percent": "56",
-        "d_percent": "49",
-        "e_percent": "38",
-        "r_percent": "45"
-    },
-    "5": {
-        "category": "THEATRE",
-        "prompt": "\"There is a kind of merry war betwixt Signior Benedick and her: they never meet but there's a skirmish of wit between them.\" This line is uttered by Leonato in Act I Scene I of what Shakespeare play?",
-        "answer": "much ado about nothing",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "60",
-        "c_percent": "52",
-        "d_percent": "42",
-        "e_percent": "28",
-        "r_percent": "45"
-    },
-    "6": {
-        "category": "MATH",
-        "prompt": "If C = {1,2,3,4,5} and D = {4,5,6}, then C \u2229 D = ?",
-        "answer": "{4,5}",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "76",
-        "c_percent": "66",
-        "d_percent": "62",
-        "e_percent": "57",
-        "r_percent": "60"
-    }
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Got kind of tired packing and unpacking, / Town to town and up and down the dial / Maybe you and me were never meant to be, / But baby think of me once in awhile. The opening theme of what television sitcom includes these lyrics, which refer to character Andy Travis's decision to settle down after years of moving from job to job?",
+            "answer": "wkrp in cincinnati",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "31",
+            "r_percent": "40"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Infiniti, first introduced as a brand in the United States in 1989, is the luxury division of what automobile manufacturer?",
+            "answer": "nissan",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "43",
+            "r_percent": "52"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Unguja Island, which sits just off the southeast coast of Africa northwest of Madagascar., is a major producer of the world's supply of cloves and the largest member of an archipelago once known as the Spice Islands. The island is better known by what name?",
+            "answer": "zanzibar",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "58",
+            "c_percent": "44",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "33"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Of the four heads carved into Mount Rushmore, which president's is on the far right?",
+            "answer": "abraham lincoln",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "49",
+            "e_percent": "38",
+            "r_percent": "45"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "\"There is a kind of merry war betwixt Signior Benedick and her: they never meet but there's a skirmish of wit between them.\" This line is uttered by Leonato in Act I Scene I of what Shakespeare play?",
+            "answer": "much ado about nothing",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "60",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "45"
+        },
+        {
+            "category": "MATH",
+            "prompt": "If C = {1,2,3,4,5} and D = {4,5,6}, then C ∩ D = ?",
+            "answer": "{4,5}",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "62",
+            "e_percent": "57",
+            "r_percent": "60"
+        }
+    ]
 }
