@@ -1,77 +1,79 @@
 {
+    "date": "November 17, 2015",
     "league": 67,
     "day": 6,
-    "date": "November 17, 2015",
-    "1": {
-        "category": "CURR EVENTS",
-        "prompt": "On November 9, a defamation lawsuit was filed against Rolling Stone magazine and reporter Sabrina Rubin Erdely, based on an article published in November 2014 that has since been retracted. This suit was filed by the Phi Kappa Psi fraternity chapter at what university?",
-        "answer": "virginia",
-        "image": null,
-        "a_percent": "86",
-        "b_percent": "81",
-        "c_percent": "75",
-        "d_percent": "68",
-        "e_percent": "57",
-        "r_percent": "64"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "The various compounds with the chemical formulas C6H12O6 and C12H22O11 are all carbohydrates (and saccharides) which form the majority of a group most commonly known as what?",
-        "answer": "sugars",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "78",
-        "c_percent": "72",
-        "d_percent": "71",
-        "e_percent": "61",
-        "r_percent": "71"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "The characters of what television series included 600-year-old sisters Zelda and Hilda Spellman (aunts of the show's title character) and a talking cat named Salem?",
-        "answer": "sabrina the teenage witch",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "92",
-        "c_percent": "87",
-        "d_percent": "86",
-        "e_percent": "82",
-        "r_percent": "86"
-    },
-    "4": {
-        "category": "BUS/ECON",
-        "prompt": "The last words of Gary Gilmore, who was convicted of murder in Utah and executed by firing squad in 1977, are credited with inspiring what well-known corporate slogan?",
-        "answer": "just do it",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "79",
-        "c_percent": "74",
-        "d_percent": "73",
-        "e_percent": "69",
-        "r_percent": "71"
-    },
-    "5": {
-        "category": "LITERATURE",
-        "prompt": "Regarding this allegorical 1590 poem, the author suggests in a letter to fellow countryman Sir Walter Raleigh (appended to the first edition) that characters represent virtues and vices: Book One's Redcrosse Knight is holiness; Book Two's Sir Guyon is Temperance; Book Three's Britomart is Chastity; etc. What is this poem?",
-        "answer": "the faerie queene",
-        "image": null,
-        "a_percent": "55",
-        "b_percent": "32",
-        "c_percent": "21",
-        "d_percent": "13",
-        "e_percent": "5",
-        "r_percent": "13"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "Elizabeth Cady Stanton and Lucretia Mott, who met after being denied seats at the World Anti-Slavery Conference in London, organized in 1848 a pivotal feminist conference\u2014formally, a \"Women's Rights Convention,\" and the first of its kind. What locality hosted this conference, which is widely credited as the foundational event in the women's rights movement?",
-        "answer": "seneca falls, new york",
-        "image": null,
-        "a_percent": "86",
-        "b_percent": "69",
-        "c_percent": "58",
-        "d_percent": "45",
-        "e_percent": "28",
-        "r_percent": "38"
-    }
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On November 9, a defamation lawsuit was filed against Rolling Stone magazine and reporter Sabrina Rubin Erdely, based on an article published in November 2014 that has since been retracted. This suit was filed by the Phi Kappa Psi fraternity chapter at what university?",
+            "answer": "virginia",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "68",
+            "e_percent": "57",
+            "r_percent": "64"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The various compounds with the chemical formulas C6H12O6 and C12H22O11 are all carbohydrates (and saccharides) which form the majority of a group most commonly known as what?",
+            "answer": "sugars",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "72",
+            "d_percent": "71",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The characters of what television series included 600-year-old sisters Zelda and Hilda Spellman (aunts of the show's title character) and a talking cat named Salem?",
+            "answer": "sabrina the teenage witch",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "86",
+            "e_percent": "82",
+            "r_percent": "86"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The last words of Gary Gilmore, who was convicted of murder in Utah and executed by firing squad in 1977, are credited with inspiring what well-known corporate slogan?",
+            "answer": "just do it",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "73",
+            "e_percent": "69",
+            "r_percent": "71"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Regarding this allegorical 1590 poem, the author suggests in a letter to fellow countryman Sir Walter Raleigh (appended to the first edition) that characters represent virtues and vices: Book One's Redcrosse Knight is holiness; Book Two's Sir Guyon is Temperance; Book Three's Britomart is Chastity; etc. What is this poem?",
+            "answer": "the faerie queene",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "32",
+            "c_percent": "21",
+            "d_percent": "13",
+            "e_percent": "5",
+            "r_percent": "13"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Elizabeth Cady Stanton and Lucretia Mott, who met after being denied seats at the World Anti-Slavery Conference in London, organized in 1848 a pivotal feminist conference—formally, a \"Women's Rights Convention,\" and the first of its kind. What locality hosted this conference, which is widely credited as the foundational event in the women's rights movement?",
+            "answer": "seneca falls, new york",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "45",
+            "e_percent": "28",
+            "r_percent": "38"
+        }
+    ]
 }

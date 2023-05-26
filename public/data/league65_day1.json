@@ -1,77 +1,79 @@
 {
+    "date": "May 18, 2015",
     "league": 65,
     "day": 1,
-    "date": "May 18, 2015",
-    "1": {
-        "category": "GAMES/SPORT",
-        "prompt": "Due to a unique distinction that lasted until his retirement in 1997, long-time NHL center Craig MacTavish is today most closely associated with what ice hockey accoutrement?",
-        "answer": "helmet",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "57",
-        "c_percent": "56",
-        "d_percent": "50",
-        "e_percent": "36",
-        "r_percent": "42"
-    },
-    "2": {
-        "category": "TELEVISION",
-        "prompt": "What is the first name shared by the three female characters in this montage? ",
-        "answer": "trixie",
-        "image": "/images/art/4574r98yc948y9.jpg",
-        "a_percent": "79",
-        "b_percent": "55",
-        "c_percent": "51",
-        "d_percent": "37",
-        "e_percent": "23",
-        "r_percent": "35"
-    },
-    "3": {
-        "category": "FOOD/DRINK",
-        "prompt": "Popular native dishes, such as a ubiquitous preparation in the tradition of Japanese musubi, as well as local varieties manufactured exclusively for the state, help make Hawaiians by far the greatest per capita consumers of what food item?",
-        "answer": "spam",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "75",
-        "c_percent": "67",
-        "d_percent": "61",
-        "e_percent": "50",
-        "r_percent": "58"
-    },
-    "4": {
-        "category": "AMER HIST",
-        "prompt": "Toussaint Charbonneau, Sergeant Charles Floyd, Alexander Hamilton Willard, John Ordway, and York are individuals among a group most closely associated in the historical record with what other two men?",
-        "answer": "meriwether lewis, william clark",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "70",
-        "c_percent": "59",
-        "d_percent": "47",
-        "e_percent": "33",
-        "r_percent": "42"
-    },
-    "5": {
-        "category": "FILM",
-        "prompt": "A restaurant located at Reisterstown Road and Rogers Avenue near the Pimlico Race Course in northwest Baltimore provided the title, and the basis, for what 1982 film?",
-        "answer": "diner",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "60",
-        "c_percent": "52",
-        "d_percent": "44",
-        "e_percent": "28",
-        "r_percent": "37"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "This city was a royal residence of Charlemagne in the 8th c., the coronation location of Holy Roman Emperors from the 16th c. until the empire's dissolution in 1806, the seat of the diet of the German Confederation in the 19th c., and today the main world financial center of continental Europe. Name the city.",
-        "answer": "frankfurt",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "53",
-        "c_percent": "43",
-        "d_percent": "37",
-        "e_percent": "24",
-        "r_percent": "30"
-    }
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Due to a unique distinction that lasted until his retirement in 1997, long-time NHL center Craig MacTavish is today most closely associated with what ice hockey accoutrement?",
+            "answer": "helmet",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "57",
+            "c_percent": "56",
+            "d_percent": "50",
+            "e_percent": "36",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What is the first name shared by the three female characters in this montage? ",
+            "answer": "trixie",
+            "image": "/images/art/4574r98yc948y9.jpg",
+            "a_percent": "79",
+            "b_percent": "55",
+            "c_percent": "51",
+            "d_percent": "37",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Popular native dishes, such as a ubiquitous preparation in the tradition of Japanese musubi, as well as local varieties manufactured exclusively for the state, help make Hawaiians by far the greatest per capita consumers of what food item?",
+            "answer": "spam",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "61",
+            "e_percent": "50",
+            "r_percent": "58"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Toussaint Charbonneau, Sergeant Charles Floyd, Alexander Hamilton Willard, John Ordway, and York are individuals among a group most closely associated in the historical record with what other two men?",
+            "answer": "meriwether lewis, william clark",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "33",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A restaurant located at Reisterstown Road and Rogers Avenue near the Pimlico Race Course in northwest Baltimore provided the title, and the basis, for what 1982 film?",
+            "answer": "diner",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "28",
+            "r_percent": "37"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "This city was a royal residence of Charlemagne in the 8th c., the coronation location of Holy Roman Emperors from the 16th c. until the empire's dissolution in 1806, the seat of the diet of the German Confederation in the 19th c., and today the main world financial center of continental Europe. Name the city.",
+            "answer": "frankfurt",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "43",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "30"
+        }
+    ]
 }

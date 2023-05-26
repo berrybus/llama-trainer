@@ -1,77 +1,79 @@
 {
+    "date": "May 20, 2014",
     "league": 61,
     "day": 7,
-    "date": "May 20, 2014",
-    "1": {
-        "category": "SCIENCE",
-        "prompt": "The Bell 101 dataset, released in 1958, was the first model of what computer device to be made commercially available, right around the time the portmanteau term for the device entered the English lexicon?",
-        "answer": "modem",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "60",
-        "c_percent": "46",
-        "d_percent": "34",
-        "e_percent": "20",
-        "r_percent": "30"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "According to Samuel Taylor Coleridge, in what city on the sacred river Alph did Mongol ruler Kubla Khan a stately pleasure-dome decree?",
-        "answer": "xanadu",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "84",
-        "c_percent": "78",
-        "d_percent": "62",
-        "e_percent": "35",
-        "r_percent": "53"
-    },
-    "3": {
-        "category": "POP MUSIC",
-        "prompt": "The Sunset Caf\u00e9, Reno Club, \"head arrangements,\" Big Joe Turner, Charlie Parker, Bennie Moten, Count Basie, and the widely imitated \"dueling tenor saxophonists\" Lester Young and Herschel Evans are all associated with the swing jazz of what city?",
-        "answer": "kansas city",
-        "image": null,
-        "a_percent": "55",
-        "b_percent": "40",
-        "c_percent": "26",
-        "d_percent": "22",
-        "e_percent": "10",
-        "r_percent": "20"
-    },
-    "4": {
-        "category": "WORLD HIST",
-        "prompt": "A prominent American neurosurgeon who is also a television medical correspondent may or may not be descended from monarchs who ruled much of South Asia in the fourth to sixth centuries, during what is considered the Golden Age of India. What last name do they share?",
-        "answer": "gupta",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "81",
-        "c_percent": "79",
-        "d_percent": "72",
-        "e_percent": "64",
-        "r_percent": "78"
-    },
-    "5": {
-        "category": "LANGUAGE",
-        "prompt": "K\u00f3pavogur, Hafnarfj\u00f6r\u00f0ur, Gar\u00f0ab\u00e6r, and Mosfellsb\u00e6r are among the most populous suburbs of what European capital city?",
-        "answer": "reykjavik",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "71",
-        "c_percent": "58",
-        "d_percent": "45",
-        "e_percent": "30",
-        "r_percent": "46"
-    },
-    "6": {
-        "category": "TELEVISION",
-        "prompt": "Name the American television soap opera that premiered in March 1987 as a sister to The Young and the Restless and subsequently surpassed its older sibling to become the world's most watched soap opera (although Y&R remains #1 in the United States).",
-        "answer": "the bold and the beautiful",
-        "image": null,
-        "a_percent": "74",
-        "b_percent": "58",
-        "c_percent": "52",
-        "d_percent": "48",
-        "e_percent": "30",
-        "r_percent": "44"
-    }
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The Bell 101 dataset, released in 1958, was the first model of what computer device to be made commercially available, right around the time the portmanteau term for the device entered the English lexicon?",
+            "answer": "modem",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "60",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "30"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "According to Samuel Taylor Coleridge, in what city on the sacred river Alph did Mongol ruler Kubla Khan a stately pleasure-dome decree?",
+            "answer": "xanadu",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "62",
+            "e_percent": "35",
+            "r_percent": "53"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The Sunset Café, Reno Club, \"head arrangements,\" Big Joe Turner, Charlie Parker, Bennie Moten, Count Basie, and the widely imitated \"dueling tenor saxophonists\" Lester Young and Herschel Evans are all associated with the swing jazz of what city?",
+            "answer": "kansas city",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "40",
+            "c_percent": "26",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "20"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A prominent American neurosurgeon who is also a television medical correspondent may or may not be descended from monarchs who ruled much of South Asia in the fourth to sixth centuries, during what is considered the Golden Age of India. What last name do they share?",
+            "answer": "gupta",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "64",
+            "r_percent": "78"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Kópavogur, Hafnarfjörður, Garðabær, and Mosfellsbær are among the most populous suburbs of what European capital city?",
+            "answer": "reykjavik",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "45",
+            "e_percent": "30",
+            "r_percent": "46"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the American television soap opera that premiered in March 1987 as a sister to The Young and the Restless and subsequently surpassed its older sibling to become the world's most watched soap opera (although Y&R remains #1 in the United States).",
+            "answer": "the bold and the beautiful",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "52",
+            "d_percent": "48",
+            "e_percent": "30",
+            "r_percent": "44"
+        }
+    ]
 }

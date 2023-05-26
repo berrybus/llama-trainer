@@ -1,77 +1,79 @@
 {
+    "date": "March 3, 2014",
     "league": 60,
     "day": 10,
-    "date": "March 3, 2014",
-    "1": {
-        "category": "FILM",
-        "prompt": "One of the few individuals with both an Erdos number (of 5) and a Bacon number (of 2) is what actress, by virtue of a psychology paper written while a student at Harvard University, and her appearance as thirteen-year-old Marty in 1996's Beautiful Girls?",
-        "answer": "natalie portman",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "85",
-        "c_percent": "80",
-        "d_percent": "74",
-        "e_percent": "61",
-        "r_percent": "71"
-    },
-    "2": {
-        "category": "POP MUSIC",
-        "prompt": "Name the man who famously sang, in a #1 hit from 1961, of girlfriends in Mexico, Alaska, Berlin, Hong Kong, and Waikiki (and elsewhere) -- whom he would visit while travelin'.",
-        "answer": "ricky nelson",
-        "image": null,
-        "a_percent": "53",
-        "b_percent": "33",
-        "c_percent": "29",
-        "d_percent": "18",
-        "e_percent": "11",
-        "r_percent": "18"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "The country of Indonesia is an archipelago consisting of over 17,500 islands. Of those, it shares three with other countries. Name two of those three islands.",
-        "answer": "borneo, new guinea (papua), timor",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "59",
-        "c_percent": "48",
-        "d_percent": "29",
-        "e_percent": "12",
-        "r_percent": "28"
-    },
-    "4": {
-        "category": "AMER HIST",
-        "prompt": "While there are a number of institutions in the United States called Trinity College, the total decreased by one in 1924 when North Carolina's Trinity College changed its name to what, after receiving a major private endowment from a prominent American industrialist?",
-        "answer": "duke university",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "83",
-        "c_percent": "79",
-        "d_percent": "72",
-        "e_percent": "54",
-        "r_percent": "67"
-    },
-    "5": {
-        "category": "CURR EVENTS",
-        "prompt": "Identify the former Serb military leader, Chief of Staff of the Bosnian Serb Army, who is the man believed most responsible for the 1992-96 Siege of Sarajevo, as well as the July 1995 Srebrenica massacre (along with Radovan Karad\u017ei\u0107).",
-        "answer": "ratko mladi\u0107",
-        "image": null,
-        "a_percent": "36",
-        "b_percent": "22",
-        "c_percent": "20",
-        "d_percent": "11",
-        "e_percent": "3",
-        "r_percent": "7"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "What was the most notable and particular circumstance shared by the respective authors during the writing of Le Morte d'Arthur, Don Quixote, Pilgrim's Progress, Our Lady of the Flowers (Notre Dame des Fleurs), and Mein Kampf?",
-        "answer": "imprisoned",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "93",
-        "c_percent": "88",
-        "d_percent": "84",
-        "e_percent": "61",
-        "r_percent": "72"
-    }
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "One of the few individuals with both an Erdos number (of 5) and a Bacon number (of 2) is what actress, by virtue of a psychology paper written while a student at Harvard University, and her appearance as thirteen-year-old Marty in 1996's Beautiful Girls?",
+            "answer": "natalie portman",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "74",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the man who famously sang, in a #1 hit from 1961, of girlfriends in Mexico, Alaska, Berlin, Hong Kong, and Waikiki (and elsewhere) -- whom he would visit while travelin'.",
+            "answer": "ricky nelson",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "33",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The country of Indonesia is an archipelago consisting of over 17,500 islands. Of those, it shares three with other countries. Name two of those three islands.",
+            "answer": "borneo, new guinea (papua), timor",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "29",
+            "e_percent": "12",
+            "r_percent": "28"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While there are a number of institutions in the United States called Trinity College, the total decreased by one in 1924 when North Carolina's Trinity College changed its name to what, after receiving a major private endowment from a prominent American industrialist?",
+            "answer": "duke university",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "54",
+            "r_percent": "67"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Identify the former Serb military leader, Chief of Staff of the Bosnian Serb Army, who is the man believed most responsible for the 1992-96 Siege of Sarajevo, as well as the July 1995 Srebrenica massacre (along with Radovan Karadžić).",
+            "answer": "ratko mladić",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "22",
+            "c_percent": "20",
+            "d_percent": "11",
+            "e_percent": "3",
+            "r_percent": "7"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What was the most notable and particular circumstance shared by the respective authors during the writing of Le Morte d'Arthur, Don Quixote, Pilgrim's Progress, Our Lady of the Flowers (Notre Dame des Fleurs), and Mein Kampf?",
+            "answer": "imprisoned",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "61",
+            "r_percent": "72"
+        }
+    ]
 }

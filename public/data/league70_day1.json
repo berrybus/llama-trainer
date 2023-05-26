@@ -1,77 +1,79 @@
 {
+    "date": "August 25, 2016",
     "league": 70,
     "day": 1,
-    "date": "August 25, 2016",
-    "1": {
-        "category": "MATH",
-        "prompt": "\"How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.\" This sentence is a mnemonic used for remembering what?",
-        "answer": "pi (first 15 digits)",
-        "image": null,
-        "a_percent": "61",
-        "b_percent": "40",
-        "c_percent": "28",
-        "d_percent": "16",
-        "e_percent": "8",
-        "r_percent": "18"
-    },
-    "2": {
-        "category": "WORLD HIST",
-        "prompt": "What man, the last Anglo-Saxon king of England, perished while leading the forces against William the Conqueror at the Battle of Hastings in 1066? (Note: Per Rule 5a.4.1, must provide last name or regnal number.)",
-        "answer": "harold godwinson (harold ii)",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "49",
-        "c_percent": "31",
-        "d_percent": "19",
-        "e_percent": "8",
-        "r_percent": "21"
-    },
-    "3": {
-        "category": "AMER HIST",
-        "prompt": "Fill in the two-word blank in this Franklin D. Roosevelt quote, taken from the conclusion of his address accepting the presidential nomination at the Democratic National Convention of 1932: \"I pledge you, I pledge myself, to a _____ _____ for the American people.\"",
-        "answer": "new deal",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "91",
-        "c_percent": "89",
-        "d_percent": "78",
-        "e_percent": "57",
-        "r_percent": "68"
-    },
-    "4": {
-        "category": "POP MUSIC",
-        "prompt": "The graphic design on this storefront is most closely associated with what individual? ",
-        "answer": "eddie van halen",
-        "image": "/images/art/h84h0998hc354.jpg",
-        "a_percent": "26",
-        "b_percent": "22",
-        "c_percent": "19",
-        "d_percent": "15",
-        "e_percent": "11",
-        "r_percent": "15"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "Georgia, Greece, and Germany are countries whose English names begin with the letter \"g\". What is the only country whose English name ENDS with the letter \"g\"?",
-        "answer": "luxembourg",
-        "image": null,
-        "a_percent": "91",
-        "b_percent": "85",
-        "c_percent": "73",
-        "d_percent": "65",
-        "e_percent": "51",
-        "r_percent": "64"
-    },
-    "6": {
-        "category": "SCIENCE",
-        "prompt": "Isobars are lines on a weather map connecting points of equal pressure. What is the standard term for lines on the map connecting points of equal temperature?",
-        "answer": "isotherms",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "69",
-        "c_percent": "58",
-        "d_percent": "45",
-        "e_percent": "32",
-        "r_percent": "44"
-    }
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "\"How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.\" This sentence is a mnemonic used for remembering what?",
+            "answer": "pi (first 15 digits)",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What man, the last Anglo-Saxon king of England, perished while leading the forces against William the Conqueror at the Battle of Hastings in 1066? (Note: Per Rule 5a.4.1, must provide last name or regnal number.)",
+            "answer": "harold godwinson (harold ii)",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "49",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "8",
+            "r_percent": "21"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Fill in the two-word blank in this Franklin D. Roosevelt quote, taken from the conclusion of his address accepting the presidential nomination at the Democratic National Convention of 1932: \"I pledge you, I pledge myself, to a _____ _____ for the American people.\"",
+            "answer": "new deal",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "78",
+            "e_percent": "57",
+            "r_percent": "68"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The graphic design on this storefront is most closely associated with what individual? ",
+            "answer": "eddie van halen",
+            "image": "/images/art/h84h0998hc354.jpg",
+            "a_percent": "26",
+            "b_percent": "22",
+            "c_percent": "19",
+            "d_percent": "15",
+            "e_percent": "11",
+            "r_percent": "15"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Georgia, Greece, and Germany are countries whose English names begin with the letter \"g\". What is the only country whose English name ENDS with the letter \"g\"?",
+            "answer": "luxembourg",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "73",
+            "d_percent": "65",
+            "e_percent": "51",
+            "r_percent": "64"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Isobars are lines on a weather map connecting points of equal pressure. What is the standard term for lines on the map connecting points of equal temperature?",
+            "answer": "isotherms",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "44"
+        }
+    ]
 }

@@ -1,77 +1,79 @@
 {
+    "date": "June 3, 2016",
     "league": 69,
     "day": 7,
-    "date": "June 3, 2016",
-    "1": {
-        "category": "CLASS MUSIC",
-        "prompt": "Dmitri Shostakovich's 1934 opera, Op. 29, was an instant critical and public success\u2014though not in the eyes of the Soviet regime until it was \"cleaned up\" as Katerina Ismailova in 1962. The work actually had nothing to do with William Shakespeare, despite what name in its title?",
-        "answer": "lady macbeth",
-        "image": null,
-        "a_percent": "55",
-        "b_percent": "34",
-        "c_percent": "28",
-        "d_percent": "16",
-        "e_percent": "11",
-        "r_percent": "22"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "A lumpy, aromatic resin obtained by tapping the trunks of trees of the tropical Boswellia genus, and a gummy resin bled from a tree of the Commiphora genus\u2014these two items very often appear in a set with what third, rather dissimilar item?",
-        "answer": "gold",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "61",
-        "c_percent": "51",
-        "d_percent": "35",
-        "e_percent": "22",
-        "r_percent": "37"
-    },
-    "3": {
-        "category": "THEATRE",
-        "prompt": "The \"method school\" of acting is regularly linked to what famed acting teacher, who advocated the Stanislavsky-influenced style during his thirty-plus years as director of the nonprofit Actors' Studio?",
-        "answer": "lee strasberg",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "48",
-        "c_percent": "36",
-        "d_percent": "22",
-        "e_percent": "13",
-        "r_percent": "29"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "What are the three main ancient Greek \"orders\" (styles) of architecture, listed from least to most ornamental (which is also the order in which they developed)?",
-        "answer": "doric, ionic, corinthian",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "73",
-        "c_percent": "63",
-        "d_percent": "48",
-        "e_percent": "29",
-        "r_percent": "48"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "This Southeast Asian country's East includes the majority of the country's land mass and most of its natural resources, but 80% of the country's citizens live in the separate, peninsular West. What is the country?",
-        "answer": "malaysia",
-        "image": null,
-        "a_percent": "64",
-        "b_percent": "59",
-        "c_percent": "45",
-        "d_percent": "36",
-        "e_percent": "21",
-        "r_percent": "37"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "Although the speech best remembered is perhaps Ann Richards's \"[George Bush] was born with a silver foot in his mouth\" declamation, the 1988 Democratic National Convention is also remembered for a long and tedious nomination speech that some considered ruinous to the career of the politician who gave it (quite incorrectly, as it turned out). Who gave this widely panned speech?",
-        "answer": "bill clinton",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "76",
-        "c_percent": "63",
-        "d_percent": "55",
-        "e_percent": "46",
-        "r_percent": "60"
-    }
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Dmitri Shostakovich's 1934 opera, Op. 29, was an instant critical and public success—though not in the eyes of the Soviet regime until it was \"cleaned up\" as Katerina Ismailova in 1962. The work actually had nothing to do with William Shakespeare, despite what name in its title?",
+            "answer": "lady macbeth",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "16",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A lumpy, aromatic resin obtained by tapping the trunks of trees of the tropical Boswellia genus, and a gummy resin bled from a tree of the Commiphora genus—these two items very often appear in a set with what third, rather dissimilar item?",
+            "answer": "gold",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "35",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The \"method school\" of acting is regularly linked to what famed acting teacher, who advocated the Stanislavsky-influenced style during his thirty-plus years as director of the nonprofit Actors' Studio?",
+            "answer": "lee strasberg",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "36",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "29"
+        },
+        {
+            "category": "ART",
+            "prompt": "What are the three main ancient Greek \"orders\" (styles) of architecture, listed from least to most ornamental (which is also the order in which they developed)?",
+            "answer": "doric, ionic, corinthian",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "48",
+            "e_percent": "29",
+            "r_percent": "48"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "This Southeast Asian country's East includes the majority of the country's land mass and most of its natural resources, but 80% of the country's citizens live in the separate, peninsular West. What is the country?",
+            "answer": "malaysia",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "37"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Although the speech best remembered is perhaps Ann Richards's \"[George Bush] was born with a silver foot in his mouth\" declamation, the 1988 Democratic National Convention is also remembered for a long and tedious nomination speech that some considered ruinous to the career of the politician who gave it (quite incorrectly, as it turned out). Who gave this widely panned speech?",
+            "answer": "bill clinton",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "63",
+            "d_percent": "55",
+            "e_percent": "46",
+            "r_percent": "60"
+        }
+    ]
 }

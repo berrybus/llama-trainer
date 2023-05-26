@@ -1,77 +1,79 @@
 {
+    "date": "September 8, 2014",
     "league": 62,
     "day": 15,
-    "date": "September 8, 2014",
-    "1": {
-        "category": "POP MUSIC",
-        "prompt": "What artist received the Oscar for Best Original Song of 2002, for \"Lose Yourself,\" the first rap song to be so accorded by the Academy?",
-        "answer": "eminem",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "93",
-        "c_percent": "88",
-        "d_percent": "86",
-        "e_percent": "86",
-        "r_percent": "90"
-    },
-    "2": {
-        "category": "BUS/ECON",
-        "prompt": "In addition to its namesake, the multinational clothing and accessories retailer Gap Inc. owns five other major retail brands (not including Gap variations such as Baby Gap). Name any three of these brands.",
-        "answer": "banana republic, old navy, piperlime, athleta, intermix",
-        "image": null,
-        "a_percent": "50",
-        "b_percent": "35",
-        "c_percent": "34",
-        "d_percent": "31",
-        "e_percent": "30",
-        "r_percent": "33"
-    },
-    "3": {
-        "category": "CURR EVENTS",
-        "prompt": "On August 21, 2014, four firefighters in Campbellsville, Kentucky, were injured when electricity raced from a high-voltage line to the bucket of an aerial ladder truck in which they were standing. What popular activity were the men participating in?",
-        "answer": "ice bucket challenge",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "71",
-        "c_percent": "75",
-        "d_percent": "68",
-        "e_percent": "59",
-        "r_percent": "58"
-    },
-    "4": {
-        "category": "LITERATURE",
-        "prompt": "English translations of this novella often render a word in its famous first line as \"insect,\" \"bug,\" or \"beetle,\" though the word (Ungeziefer) translates literally to \"vermin\".",
-        "answer": "the metamorphosis",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "93",
-        "c_percent": "89",
-        "d_percent": "84",
-        "e_percent": "63",
-        "r_percent": "79"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "Possibly the biggest news event of 1453 (insofar as \"news\" existed at the time) was the fall in late May of what city? It spelled the end of one centuries-old empire, and marked the rise of another.",
-        "answer": "constantinople",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "92",
-        "c_percent": "90",
-        "d_percent": "82",
-        "e_percent": "68",
-        "r_percent": "78"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "The man in this lightly edited photograph is the head of what organization? ",
-        "answer": "fifa",
-        "image": "/images/art/848yn0948yn098709.jpg",
-        "a_percent": "91",
-        "b_percent": "78",
-        "c_percent": "80",
-        "d_percent": "73",
-        "e_percent": "60",
-        "r_percent": "60"
-    }
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What artist received the Oscar for Best Original Song of 2002, for \"Lose Yourself,\" the first rap song to be so accorded by the Academy?",
+            "answer": "eminem",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "86",
+            "e_percent": "86",
+            "r_percent": "90"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In addition to its namesake, the multinational clothing and accessories retailer Gap Inc. owns five other major retail brands (not including Gap variations such as Baby Gap). Name any three of these brands.",
+            "answer": "banana republic, old navy, piperlime, athleta, intermix",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "35",
+            "c_percent": "34",
+            "d_percent": "31",
+            "e_percent": "30",
+            "r_percent": "33"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On August 21, 2014, four firefighters in Campbellsville, Kentucky, were injured when electricity raced from a high-voltage line to the bucket of an aerial ladder truck in which they were standing. What popular activity were the men participating in?",
+            "answer": "ice bucket challenge",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "75",
+            "d_percent": "68",
+            "e_percent": "59",
+            "r_percent": "58"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "English translations of this novella often render a word in its famous first line as \"insect,\" \"bug,\" or \"beetle,\" though the word (Ungeziefer) translates literally to \"vermin\".",
+            "answer": "the metamorphosis",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "63",
+            "r_percent": "79"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Possibly the biggest news event of 1453 (insofar as \"news\" existed at the time) was the fall in late May of what city? It spelled the end of one centuries-old empire, and marked the rise of another.",
+            "answer": "constantinople",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "82",
+            "e_percent": "68",
+            "r_percent": "78"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The man in this lightly edited photograph is the head of what organization? ",
+            "answer": "fifa",
+            "image": "/images/art/848yn0948yn098709.jpg",
+            "a_percent": "91",
+            "b_percent": "78",
+            "c_percent": "80",
+            "d_percent": "73",
+            "e_percent": "60",
+            "r_percent": "60"
+        }
+    ]
 }

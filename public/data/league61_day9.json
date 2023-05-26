@@ -1,77 +1,79 @@
 {
+    "date": "May 22, 2014",
     "league": 61,
     "day": 9,
-    "date": "May 22, 2014",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "The Fortune 500 annually lists the top closely held and public corporations in the United States, as ranked by gross revenue during the previous year (after adjustments). Name any one of the three companies to have sat atop the list since its inception in 1955.",
-        "answer": "general motors, exxonmobil, wal-mart",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "69",
-        "c_percent": "65",
-        "d_percent": "55",
-        "e_percent": "44",
-        "r_percent": "53"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "Angiogenesis and intussusception are two of the three known physiological processes by which the human body creates what?",
-        "answer": "blood vessels",
-        "image": null,
-        "a_percent": "57",
-        "b_percent": "42",
-        "c_percent": "31",
-        "d_percent": "24",
-        "e_percent": "12",
-        "r_percent": "31"
-    },
-    "3": {
-        "category": "FILM",
-        "prompt": "The Golden Globe\u2013winning 2010 film The Kids Are All Right is extremely similar in title\u2014but quite different in subject matter\u2014to a film thirty-one years earlier about whom?",
-        "answer": "the who",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "60",
-        "c_percent": "59",
-        "d_percent": "42",
-        "e_percent": "27",
-        "r_percent": "41"
-    },
-    "4": {
-        "category": "MATH",
-        "prompt": "What is the amplitude of the cosine function shown here in green? ",
-        "answer": "2.5 (peak) / 5 (peak-to-peak)",
-        "image": "/images/art/89y40598cn4085ycn0.jpg",
-        "a_percent": "83",
-        "b_percent": "81",
-        "c_percent": "79",
-        "d_percent": "74",
-        "e_percent": "70",
-        "r_percent": "79"
-    },
-    "5": {
-        "category": "CLASS MUSIC",
-        "prompt": "Give the musical term, from Italian, synonymous for \"from the beginning,\" and associated with Baroque arias, that instructs the performer to repeat the first section of music.",
-        "answer": "da capo",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "50",
-        "c_percent": "34",
-        "d_percent": "26",
-        "e_percent": "15",
-        "r_percent": "32"
-    },
-    "6": {
-        "category": "LIFESTYLE",
-        "prompt": "The semiannual clothing trade shows in this city, which were established in 1958 and are usually held in February/March and September/October, are the third in the Big Four \"fashion weeks\" schedule, following New York and London, and preceding Paris.",
-        "answer": "milan",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "94",
-        "c_percent": "90",
-        "d_percent": "89",
-        "e_percent": "75",
-        "r_percent": "85"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "The Fortune 500 annually lists the top closely held and public corporations in the United States, as ranked by gross revenue during the previous year (after adjustments). Name any one of the three companies to have sat atop the list since its inception in 1955.",
+            "answer": "general motors, exxonmobil, wal-mart",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Angiogenesis and intussusception are two of the three known physiological processes by which the human body creates what?",
+            "answer": "blood vessels",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "24",
+            "e_percent": "12",
+            "r_percent": "31"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The Golden Globe–winning 2010 film The Kids Are All Right is extremely similar in title—but quite different in subject matter—to a film thirty-one years earlier about whom?",
+            "answer": "the who",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "60",
+            "c_percent": "59",
+            "d_percent": "42",
+            "e_percent": "27",
+            "r_percent": "41"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the amplitude of the cosine function shown here in green? ",
+            "answer": "2.5 (peak) / 5 (peak-to-peak)",
+            "image": "/images/art/89y40598cn4085ycn0.jpg",
+            "a_percent": "83",
+            "b_percent": "81",
+            "c_percent": "79",
+            "d_percent": "74",
+            "e_percent": "70",
+            "r_percent": "79"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Give the musical term, from Italian, synonymous for \"from the beginning,\" and associated with Baroque arias, that instructs the performer to repeat the first section of music.",
+            "answer": "da capo",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "50",
+            "c_percent": "34",
+            "d_percent": "26",
+            "e_percent": "15",
+            "r_percent": "32"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The semiannual clothing trade shows in this city, which were established in 1958 and are usually held in February/March and September/October, are the third in the Big Four \"fashion weeks\" schedule, following New York and London, and preceding Paris.",
+            "answer": "milan",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "89",
+            "e_percent": "75",
+            "r_percent": "85"
+        }
+    ]
 }

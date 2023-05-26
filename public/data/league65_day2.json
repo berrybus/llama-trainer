@@ -1,77 +1,79 @@
 {
+    "date": "May 19, 2015",
     "league": 65,
     "day": 2,
-    "date": "May 19, 2015",
-    "1": {
-        "category": "THEATRE",
-        "prompt": "Seymour, Audrey, Mushnik, and\u2014most distinctively\u2014Audrey II are main characters in what stage musical?",
-        "answer": "little shop of horrors",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "85",
-        "c_percent": "82",
-        "d_percent": "75",
-        "e_percent": "65",
-        "r_percent": "68"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "What Renaissance literary figure, often called the \"Father of Humanism\", is also widely considered the first modern poet, due to his mastery of the sonnet form, as evidenced (for example) by works in Il Canzoniere?",
-        "answer": "petrarch",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "53",
-        "c_percent": "41",
-        "d_percent": "29",
-        "e_percent": "14",
-        "r_percent": "29"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "The period of British history that began in 1660\u2014a period which started with Charles II's reclamation of the crown of England and ended with the ascension of William and Mary during the Glorious Revolution\u2014is best known by what one-word term?",
-        "answer": "restoration",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "77",
-        "c_percent": "67",
-        "d_percent": "52",
-        "e_percent": "25",
-        "r_percent": "43"
-    },
-    "4": {
-        "category": "POP MUSIC",
-        "prompt": "Freedom Williams, Martha Wash, and Zelma Davis were among the vocalists hired by dance-pop producers David Cole and Robert Clivill\u00e9s to be featured on the producers' early 1990s singles, in a project that went by what name?",
-        "answer": "c+c music factory",
-        "image": null,
-        "a_percent": "67",
-        "b_percent": "53",
-        "c_percent": "45",
-        "d_percent": "37",
-        "e_percent": "30",
-        "r_percent": "34"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "What, precisely, is the mass of the platinum-iridium cylinder currently held under strict supervision at the Bureau International des Poids et Mesures in the Parc de Saint-Cloud, at S\u00e8vres, France?",
-        "answer": "one kilogram",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "75",
-        "c_percent": "67",
-        "d_percent": "63",
-        "e_percent": "53",
-        "r_percent": "56"
-    },
-    "6": {
-        "category": "BUS/ECON",
-        "prompt": "What U.S. Senator was the primary legislative sponsor of the Taxpayer Relief Act of 1997, as well as the namesake for one of the law's best known and most enduring creations?",
-        "answer": "william roth",
-        "image": null,
-        "a_percent": "71",
-        "b_percent": "56",
-        "c_percent": "47",
-        "d_percent": "35",
-        "e_percent": "19",
-        "r_percent": "28"
-    }
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Seymour, Audrey, Mushnik, and—most distinctively—Audrey II are main characters in what stage musical?",
+            "answer": "little shop of horrors",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "85",
+            "c_percent": "82",
+            "d_percent": "75",
+            "e_percent": "65",
+            "r_percent": "68"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What Renaissance literary figure, often called the \"Father of Humanism\", is also widely considered the first modern poet, due to his mastery of the sonnet form, as evidenced (for example) by works in Il Canzoniere?",
+            "answer": "petrarch",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "53",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "14",
+            "r_percent": "29"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The period of British history that began in 1660—a period which started with Charles II's reclamation of the crown of England and ended with the ascension of William and Mary during the Glorious Revolution—is best known by what one-word term?",
+            "answer": "restoration",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "52",
+            "e_percent": "25",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Freedom Williams, Martha Wash, and Zelma Davis were among the vocalists hired by dance-pop producers David Cole and Robert Clivillés to be featured on the producers' early 1990s singles, in a project that went by what name?",
+            "answer": "c+c music factory",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "30",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What, precisely, is the mass of the platinum-iridium cylinder currently held under strict supervision at the Bureau International des Poids et Mesures in the Parc de Saint-Cloud, at Sèvres, France?",
+            "answer": "one kilogram",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "63",
+            "e_percent": "53",
+            "r_percent": "56"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What U.S. Senator was the primary legislative sponsor of the Taxpayer Relief Act of 1997, as well as the namesake for one of the law's best known and most enduring creations?",
+            "answer": "william roth",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "56",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "19",
+            "r_percent": "28"
+        }
+    ]
 }

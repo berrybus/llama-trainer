@@ -1,77 +1,79 @@
 {
+    "date": "December 5, 2014",
     "league": 63,
     "day": 17,
-    "date": "December 5, 2014",
-    "1": {
-        "category": "ART",
-        "prompt": "Although this late 19th/early 20th century painter's ambition led him toward genre paintings and murals, he's probably best known for his vast and popular output of portraiture, including the controversial Portrait of Madame X (pictured).   ",
-        "answer": "john singer sargent",
-        "image": "/images/art/8845098cn04985ycn0.jpg",
-        "a_percent": "56",
-        "b_percent": "45",
-        "c_percent": "35",
-        "d_percent": "21",
-        "e_percent": "13",
-        "r_percent": "29"
-    },
-    "2": {
-        "category": "LIFESTYLE",
-        "prompt": "The festival in the Western Christian Church known as Quadragesima (Latin for \"fortieth\") is better known by what other name?",
-        "answer": "lent",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "53",
-        "c_percent": "48",
-        "d_percent": "40",
-        "e_percent": "32",
-        "r_percent": "47"
-    },
-    "3": {
-        "category": "CLASS MUSIC",
-        "prompt": "The Broadway musical Kismet is adapted from the work of Russian Romantic composer Alexander Borodin\u2014specifically, his string quartets, symphonic poem In the Steppes of Central Asia, and his unfinished opera that features what titular prince?",
-        "answer": "prince igor",
-        "image": null,
-        "a_percent": "51",
-        "b_percent": "34",
-        "c_percent": "25",
-        "d_percent": "14",
-        "e_percent": "6",
-        "r_percent": "17"
-    },
-    "4": {
-        "category": "GEOGRAPHY",
-        "prompt": "The most populous urban area in Germany, which is located within the state of North Rhine-Westphalia and includes the cities of Essen, Dortmund, Bochum, and others, is most commonly referred to by what name, after the river that forms (or runs near) its southern border?",
-        "answer": "ruhr",
-        "image": null,
-        "a_percent": "63",
-        "b_percent": "46",
-        "c_percent": "37",
-        "d_percent": "24",
-        "e_percent": "9",
-        "r_percent": "24"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "The French king who embarked on the Third Crusade in 1190, the Spanish king whose Armada was defeated in 1588, the \"Good\" Burgundian Duke whose troops captured Joan of Arc in 1430, and the Macedonian king who mastered all of independent Greece in 338 BC all shared what first name?",
-        "answer": "philip",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "83",
-        "c_percent": "72",
-        "d_percent": "62",
-        "e_percent": "32",
-        "r_percent": "59"
-    },
-    "6": {
-        "category": "FOOD/DRINK",
-        "prompt": "Zymurgy is a bimonthly magazine published in the United States by a not-for-profit association of members who share what hobby?",
-        "answer": "homebrewing",
-        "image": null,
-        "a_percent": "64",
-        "b_percent": "39",
-        "c_percent": "29",
-        "d_percent": "19",
-        "e_percent": "9",
-        "r_percent": "24"
-    }
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Although this late 19th/early 20th century painter's ambition led him toward genre paintings and murals, he's probably best known for his vast and popular output of portraiture, including the controversial Portrait of Madame X (pictured).   ",
+            "answer": "john singer sargent",
+            "image": "/images/art/8845098cn04985ycn0.jpg",
+            "a_percent": "56",
+            "b_percent": "45",
+            "c_percent": "35",
+            "d_percent": "21",
+            "e_percent": "13",
+            "r_percent": "29"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The festival in the Western Christian Church known as Quadragesima (Latin for \"fortieth\") is better known by what other name?",
+            "answer": "lent",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "53",
+            "c_percent": "48",
+            "d_percent": "40",
+            "e_percent": "32",
+            "r_percent": "47"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The Broadway musical Kismet is adapted from the work of Russian Romantic composer Alexander Borodin—specifically, his string quartets, symphonic poem In the Steppes of Central Asia, and his unfinished opera that features what titular prince?",
+            "answer": "prince igor",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "17"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The most populous urban area in Germany, which is located within the state of North Rhine-Westphalia and includes the cities of Essen, Dortmund, Bochum, and others, is most commonly referred to by what name, after the river that forms (or runs near) its southern border?",
+            "answer": "ruhr",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "46",
+            "c_percent": "37",
+            "d_percent": "24",
+            "e_percent": "9",
+            "r_percent": "24"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The French king who embarked on the Third Crusade in 1190, the Spanish king whose Armada was defeated in 1588, the \"Good\" Burgundian Duke whose troops captured Joan of Arc in 1430, and the Macedonian king who mastered all of independent Greece in 338 BC all shared what first name?",
+            "answer": "philip",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "32",
+            "r_percent": "59"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Zymurgy is a bimonthly magazine published in the United States by a not-for-profit association of members who share what hobby?",
+            "answer": "homebrewing",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "24"
+        }
+    ]
 }

@@ -1,77 +1,79 @@
 {
+    "date": "March 8, 2016",
     "league": 68,
     "day": 12,
-    "date": "March 8, 2016",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "The name of what leading American investment research and management company, formed in 1984 with a focus on mutual funds, comes from a line at the end of Henry David Thoreau's Walden (and not from a medieval fighting weapon, as might otherwise be suspected)?",
-        "answer": "morningstar",
-        "image": null,
-        "a_percent": "57",
-        "b_percent": "42",
-        "c_percent": "39",
-        "d_percent": "29",
-        "e_percent": "18",
-        "r_percent": "28"
-    },
-    "2": {
-        "category": "GEOGRAPHY",
-        "prompt": "Charlotte Amalie of Hesse-Kassel, who reigned as queen consort of Denmark and Norway during the late 17th century, gave her name to a Danish West Indian island town that today serves as the capital city of what archipelagic territory?",
-        "answer": "u.s. virgin islands",
-        "image": null,
-        "a_percent": "60",
-        "b_percent": "42",
-        "c_percent": "28",
-        "d_percent": "15",
-        "e_percent": "7",
-        "r_percent": "18"
-    },
-    "3": {
-        "category": "POP MUSIC",
-        "prompt": "\"Good Vibrations,\" which sampled the 1980 Loleatta Holloway hit \"Love Vibration,\" and \"Wildside,\" sampling Lou Reed's \"Walk on the Wild Side,\" were hit hip-hop songs from 1991. Name either the group who recorded these songs or its leader.",
-        "answer": "marky mark and the funky bunch",
-        "image": null,
-        "a_percent": "73",
-        "b_percent": "59",
-        "c_percent": "51",
-        "d_percent": "43",
-        "e_percent": "37",
-        "r_percent": "44"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "Kitti's hog-nosed is the smallest species (in physical size), whereas members of the Pteropus genus are the biggest of what type of mammal? The type, as a taxonomic order, constitutes nearly a fourth of all mammalian species worldwide\u2014the second-most speciated, after rodents (Rodentia) .",
-        "answer": "bats/chiroptera",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "76",
-        "c_percent": "61",
-        "d_percent": "51",
-        "e_percent": "30",
-        "r_percent": "52"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "Name any school, other than the University of Connecticut, that has won the Women's NCAA Division I basketball championship in the 21st century.",
-        "answer": "notre dame, baylor, maryland, tennessee, texas a&m",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "72",
-        "c_percent": "64",
-        "d_percent": "56",
-        "e_percent": "50",
-        "r_percent": "53"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "One of the finest extant illuminated manuscripts of the Gospels in Latin is among the antiquities of what ancient town in County Meath, Ireland? The \"Book\" takes its name from the town's namesake abbey, which was a bishopric see until the 13th century.",
-        "answer": "kells",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "59",
-        "c_percent": "53",
-        "d_percent": "43",
-        "e_percent": "24",
-        "r_percent": "35"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "The name of what leading American investment research and management company, formed in 1984 with a focus on mutual funds, comes from a line at the end of Henry David Thoreau's Walden (and not from a medieval fighting weapon, as might otherwise be suspected)?",
+            "answer": "morningstar",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "42",
+            "c_percent": "39",
+            "d_percent": "29",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Charlotte Amalie of Hesse-Kassel, who reigned as queen consort of Denmark and Norway during the late 17th century, gave her name to a Danish West Indian island town that today serves as the capital city of what archipelagic territory?",
+            "answer": "u.s. virgin islands",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "28",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Good Vibrations,\" which sampled the 1980 Loleatta Holloway hit \"Love Vibration,\" and \"Wildside,\" sampling Lou Reed's \"Walk on the Wild Side,\" were hit hip-hop songs from 1991. Name either the group who recorded these songs or its leader.",
+            "answer": "marky mark and the funky bunch",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "43",
+            "e_percent": "37",
+            "r_percent": "44"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Kitti's hog-nosed is the smallest species (in physical size), whereas members of the Pteropus genus are the biggest of what type of mammal? The type, as a taxonomic order, constitutes nearly a fourth of all mammalian species worldwide—the second-most speciated, after rodents (Rodentia) .",
+            "answer": "bats/chiroptera",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "61",
+            "d_percent": "51",
+            "e_percent": "30",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name any school, other than the University of Connecticut, that has won the Women's NCAA Division I basketball championship in the 21st century.",
+            "answer": "notre dame, baylor, maryland, tennessee, texas a&m",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "56",
+            "e_percent": "50",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "One of the finest extant illuminated manuscripts of the Gospels in Latin is among the antiquities of what ancient town in County Meath, Ireland? The \"Book\" takes its name from the town's namesake abbey, which was a bishopric see until the 13th century.",
+            "answer": "kells",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "35"
+        }
+    ]
 }

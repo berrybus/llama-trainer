@@ -1,77 +1,79 @@
 {
+    "date": "May 21, 2015",
     "league": 65,
     "day": 4,
-    "date": "May 21, 2015",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "General Growth Properties, Westfield Corporation, Mills Corporation, and Simon Property Group are (or were) all companies which focus primarily on what specific type of business? ",
-        "answer": "shopping malls",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "64",
-        "c_percent": "62",
-        "d_percent": "56",
-        "e_percent": "49",
-        "r_percent": "53"
-    },
-    "2": {
-        "category": "GAMES/SPORT",
-        "prompt": "Plays by New York Giants center fielder Willie Mays in the 1954 World Series, San Francisco 49ers wide receiver Dwight Clark in the 1982 NFC Championship, and New York Mets left fielder Endy Ch\u00e1vez in the 2006 NLCS, are each known today by what generic term?",
-        "answer": "the catch",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "66",
-        "c_percent": "57",
-        "d_percent": "50",
-        "e_percent": "37",
-        "r_percent": "45"
-    },
-    "3": {
-        "category": "AMER HIST",
-        "prompt": "What was the first Confederate state capital city to be lost to the Union during the U.S. Civil War, as a result of the fall of Fort Donelson to Brig. Gen. Ulysses S. Grant in February, 1862?",
-        "answer": "nashville",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "51",
-        "c_percent": "40",
-        "d_percent": "25",
-        "e_percent": "12",
-        "r_percent": "27"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "In its best-known form, chalk is (nearly) pure calcium carbonate. The special drawing chalk cut from a red ochre variety of hematite is most commonly called what, directly from the French for \"blood-red\"?",
-        "answer": "sanguine",
-        "image": null,
-        "a_percent": "41",
-        "b_percent": "21",
-        "c_percent": "16",
-        "d_percent": "12",
-        "e_percent": "8",
-        "r_percent": "12"
-    },
-    "5": {
-        "category": "CURR EVENTS",
-        "prompt": "British Prime Minister David Cameron's Conservative Party won an absolute majority in the UK's 2015 general election, gaining him the right to govern without a coalition partner. In his first term, he governed in coalition with what centrist party, which won only eight of the 650 seats in the House of Commons in the recent election (down from a previous 56)?",
-        "answer": "liberal democrat",
-        "image": null,
-        "a_percent": "73",
-        "b_percent": "59",
-        "c_percent": "55",
-        "d_percent": "37",
-        "e_percent": "20",
-        "r_percent": "34"
-    },
-    "6": {
-        "category": "LIFESTYLE",
-        "prompt": "What is the name of this doll? ",
-        "answer": "raggedy ann",
-        "image": "/images/art/9898ny09y0c9n8y509.jpg",
-        "a_percent": "99",
-        "b_percent": "96",
-        "c_percent": "98",
-        "d_percent": "98",
-        "e_percent": "96",
-        "r_percent": "96"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "General Growth Properties, Westfield Corporation, Mills Corporation, and Simon Property Group are (or were) all companies which focus primarily on what specific type of business? ",
+            "answer": "shopping malls",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "62",
+            "d_percent": "56",
+            "e_percent": "49",
+            "r_percent": "53"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Plays by New York Giants center fielder Willie Mays in the 1954 World Series, San Francisco 49ers wide receiver Dwight Clark in the 1982 NFC Championship, and New York Mets left fielder Endy Chávez in the 2006 NLCS, are each known today by what generic term?",
+            "answer": "the catch",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "57",
+            "d_percent": "50",
+            "e_percent": "37",
+            "r_percent": "45"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the first Confederate state capital city to be lost to the Union during the U.S. Civil War, as a result of the fall of Fort Donelson to Brig. Gen. Ulysses S. Grant in February, 1862?",
+            "answer": "nashville",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "27"
+        },
+        {
+            "category": "ART",
+            "prompt": "In its best-known form, chalk is (nearly) pure calcium carbonate. The special drawing chalk cut from a red ochre variety of hematite is most commonly called what, directly from the French for \"blood-red\"?",
+            "answer": "sanguine",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "21",
+            "c_percent": "16",
+            "d_percent": "12",
+            "e_percent": "8",
+            "r_percent": "12"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "British Prime Minister David Cameron's Conservative Party won an absolute majority in the UK's 2015 general election, gaining him the right to govern without a coalition partner. In his first term, he governed in coalition with what centrist party, which won only eight of the 650 seats in the House of Commons in the recent election (down from a previous 56)?",
+            "answer": "liberal democrat",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "55",
+            "d_percent": "37",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the name of this doll? ",
+            "answer": "raggedy ann",
+            "image": "/images/art/9898ny09y0c9n8y509.jpg",
+            "a_percent": "99",
+            "b_percent": "96",
+            "c_percent": "98",
+            "d_percent": "98",
+            "e_percent": "96",
+            "r_percent": "96"
+        }
+    ]
 }
