@@ -1,8 +1,9 @@
 "use client";
 
 import Fuse from "fuse.js";
-import type { NextPage } from "next";
-import React, { useState, useEffect, useRef } from "react";
+import type {NextPage} from "next";
+import React, {useEffect, useRef, useState} from "react";
+
 function randomInt(min: number, max: number) {
   // min and max included
   return Math.floor(Math.random() * (max - min + 1) + min);
@@ -78,22 +79,8 @@ const Home: NextPage = () => {
   // This is awful I don't know how to get TypeScript to
   // just read the stupid random integer value if you
   // ever want to maintain this please fix this insanity
-  function getRandomMatchQuestion(qData: MatchDay) {
-    const rand = randomInt(1, 6);
-
-    if (rand == 1) {
-      return qData[1];
-    } else if (rand == 2) {
-      return qData[2];
-    } else if (rand == 3) {
-      return qData[3];
-    } else if (rand == 4) {
-      return qData[4];
-    } else if (rand == 5) {
-      return qData[5];
-    } else {
-      return qData[6];
-    }
+  function getRandomMatchQuestion(qData: MatchDayListing): Question {
+    return qData.questions[randomInt(0, 5)]
   }
 
   const fetchData = async () => {
@@ -104,7 +91,7 @@ const Home: NextPage = () => {
       setLeague(newLeague);
       console.log(`fetching league ${newLeague} on day ${newDay}`);
       const response = await fetch(`data/league${newLeague}_day${newDay}.json`);
-      const jsonData: MatchDay = await response.json();
+      const jsonData: MatchDayListing = await response.json();
       const idx = String(randomInt(1, 6));
       const qData: Question = getRandomMatchQuestion(jsonData);
       currentData = qData;
