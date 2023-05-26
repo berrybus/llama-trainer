@@ -1,8 +1,9 @@
 "use client";
 
 import Fuse from "fuse.js";
-import type { NextPage } from "next";
-import React, { useState, useEffect, useRef } from "react";
+import type {NextPage} from "next";
+import React, {useEffect, useRef, useState} from "react";
+
 function randomInt(min: number, max: number) {
   // min and max included
   return Math.floor(Math.random() * (max - min + 1) + min);
@@ -10,14 +11,23 @@ function randomInt(min: number, max: number) {
 
 let currentData: Question;
 let isShowingAnswer = true;
+
 let answerRatio: AnswerRatio = {
   correct: 0,
   total: 0
 }
+
 let answerRatioByCategory: {[category: string]: AnswerRatio} = {}
 
+export interface MatchDayListing {
+  date: string;
+  league: string;
+  day: string;
+  questions: Array<Question>
+}
 
-interface MatchDay {
+
+export interface MatchDay {
   "1": Question;
   "2": Question;
   "3": Question;
@@ -29,7 +39,7 @@ interface MatchDay {
   day: string;
 }
 
-interface Question {
+export interface Question {
   image: string;
   answer: string;
   prompt: string;
@@ -80,21 +90,8 @@ const Home: NextPage = () => {
   // This is awful I don't know how to get TypeScript to
   // just read the stupid random integer value if you
   // ever want to maintain this please fix this insanity
-  function getRandomMatchQuestion(qData: MatchDay) {
-    const rand = randomInt(1, 6);
-    if (rand == 1) {
-      return qData[1];
-    } else if (rand == 2) {
-      return qData[2];
-    } else if (rand == 3) {
-      return qData[3];
-    } else if (rand == 4) {
-      return qData[4];
-    } else if (rand == 5) {
-      return qData[5];
-    } else {
-      return qData[6];
-    }
+  function getRandomMatchQuestion(qData: MatchDayListing): Question {
+    return qData.questions[randomInt(0, 5)]
   }
 
   const fetchData = async () => {
@@ -105,7 +102,7 @@ const Home: NextPage = () => {
       setLeague(newLeague);
       console.log(`fetching league ${newLeague} on day ${newDay}`);
       const response = await fetch(`data/league${newLeague}_day${newDay}.json`);
-      const jsonData: MatchDay = await response.json();
+      const jsonData: MatchDayListing = await response.json();
       const idx = String(randomInt(1, 6));
       const qData: Question = getRandomMatchQuestion(jsonData);
       currentData = qData;
@@ -197,6 +194,8 @@ const Home: NextPage = () => {
     }
   };
 
+  let shouldShowImage = image !== "" && image.endsWith(".jpg")
+  let shouldShowLink = image !== "" && !image.endsWith(".jpg")
   return (
     <div className="container mx-auto">
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
@@ -212,14 +211,20 @@ const Home: NextPage = () => {
                 </h3>
               </div>
               <p>{prompt}</p>
-              <a
-                className="link"
-                href={image}
-                target="_blank"
-                hidden={image == ""}
-              >
-                Click here
-              </a>
+              {
+                shouldShowImage ? <img src={image} alt={image}>
+                </img> : ""
+              }
+              {
+                shouldShowLink ? <a
+                    className="link"
+                    href={image}
+                    target="_blank"
+                    hidden={image == ""}
+                >
+                  Click here
+                </a> : ""
+              }
               <h2
                 className={
                   "font-bold mt-2" + (isShowingAnswer ? "" : " hidden")
@@ -227,7 +232,7 @@ const Home: NextPage = () => {
               >
                 ANSWER - {answer}
               </h2>
-              <div className="flex flex-row gap-4">
+              <div className="flex flex-row gap-4 mt-6">
                 <input
                   type="text"
                   placeholder="Type the answer"

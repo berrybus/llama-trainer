@@ -1,77 +1,79 @@
 {
+    "date": "August 31, 2015",
     "league": 66,
     "day": 11,
-    "date": "August 31, 2015",
-    "1": {
-        "category": "WORLD HIST",
-        "prompt": "Fotheringay Castle, located in the East Midlands county of Northamptonshire for 500 years until its dismantling in the 1630s, is most famous today as the site of final imprisonment and execution of what monarch, in 1587?",
-        "answer": "mary, queen of scots",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "81",
-        "c_percent": "64",
-        "d_percent": "52",
-        "e_percent": "32",
-        "r_percent": "50"
-    },
-    "2": {
-        "category": "CLASS MUSIC",
-        "prompt": "While he is regarded for composing what might be the most famous oratorio in the English language, this German-born is credited also with writing the first English oratorio, Esther, which was completed in 1732. Name the composer.",
-        "answer": "george frideric handel",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "76",
-        "c_percent": "62",
-        "d_percent": "46",
-        "e_percent": "27",
-        "r_percent": "42"
-    },
-    "3": {
-        "category": "FILM",
-        "prompt": "Of the 34 feature films directed by Clint Eastwood, name any one in which he does not appear as a credited actor.",
-        "answer": "bird, midnight in the garden of good and evil, mystic river, flags of our fathers, letters from iwo jima, changeling, invictus, hereafter, j. edgar, jersey boys, american sniper",
-        "image": null,
-        "a_percent": "91",
-        "b_percent": "81",
-        "c_percent": "73",
-        "d_percent": "63",
-        "e_percent": "50",
-        "r_percent": "61"
-    },
-    "4": {
-        "category": "GAMES/SPORT",
-        "prompt": "For five of the last six seasons, the regular season leading scorer in the National Basketball Association has been one of two players on what team? The exception is the New York Knicks' Carmelo Anthony in 2012-13.",
-        "answer": "oklahoma city thunder",
-        "image": null,
-        "a_percent": "63",
-        "b_percent": "47",
-        "c_percent": "46",
-        "d_percent": "37",
-        "e_percent": "35",
-        "r_percent": "37"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "As defined by ISO 80000-3, what is the standard acceleration due to gravity (a.k.a. \"standard gravity\"), rounded to the nearest whole number, in either meters per second2 or feet per second2?",
-        "answer": "10, 32",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "69",
-        "c_percent": "65",
-        "d_percent": "56",
-        "e_percent": "50",
-        "r_percent": "54"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "What is the largest majority Spanish-speaking country in the world, measured by area?",
-        "answer": "argentina",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "71",
-        "c_percent": "66",
-        "d_percent": "62",
-        "e_percent": "48",
-        "r_percent": "57"
-    }
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Fotheringay Castle, located in the East Midlands county of Northamptonshire for 500 years until its dismantling in the 1630s, is most famous today as the site of final imprisonment and execution of what monarch, in 1587?",
+            "answer": "mary, queen of scots",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "32",
+            "r_percent": "50"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "While he is regarded for composing what might be the most famous oratorio in the English language, this German-born is credited also with writing the first English oratorio, Esther, which was completed in 1732. Name the composer.",
+            "answer": "george frideric handel",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "62",
+            "d_percent": "46",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Of the 34 feature films directed by Clint Eastwood, name any one in which he does not appear as a credited actor.",
+            "answer": "bird, midnight in the garden of good and evil, mystic river, flags of our fathers, letters from iwo jima, changeling, invictus, hereafter, j. edgar, jersey boys, american sniper",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "50",
+            "r_percent": "61"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "For five of the last six seasons, the regular season leading scorer in the National Basketball Association has been one of two players on what team? The exception is the New York Knicks' Carmelo Anthony in 2012-13.",
+            "answer": "oklahoma city thunder",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "47",
+            "c_percent": "46",
+            "d_percent": "37",
+            "e_percent": "35",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "As defined by ISO 80000-3, what is the standard acceleration due to gravity (a.k.a. \"standard gravity\"), rounded to the nearest whole number, in either meters per second2 or feet per second2?",
+            "answer": "10, 32",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "56",
+            "e_percent": "50",
+            "r_percent": "54"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the largest majority Spanish-speaking country in the world, measured by area?",
+            "answer": "argentina",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "62",
+            "e_percent": "48",
+            "r_percent": "57"
+        }
+    ]
 }

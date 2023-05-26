@@ -1,77 +1,79 @@
 {
+    "date": "March 22, 2017",
     "league": 72,
     "day": 22,
-    "date": "March 22, 2017",
-    "1": {
-        "category": "LIFESTYLE",
-        "prompt": "What Jewish holiday, which is also known as the Feast of Dedication, commemorates the victory of the Maccabees over the Syrian Greeks and the 165 BCE rededication of the Second Temple of Jerusalem?",
-        "answer": "hanukkah",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "69",
-        "c_percent": "60",
-        "d_percent": "47",
-        "e_percent": "35",
-        "r_percent": "51"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "What was the first name of the only son of author A. A. Milne and his wife Daphne de S\u00e9lincourt?",
-        "answer": "christopher (christopher robin milne)",
-        "image": null,
-        "a_percent": "98",
-        "b_percent": "94",
-        "c_percent": "90",
-        "d_percent": "79",
-        "e_percent": "58",
-        "r_percent": "68"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "The subjects for discussion in the first inter-allied conference of World War II attended by Joseph Stalin, Franklin Roosevelt, and Winston Churchill included the coordination of allied military landings in France with the Soviet offensive on Germany, Russian entry into the war against Japan, and a post-war international organization. This conference took place in November and December 1943 in what Asian capital, after which it is named?",
-        "answer": "tehran",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "50",
-        "c_percent": "37",
-        "d_percent": "22",
-        "e_percent": "10",
-        "r_percent": "27"
-    },
-    "4": {
-        "category": "CLASS MUSIC",
-        "prompt": "What term is used in music for the fifth tone of the diatonic scale, as well as for the chord with this fifth pitch of the scale as its root?",
-        "answer": "dominant",
-        "image": null,
-        "a_percent": "45",
-        "b_percent": "34",
-        "c_percent": "31",
-        "d_percent": "23",
-        "e_percent": "18",
-        "r_percent": "23"
-    },
-    "5": {
-        "category": "TELEVISION",
-        "prompt": "Name the actor and comedian who appeared as a panelist more than 600 times in the top right seat (from the viewer's perspective) in various incarnations of the game show Match Game?",
-        "answer": "charles nelson reilly",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "40",
-        "c_percent": "35",
-        "d_percent": "27",
-        "e_percent": "17",
-        "r_percent": "24"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "The championship game of the 1979 NCAA Men's Division I basketball tournament, which is credited as ushering in the \"modern era\" of college basketball, was the last college game for what two now-Hall of Famers? (Note: name both players.)",
-        "answer": "larry bird, magic johnson",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "72",
-        "c_percent": "63",
-        "d_percent": "59",
-        "e_percent": "49",
-        "r_percent": "54"
-    }
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What Jewish holiday, which is also known as the Feast of Dedication, commemorates the victory of the Maccabees over the Syrian Greeks and the 165 BCE rededication of the Second Temple of Jerusalem?",
+            "answer": "hanukkah",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "51"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What was the first name of the only son of author A. A. Milne and his wife Daphne de Sélincourt?",
+            "answer": "christopher (christopher robin milne)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "79",
+            "e_percent": "58",
+            "r_percent": "68"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The subjects for discussion in the first inter-allied conference of World War II attended by Joseph Stalin, Franklin Roosevelt, and Winston Churchill included the coordination of allied military landings in France with the Soviet offensive on Germany, Russian entry into the war against Japan, and a post-war international organization. This conference took place in November and December 1943 in what Asian capital, after which it is named?",
+            "answer": "tehran",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "50",
+            "c_percent": "37",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "27"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What term is used in music for the fifth tone of the diatonic scale, as well as for the chord with this fifth pitch of the scale as its root?",
+            "answer": "dominant",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "34",
+            "c_percent": "31",
+            "d_percent": "23",
+            "e_percent": "18",
+            "r_percent": "23"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the actor and comedian who appeared as a panelist more than 600 times in the top right seat (from the viewer's perspective) in various incarnations of the game show Match Game?",
+            "answer": "charles nelson reilly",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "40",
+            "c_percent": "35",
+            "d_percent": "27",
+            "e_percent": "17",
+            "r_percent": "24"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The championship game of the 1979 NCAA Men's Division I basketball tournament, which is credited as ushering in the \"modern era\" of college basketball, was the last college game for what two now-Hall of Famers? (Note: name both players.)",
+            "answer": "larry bird, magic johnson",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "59",
+            "e_percent": "49",
+            "r_percent": "54"
+        }
+    ]
 }

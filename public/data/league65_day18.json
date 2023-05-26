@@ -1,77 +1,79 @@
 {
+    "date": "June 11, 2015",
     "league": 65,
     "day": 18,
-    "date": "June 11, 2015",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "Carados, Claudin, Erec, Hector de Maris, Lionel, Pelleas, and Tor are lesser-known literary characters among a group that is best known, collectively, as what?",
-        "answer": "knights of the round table",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "51",
-        "c_percent": "43",
-        "d_percent": "29",
-        "e_percent": "20",
-        "r_percent": "35"
-    },
-    "2": {
-        "category": "TELEVISION",
-        "prompt": "Dramas that were an hour-and-a-half in length were the distinctive trademark (evidenced by its title) of what acclaimed and influential anthology series that aired on CBS in the 1950s?",
-        "answer": "playhouse 90",
-        "image": null,
-        "a_percent": "51",
-        "b_percent": "28",
-        "c_percent": "22",
-        "d_percent": "15",
-        "e_percent": "5",
-        "r_percent": "12"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "\"Melissa,\" \"I Love You,\" \"Klez,\" \"Nimda,\" \"Oompa-A,\" and \"Anna Kournikova\" are all famous examples of what?",
-        "answer": "computer viruses",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "61",
-        "c_percent": "57",
-        "d_percent": "39",
-        "e_percent": "24",
-        "r_percent": "37"
-    },
-    "4": {
-        "category": "POP MUSIC",
-        "prompt": "In April 1992, the surviving members of what rock band were joined by a surfeit of stars for a widely broadcast memorial concert at London's Wembley Stadium, at a time when the band was (unrelatedly) enjoying a resurgence in popularity in the U.S., thanks to the film Wayne's World?",
-        "answer": "queen",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "86",
-        "c_percent": "83",
-        "d_percent": "78",
-        "e_percent": "66",
-        "r_percent": "73"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "The region of Imperial Russia known as the Pale, which existed from the late 18th c. until the fall of the empire in 1917, is historically significant for the residency there of what group?",
-        "answer": "jews",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "53",
-        "c_percent": "45",
-        "d_percent": "27",
-        "e_percent": "19",
-        "r_percent": "30"
-    },
-    "6": {
-        "category": "ART",
-        "prompt": "This is the work of what Post-Impressionist? ",
-        "answer": "paul cezanne",
-        "image": "/images/art/48y0598cny40895.jpg",
-        "a_percent": "71",
-        "b_percent": "59",
-        "c_percent": "49",
-        "d_percent": "36",
-        "e_percent": "22",
-        "r_percent": "36"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Carados, Claudin, Erec, Hector de Maris, Lionel, Pelleas, and Tor are lesser-known literary characters among a group that is best known, collectively, as what?",
+            "answer": "knights of the round table",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "35"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Dramas that were an hour-and-a-half in length were the distinctive trademark (evidenced by its title) of what acclaimed and influential anthology series that aired on CBS in the 1950s?",
+            "answer": "playhouse 90",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "15",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"Melissa,\" \"I Love You,\" \"Klez,\" \"Nimda,\" \"Oompa-A,\" and \"Anna Kournikova\" are all famous examples of what?",
+            "answer": "computer viruses",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "57",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In April 1992, the surviving members of what rock band were joined by a surfeit of stars for a widely broadcast memorial concert at London's Wembley Stadium, at a time when the band was (unrelatedly) enjoying a resurgence in popularity in the U.S., thanks to the film Wayne's World?",
+            "answer": "queen",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "78",
+            "e_percent": "66",
+            "r_percent": "73"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The region of Imperial Russia known as the Pale, which existed from the late 18th c. until the fall of the empire in 1917, is historically significant for the residency there of what group?",
+            "answer": "jews",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "27",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "ART",
+            "prompt": "This is the work of what Post-Impressionist? ",
+            "answer": "paul cezanne",
+            "image": "/images/art/48y0598cny40895.jpg",
+            "a_percent": "71",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "36"
+        }
+    ]
 }

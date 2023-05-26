@@ -1,77 +1,79 @@
 {
+    "date": "December 8, 2014",
     "league": 63,
     "day": 18,
-    "date": "December 8, 2014",
-    "1": {
-        "category": "GAMES/SPORT",
-        "prompt": "Pictured here is the board for what popular game? ",
-        "answer": "ticket to ride",
-        "image": "/images/art/7845908uc0985nu03p.jpg",
-        "a_percent": "61",
-        "b_percent": "58",
-        "c_percent": "49",
-        "d_percent": "45",
-        "e_percent": "39",
-        "r_percent": "44"
-    },
-    "2": {
-        "category": "FOOD/DRINK",
-        "prompt": "The dish tamagoyaki, which often appears on Japanese (and especially sushi) restaurant menus as simply tamago, literally translates to English as \"grilled\" what?",
-        "answer": "egg",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "58",
-        "c_percent": "47",
-        "d_percent": "41",
-        "e_percent": "37",
-        "r_percent": "43"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "During the 1990s, four Saturday Night Live castmembers served as regular anchors of the fake-news sketch \"Weekend Update\". Name any two of these four men.",
-        "answer": "dennis miller, kevin nealon, norm macdonald, colin quinn",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "73",
-        "c_percent": "72",
-        "d_percent": "62",
-        "e_percent": "47",
-        "r_percent": "55"
-    },
-    "4": {
-        "category": "GEOGRAPHY",
-        "prompt": "Four national capital cities sit on the banks of the Danube River, more than any other river in the world. Name any two of these four cities.",
-        "answer": "belgrade, bratislava, budapest, vienna",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "74",
-        "c_percent": "68",
-        "d_percent": "54",
-        "e_percent": "31",
-        "r_percent": "51"
-    },
-    "5": {
-        "category": "AMER HIST",
-        "prompt": "\"Upon the whole, therefore, it is the judgment of this court, that it appears by the record before us that the plaintiff in error is not a citizen of Missouri, in the sense in which that word is used in the Constitution; and that the Circuit Court of the United States, for that reason, had no jurisdiction in the case, and could give no judgment in it. Its judgment for the defendant must, consequently, be reversed, and a mandate issued, directing the suit to be dismissed for want of jurisdiction.\" Who was the plaintiff in the U.S. Supreme Court case whose majority opinion ended thus?",
-        "answer": "dred scott",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "84",
-        "c_percent": "80",
-        "d_percent": "65",
-        "e_percent": "43",
-        "r_percent": "65"
-    },
-    "6": {
-        "category": "CURR EVENTS",
-        "prompt": "The Donbass, the Rapid Trident military exercise, Malaysia Airlines Flight 17, and \"little green men\" are all relevant to a current conflict between whom?",
-        "answer": "ukraine, russia",
-        "image": null,
-        "a_percent": "91",
-        "b_percent": "85",
-        "c_percent": "79",
-        "d_percent": "77",
-        "e_percent": "62",
-        "r_percent": "76"
-    }
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Pictured here is the board for what popular game? ",
+            "answer": "ticket to ride",
+            "image": "/images/art/7845908uc0985nu03p.jpg",
+            "a_percent": "61",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "45",
+            "e_percent": "39",
+            "r_percent": "44"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The dish tamagoyaki, which often appears on Japanese (and especially sushi) restaurant menus as simply tamago, literally translates to English as \"grilled\" what?",
+            "answer": "egg",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "41",
+            "e_percent": "37",
+            "r_percent": "43"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "During the 1990s, four Saturday Night Live castmembers served as regular anchors of the fake-news sketch \"Weekend Update\". Name any two of these four men.",
+            "answer": "dennis miller, kevin nealon, norm macdonald, colin quinn",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "73",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Four national capital cities sit on the banks of the Danube River, more than any other river in the world. Name any two of these four cities.",
+            "answer": "belgrade, bratislava, budapest, vienna",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "68",
+            "d_percent": "54",
+            "e_percent": "31",
+            "r_percent": "51"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "\"Upon the whole, therefore, it is the judgment of this court, that it appears by the record before us that the plaintiff in error is not a citizen of Missouri, in the sense in which that word is used in the Constitution; and that the Circuit Court of the United States, for that reason, had no jurisdiction in the case, and could give no judgment in it. Its judgment for the defendant must, consequently, be reversed, and a mandate issued, directing the suit to be dismissed for want of jurisdiction.\" Who was the plaintiff in the U.S. Supreme Court case whose majority opinion ended thus?",
+            "answer": "dred scott",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "80",
+            "d_percent": "65",
+            "e_percent": "43",
+            "r_percent": "65"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The Donbass, the Rapid Trident military exercise, Malaysia Airlines Flight 17, and \"little green men\" are all relevant to a current conflict between whom?",
+            "answer": "ukraine, russia",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "79",
+            "d_percent": "77",
+            "e_percent": "62",
+            "r_percent": "76"
+        }
+    ]
 }

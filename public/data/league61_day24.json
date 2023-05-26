@@ -1,77 +1,79 @@
 {
+    "date": "June 13, 2014",
     "league": 61,
     "day": 24,
-    "date": "June 13, 2014",
-    "1": {
-        "category": "WORLD HIST",
-        "prompt": "The term bolshevik is derived from the Russian word for \"majority.\" What is the historically contemporaneous term derived from the Russian for \"minority\"?",
-        "answer": "menshevik",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "70",
-        "c_percent": "59",
-        "d_percent": "38",
-        "e_percent": "21",
-        "r_percent": "44"
-    },
-    "2": {
-        "category": "TELEVISION",
-        "prompt": "Fill in the missing item from this properly ordered list of names: Clarkson, Studdard, Barrino, ______________, Hicks.",
-        "answer": "underwood",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "62",
-        "c_percent": "58",
-        "d_percent": "47",
-        "e_percent": "36",
-        "r_percent": "46"
-    },
-    "3": {
-        "category": "GAMES/SPORT",
-        "prompt": "The Buffalo Braves, one of three National Basketball Association expansion franchises that began play in the 1970\u201371 season, moved to San Diego in 1978 and took on what new nickname?",
-        "answer": "clippers",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "70",
-        "c_percent": "59",
-        "d_percent": "54",
-        "e_percent": "34",
-        "r_percent": "58"
-    },
-    "4": {
-        "category": "LANGUAGE",
-        "prompt": "The text in this image is written in what language? ",
-        "answer": "basque",
-        "image": "/images/art/84u50nc98450.jpg",
-        "a_percent": "49",
-        "b_percent": "37",
-        "c_percent": "25",
-        "d_percent": "13",
-        "e_percent": "7",
-        "r_percent": "18"
-    },
-    "5": {
-        "category": "POP MUSIC",
-        "prompt": "Legendary pre-WWII harmonica player DeFord Bailey was the first African-American to join the Grand Ole Opry, and in 1993 Charley Pride became the second. Name the man, a Grammy-winning and multi-platinum former rock-and-roller, who in 2012 was invited to become the third.",
-        "answer": "darius rucker",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "52",
-        "c_percent": "47",
-        "d_percent": "40",
-        "e_percent": "27",
-        "r_percent": "42"
-    },
-    "6": {
-        "category": "ART",
-        "prompt": "British psychiatrist Lionel Penrose and his mathematician son, Roger, conceived a structure known as the Penrose triangle, and subsequently the Penrose stairs, which both influenced and were influenced by the work of what twentieth-century artist?",
-        "answer": "m.c. escher",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "90",
-        "c_percent": "87",
-        "d_percent": "81",
-        "e_percent": "69",
-        "r_percent": "78"
-    }
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The term bolshevik is derived from the Russian word for \"majority.\" What is the historically contemporaneous term derived from the Russian for \"minority\"?",
+            "answer": "menshevik",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "44"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Fill in the missing item from this properly ordered list of names: Clarkson, Studdard, Barrino, ______________, Hicks.",
+            "answer": "underwood",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "62",
+            "c_percent": "58",
+            "d_percent": "47",
+            "e_percent": "36",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Buffalo Braves, one of three National Basketball Association expansion franchises that began play in the 1970–71 season, moved to San Diego in 1978 and took on what new nickname?",
+            "answer": "clippers",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "54",
+            "e_percent": "34",
+            "r_percent": "58"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The text in this image is written in what language? ",
+            "answer": "basque",
+            "image": "/images/art/84u50nc98450.jpg",
+            "a_percent": "49",
+            "b_percent": "37",
+            "c_percent": "25",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Legendary pre-WWII harmonica player DeFord Bailey was the first African-American to join the Grand Ole Opry, and in 1993 Charley Pride became the second. Name the man, a Grammy-winning and multi-platinum former rock-and-roller, who in 2012 was invited to become the third.",
+            "answer": "darius rucker",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "52",
+            "c_percent": "47",
+            "d_percent": "40",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "British psychiatrist Lionel Penrose and his mathematician son, Roger, conceived a structure known as the Penrose triangle, and subsequently the Penrose stairs, which both influenced and were influenced by the work of what twentieth-century artist?",
+            "answer": "m.c. escher",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "69",
+            "r_percent": "78"
+        }
+    ]
 }

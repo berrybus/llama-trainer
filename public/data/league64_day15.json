@@ -1,77 +1,79 @@
 {
+    "date": "March 19, 2015",
     "league": 64,
     "day": 15,
-    "date": "March 19, 2015",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "Pulitzer Prizes were first awarded in 1917 by what American university, which administers the awards to this day?",
-        "answer": "columbia university",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "84",
-        "c_percent": "76",
-        "d_percent": "67",
-        "e_percent": "41",
-        "r_percent": "60"
-    },
-    "2": {
-        "category": "LIFESTYLE",
-        "prompt": "The municipalities of Villa de Guadalupe in Mexico; Paris, France; Lourdes, France; and Fatima, Portugal most distinctively have what in common?",
-        "answer": "apparitions of the virgin mary",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "83",
-        "c_percent": "73",
-        "d_percent": "60",
-        "e_percent": "39",
-        "r_percent": "53"
-    },
-    "3": {
-        "category": "POP MUSIC",
-        "prompt": "On the cover of the 1969 album palindromically titled Aoxomoxoa, the art displaying the band's name is an ambigram which, reportedly, can also be viewed as \"we ate the acid.\" What is the band's name?",
-        "answer": "grateful dead",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "61",
-        "c_percent": "52",
-        "d_percent": "42",
-        "e_percent": "29",
-        "r_percent": "40"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "What is the chemical formula of the hydrocarbon that is the primary component of natural gas?",
-        "answer": "ch4",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "46",
-        "c_percent": "38",
-        "d_percent": "31",
-        "e_percent": "22",
-        "r_percent": "31"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "Give the name of any of the men who won one (or more) of the Major Championships in men's golf in the year 2014.",
-        "answer": "bubba watson, martin kaymer, rory mcilroy",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "68",
-        "c_percent": "64",
-        "d_percent": "58",
-        "e_percent": "51",
-        "r_percent": "55"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "What successful 1988 film was the first of many featuring action roles for an Emmy winner who had theretofore been known primarily as a television comedy actor and, perhaps, wine-cooler pitchman? The film has been described as an interracial buddy movie, though the buddies don't actually meet until after the climax. ",
-        "answer": "die hard",
-        "image": null,
-        "a_percent": "73",
-        "b_percent": "63",
-        "c_percent": "60",
-        "d_percent": "47",
-        "e_percent": "35",
-        "r_percent": "44"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Pulitzer Prizes were first awarded in 1917 by what American university, which administers the awards to this day?",
+            "answer": "columbia university",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "76",
+            "d_percent": "67",
+            "e_percent": "41",
+            "r_percent": "60"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The municipalities of Villa de Guadalupe in Mexico; Paris, France; Lourdes, France; and Fatima, Portugal most distinctively have what in common?",
+            "answer": "apparitions of the virgin mary",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "39",
+            "r_percent": "53"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "On the cover of the 1969 album palindromically titled Aoxomoxoa, the art displaying the band's name is an ambigram which, reportedly, can also be viewed as \"we ate the acid.\" What is the band's name?",
+            "answer": "grateful dead",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the chemical formula of the hydrocarbon that is the primary component of natural gas?",
+            "answer": "ch4",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "46",
+            "c_percent": "38",
+            "d_percent": "31",
+            "e_percent": "22",
+            "r_percent": "31"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Give the name of any of the men who won one (or more) of the Major Championships in men's golf in the year 2014.",
+            "answer": "bubba watson, martin kaymer, rory mcilroy",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "64",
+            "d_percent": "58",
+            "e_percent": "51",
+            "r_percent": "55"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What successful 1988 film was the first of many featuring action roles for an Emmy winner who had theretofore been known primarily as a television comedy actor and, perhaps, wine-cooler pitchman? The film has been described as an interracial buddy movie, though the buddies don't actually meet until after the climax. ",
+            "answer": "die hard",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "63",
+            "c_percent": "60",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "44"
+        }
+    ]
 }

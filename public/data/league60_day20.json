@@ -1,77 +1,79 @@
 {
+    "date": "March 17, 2014",
     "league": 60,
     "day": 20,
-    "date": "March 17, 2014",
-    "1": {
-        "category": "CURR EVENTS",
-        "prompt": "Billionaire Nawaz Sharif, chairman of the integrated steel manufacturer Ittefaq Group, is one of the wealthiest men in, and the Prime Minister of, what country?",
-        "answer": "pakistan",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "60",
-        "c_percent": "51",
-        "d_percent": "37",
-        "e_percent": "21",
-        "r_percent": "39"
-    },
-    "2": {
-        "category": "AMER HIST",
-        "prompt": "When the thirteen British colonies of North America declared independence in 1776, three of the colonies had capital cities which were named after British monarchs. Name any one of these three colonies & nascent U.S. states.",
-        "answer": "maryland, south carolina, virginia",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "84",
-        "c_percent": "82",
-        "d_percent": "77",
-        "e_percent": "59",
-        "r_percent": "73"
-    },
-    "3": {
-        "category": "FOOD/DRINK",
-        "prompt": "Identify the beer whose name reflects its famous (but perhaps apocryphal) winning of the award as \"America's Best\" at the Chicago World's Fair in 1893.",
-        "answer": "pabst blue ribbon",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "89",
-        "c_percent": "82",
-        "d_percent": "80",
-        "e_percent": "66",
-        "r_percent": "77"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "Who was the commander of the Apollo 14 manned lunar landing mission, which touched down on the moon on February 9, 1971? His role on the mission is perhaps best known for his bringing along a golf club, which he used to launch two balls on the moon's surface.",
-        "answer": "alan shepard",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "60",
-        "c_percent": "48",
-        "d_percent": "36",
-        "e_percent": "19",
-        "r_percent": "35"
-    },
-    "5": {
-        "category": "CLASS MUSIC",
-        "prompt": "Identify the opera (24 seconds). ",
-        "answer": "lohengrin",
-        "image": "/images/art/948yc5y.mp3",
-        "a_percent": "57",
-        "b_percent": "37",
-        "c_percent": "33",
-        "d_percent": "17",
-        "e_percent": "8",
-        "r_percent": "16"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "On June 11, 1919, Sir Barton culminated the accomplishment of what feat -- which would not be repeated for eleven years, and still today has only been achieved eleven times in history (the latest in 1978)?",
-        "answer": "(american thoroughbred) triple crown",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "67",
-        "c_percent": "57",
-        "d_percent": "38",
-        "e_percent": "16",
-        "r_percent": "35"
-    }
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Billionaire Nawaz Sharif, chairman of the integrated steel manufacturer Ittefaq Group, is one of the wealthiest men in, and the Prime Minister of, what country?",
+            "answer": "pakistan",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "37",
+            "e_percent": "21",
+            "r_percent": "39"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "When the thirteen British colonies of North America declared independence in 1776, three of the colonies had capital cities which were named after British monarchs. Name any one of these three colonies & nascent U.S. states.",
+            "answer": "maryland, south carolina, virginia",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "82",
+            "d_percent": "77",
+            "e_percent": "59",
+            "r_percent": "73"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the beer whose name reflects its famous (but perhaps apocryphal) winning of the award as \"America's Best\" at the Chicago World's Fair in 1893.",
+            "answer": "pabst blue ribbon",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "80",
+            "e_percent": "66",
+            "r_percent": "77"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Who was the commander of the Apollo 14 manned lunar landing mission, which touched down on the moon on February 9, 1971? His role on the mission is perhaps best known for his bringing along a golf club, which he used to launch two balls on the moon's surface.",
+            "answer": "alan shepard",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "60",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "35"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Identify the opera (24 seconds). ",
+            "answer": "lohengrin",
+            "image": "/images/art/948yc5y.mp3",
+            "a_percent": "57",
+            "b_percent": "37",
+            "c_percent": "33",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "On June 11, 1919, Sir Barton culminated the accomplishment of what feat -- which would not be repeated for eleven years, and still today has only been achieved eleven times in history (the latest in 1978)?",
+            "answer": "(american thoroughbred) triple crown",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "38",
+            "e_percent": "16",
+            "r_percent": "35"
+        }
+    ]
 }

@@ -1,77 +1,79 @@
 {
+    "date": "September 3, 2014",
     "league": 62,
     "day": 12,
-    "date": "September 3, 2014",
-    "1": {
-        "category": "LANGUAGE",
-        "prompt": "This term's original Greek meaning is \"a man who has a particular skill or claim to wisdom.\" By the fifth century BC, it became a term applied to itinerant teachers who traveled from city to city providing private instruction and lectures for a fee. More negatively, today it can refer to a specious or captious reasoner. What is the term?",
-        "answer": "sophist",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "56",
-        "c_percent": "49",
-        "d_percent": "36",
-        "e_percent": "21",
-        "r_percent": "40"
-    },
-    "2": {
-        "category": "POP MUSIC",
-        "prompt": "A flamboyant frontman for a rock band from the 70s and 80s, a 1986 hit song by Bananarama, a 1995 song by Michael Jackson, a guitarist for the heavy metal band M\u00f6tley Cr\u00fce, and a Grammy-winning 2001 song from Train\u2014their names have what in common?",
-        "answer": "planets",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "82",
-        "c_percent": "69",
-        "d_percent": "63",
-        "e_percent": "55",
-        "r_percent": "66"
-    },
-    "3": {
-        "category": "BUS/ECON",
-        "prompt": "These two oil brands, which are named after the location of the first oil boom in the United States, were independent companies that merged in 1998 before being acquired by the Royal Dutch/Shell Group four years later. Name these two automotive motor oil brands.",
-        "answer": "pennzoil, quaker state",
-        "image": null,
-        "a_percent": "63",
-        "b_percent": "55",
-        "c_percent": "43",
-        "d_percent": "34",
-        "e_percent": "21",
-        "r_percent": "29"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "Which relatively rare and extremely dense chemical element has the highest melting point (at standard pressure)?",
-        "answer": "tungsten",
-        "image": null,
-        "a_percent": "57",
-        "b_percent": "39",
-        "c_percent": "38",
-        "d_percent": "19",
-        "e_percent": "17",
-        "r_percent": "24"
-    },
-    "5": {
-        "category": "AMER HIST",
-        "prompt": "The animal here shares its common name with a term for a Southern sympathizer in the North during the U.S. Civil War (specifically, a member of a group of Democrats who supported an immediate peace settlement and cessation of military coercion of the Confederacy). What is this term? ",
-        "answer": "copperhead",
-        "image": "/images/art/8349f98rh.jpg",
-        "a_percent": "85",
-        "b_percent": "73",
-        "c_percent": "71",
-        "d_percent": "55",
-        "e_percent": "33",
-        "r_percent": "51"
-    },
-    "6": {
-        "category": "ART",
-        "prompt": "What are these titular flowers? ",
-        "answer": "irises",
-        "image": "/images/art/98340n9c098n70987n0.jpg",
-        "a_percent": "79",
-        "b_percent": "67",
-        "c_percent": "60",
-        "d_percent": "51",
-        "e_percent": "43",
-        "r_percent": "49"
-    }
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "This term's original Greek meaning is \"a man who has a particular skill or claim to wisdom.\" By the fifth century BC, it became a term applied to itinerant teachers who traveled from city to city providing private instruction and lectures for a fee. More negatively, today it can refer to a specious or captious reasoner. What is the term?",
+            "answer": "sophist",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "56",
+            "c_percent": "49",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "40"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A flamboyant frontman for a rock band from the 70s and 80s, a 1986 hit song by Bananarama, a 1995 song by Michael Jackson, a guitarist for the heavy metal band Mötley Crüe, and a Grammy-winning 2001 song from Train—their names have what in common?",
+            "answer": "planets",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "69",
+            "d_percent": "63",
+            "e_percent": "55",
+            "r_percent": "66"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "These two oil brands, which are named after the location of the first oil boom in the United States, were independent companies that merged in 1998 before being acquired by the Royal Dutch/Shell Group four years later. Name these two automotive motor oil brands.",
+            "answer": "pennzoil, quaker state",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "55",
+            "c_percent": "43",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "29"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Which relatively rare and extremely dense chemical element has the highest melting point (at standard pressure)?",
+            "answer": "tungsten",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "39",
+            "c_percent": "38",
+            "d_percent": "19",
+            "e_percent": "17",
+            "r_percent": "24"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The animal here shares its common name with a term for a Southern sympathizer in the North during the U.S. Civil War (specifically, a member of a group of Democrats who supported an immediate peace settlement and cessation of military coercion of the Confederacy). What is this term? ",
+            "answer": "copperhead",
+            "image": "/images/art/8349f98rh.jpg",
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "71",
+            "d_percent": "55",
+            "e_percent": "33",
+            "r_percent": "51"
+        },
+        {
+            "category": "ART",
+            "prompt": "What are these titular flowers? ",
+            "answer": "irises",
+            "image": "/images/art/98340n9c098n70987n0.jpg",
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "43",
+            "r_percent": "49"
+        }
+    ]
 }

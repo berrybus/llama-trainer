@@ -1,77 +1,79 @@
 {
+    "date": "March 16, 2016",
     "league": 68,
     "day": 18,
-    "date": "March 16, 2016",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "A current best-selling advice/how-to book by Japanese organizing consultant Marie Kondo guides readers step by step through her KonMari method, detailing\u2014as the title states\u2014the \"life-changing magic of\" what?",
-        "answer": "tidying (up)",
-        "image": null,
-        "a_percent": "50",
-        "b_percent": "41",
-        "c_percent": "35",
-        "d_percent": "32",
-        "e_percent": "25",
-        "r_percent": "33"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "Amino acids may join up to form long polymeric chains creating large biological molecules that are best known as what?",
-        "answer": "proteins (polypeptides)",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "78",
-        "c_percent": "78",
-        "d_percent": "70",
-        "e_percent": "64",
-        "r_percent": "69"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "A lily appears on the reverse of a certain type of gold coin, which was first minted in the 13th century and became the dominant trade coin of Western Europe. Various updated versions were created across the continent, including one in Britain worth two shillings and issued until 1967. What was this coin's name?",
-        "answer": "florin",
-        "image": null,
-        "a_percent": "57",
-        "b_percent": "37",
-        "c_percent": "28",
-        "d_percent": "18",
-        "e_percent": "8",
-        "r_percent": "19"
-    },
-    "4": {
-        "category": "TELEVISION",
-        "prompt": "A popular recurring segment on The Tonight Show Starring Jimmy Fallon, introduced by actor John Krasinski, was developed into a full-length series coproduced by Krasinski that debuted to high ratings on the Spike cable network in April 2015. What is the name of this segment/series?",
-        "answer": "lip sync battle",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "58",
-        "c_percent": "55",
-        "d_percent": "49",
-        "e_percent": "46",
-        "r_percent": "50"
-    },
-    "5": {
-        "category": "BUS/ECON",
-        "prompt": "Darden, Mendoza, Kelley, Tepper, and Booth are names of educational institutions focused primarily on the teaching of what subject area?",
-        "answer": "business",
-        "image": null,
-        "a_percent": "74",
-        "b_percent": "57",
-        "c_percent": "58",
-        "d_percent": "49",
-        "e_percent": "41",
-        "r_percent": "52"
-    },
-    "6": {
-        "category": "FOOD/DRINK",
-        "prompt": "Yerba leaves of the Ilex paraguariensis tree are used to prepare what infused drink, popular in South America and parts of the Middle East? It's especially popular in Argentina, where it is considered the national drink and has a dedicated museum in the Buenos Aires suburb of Tigre.",
-        "answer": "mate",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "70",
-        "c_percent": "65",
-        "d_percent": "57",
-        "e_percent": "49",
-        "r_percent": "58"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A current best-selling advice/how-to book by Japanese organizing consultant Marie Kondo guides readers step by step through her KonMari method, detailing—as the title states—the \"life-changing magic of\" what?",
+            "answer": "tidying (up)",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "41",
+            "c_percent": "35",
+            "d_percent": "32",
+            "e_percent": "25",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Amino acids may join up to form long polymeric chains creating large biological molecules that are best known as what?",
+            "answer": "proteins (polypeptides)",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "64",
+            "r_percent": "69"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A lily appears on the reverse of a certain type of gold coin, which was first minted in the 13th century and became the dominant trade coin of Western Europe. Various updated versions were created across the continent, including one in Britain worth two shillings and issued until 1967. What was this coin's name?",
+            "answer": "florin",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A popular recurring segment on The Tonight Show Starring Jimmy Fallon, introduced by actor John Krasinski, was developed into a full-length series coproduced by Krasinski that debuted to high ratings on the Spike cable network in April 2015. What is the name of this segment/series?",
+            "answer": "lip sync battle",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "58",
+            "c_percent": "55",
+            "d_percent": "49",
+            "e_percent": "46",
+            "r_percent": "50"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Darden, Mendoza, Kelley, Tepper, and Booth are names of educational institutions focused primarily on the teaching of what subject area?",
+            "answer": "business",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "41",
+            "r_percent": "52"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Yerba leaves of the Ilex paraguariensis tree are used to prepare what infused drink, popular in South America and parts of the Middle East? It's especially popular in Argentina, where it is considered the national drink and has a dedicated museum in the Buenos Aires suburb of Tigre.",
+            "answer": "mate",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "57",
+            "e_percent": "49",
+            "r_percent": "58"
+        }
+    ]
 }

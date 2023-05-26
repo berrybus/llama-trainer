@@ -1,77 +1,79 @@
 {
+    "date": "February 24, 2015",
     "league": 64,
     "day": 6,
-    "date": "February 24, 2015",
-    "1": {
-        "category": "WORLD HIST",
-        "prompt": "The River Alma, Balaclava, and Inkerman were major battle sites of what 1850s war, which is also notable for the nursing of Florence Nightingale and the reporting of The Times correspondent William Howard Russell?",
-        "answer": "crimean war",
-        "image": null,
-        "a_percent": "98",
-        "b_percent": "95",
-        "c_percent": "92",
-        "d_percent": "76",
-        "e_percent": "44",
-        "r_percent": "65"
-    },
-    "2": {
-        "category": "FILM",
-        "prompt": "An independent travel booktore owner in central London, a child psychologist father-to-be, an ungentlemanly publishing company boss, and Prime Minister of the United Kingdom are among the prominent film roles portrayed by what actor?",
-        "answer": "hugh grant",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "80",
-        "c_percent": "76",
-        "d_percent": "73",
-        "e_percent": "66",
-        "r_percent": "70"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "Certain insects and other arthropods possess what are known as stridulatory organs, which are used specifically to produce what?",
-        "answer": "sound",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "53",
-        "c_percent": "47",
-        "d_percent": "34",
-        "e_percent": "20",
-        "r_percent": "34"
-    },
-    "4": {
-        "category": "BUS/ECON",
-        "prompt": "In finance and financial analysis, what feline term is used colloquially to describe a small and temporary phase of recovery that occurs during a prolonged period of decline, after which is a quick and sustained continuation of the downward trend?",
-        "answer": "dead cat bounce",
-        "image": null,
-        "a_percent": "55",
-        "b_percent": "43",
-        "c_percent": "37",
-        "d_percent": "26",
-        "e_percent": "17",
-        "r_percent": "26"
-    },
-    "5": {
-        "category": "TELEVISION",
-        "prompt": "Fulton J. Sheen, who was the only Emmy winner in the DuMont television network's ten years of existence, hosted for many years (on DuMont and elsewhere) the program Life is Worth Living. What was Sheen's primary occupation?",
-        "answer": "catholic priest (bishop/archbishop)",
-        "image": null,
-        "a_percent": "74",
-        "b_percent": "62",
-        "c_percent": "56",
-        "d_percent": "49",
-        "e_percent": "35",
-        "r_percent": "44"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "Name the basketball Hall of Famer who won the Michigan High School Class A Boys Basketball Championship in 1977, the NCAA Men's Division I Basketball Championship in 1979, and his first NBA Finals in 1980.",
-        "answer": "magic johnson",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "69",
-        "c_percent": "63",
-        "d_percent": "57",
-        "e_percent": "49",
-        "r_percent": "53"
-    }
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The River Alma, Balaclava, and Inkerman were major battle sites of what 1850s war, which is also notable for the nursing of Florence Nightingale and the reporting of The Times correspondent William Howard Russell?",
+            "answer": "crimean war",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "76",
+            "e_percent": "44",
+            "r_percent": "65"
+        },
+        {
+            "category": "FILM",
+            "prompt": "An independent travel booktore owner in central London, a child psychologist father-to-be, an ungentlemanly publishing company boss, and Prime Minister of the United Kingdom are among the prominent film roles portrayed by what actor?",
+            "answer": "hugh grant",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "73",
+            "e_percent": "66",
+            "r_percent": "70"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Certain insects and other arthropods possess what are known as stridulatory organs, which are used specifically to produce what?",
+            "answer": "sound",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "53",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In finance and financial analysis, what feline term is used colloquially to describe a small and temporary phase of recovery that occurs during a prolonged period of decline, after which is a quick and sustained continuation of the downward trend?",
+            "answer": "dead cat bounce",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "43",
+            "c_percent": "37",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Fulton J. Sheen, who was the only Emmy winner in the DuMont television network's ten years of existence, hosted for many years (on DuMont and elsewhere) the program Life is Worth Living. What was Sheen's primary occupation?",
+            "answer": "catholic priest (bishop/archbishop)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "56",
+            "d_percent": "49",
+            "e_percent": "35",
+            "r_percent": "44"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the basketball Hall of Famer who won the Michigan High School Class A Boys Basketball Championship in 1977, the NCAA Men's Division I Basketball Championship in 1979, and his first NBA Finals in 1980.",
+            "answer": "magic johnson",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "57",
+            "e_percent": "49",
+            "r_percent": "53"
+        }
+    ]
 }

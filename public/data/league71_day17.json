@@ -1,77 +1,79 @@
 {
+    "date": "December 9, 2016",
     "league": 71,
     "day": 17,
-    "date": "December 9, 2016",
-    "1": {
-        "category": "TELEVISION",
-        "prompt": "This is a promotional still from what (seemingly appropriately named) television series? ",
-        "answer": "suits",
-        "image": "/images/art/43985yc3p89y038p9.jpg",
-        "a_percent": "84",
-        "b_percent": "83",
-        "c_percent": "81",
-        "d_percent": "77",
-        "e_percent": "74",
-        "r_percent": "79"
-    },
-    "2": {
-        "category": "WORLD HIST",
-        "prompt": "The 1928 Pact of Paris, formally the General Treaty for Renunciation of War as an Instrument of National Policy, was a noble but toothless agreement best known by a name that references its authors, the U.S. Secretary of State and the French Foreign Minister. What is this more common name?",
-        "answer": "kellogg-briand pact",
-        "image": null,
-        "a_percent": "56",
-        "b_percent": "34",
-        "c_percent": "22",
-        "d_percent": "12",
-        "e_percent": "4",
-        "r_percent": "16"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "Directed by the United Nations Security Council, construction began in 1991 on a 120-mile long fence and barrier zone, nine miles wide with electrified fencing, concertina wire, trenches, and dirt berms, on the border of two nations. Name either of those nations.",
-        "answer": "iraq, kuwait",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "50",
-        "c_percent": "34",
-        "d_percent": "25",
-        "e_percent": "15",
-        "r_percent": "28"
-    },
-    "4": {
-        "category": "LITERATURE",
-        "prompt": "What is the name of the philosophical system developed by Ayn Rand, expressed in The Fountainhead and Atlas Shrugged as well as in her nonfiction works, which holds, among other tenets, that all real achievement is the result of individual ability and effort and that altruism is a vice?",
-        "answer": "objectivism",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "81",
-        "c_percent": "69",
-        "d_percent": "58",
-        "e_percent": "36",
-        "r_percent": "53"
-    },
-    "5": {
-        "category": "FOOD/DRINK",
-        "prompt": "Deriving from a French term for \"raw\" or \"uncooked\", what word is used to refer to raw vegetables or fruits, often thinly sliced or grated and accompanied by cold sauces, that are served as an hors d'oeuvre?",
-        "answer": "crudit\u00e9s",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "80",
-        "c_percent": "72",
-        "d_percent": "62",
-        "e_percent": "46",
-        "r_percent": "57"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "Pictured here is a scene from what animated film? ",
-        "answer": "princess mononoke",
-        "image": "/images/art/784y9nc84y53.jpg",
-        "a_percent": "56",
-        "b_percent": "48",
-        "c_percent": "39",
-        "d_percent": "38",
-        "e_percent": "27",
-        "r_percent": "33"
-    }
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "This is a promotional still from what (seemingly appropriately named) television series? ",
+            "answer": "suits",
+            "image": "/images/art/43985yc3p89y038p9.jpg",
+            "a_percent": "84",
+            "b_percent": "83",
+            "c_percent": "81",
+            "d_percent": "77",
+            "e_percent": "74",
+            "r_percent": "79"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 1928 Pact of Paris, formally the General Treaty for Renunciation of War as an Instrument of National Policy, was a noble but toothless agreement best known by a name that references its authors, the U.S. Secretary of State and the French Foreign Minister. What is this more common name?",
+            "answer": "kellogg-briand pact",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "34",
+            "c_percent": "22",
+            "d_percent": "12",
+            "e_percent": "4",
+            "r_percent": "16"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Directed by the United Nations Security Council, construction began in 1991 on a 120-mile long fence and barrier zone, nine miles wide with electrified fencing, concertina wire, trenches, and dirt berms, on the border of two nations. Name either of those nations.",
+            "answer": "iraq, kuwait",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "50",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "28"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the name of the philosophical system developed by Ayn Rand, expressed in The Fountainhead and Atlas Shrugged as well as in her nonfiction works, which holds, among other tenets, that all real achievement is the result of individual ability and effort and that altruism is a vice?",
+            "answer": "objectivism",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "81",
+            "c_percent": "69",
+            "d_percent": "58",
+            "e_percent": "36",
+            "r_percent": "53"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Deriving from a French term for \"raw\" or \"uncooked\", what word is used to refer to raw vegetables or fruits, often thinly sliced or grated and accompanied by cold sauces, that are served as an hors d'oeuvre?",
+            "answer": "crudités",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "46",
+            "r_percent": "57"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Pictured here is a scene from what animated film? ",
+            "answer": "princess mononoke",
+            "image": "/images/art/784y9nc84y53.jpg",
+            "a_percent": "56",
+            "b_percent": "48",
+            "c_percent": "39",
+            "d_percent": "38",
+            "e_percent": "27",
+            "r_percent": "33"
+        }
+    ]
 }
