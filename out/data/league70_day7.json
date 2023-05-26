@@ -1,77 +1,79 @@
 {
+    "date": "September 2, 2016",
     "league": 70,
     "day": 7,
-    "date": "September 2, 2016",
-    "1": {
-        "category": "GAMES/SPORT",
-        "prompt": "What U.S. city is home to both the second-oldest major league baseball stadium currently in use (after Boston), as well as the second-oldest stadium in current use by the NFL (after Los Angeles)?",
-        "answer": "chicago",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "89",
-        "c_percent": "88",
-        "d_percent": "82",
-        "e_percent": "75",
-        "r_percent": "81"
-    },
-    "2": {
-        "category": "CLASS MUSIC",
-        "prompt": "The Radetzky March, Tales from the Vienna Woods, Music of the Spheres, the Alpenrose polka, and Ariadne auf Naxos are all works by composers that share what last name?",
-        "answer": "strauss",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "63",
-        "c_percent": "53",
-        "d_percent": "36",
-        "e_percent": "22",
-        "r_percent": "36"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "Alice Paul, Millicent Fawcett, and Emily Wilding Davison are among the people that could be described by a term which was first used condescendingly by journalist Charles Hands in London's Daily Mail but has since taken a positive connotation, and today is mostly obsolete, used only in a historical sense. What is that term?",
-        "answer": "suffragette",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "73",
-        "c_percent": "65",
-        "d_percent": "54",
-        "e_percent": "37",
-        "r_percent": "51"
-    },
-    "4": {
-        "category": "FOOD/DRINK",
-        "prompt": "What is the name, used in North India and most common in the west, for the sweet milk pudding that is served as a dessert or during a meal, usually made with rice, and flavored with raisins, cardamom, cinnamon, almonds, pistachio, or other ingredients? Its South Indian equivalent is payasam.",
-        "answer": "kheer",
-        "image": null,
-        "a_percent": "42",
-        "b_percent": "30",
-        "c_percent": "22",
-        "d_percent": "15",
-        "e_percent": "10",
-        "r_percent": "20"
-    },
-    "5": {
-        "category": "LITERATURE",
-        "prompt": "The four houses of Hogwarts School of Witchcraft and Wizardry, from the Harry Potter series, were each named after a different alliteratively named individual. Give the first name of any one of these four individuals.",
-        "answer": "godric, helga, rowena, salazar",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "68",
-        "c_percent": "61",
-        "d_percent": "57",
-        "e_percent": "48",
-        "r_percent": "59"
-    },
-    "6": {
-        "category": "SCIENCE",
-        "prompt": "A mule is the hybrid offspring of a jack (male donkey) and mare (female horse). What is the term for the hybrid offspring of a stallion (male horse) and jenny (female donkey)?",
-        "answer": "hinny",
-        "image": null,
-        "a_percent": "58",
-        "b_percent": "39",
-        "c_percent": "23",
-        "d_percent": "16",
-        "e_percent": "8",
-        "r_percent": "19"
-    }
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What U.S. city is home to both the second-oldest major league baseball stadium currently in use (after Boston), as well as the second-oldest stadium in current use by the NFL (after Los Angeles)?",
+            "answer": "chicago",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "75",
+            "r_percent": "81"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The Radetzky March, Tales from the Vienna Woods, Music of the Spheres, the Alpenrose polka, and Ariadne auf Naxos are all works by composers that share what last name?",
+            "answer": "strauss",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Alice Paul, Millicent Fawcett, and Emily Wilding Davison are among the people that could be described by a term which was first used condescendingly by journalist Charles Hands in London's Daily Mail but has since taken a positive connotation, and today is mostly obsolete, used only in a historical sense. What is that term?",
+            "answer": "suffragette",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "54",
+            "e_percent": "37",
+            "r_percent": "51"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name, used in North India and most common in the west, for the sweet milk pudding that is served as a dessert or during a meal, usually made with rice, and flavored with raisins, cardamom, cinnamon, almonds, pistachio, or other ingredients? Its South Indian equivalent is payasam.",
+            "answer": "kheer",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "30",
+            "c_percent": "22",
+            "d_percent": "15",
+            "e_percent": "10",
+            "r_percent": "20"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The four houses of Hogwarts School of Witchcraft and Wizardry, from the Harry Potter series, were each named after a different alliteratively named individual. Give the first name of any one of these four individuals.",
+            "answer": "godric, helga, rowena, salazar",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "57",
+            "e_percent": "48",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A mule is the hybrid offspring of a jack (male donkey) and mare (female horse). What is the term for the hybrid offspring of a stallion (male horse) and jenny (female donkey)?",
+            "answer": "hinny",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "39",
+            "c_percent": "23",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "19"
+        }
+    ]
 }

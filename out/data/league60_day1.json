@@ -1,77 +1,79 @@
 {
+    "date": "February 18, 2014",
     "league": 60,
     "day": 1,
-    "date": "February 18, 2014",
-    "1": {
-        "category": "GEOGRAPHY",
-        "prompt": "The province of Fars has been, for over two millennia, a cultural and civilizational (and linguistic) center in what is today what country?",
-        "answer": "iran",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "93",
-        "c_percent": "90",
-        "d_percent": "79",
-        "e_percent": "61",
-        "r_percent": "73"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "She is Talia in the Italian fairy tale Sun, Moon, and Talia (Sole, Luna, e Talia), while the Brothers Grimm named her Briar Rose (Dornr\u00f6schen), and Disney calls her Aurora. By what name is this princess best known today?",
-        "answer": "sleeping beauty",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "92",
-        "c_percent": "85",
-        "d_percent": "81",
-        "e_percent": "70",
-        "r_percent": "79"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "A treaty signed in London in December of 1921 ended the war for independence of what revolutionary state, which would then become a self-governing dominion within the British Commonwealth in 12 months (and ultimately, a sovereign state fifteen years later)?",
-        "answer": "irish republic",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "69",
-        "c_percent": "53",
-        "d_percent": "43",
-        "e_percent": "27",
-        "r_percent": "46"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "Evolving from the Latin for star, this term is used mostly today in reference to a specific time scale, derived from the Earth's rotation period measured in relation to a fixed star.",
-        "answer": "sidereal",
-        "image": null,
-        "a_percent": "47",
-        "b_percent": "28",
-        "c_percent": "23",
-        "d_percent": "13",
-        "e_percent": "5",
-        "r_percent": "14"
-    },
-    "5": {
-        "category": "TELEVISION",
-        "prompt": "Avery was the name of both the mother and the famously illegitimate son of what television sitcom's title character?",
-        "answer": "murphy brown",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "58",
-        "c_percent": "51",
-        "d_percent": "39",
-        "e_percent": "24",
-        "r_percent": "34"
-    },
-    "6": {
-        "category": "ART",
-        "prompt": "Identify the Frenchman responsible for the design of these items. ",
-        "answer": "philippe starck",
-        "image": "/images/art/835u0cm93u0m9.jpg",
-        "a_percent": "20",
-        "b_percent": "16",
-        "c_percent": "11",
-        "d_percent": "4",
-        "e_percent": "4",
-        "r_percent": "9"
-    }
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The province of Fars has been, for over two millennia, a cultural and civilizational (and linguistic) center in what is today what country?",
+            "answer": "iran",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "79",
+            "e_percent": "61",
+            "r_percent": "73"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "She is Talia in the Italian fairy tale Sun, Moon, and Talia (Sole, Luna, e Talia), while the Brothers Grimm named her Briar Rose (Dornröschen), and Disney calls her Aurora. By what name is this princess best known today?",
+            "answer": "sleeping beauty",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "81",
+            "e_percent": "70",
+            "r_percent": "79"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A treaty signed in London in December of 1921 ended the war for independence of what revolutionary state, which would then become a self-governing dominion within the British Commonwealth in 12 months (and ultimately, a sovereign state fifteen years later)?",
+            "answer": "irish republic",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "69",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "46"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Evolving from the Latin for star, this term is used mostly today in reference to a specific time scale, derived from the Earth's rotation period measured in relation to a fixed star.",
+            "answer": "sidereal",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "28",
+            "c_percent": "23",
+            "d_percent": "13",
+            "e_percent": "5",
+            "r_percent": "14"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Avery was the name of both the mother and the famously illegitimate son of what television sitcom's title character?",
+            "answer": "murphy brown",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "ART",
+            "prompt": "Identify the Frenchman responsible for the design of these items. ",
+            "answer": "philippe starck",
+            "image": "/images/art/835u0cm93u0m9.jpg",
+            "a_percent": "20",
+            "b_percent": "16",
+            "c_percent": "11",
+            "d_percent": "4",
+            "e_percent": "4",
+            "r_percent": "9"
+        }
+    ]
 }

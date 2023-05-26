@@ -1,77 +1,79 @@
 {
+    "date": "February 21, 2014",
     "league": 60,
     "day": 4,
-    "date": "February 21, 2014",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "Give the French term most commonly used for the little colorful items in this photograph. ",
-        "answer": "nonpareils",
-        "image": "/images/art/4899c835u089.jpg",
-        "a_percent": "61",
-        "b_percent": "44",
-        "c_percent": "42",
-        "d_percent": "36",
-        "e_percent": "28",
-        "r_percent": "27"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "Father John O'Connor, a Roman Catholic priest in the northern England city of Bradford, provided the basis for the main character in series of detective short stories by what author and lay theologian?",
-        "answer": "g.k. chesterton",
-        "image": null,
-        "a_percent": "53",
-        "b_percent": "31",
-        "c_percent": "28",
-        "d_percent": "16",
-        "e_percent": "4",
-        "r_percent": "13"
-    },
-    "3": {
-        "category": "BUS/ECON",
-        "prompt": "With revenue of over $45 billion in 2013, roughly seven times larger than the Las Vegas Strip's, the casino market of this city is the world's largest, by far.",
-        "answer": "macau",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "72",
-        "c_percent": "60",
-        "d_percent": "50",
-        "e_percent": "37",
-        "r_percent": "45"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "A biological episode known as a vasovagal response may lead to what is termed medically as syncope, but is better known colloquially as what?",
-        "answer": "fainting/passing out",
-        "image": null,
-        "a_percent": "64",
-        "b_percent": "54",
-        "c_percent": "44",
-        "d_percent": "39",
-        "e_percent": "22",
-        "r_percent": "32"
-    },
-    "5": {
-        "category": "FILM",
-        "prompt": "The shocking November 1974 murders by Ronald DeFeo, Jr., of his parents and four of his siblings provided the basis, in part, for what controversial 1977 novel and subsequent film series?",
-        "answer": "the amityville horror",
-        "image": null,
-        "a_percent": "60",
-        "b_percent": "41",
-        "c_percent": "30",
-        "d_percent": "24",
-        "e_percent": "16",
-        "r_percent": "29"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "Serravalle, Borgo Maggiore, Fiorentino, and Acquaviva, along with the namesake capital, are among the largest castelli in what Most Serene republic?",
-        "answer": "san marino",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "72",
-        "c_percent": "58",
-        "d_percent": "42",
-        "e_percent": "17",
-        "r_percent": "33"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Give the French term most commonly used for the little colorful items in this photograph. ",
+            "answer": "nonpareils",
+            "image": "/images/art/4899c835u089.jpg",
+            "a_percent": "61",
+            "b_percent": "44",
+            "c_percent": "42",
+            "d_percent": "36",
+            "e_percent": "28",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Father John O'Connor, a Roman Catholic priest in the northern England city of Bradford, provided the basis for the main character in series of detective short stories by what author and lay theologian?",
+            "answer": "g.k. chesterton",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "31",
+            "c_percent": "28",
+            "d_percent": "16",
+            "e_percent": "4",
+            "r_percent": "13"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "With revenue of over $45 billion in 2013, roughly seven times larger than the Las Vegas Strip's, the casino market of this city is the world's largest, by far.",
+            "answer": "macau",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "72",
+            "c_percent": "60",
+            "d_percent": "50",
+            "e_percent": "37",
+            "r_percent": "45"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A biological episode known as a vasovagal response may lead to what is termed medically as syncope, but is better known colloquially as what?",
+            "answer": "fainting/passing out",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "39",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The shocking November 1974 murders by Ronald DeFeo, Jr., of his parents and four of his siblings provided the basis, in part, for what controversial 1977 novel and subsequent film series?",
+            "answer": "the amityville horror",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "24",
+            "e_percent": "16",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Serravalle, Borgo Maggiore, Fiorentino, and Acquaviva, along with the namesake capital, are among the largest castelli in what Most Serene republic?",
+            "answer": "san marino",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "58",
+            "d_percent": "42",
+            "e_percent": "17",
+            "r_percent": "33"
+        }
+    ]
 }

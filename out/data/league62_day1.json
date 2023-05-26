@@ -1,77 +1,79 @@
 {
+    "date": "August 18, 2014",
     "league": 62,
     "day": 1,
-    "date": "August 18, 2014",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "While the Latin American Christmas treat mazap\u00e1n is often made with peanuts, the confection known commonly as marzipan typically consists of paste made from the drupe of what tree?",
-        "answer": "almond",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "89",
-        "c_percent": "83",
-        "d_percent": "73",
-        "e_percent": "63",
-        "r_percent": "68"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "\"John Goes-Everywhere\" (or idiomatically, \"John Skeleton Key\") would be the English translation of the name of Phileas Fogg's valet in Around the World in Eighty Days. What was the valet's name?",
-        "answer": "jean passepartout",
-        "image": null,
-        "a_percent": "65",
-        "b_percent": "58",
-        "c_percent": "39",
-        "d_percent": "23",
-        "e_percent": "15",
-        "r_percent": "19"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "Suture joints are a specific type of connective tissue found in the human body in what anatomical structure?",
-        "answer": "cranium/skull",
-        "image": null,
-        "a_percent": "71",
-        "b_percent": "50",
-        "c_percent": "51",
-        "d_percent": "32",
-        "e_percent": "21",
-        "r_percent": "34"
-    },
-    "4": {
-        "category": "CURR EVENTS",
-        "prompt": "Give the name of the border crossing (and nearby city) highlighted in this image. ",
-        "answer": "rafah",
-        "image": "/images/art/874c945y8459n8c.png",
-        "a_percent": "44",
-        "b_percent": "25",
-        "c_percent": "22",
-        "d_percent": "16",
-        "e_percent": "9",
-        "r_percent": "12"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "Graub\u00fcnden, Valais, and Ticino are among the major administrative divisions of what nation?",
-        "answer": "switzerland",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "90",
-        "c_percent": "81",
-        "d_percent": "77",
-        "e_percent": "58",
-        "r_percent": "66"
-    },
-    "6": {
-        "category": "LANGUAGE",
-        "prompt": "Native speakers of Latin in ancient Rome used what letter to express the number quingenti?",
-        "answer": "d",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "68",
-        "c_percent": "57",
-        "d_percent": "43",
-        "e_percent": "25",
-        "r_percent": "29"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "While the Latin American Christmas treat mazapán is often made with peanuts, the confection known commonly as marzipan typically consists of paste made from the drupe of what tree?",
+            "answer": "almond",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "73",
+            "e_percent": "63",
+            "r_percent": "68"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"John Goes-Everywhere\" (or idiomatically, \"John Skeleton Key\") would be the English translation of the name of Phileas Fogg's valet in Around the World in Eighty Days. What was the valet's name?",
+            "answer": "jean passepartout",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "58",
+            "c_percent": "39",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "19"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Suture joints are a specific type of connective tissue found in the human body in what anatomical structure?",
+            "answer": "cranium/skull",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "50",
+            "c_percent": "51",
+            "d_percent": "32",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Give the name of the border crossing (and nearby city) highlighted in this image. ",
+            "answer": "rafah",
+            "image": "/images/art/874c945y8459n8c.png",
+            "a_percent": "44",
+            "b_percent": "25",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "12"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Graubünden, Valais, and Ticino are among the major administrative divisions of what nation?",
+            "answer": "switzerland",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "90",
+            "c_percent": "81",
+            "d_percent": "77",
+            "e_percent": "58",
+            "r_percent": "66"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Native speakers of Latin in ancient Rome used what letter to express the number quingenti?",
+            "answer": "d",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "68",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "25",
+            "r_percent": "29"
+        }
+    ]
 }

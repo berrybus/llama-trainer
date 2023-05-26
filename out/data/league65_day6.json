@@ -1,77 +1,79 @@
 {
+    "date": "May 26, 2015",
     "league": 65,
     "day": 6,
-    "date": "May 26, 2015",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "His Norman Mailer Prize for Lifetime Achievement, won in 2014, is the most recent of the numerous prestigious awards won by what American novelist, whose latest works include the short story collection The Angel Esmeralda and the novels Point Omega, Falling Man, and Cosmopolis?",
-        "answer": "don delillo",
-        "image": null,
-        "a_percent": "57",
-        "b_percent": "43",
-        "c_percent": "39",
-        "d_percent": "23",
-        "e_percent": "14",
-        "r_percent": "28"
-    },
-    "2": {
-        "category": "CLASS MUSIC",
-        "prompt": "Identify the musical instrument pictured here, a member of the zither family used commonly in the music of Appalachia. ",
-        "answer": "dulcimer",
-        "image": "/images/art/3498y50cny509.jpg",
-        "a_percent": "61",
-        "b_percent": "48",
-        "c_percent": "43",
-        "d_percent": "27",
-        "e_percent": "18",
-        "r_percent": "30"
-    },
-    "3": {
-        "category": "LIFESTYLE",
-        "prompt": "The Order of Friars Minor, also known simply as the Franciscans, is headquartered in what Italian comune, which was the birthplace of the order's founder in (or around) 1181?",
-        "answer": "assisi",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "88",
-        "c_percent": "83",
-        "d_percent": "73",
-        "e_percent": "48",
-        "r_percent": "66"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "What is the botanical term, derived from the Latin for \"little foot,\" for the stalk that attaches a plant's leaf blade (lamina) to its stem?",
-        "answer": "petiole",
-        "image": null,
-        "a_percent": "25",
-        "b_percent": "12",
-        "c_percent": "9",
-        "d_percent": "5",
-        "e_percent": "2",
-        "r_percent": "9"
-    },
-    "5": {
-        "category": "POP MUSIC",
-        "prompt": "The song \"See You Again,\" featured in the 2015 film Furious 7 and written as a tribute to the late actor Paul Walker, set streaming and download records while shooting to the top of the Billboard chart in concurrence with the film's release. What hip hop artist recorded the song, which also featured the song's writer, Charlie Puth?",
-        "answer": "wiz khalifa",
-        "image": null,
-        "a_percent": "49",
-        "b_percent": "33",
-        "c_percent": "32",
-        "d_percent": "23",
-        "e_percent": "22",
-        "r_percent": "33"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "Name the 1975 National Medal of Science recipient who was chief architect of the Saturn V rocket launch vehicle program in the late 1960s/early 1970s, as well as a central participant in Operation Paperclip and Projekt Amerika in the 1940s. ",
-        "answer": "wernher von braun",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "72",
-        "c_percent": "59",
-        "d_percent": "48",
-        "e_percent": "27",
-        "r_percent": "45"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "His Norman Mailer Prize for Lifetime Achievement, won in 2014, is the most recent of the numerous prestigious awards won by what American novelist, whose latest works include the short story collection The Angel Esmeralda and the novels Point Omega, Falling Man, and Cosmopolis?",
+            "answer": "don delillo",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "39",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "28"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Identify the musical instrument pictured here, a member of the zither family used commonly in the music of Appalachia. ",
+            "answer": "dulcimer",
+            "image": "/images/art/3498y50cny509.jpg",
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "43",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Order of Friars Minor, also known simply as the Franciscans, is headquartered in what Italian comune, which was the birthplace of the order's founder in (or around) 1181?",
+            "answer": "assisi",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "88",
+            "c_percent": "83",
+            "d_percent": "73",
+            "e_percent": "48",
+            "r_percent": "66"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the botanical term, derived from the Latin for \"little foot,\" for the stalk that attaches a plant's leaf blade (lamina) to its stem?",
+            "answer": "petiole",
+            "image": null,
+            "a_percent": "25",
+            "b_percent": "12",
+            "c_percent": "9",
+            "d_percent": "5",
+            "e_percent": "2",
+            "r_percent": "9"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The song \"See You Again,\" featured in the 2015 film Furious 7 and written as a tribute to the late actor Paul Walker, set streaming and download records while shooting to the top of the Billboard chart in concurrence with the film's release. What hip hop artist recorded the song, which also featured the song's writer, Charlie Puth?",
+            "answer": "wiz khalifa",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "33",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "22",
+            "r_percent": "33"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the 1975 National Medal of Science recipient who was chief architect of the Saturn V rocket launch vehicle program in the late 1960s/early 1970s, as well as a central participant in Operation Paperclip and Projekt Amerika in the 1940s. ",
+            "answer": "wernher von braun",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "59",
+            "d_percent": "48",
+            "e_percent": "27",
+            "r_percent": "45"
+        }
+    ]
 }

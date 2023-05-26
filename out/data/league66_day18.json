@@ -1,77 +1,79 @@
 {
+    "date": "September 15, 2015",
     "league": 66,
     "day": 18,
-    "date": "September 15, 2015",
-    "1": {
-        "category": "THEATRE",
-        "prompt": "On Broadway, the brother originated Bobby in Urinetown and Benny in Hands on a Hardbody, and revived Seymour in Little Shop of Horrors, and the sister originated the title character in Thoroughly Modern Millie and Janet in The Drowsy Chaperone, and revived Reno in Anything Goes. What is the last name shared by these actors and siblings?",
-        "answer": "foster",
-        "image": null,
-        "a_percent": "41",
-        "b_percent": "32",
-        "c_percent": "21",
-        "d_percent": "18",
-        "e_percent": "11",
-        "r_percent": "16"
-    },
-    "2": {
-        "category": "GEOGRAPHY",
-        "prompt": "Today, what is the name of the island that was once (along with the British penal colony located on it) named Van Diemen's Land, after the Governor-General of the Dutch East Indies?",
-        "answer": "tasmania",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "72",
-        "c_percent": "55",
-        "d_percent": "38",
-        "e_percent": "20",
-        "r_percent": "40"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "In physics, this is a position in a standing wave pattern at which there is no vibration. In 2D and 3D geometry, it's where a curve intersects itself. In networking, it's the start or crossing point of routes. What is the term?",
-        "answer": "node",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "61",
-        "c_percent": "54",
-        "d_percent": "46",
-        "e_percent": "33",
-        "r_percent": "41"
-    },
-    "4": {
-        "category": "BUS/ECON",
-        "prompt": "Name the man who sought to upend the dominance of classical economic thought, and introduce what would become his namesake macroeconomic theory, with the revolutionary 1936 opus The General Theory of Employment, Interest and Money.",
-        "answer": "john maynard keynes",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "92",
-        "c_percent": "85",
-        "d_percent": "78",
-        "e_percent": "57",
-        "r_percent": "71"
-    },
-    "5": {
-        "category": "LITERATURE",
-        "prompt": "What is the common name of the novel whose official title ends or The Children's Crusade: A Duty-Dance with Death?",
-        "answer": "slaughterhouse-five",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "56",
-        "c_percent": "43",
-        "d_percent": "29",
-        "e_percent": "17",
-        "r_percent": "34"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "Arguably initiated by 1971's Sweet Sweetback's Baadasssss Song, sparked by Shaft that same year, and continuing through the 1970s with Super Fly, Foxy Brown, and others, what film subgenre's name is a portmanteau coined by Junius Griffin, then head of the Los Angeles NAACP?",
-        "answer": "blaxploitation",
-        "image": null,
-        "a_percent": "99",
-        "b_percent": "97",
-        "c_percent": "95",
-        "d_percent": "90",
-        "e_percent": "74",
-        "r_percent": "82"
-    }
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "On Broadway, the brother originated Bobby in Urinetown and Benny in Hands on a Hardbody, and revived Seymour in Little Shop of Horrors, and the sister originated the title character in Thoroughly Modern Millie and Janet in The Drowsy Chaperone, and revived Reno in Anything Goes. What is the last name shared by these actors and siblings?",
+            "answer": "foster",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "32",
+            "c_percent": "21",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "16"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Today, what is the name of the island that was once (along with the British penal colony located on it) named Van Diemen's Land, after the Governor-General of the Dutch East Indies?",
+            "answer": "tasmania",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "72",
+            "c_percent": "55",
+            "d_percent": "38",
+            "e_percent": "20",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In physics, this is a position in a standing wave pattern at which there is no vibration. In 2D and 3D geometry, it's where a curve intersects itself. In networking, it's the start or crossing point of routes. What is the term?",
+            "answer": "node",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Name the man who sought to upend the dominance of classical economic thought, and introduce what would become his namesake macroeconomic theory, with the revolutionary 1936 opus The General Theory of Employment, Interest and Money.",
+            "answer": "john maynard keynes",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "57",
+            "r_percent": "71"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the common name of the novel whose official title ends or The Children's Crusade: A Duty-Dance with Death?",
+            "answer": "slaughterhouse-five",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "56",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Arguably initiated by 1971's Sweet Sweetback's Baadasssss Song, sparked by Shaft that same year, and continuing through the 1970s with Super Fly, Foxy Brown, and others, what film subgenre's name is a portmanteau coined by Junius Griffin, then head of the Los Angeles NAACP?",
+            "answer": "blaxploitation",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "90",
+            "e_percent": "74",
+            "r_percent": "82"
+        }
+    ]
 }

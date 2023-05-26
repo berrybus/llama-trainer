@@ -1,77 +1,79 @@
 {
+    "date": "June 6, 2016",
     "league": 69,
     "day": 8,
-    "date": "June 6, 2016",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "Cornmeal with milk, water, egg, and chopped onion, mixed into balls and dropped into hot oil\u2014this is a basic recipe for the Southern delicacy best known by what name, which references (according to legend) its secondary purpose during cookouts and hunting expeditions?",
-        "answer": "hush puppies",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "91",
-        "c_percent": "86",
-        "d_percent": "83",
-        "e_percent": "79",
-        "r_percent": "82"
-    },
-    "2": {
-        "category": "CURR EVENTS",
-        "prompt": "On May 25, 2016, it was announced that Mawlawi Haibatullah Akhundzada would replace the recently deceased Akhtar Mansour as the emir of what insurgent movement?",
-        "answer": "taliban",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "62",
-        "c_percent": "50",
-        "d_percent": "42",
-        "e_percent": "27",
-        "r_percent": "41"
-    },
-    "3": {
-        "category": "GAMES/SPORT",
-        "prompt": "What video game is this? ",
-        "answer": "missile command",
-        "image": "/images/art/9384u98.jpg",
-        "a_percent": "61",
-        "b_percent": "47",
-        "c_percent": "41",
-        "d_percent": "33",
-        "e_percent": "24",
-        "r_percent": "32"
-    },
-    "4": {
-        "category": "LITERATURE",
-        "prompt": "The title character from a popular novel of the 1880s shares a distinction (of sorts) with the names of a lanky New York Mets outfielder of the 1980s, the notorious mayor of a major American city in the 1970s, 80s and 90s, and a Pulitzer-winning columnist for the Washington Post. Who is this title character?",
-        "answer": "huckleberry (finn)",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "52",
-        "c_percent": "37",
-        "d_percent": "26",
-        "e_percent": "13",
-        "r_percent": "20"
-    },
-    "5": {
-        "category": "LIFESTYLE",
-        "prompt": "Classical rationalism of the seventeenth and eighteenth centuries\u2014the philosophy of Descartes, Spinoza, and others\u2014sought to demonstrate that all the world's significant knowledge is based on truths that can be known independently of observation and experience. The truths are often described by what two-word Latin term, popularized by Immanuel Kant?",
-        "answer": "a priori",
-        "image": null,
-        "a_percent": "56",
-        "b_percent": "41",
-        "c_percent": "33",
-        "d_percent": "23",
-        "e_percent": "16",
-        "r_percent": "26"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "In what country is Lake Maracaibo, which would be the largest lake in South America if it were actually still a lake, which it was for millions of years but (by most technical definitions of the term) has not actually been for some time?",
-        "answer": "venezuela",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "70",
-        "c_percent": "58",
-        "d_percent": "37",
-        "e_percent": "21",
-        "r_percent": "40"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Cornmeal with milk, water, egg, and chopped onion, mixed into balls and dropped into hot oil—this is a basic recipe for the Southern delicacy best known by what name, which references (according to legend) its secondary purpose during cookouts and hunting expeditions?",
+            "answer": "hush puppies",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "83",
+            "e_percent": "79",
+            "r_percent": "82"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On May 25, 2016, it was announced that Mawlawi Haibatullah Akhundzada would replace the recently deceased Akhtar Mansour as the emir of what insurgent movement?",
+            "answer": "taliban",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "42",
+            "e_percent": "27",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What video game is this? ",
+            "answer": "missile command",
+            "image": "/images/art/9384u98.jpg",
+            "a_percent": "61",
+            "b_percent": "47",
+            "c_percent": "41",
+            "d_percent": "33",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The title character from a popular novel of the 1880s shares a distinction (of sorts) with the names of a lanky New York Mets outfielder of the 1980s, the notorious mayor of a major American city in the 1970s, 80s and 90s, and a Pulitzer-winning columnist for the Washington Post. Who is this title character?",
+            "answer": "huckleberry (finn)",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "52",
+            "c_percent": "37",
+            "d_percent": "26",
+            "e_percent": "13",
+            "r_percent": "20"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Classical rationalism of the seventeenth and eighteenth centuries—the philosophy of Descartes, Spinoza, and others—sought to demonstrate that all the world's significant knowledge is based on truths that can be known independently of observation and experience. The truths are often described by what two-word Latin term, popularized by Immanuel Kant?",
+            "answer": "a priori",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In what country is Lake Maracaibo, which would be the largest lake in South America if it were actually still a lake, which it was for millions of years but (by most technical definitions of the term) has not actually been for some time?",
+            "answer": "venezuela",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "37",
+            "e_percent": "21",
+            "r_percent": "40"
+        }
+    ]
 }

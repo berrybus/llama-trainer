@@ -1,77 +1,79 @@
 {
+    "date": "September 16, 2014",
     "league": 62,
     "day": 21,
-    "date": "September 16, 2014",
-    "1": {
-        "category": "ART",
-        "prompt": "Identify the American architect and \"father of skyscrapers\" who, with his partner Dankmar Adler, is responsible for the buildings pictured here. ",
-        "answer": "louis sullivan",
-        "image": "/images/art/48um09n809847c5.jpg",
-        "a_percent": "61",
-        "b_percent": "38",
-        "c_percent": "33",
-        "d_percent": "20",
-        "e_percent": "10",
-        "r_percent": "24"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "Nadine Gordimer, J.M. Coetzee, Athol Fugard, Breyten Breytenbach, and Bessie Head are all writers who were born in what country?",
-        "answer": "south africa",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "80",
-        "c_percent": "77",
-        "d_percent": "61",
-        "e_percent": "42",
-        "r_percent": "59"
-    },
-    "3": {
-        "category": "GAMES/SPORT",
-        "prompt": "Pictured here are two future athletes in what Olympic event? ",
-        "answer": "decathlon",
-        "image": "/images/art/75n098n7087.jpg",
-        "a_percent": "76",
-        "b_percent": "68",
-        "c_percent": "65",
-        "d_percent": "51",
-        "e_percent": "38",
-        "r_percent": "41"
-    },
-    "4": {
-        "category": "WORLD HIST",
-        "prompt": "Between the first four \"Rightly Guided\" caliphs of the Rashidun Caliphate in the 7th century and the Ottoman Caliphate of 1517-1924, there were two other major Islamic caliphates, which ruled from 661 to 750 and from 750 to 1517. Give the most common name of either of the two.",
-        "answer": "umayyad, abbasid",
-        "image": null,
-        "a_percent": "49",
-        "b_percent": "34",
-        "c_percent": "33",
-        "d_percent": "14",
-        "e_percent": "7",
-        "r_percent": "23"
-    },
-    "5": {
-        "category": "CLASS MUSIC",
-        "prompt": "W.A. Mozart's Serenade No. 13 for Strings in G Major, which was composed in 1787, is better known by what title (though it's believed that this was not Mozart's intentional title, but rather a notation for his records)?",
-        "answer": "eine kleine nachtmusik",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "61",
-        "c_percent": "52",
-        "d_percent": "40",
-        "e_percent": "24",
-        "r_percent": "41"
-    },
-    "6": {
-        "category": "TELEVISION",
-        "prompt": "Pictured here are characters from what television series? ",
-        "answer": "orphan black",
-        "image": "/images/art/87n5c0cn948750cn9347.jpg",
-        "a_percent": "58",
-        "b_percent": "55",
-        "c_percent": "53",
-        "d_percent": "47",
-        "e_percent": "36",
-        "r_percent": "43"
-    }
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Identify the American architect and \"father of skyscrapers\" who, with his partner Dankmar Adler, is responsible for the buildings pictured here. ",
+            "answer": "louis sullivan",
+            "image": "/images/art/48um09n809847c5.jpg",
+            "a_percent": "61",
+            "b_percent": "38",
+            "c_percent": "33",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Nadine Gordimer, J.M. Coetzee, Athol Fugard, Breyten Breytenbach, and Bessie Head are all writers who were born in what country?",
+            "answer": "south africa",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "77",
+            "d_percent": "61",
+            "e_percent": "42",
+            "r_percent": "59"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Pictured here are two future athletes in what Olympic event? ",
+            "answer": "decathlon",
+            "image": "/images/art/75n098n7087.jpg",
+            "a_percent": "76",
+            "b_percent": "68",
+            "c_percent": "65",
+            "d_percent": "51",
+            "e_percent": "38",
+            "r_percent": "41"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Between the first four \"Rightly Guided\" caliphs of the Rashidun Caliphate in the 7th century and the Ottoman Caliphate of 1517-1924, there were two other major Islamic caliphates, which ruled from 661 to 750 and from 750 to 1517. Give the most common name of either of the two.",
+            "answer": "umayyad, abbasid",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "34",
+            "c_percent": "33",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "23"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "W.A. Mozart's Serenade No. 13 for Strings in G Major, which was composed in 1787, is better known by what title (though it's believed that this was not Mozart's intentional title, but rather a notation for his records)?",
+            "answer": "eine kleine nachtmusik",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "40",
+            "e_percent": "24",
+            "r_percent": "41"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Pictured here are characters from what television series? ",
+            "answer": "orphan black",
+            "image": "/images/art/87n5c0cn948750cn9347.jpg",
+            "a_percent": "58",
+            "b_percent": "55",
+            "c_percent": "53",
+            "d_percent": "47",
+            "e_percent": "36",
+            "r_percent": "43"
+        }
+    ]
 }

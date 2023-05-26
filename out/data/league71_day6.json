@@ -1,77 +1,79 @@
 {
+    "date": "November 21, 2016",
     "league": 71,
     "day": 6,
-    "date": "November 21, 2016",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "A portion of what company's logo is pictured here? ",
-        "answer": "state farm",
-        "image": "/images/art/984y5nx384y5n9.jpg",
-        "a_percent": "89",
-        "b_percent": "82",
-        "c_percent": "79",
-        "d_percent": "76",
-        "e_percent": "69",
-        "r_percent": "72"
-    },
-    "2": {
-        "category": "FILM",
-        "prompt": "Varla, Rosie, and Billie are three wild, drag racing go-go dancers who are up to no good at all in what 1965 Russ Meyer cult classic?",
-        "answer": "faster, pussycat! kill! kill!",
-        "image": null,
-        "a_percent": "61",
-        "b_percent": "43",
-        "c_percent": "36",
-        "d_percent": "24",
-        "e_percent": "12",
-        "r_percent": "20"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "The cities of L\u00fcbeck, Hamburg, Bremen, Riga, K\u00f6nigsberg, and Dortmund were among a confederation that was known collectively during the Late Middle Ages as what?",
-        "answer": "hanseatic league",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "58",
-        "c_percent": "45",
-        "d_percent": "27",
-        "e_percent": "12",
-        "r_percent": "26"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "Animals which are classified in the taxonomic class Asteroidea are most commonly known by what term?",
-        "answer": "starfish/sea stars",
-        "image": null,
-        "a_percent": "89",
-        "b_percent": "76",
-        "c_percent": "67",
-        "d_percent": "52",
-        "e_percent": "32",
-        "r_percent": "48"
-    },
-    "5": {
-        "category": "CURR EVENTS",
-        "prompt": "The Peshmerga are military forces which form a major part of the coalition in the offensive to retake the Iraq city of Mosul beginning in mid-October 2016. The Peshmerga are members of what Middle Eastern ethnic group?",
-        "answer": "kurds",
-        "image": null,
-        "a_percent": "97",
-        "b_percent": "95",
-        "c_percent": "91",
-        "d_percent": "82",
-        "e_percent": "67",
-        "r_percent": "76"
-    },
-    "6": {
-        "category": "TELEVISION",
-        "prompt": "During the weeknight primetime hours (8 to 11 pm ET), the Fox News Channel typically shows three hour-long news/talk programs. One is hosted by Bill O'Reilly; another is hosted by Sean Hannity. Who hosts the third?",
-        "answer": "megyn kelly",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "76",
-        "c_percent": "71",
-        "d_percent": "69",
-        "e_percent": "59",
-        "r_percent": "65"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "A portion of what company's logo is pictured here? ",
+            "answer": "state farm",
+            "image": "/images/art/984y5nx384y5n9.jpg",
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "79",
+            "d_percent": "76",
+            "e_percent": "69",
+            "r_percent": "72"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Varla, Rosie, and Billie are three wild, drag racing go-go dancers who are up to no good at all in what 1965 Russ Meyer cult classic?",
+            "answer": "faster, pussycat! kill! kill!",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "43",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "12",
+            "r_percent": "20"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The cities of Lübeck, Hamburg, Bremen, Riga, Königsberg, and Dortmund were among a confederation that was known collectively during the Late Middle Ages as what?",
+            "answer": "hanseatic league",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "58",
+            "c_percent": "45",
+            "d_percent": "27",
+            "e_percent": "12",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Animals which are classified in the taxonomic class Asteroidea are most commonly known by what term?",
+            "answer": "starfish/sea stars",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "52",
+            "e_percent": "32",
+            "r_percent": "48"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The Peshmerga are military forces which form a major part of the coalition in the offensive to retake the Iraq city of Mosul beginning in mid-October 2016. The Peshmerga are members of what Middle Eastern ethnic group?",
+            "answer": "kurds",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "91",
+            "d_percent": "82",
+            "e_percent": "67",
+            "r_percent": "76"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "During the weeknight primetime hours (8 to 11 pm ET), the Fox News Channel typically shows three hour-long news/talk programs. One is hosted by Bill O'Reilly; another is hosted by Sean Hannity. Who hosts the third?",
+            "answer": "megyn kelly",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "69",
+            "e_percent": "59",
+            "r_percent": "65"
+        }
+    ]
 }

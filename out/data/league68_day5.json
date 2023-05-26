@@ -1,77 +1,79 @@
 {
+    "date": "February 26, 2016",
     "league": 68,
     "day": 5,
-    "date": "February 26, 2016",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "The first name of a certain titular literary hero, \"Lemuel,\" literally means \"devoted to God\" (probably intended ironically), and his last name suggests a particular type of na\u00efvet\u00e9. In what 1726 classic does this character appear?",
-        "answer": "gulliver's travels",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "71",
-        "c_percent": "58",
-        "d_percent": "37",
-        "e_percent": "18",
-        "r_percent": "38"
-    },
-    "2": {
-        "category": "CLASS MUSIC",
-        "prompt": "The modern form of what instrument was invented in the 1650s as an offspring of the shawm, and quickly became popular\u2014evidenced by a famous French band of the era, Les douzes grandes Hautbois du Roi, which featured ten of this instrument accompanied by two bassoons?",
-        "answer": "oboe",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "59",
-        "c_percent": "49",
-        "d_percent": "35",
-        "e_percent": "23",
-        "r_percent": "34"
-    },
-    "3": {
-        "category": "GAMES/SPORT",
-        "prompt": "What man has won five of the last six (and six of the last nine) Australian Open men's singles tennis championships, placing him in a tie with Roy Emerson for the most in history?",
-        "answer": "novak djokovic",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "66",
-        "c_percent": "54",
-        "d_percent": "47",
-        "e_percent": "39",
-        "r_percent": "45"
-    },
-    "4": {
-        "category": "AMER HIST",
-        "prompt": "Name the judge, possibly the most highly regarded jurist in American history who never sat on the Supreme Court (though he was known as the Court's \"tenth man\"), who served on the United States Court of Appeals for the Second Circuit in his native New York from 1924 to 1961.",
-        "answer": "learned hand",
-        "image": null,
-        "a_percent": "52",
-        "b_percent": "36",
-        "c_percent": "27",
-        "d_percent": "18",
-        "e_percent": "10",
-        "r_percent": "18"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "Of the various basic database models in computing, two are network and hierarchical. What is the common name for the most popular of them all, in which data is viewed as a collection of linked two-dimensional tables, and which is defined by an unofficial set of principles known as \"Codd's 12 rules\"? The word was used in an early name for the Oracle Corporation.",
-        "answer": "relational",
-        "image": null,
-        "a_percent": "54",
-        "b_percent": "38",
-        "c_percent": "34",
-        "d_percent": "31",
-        "e_percent": "26",
-        "r_percent": "29"
-    },
-    "6": {
-        "category": "THEATRE",
-        "prompt": "A 1943 musical set in a soon-to-be U.S. state; a musical based on Charles Dickens's second novel; an avant-garde revue with total nudity; a musical about a Republican mayor of New York City; the most Tony-winning musical of the twentieth-century: The titles of all of these Broadway shows have what in common, most distinctively? ",
-        "answer": "exclamation marks",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "71",
-        "c_percent": "64",
-        "d_percent": "51",
-        "e_percent": "34",
-        "r_percent": "42"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The first name of a certain titular literary hero, \"Lemuel,\" literally means \"devoted to God\" (probably intended ironically), and his last name suggests a particular type of naïveté. In what 1726 classic does this character appear?",
+            "answer": "gulliver's travels",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "37",
+            "e_percent": "18",
+            "r_percent": "38"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The modern form of what instrument was invented in the 1650s as an offspring of the shawm, and quickly became popular—evidenced by a famous French band of the era, Les douzes grandes Hautbois du Roi, which featured ten of this instrument accompanied by two bassoons?",
+            "answer": "oboe",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What man has won five of the last six (and six of the last nine) Australian Open men's singles tennis championships, placing him in a tie with Roy Emerson for the most in history?",
+            "answer": "novak djokovic",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "66",
+            "c_percent": "54",
+            "d_percent": "47",
+            "e_percent": "39",
+            "r_percent": "45"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the judge, possibly the most highly regarded jurist in American history who never sat on the Supreme Court (though he was known as the Court's \"tenth man\"), who served on the United States Court of Appeals for the Second Circuit in his native New York from 1924 to 1961.",
+            "answer": "learned hand",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "36",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Of the various basic database models in computing, two are network and hierarchical. What is the common name for the most popular of them all, in which data is viewed as a collection of linked two-dimensional tables, and which is defined by an unofficial set of principles known as \"Codd's 12 rules\"? The word was used in an early name for the Oracle Corporation.",
+            "answer": "relational",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "38",
+            "c_percent": "34",
+            "d_percent": "31",
+            "e_percent": "26",
+            "r_percent": "29"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A 1943 musical set in a soon-to-be U.S. state; a musical based on Charles Dickens's second novel; an avant-garde revue with total nudity; a musical about a Republican mayor of New York City; the most Tony-winning musical of the twentieth-century: The titles of all of these Broadway shows have what in common, most distinctively? ",
+            "answer": "exclamation marks",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "42"
+        }
+    ]
 }

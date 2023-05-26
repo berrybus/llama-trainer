@@ -1,77 +1,79 @@
 {
+    "date": "March 24, 2017",
     "league": 72,
     "day": 24,
-    "date": "March 24, 2017",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "In the United States, \"bacon\" is made from pork belly while \"Canadian bacon\" is made from the loin of the pig. In Great Britain, the belly bacon is known as \"streaky\" bacon, while cuts that include both belly and loin can be referred to as \"back bacon\" but most often appear on British breakfast menus as slices known as what?",
-        "answer": "rashers",
-        "image": null,
-        "a_percent": "64",
-        "b_percent": "52",
-        "c_percent": "46",
-        "d_percent": "36",
-        "e_percent": "23",
-        "r_percent": "38"
-    },
-    "2": {
-        "category": "TELEVISION",
-        "prompt": "Pictured here is the cast for what television series? ",
-        "answer": "this is us",
-        "image": "/images/art/40958uct.jpg",
-        "a_percent": "69",
-        "b_percent": "60",
-        "c_percent": "58",
-        "d_percent": "58",
-        "e_percent": "58",
-        "r_percent": "55"
-    },
-    "3": {
-        "category": "ART",
-        "prompt": "Although in common usage the word is now often associated with children, what term is used in fine arts for a preparatory sketch or design for a picture to be transferred to a fresco or tapestry?",
-        "answer": "cartoon",
-        "image": null,
-        "a_percent": "47",
-        "b_percent": "31",
-        "c_percent": "22",
-        "d_percent": "13",
-        "e_percent": "6",
-        "r_percent": "18"
-    },
-    "4": {
-        "category": "LANGUAGE",
-        "prompt": "Pferd and Ross are German words that both translate to English as what?",
-        "answer": "horse",
-        "image": null,
-        "a_percent": "53",
-        "b_percent": "38",
-        "c_percent": "28",
-        "d_percent": "20",
-        "e_percent": "11",
-        "r_percent": "27"
-    },
-    "5": {
-        "category": "WORLD HIST",
-        "prompt": "The city-state of Sparta was the hegemon of a geographically based alliance that included Tegea, Elis, Corinth, and others, and is known historically as what \"league\"? The league would emerge victorious in a war against the Athens-led Delian League toward the end of the 5th century BCE.",
-        "answer": "peloponnesian league",
-        "image": null,
-        "a_percent": "73",
-        "b_percent": "54",
-        "c_percent": "44",
-        "d_percent": "28",
-        "e_percent": "14",
-        "r_percent": "29"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "What London thoroughfare, named for the stream (now subterranean) that used to flow nearby, is synonymous today with English journalism and the newspaper business (and, to a separate degree, demon barbers)?",
-        "answer": "fleet street",
-        "image": null,
-        "a_percent": "97",
-        "b_percent": "94",
-        "c_percent": "92",
-        "d_percent": "83",
-        "e_percent": "63",
-        "r_percent": "74"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In the United States, \"bacon\" is made from pork belly while \"Canadian bacon\" is made from the loin of the pig. In Great Britain, the belly bacon is known as \"streaky\" bacon, while cuts that include both belly and loin can be referred to as \"back bacon\" but most often appear on British breakfast menus as slices known as what?",
+            "answer": "rashers",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "46",
+            "d_percent": "36",
+            "e_percent": "23",
+            "r_percent": "38"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Pictured here is the cast for what television series? ",
+            "answer": "this is us",
+            "image": "/images/art/40958uct.jpg",
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "58",
+            "d_percent": "58",
+            "e_percent": "58",
+            "r_percent": "55"
+        },
+        {
+            "category": "ART",
+            "prompt": "Although in common usage the word is now often associated with children, what term is used in fine arts for a preparatory sketch or design for a picture to be transferred to a fresco or tapestry?",
+            "answer": "cartoon",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "31",
+            "c_percent": "22",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "18"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Pferd and Ross are German words that both translate to English as what?",
+            "answer": "horse",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "38",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The city-state of Sparta was the hegemon of a geographically based alliance that included Tegea, Elis, Corinth, and others, and is known historically as what \"league\"? The league would emerge victorious in a war against the Athens-led Delian League toward the end of the 5th century BCE.",
+            "answer": "peloponnesian league",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "28",
+            "e_percent": "14",
+            "r_percent": "29"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What London thoroughfare, named for the stream (now subterranean) that used to flow nearby, is synonymous today with English journalism and the newspaper business (and, to a separate degree, demon barbers)?",
+            "answer": "fleet street",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "83",
+            "e_percent": "63",
+            "r_percent": "74"
+        }
+    ]
 }

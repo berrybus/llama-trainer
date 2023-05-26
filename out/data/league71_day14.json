@@ -1,77 +1,79 @@
 {
+    "date": "December 6, 2016",
     "league": 71,
     "day": 14,
-    "date": "December 6, 2016",
-    "1": {
-        "category": "GEOGRAPHY",
-        "prompt": "What U.S. city, which had a population of around 287,000 in the 2010 census, shares a name with a province and historical city of Spain?",
-        "answer": "toledo",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "78",
-        "c_percent": "71",
-        "d_percent": "55",
-        "e_percent": "34",
-        "r_percent": "47"
-    },
-    "2": {
-        "category": "AMER HIST",
-        "prompt": "The controversial (to say the least) proviso to ban slavery within land acquired during the Mexican War was introduced in 1846 by what Pennsylvania Congressman? While it was never passed into law, it is credited with helping to bring about the eventual collapse of the Whigs and the later emergence of the Republican Party.",
-        "answer": "david wilmot",
-        "image": null,
-        "a_percent": "55",
-        "b_percent": "35",
-        "c_percent": "23",
-        "d_percent": "15",
-        "e_percent": "6",
-        "r_percent": "15"
-    },
-    "3": {
-        "category": "FILM",
-        "prompt": "Ismail and James are the first names of what iconic and distinctive filmmaking duo, whose names have come to represent a certain style of film beyond those they themselves produced that are similar in manner and gentility?",
-        "answer": "merchant ivory",
-        "image": null,
-        "a_percent": "74",
-        "b_percent": "55",
-        "c_percent": "45",
-        "d_percent": "32",
-        "e_percent": "14",
-        "r_percent": "27"
-    },
-    "4": {
-        "category": "BUS/ECON",
-        "prompt": "In business, what is the most common term for the current asset designation, reported on a company's balance sheet, which represents the amount owed to the company by its customers or debtors in the short term? It is often (but not necessarily) accompanied by the word \"accounts\"?",
-        "answer": "receivables",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "69",
-        "c_percent": "62",
-        "d_percent": "57",
-        "e_percent": "49",
-        "r_percent": "54"
-    },
-    "5": {
-        "category": "LITERATURE",
-        "prompt": "The fictional woodcutter Ali Baba's life turns rich and prosperous thanks mostly to what phrase?",
-        "answer": "open, sesame",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "91",
-        "c_percent": "88",
-        "d_percent": "80",
-        "e_percent": "61",
-        "r_percent": "71"
-    },
-    "6": {
-        "category": "POP MUSIC",
-        "prompt": "What rap artist's first claim to fame was as the \"original human beat box\" (or for being on in six minutes in his hit song \"The Show\"), but is perhaps now best known for his namesake hip hop dance, popularized 20 years after his artistic peak? (Note: You may name either the artist or the dance.)",
-        "answer": "doug e. fresh/dougie",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "53",
-        "c_percent": "45",
-        "d_percent": "40",
-        "e_percent": "28",
-        "r_percent": "39"
-    }
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What U.S. city, which had a population of around 287,000 in the 2010 census, shares a name with a province and historical city of Spain?",
+            "answer": "toledo",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "55",
+            "e_percent": "34",
+            "r_percent": "47"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The controversial (to say the least) proviso to ban slavery within land acquired during the Mexican War was introduced in 1846 by what Pennsylvania Congressman? While it was never passed into law, it is credited with helping to bring about the eventual collapse of the Whigs and the later emergence of the Republican Party.",
+            "answer": "david wilmot",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "35",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Ismail and James are the first names of what iconic and distinctive filmmaking duo, whose names have come to represent a certain style of film beyond those they themselves produced that are similar in manner and gentility?",
+            "answer": "merchant ivory",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "55",
+            "c_percent": "45",
+            "d_percent": "32",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In business, what is the most common term for the current asset designation, reported on a company's balance sheet, which represents the amount owed to the company by its customers or debtors in the short term? It is often (but not necessarily) accompanied by the word \"accounts\"?",
+            "answer": "receivables",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "57",
+            "e_percent": "49",
+            "r_percent": "54"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The fictional woodcutter Ali Baba's life turns rich and prosperous thanks mostly to what phrase?",
+            "answer": "open, sesame",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "80",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What rap artist's first claim to fame was as the \"original human beat box\" (or for being on in six minutes in his hit song \"The Show\"), but is perhaps now best known for his namesake hip hop dance, popularized 20 years after his artistic peak? (Note: You may name either the artist or the dance.)",
+            "answer": "doug e. fresh/dougie",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "40",
+            "e_percent": "28",
+            "r_percent": "39"
+        }
+    ]
 }

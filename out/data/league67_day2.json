@@ -1,77 +1,79 @@
 {
+    "date": "November 11, 2015",
     "league": 67,
     "day": 2,
-    "date": "November 11, 2015",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "A messianic young man's exposure to a unique herb provides him the power to resist a violent regime on the planet Arrakis in what 1965 novel?",
-        "answer": "dune",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "82",
-        "c_percent": "79",
-        "d_percent": "67",
-        "e_percent": "52",
-        "r_percent": "66"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "What metal is customarily a principal component of the alloys britannium, pewter, \"ordinary\" solder, and terne?",
-        "answer": "tin",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "56",
-        "c_percent": "50",
-        "d_percent": "41",
-        "e_percent": "27",
-        "r_percent": "35"
-    },
-    "3": {
-        "category": "ART",
-        "prompt": "Eight cowboys on their horses, galloping toward the viewer while being chased by a band of Apaches\u2014this is the scene for A Dash for the Timber, which is the work of what American artist?",
-        "answer": "frederic remington",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "50",
-        "c_percent": "38",
-        "d_percent": "25",
-        "e_percent": "13",
-        "r_percent": "23"
-    },
-    "4": {
-        "category": "FILM",
-        "prompt": "The 1901 film What Happened on Twenty-third Street, New York City, in its 74-second run time, shows a sequence that was replicated in what 1955 film, in a scene that would produce the latter movie's iconic image?",
-        "answer": "the seven year itch",
-        "image": null,
-        "a_percent": "58",
-        "b_percent": "41",
-        "c_percent": "30",
-        "d_percent": "23",
-        "e_percent": "11",
-        "r_percent": "16"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "Based on his ability to always deliver (except perhaps in his final season, when he left the Utah Jazz to unsuccessfully seek an NBA title with the L.A. Lakers), what basketball Hall of Famer and two-time NBA MVP was given the nickname \"The Mailman\"?",
-        "answer": "karl malone",
-        "image": null,
-        "a_percent": "86",
-        "b_percent": "83",
-        "c_percent": "75",
-        "d_percent": "71",
-        "e_percent": "59",
-        "r_percent": "64"
-    },
-    "6": {
-        "category": "FOOD/DRINK",
-        "prompt": "Varieties of this fruit\u2014a composite formed by 100-200 berry-like fruitlets that provide its tessellated appearance\u2014include smooth cayenne, Natal queen, Red Spanish, and sugarloaf.",
-        "answer": "pineapple",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "42",
-        "c_percent": "26",
-        "d_percent": "20",
-        "e_percent": "11",
-        "r_percent": "17"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A messianic young man's exposure to a unique herb provides him the power to resist a violent regime on the planet Arrakis in what 1965 novel?",
+            "answer": "dune",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "79",
+            "d_percent": "67",
+            "e_percent": "52",
+            "r_percent": "66"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What metal is customarily a principal component of the alloys britannium, pewter, \"ordinary\" solder, and terne?",
+            "answer": "tin",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "56",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "35"
+        },
+        {
+            "category": "ART",
+            "prompt": "Eight cowboys on their horses, galloping toward the viewer while being chased by a band of Apaches—this is the scene for A Dash for the Timber, which is the work of what American artist?",
+            "answer": "frederic remington",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "50",
+            "c_percent": "38",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1901 film What Happened on Twenty-third Street, New York City, in its 74-second run time, shows a sequence that was replicated in what 1955 film, in a scene that would produce the latter movie's iconic image?",
+            "answer": "the seven year itch",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "23",
+            "e_percent": "11",
+            "r_percent": "16"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Based on his ability to always deliver (except perhaps in his final season, when he left the Utah Jazz to unsuccessfully seek an NBA title with the L.A. Lakers), what basketball Hall of Famer and two-time NBA MVP was given the nickname \"The Mailman\"?",
+            "answer": "karl malone",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "71",
+            "e_percent": "59",
+            "r_percent": "64"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Varieties of this fruit—a composite formed by 100-200 berry-like fruitlets that provide its tessellated appearance—include smooth cayenne, Natal queen, Red Spanish, and sugarloaf.",
+            "answer": "pineapple",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "42",
+            "c_percent": "26",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "17"
+        }
+    ]
 }

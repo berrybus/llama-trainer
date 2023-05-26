@@ -1,77 +1,79 @@
 {
+    "date": "September 20, 2016",
     "league": 70,
     "day": 18,
-    "date": "September 20, 2016",
-    "1": {
-        "category": "ART",
-        "prompt": "\"I was walking down the road with two friends when the sun set; suddenly, the sky turned as red as blood. I stopped and leaned against the fence, feeling unspeakably tired. Tongues of fire and blood stretched over the bluish black fjord.\" This is a partial description, in the artist's own words, of what 1893 painting?",
-        "answer": "the scream",
-        "image": null,
-        "a_percent": "94",
-        "b_percent": "91",
-        "c_percent": "85",
-        "d_percent": "76",
-        "e_percent": "61",
-        "r_percent": "74"
-    },
-    "2": {
-        "category": "POP MUSIC",
-        "prompt": "Who was the lead vocalist of Motown Records' most successful music group of the 1960s? The singer in question left the group to pursue a solo career in January 1970.",
-        "answer": "diana ross",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "74",
-        "c_percent": "67",
-        "d_percent": "59",
-        "e_percent": "41",
-        "r_percent": "56"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "Since 2003, Kevin O'Connor has served as host for what PBS television show, which began on Boston station WGBH, hosted by Bob Vila?",
-        "answer": "this old house",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "86",
-        "c_percent": "84",
-        "d_percent": "77",
-        "e_percent": "67",
-        "r_percent": "74"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "What abundant mineral, a lead sulfide (PbS), is the most common and important ore of lead, as well as a source of silver? It's the namesake for a number of communities in the United States, including the one-time home of Ulysses S. Grant.",
-        "answer": "galena",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "43",
-        "c_percent": "26",
-        "d_percent": "15",
-        "e_percent": "8",
-        "r_percent": "22"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "North Sepulveda Boulevard, which runs north/south for five miles along the 405 in West Los Angeles, provides a link between two highly acclaimed films. What are those films?",
-        "answer": "mulholland drive, sunset boulevard",
-        "image": null,
-        "a_percent": "54",
-        "b_percent": "46",
-        "c_percent": "39",
-        "d_percent": "30",
-        "e_percent": "19",
-        "r_percent": "27"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "\"Aschenputtel,\" \"Dornr\u00f6schen,\" \"Schneewittchen,\" \"Der Froschk\u00f6nig,\" and \"Rotk\u00e4ppchen\" are all popular today thanks in part to the work of what duo?",
-        "answer": "die br\u00fcder grimm (the brothers grimm)",
-        "image": null,
-        "a_percent": "89",
-        "b_percent": "78",
-        "c_percent": "66",
-        "d_percent": "48",
-        "e_percent": "29",
-        "r_percent": "48"
-    }
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "\"I was walking down the road with two friends when the sun set; suddenly, the sky turned as red as blood. I stopped and leaned against the fence, feeling unspeakably tired. Tongues of fire and blood stretched over the bluish black fjord.\" This is a partial description, in the artist's own words, of what 1893 painting?",
+            "answer": "the scream",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "61",
+            "r_percent": "74"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Who was the lead vocalist of Motown Records' most successful music group of the 1960s? The singer in question left the group to pursue a solo career in January 1970.",
+            "answer": "diana ross",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "59",
+            "e_percent": "41",
+            "r_percent": "56"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Since 2003, Kevin O'Connor has served as host for what PBS television show, which began on Boston station WGBH, hosted by Bob Vila?",
+            "answer": "this old house",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "67",
+            "r_percent": "74"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What abundant mineral, a lead sulfide (PbS), is the most common and important ore of lead, as well as a source of silver? It's the namesake for a number of communities in the United States, including the one-time home of Ulysses S. Grant.",
+            "answer": "galena",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "43",
+            "c_percent": "26",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "22"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "North Sepulveda Boulevard, which runs north/south for five miles along the 405 in West Los Angeles, provides a link between two highly acclaimed films. What are those films?",
+            "answer": "mulholland drive, sunset boulevard",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "46",
+            "c_percent": "39",
+            "d_percent": "30",
+            "e_percent": "19",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"Aschenputtel,\" \"Dornröschen,\" \"Schneewittchen,\" \"Der Froschkönig,\" and \"Rotkäppchen\" are all popular today thanks in part to the work of what duo?",
+            "answer": "die brüder grimm (the brothers grimm)",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "78",
+            "c_percent": "66",
+            "d_percent": "48",
+            "e_percent": "29",
+            "r_percent": "48"
+        }
+    ]
 }

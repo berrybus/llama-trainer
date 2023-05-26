@@ -1,77 +1,79 @@
 {
+    "date": "May 28, 2015",
     "league": 65,
     "day": 8,
-    "date": "May 28, 2015",
-    "1": {
-        "category": "SCIENCE",
-        "prompt": "What is the most common name of the largest object in the region of the solar system known as the Kuiper belt (excepting Eris, which may be in the belt or the \"scattered disc,\" depending on the source)?",
-        "answer": "pluto",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "63",
-        "c_percent": "51",
-        "d_percent": "43",
-        "e_percent": "31",
-        "r_percent": "41"
-    },
-    "2": {
-        "category": "LIFESTYLE",
-        "prompt": "Name the French fashion designer whose designs included the \"H\" line and \"A\" line and who first achieved worldwide fame in 1947 with his long-skirted \"New Look\" (pictured).  ",
-        "answer": "christian dior",
-        "image": "/images/art/8940988948c948.jpg",
-        "a_percent": "61",
-        "b_percent": "47",
-        "c_percent": "35",
-        "d_percent": "28",
-        "e_percent": "18",
-        "r_percent": "31"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "Dr. Tim Whatley, Babu Bhatt, Jake Jarmel, Marla Penny, Rebecca DeMornay, and Ruthie Cohen were minor characters in what television series?",
-        "answer": "seinfeld",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "66",
-        "c_percent": "62",
-        "d_percent": "56",
-        "e_percent": "41",
-        "r_percent": "48"
-    },
-    "4": {
-        "category": "CLASS MUSIC",
-        "prompt": "Irish composer and pianist John Field is widely considered the initiator of what type of musical composition? Evocatively dreamy and pensive, the form was mastered famously by Fr\u00e9d\u00e9ric Chopin's 21 compositions of the style, including what may be the best known of all his works, Op. 9, No. 2.",
-        "answer": "nocturne",
-        "image": null,
-        "a_percent": "57",
-        "b_percent": "49",
-        "c_percent": "36",
-        "d_percent": "26",
-        "e_percent": "17",
-        "r_percent": "29"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "What begins in Furtwangen im Schwarzwald, a small city in the Black Forest region of far southwestern Germany, and ends on the Black Sea coast, roughly around the Romania/Ukraine border?",
-        "answer": "danube",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "74",
-        "c_percent": "64",
-        "d_percent": "51",
-        "e_percent": "32",
-        "r_percent": "48"
-    },
-    "6": {
-        "category": "BUS/ECON",
-        "prompt": "With over 2,600 stores in 34 states, what supermarket chain is the largest in the U.S. by revenue? In addition to its namesake banner, it also operates stores under the names Dillons, Fred Meyer, Fry's, King Soopers, Owen's, QFC, Ralphs, Smith's, and others.",
-        "answer": "kroger",
-        "image": null,
-        "a_percent": "74",
-        "b_percent": "57",
-        "c_percent": "53",
-        "d_percent": "46",
-        "e_percent": "40",
-        "r_percent": "47"
-    }
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the most common name of the largest object in the region of the solar system known as the Kuiper belt (excepting Eris, which may be in the belt or the \"scattered disc,\" depending on the source)?",
+            "answer": "pluto",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "43",
+            "e_percent": "31",
+            "r_percent": "41"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Name the French fashion designer whose designs included the \"H\" line and \"A\" line and who first achieved worldwide fame in 1947 with his long-skirted \"New Look\" (pictured).  ",
+            "answer": "christian dior",
+            "image": "/images/art/8940988948c948.jpg",
+            "a_percent": "61",
+            "b_percent": "47",
+            "c_percent": "35",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Dr. Tim Whatley, Babu Bhatt, Jake Jarmel, Marla Penny, Rebecca DeMornay, and Ruthie Cohen were minor characters in what television series?",
+            "answer": "seinfeld",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "62",
+            "d_percent": "56",
+            "e_percent": "41",
+            "r_percent": "48"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Irish composer and pianist John Field is widely considered the initiator of what type of musical composition? Evocatively dreamy and pensive, the form was mastered famously by Frédéric Chopin's 21 compositions of the style, including what may be the best known of all his works, Op. 9, No. 2.",
+            "answer": "nocturne",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "49",
+            "c_percent": "36",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What begins in Furtwangen im Schwarzwald, a small city in the Black Forest region of far southwestern Germany, and ends on the Black Sea coast, roughly around the Romania/Ukraine border?",
+            "answer": "danube",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "48"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "With over 2,600 stores in 34 states, what supermarket chain is the largest in the U.S. by revenue? In addition to its namesake banner, it also operates stores under the names Dillons, Fred Meyer, Fry's, King Soopers, Owen's, QFC, Ralphs, Smith's, and others.",
+            "answer": "kroger",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "53",
+            "d_percent": "46",
+            "e_percent": "40",
+            "r_percent": "47"
+        }
+    ]
 }

@@ -1,77 +1,79 @@
 {
+    "date": "May 25, 2016",
     "league": 69,
     "day": 1,
-    "date": "May 25, 2016",
-    "1": {
-        "category": "LIFESTYLE",
-        "prompt": "This bag holds items purchased at what retailer? ",
-        "answer": "bloomingdale's",
-        "image": "/images/art/8485yu0v98y5u.jpg",
-        "a_percent": "82",
-        "b_percent": "76",
-        "c_percent": "67",
-        "d_percent": "58",
-        "e_percent": "51",
-        "r_percent": "56"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "A particular type of mechanized system known as a derailleur is most commonly associated with what machine?",
-        "answer": "bicycle",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "70",
-        "c_percent": "61",
-        "d_percent": "50",
-        "e_percent": "36",
-        "r_percent": "49"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "What three-word phrase (which is the same word uttered three times) forms part of the chorus of the Sesame Street tune \"Monster in the Mirror\" and was also the catchphrase of Club MTV host Downtown Julie Brown?",
-        "answer": "wubba wubba wubba",
-        "image": null,
-        "a_percent": "51",
-        "b_percent": "36",
-        "c_percent": "29",
-        "d_percent": "18",
-        "e_percent": "11",
-        "r_percent": "19"
-    },
-    "4": {
-        "category": "WORLD HIST",
-        "prompt": "A dynasty known as the Silla ruled, for much of the first millennium CE, a region that is best known today as what?",
-        "answer": "korea",
-        "image": null,
-        "a_percent": "49",
-        "b_percent": "32",
-        "c_percent": "19",
-        "d_percent": "12",
-        "e_percent": "7",
-        "r_percent": "17"
-    },
-    "5": {
-        "category": "ART",
-        "prompt": "The architectural design firm Skidmore, Owings & Merrill first gained recognition as style innovators with its \"house\" on Park Avenue in New York City, designed for what British manufacturing company?",
-        "answer": "lever brothers",
-        "image": null,
-        "a_percent": "32",
-        "b_percent": "23",
-        "c_percent": "15",
-        "d_percent": "7",
-        "e_percent": "3",
-        "r_percent": "9"
-    },
-    "6": {
-        "category": "THEATRE",
-        "prompt": "When Hamilton wins the Tony Award for Best Musical, it will become the second with Thomas Jefferson as a prominent character. What was the first?",
-        "answer": "1776",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "79",
-        "c_percent": "71",
-        "d_percent": "60",
-        "e_percent": "43",
-        "r_percent": "56"
-    }
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "This bag holds items purchased at what retailer? ",
+            "answer": "bloomingdale's",
+            "image": "/images/art/8485yu0v98y5u.jpg",
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "51",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A particular type of mechanized system known as a derailleur is most commonly associated with what machine?",
+            "answer": "bicycle",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "61",
+            "d_percent": "50",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What three-word phrase (which is the same word uttered three times) forms part of the chorus of the Sesame Street tune \"Monster in the Mirror\" and was also the catchphrase of Club MTV host Downtown Julie Brown?",
+            "answer": "wubba wubba wubba",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A dynasty known as the Silla ruled, for much of the first millennium CE, a region that is best known today as what?",
+            "answer": "korea",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "32",
+            "c_percent": "19",
+            "d_percent": "12",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "ART",
+            "prompt": "The architectural design firm Skidmore, Owings & Merrill first gained recognition as style innovators with its \"house\" on Park Avenue in New York City, designed for what British manufacturing company?",
+            "answer": "lever brothers",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "23",
+            "c_percent": "15",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "9"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "When Hamilton wins the Tony Award for Best Musical, it will become the second with Thomas Jefferson as a prominent character. What was the first?",
+            "answer": "1776",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "60",
+            "e_percent": "43",
+            "r_percent": "56"
+        }
+    ]
 }

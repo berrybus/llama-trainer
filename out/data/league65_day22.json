@@ -1,77 +1,79 @@
 {
+    "date": "June 17, 2015",
     "league": 65,
     "day": 22,
-    "date": "June 17, 2015",
-    "1": {
-        "category": "TELEVISION",
-        "prompt": "While she has appeared on such shows as Fear Factor, The Surreal Life, Girls Behaving Badly, and Plastic Surgery: Before & After, this reality TV star first achieved fame as the shrewd villain in the first season of the NBC reality show The Apprentice. She is known today by her first name, which is what?",
-        "answer": "omarosa",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "67",
-        "c_percent": "69",
-        "d_percent": "58",
-        "e_percent": "54",
-        "r_percent": "57"
-    },
-    "2": {
-        "category": "MATH",
-        "prompt": "A curve joining all points around two foci such that the sum of the distances from those fixed points is always constant \u2014 thus defines what conic section?",
-        "answer": "ellipse",
-        "image": null,
-        "a_percent": "73",
-        "b_percent": "58",
-        "c_percent": "54",
-        "d_percent": "46",
-        "e_percent": "38",
-        "r_percent": "45"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "The war known as the First Indochina War was fought between the Viet Minh and French forces, while in the Second Indochina War (a.k.a. the Vietnam War), North Vietnam fought United States-led forces. The Third Indochina War, by far the shortest and least bloody of the three, was fought in 1979 between Vietnam and what other country?",
-        "answer": "china/cambodia",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "79",
-        "c_percent": "80",
-        "d_percent": "73",
-        "e_percent": "58",
-        "r_percent": "69"
-    },
-    "4": {
-        "category": "LITERATURE",
-        "prompt": "The Galactic Empire series, Foundation series, and Robot series are among the more than 300 volumes published by what science fiction author and member of the biochemistry faculty at Boston University?",
-        "answer": "isaac asimov",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "88",
-        "c_percent": "83",
-        "d_percent": "75",
-        "e_percent": "61",
-        "r_percent": "72"
-    },
-    "5": {
-        "category": "FILM",
-        "prompt": "The 1994 Peter Jackson-directed film Heavenly Creatures, which interprets the story of a murder case involving two girls in 1952 in New Zealand, was the feature film debut of what future Oscar, Grammy, and Emmy winner?",
-        "answer": "kate winslet",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "61",
-        "c_percent": "49",
-        "d_percent": "42",
-        "e_percent": "30",
-        "r_percent": "41"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "What current Miami Marlin holds the Major League Baseball record for most consecutive seasons with 200 or more base hits (10) and is the active leader for five-hit games (seven), stolen bases (493), and singles (2,348)?",
-        "answer": "ichiro suzuki",
-        "image": null,
-        "a_percent": "64",
-        "b_percent": "49",
-        "c_percent": "46",
-        "d_percent": "38",
-        "e_percent": "29",
-        "r_percent": "38"
-    }
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "While she has appeared on such shows as Fear Factor, The Surreal Life, Girls Behaving Badly, and Plastic Surgery: Before & After, this reality TV star first achieved fame as the shrewd villain in the first season of the NBC reality show The Apprentice. She is known today by her first name, which is what?",
+            "answer": "omarosa",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "69",
+            "d_percent": "58",
+            "e_percent": "54",
+            "r_percent": "57"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A curve joining all points around two foci such that the sum of the distances from those fixed points is always constant — thus defines what conic section?",
+            "answer": "ellipse",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "38",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The war known as the First Indochina War was fought between the Viet Minh and French forces, while in the Second Indochina War (a.k.a. the Vietnam War), North Vietnam fought United States-led forces. The Third Indochina War, by far the shortest and least bloody of the three, was fought in 1979 between Vietnam and what other country?",
+            "answer": "china/cambodia",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "80",
+            "d_percent": "73",
+            "e_percent": "58",
+            "r_percent": "69"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Galactic Empire series, Foundation series, and Robot series are among the more than 300 volumes published by what science fiction author and member of the biochemistry faculty at Boston University?",
+            "answer": "isaac asimov",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "61",
+            "r_percent": "72"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1994 Peter Jackson-directed film Heavenly Creatures, which interprets the story of a murder case involving two girls in 1952 in New Zealand, was the feature film debut of what future Oscar, Grammy, and Emmy winner?",
+            "answer": "kate winslet",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "30",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What current Miami Marlin holds the Major League Baseball record for most consecutive seasons with 200 or more base hits (10) and is the active leader for five-hit games (seven), stolen bases (493), and singles (2,348)?",
+            "answer": "ichiro suzuki",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "49",
+            "c_percent": "46",
+            "d_percent": "38",
+            "e_percent": "29",
+            "r_percent": "38"
+        }
+    ]
 }

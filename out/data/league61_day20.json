@@ -1,77 +1,79 @@
 {
+    "date": "June 9, 2014",
     "league": 61,
     "day": 20,
-    "date": "June 9, 2014",
-    "1": {
-        "category": "ART",
-        "prompt": "One legend on the etymology of this art movement's name\u2014a precursor to surrealism, pop art, and postmodernism\u2014says that the name was chosen at random when a knife came down in a dictionary on the French term for \"hobby horse.\"",
-        "answer": "dada",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "82",
-        "c_percent": "81",
-        "d_percent": "68",
-        "e_percent": "53",
-        "r_percent": "77"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "In 1986, this Nigerian writer and former pro-Biafran political prisoner became the first African to win the Nobel Prize in Literature. ",
-        "answer": "wole soyinka",
-        "image": null,
-        "a_percent": "37",
-        "b_percent": "16",
-        "c_percent": "13",
-        "d_percent": "4",
-        "e_percent": "2",
-        "r_percent": "8"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "550 foot-pounds per second, or 746 watts, equates to 1 unit of what other measurement of energy consumed per unit of time?",
-        "answer": "horsepower",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "67",
-        "c_percent": "47",
-        "d_percent": "40",
-        "e_percent": "26",
-        "r_percent": "48"
-    },
-    "4": {
-        "category": "MATH",
-        "prompt": "Parallel side length A plus parallel side length B multiplied by height and divided by 2. Or, (A+B)h/2: This is the mathematical formula for the area of what shape?",
-        "answer": "trapezoid",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "73",
-        "c_percent": "62",
-        "d_percent": "57",
-        "e_percent": "43",
-        "r_percent": "56"
-    },
-    "5": {
-        "category": "AMER HIST",
-        "prompt": "Identify the woman pictured here, who is the only real-life woman ever to have been depicted on such a medium. ",
-        "answer": "martha washington",
-        "image": "/images/art/498yu5x0948y59.jpg",
-        "a_percent": "70",
-        "b_percent": "51",
-        "c_percent": "51",
-        "d_percent": "42",
-        "e_percent": "30",
-        "r_percent": "43"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "Among the prizes presented during the annual Cannes International Film Festival, the Cam\u00e9ra d'Or is awarded to the best film, as determined by the independent jury, that meets what specific criterion?",
-        "answer": "first film (first feature film by a new director)",
-        "image": null,
-        "a_percent": "60",
-        "b_percent": "39",
-        "c_percent": "30",
-        "d_percent": "18",
-        "e_percent": "11",
-        "r_percent": "23"
-    }
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "One legend on the etymology of this art movement's name—a precursor to surrealism, pop art, and postmodernism—says that the name was chosen at random when a knife came down in a dictionary on the French term for \"hobby horse.\"",
+            "answer": "dada",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "81",
+            "d_percent": "68",
+            "e_percent": "53",
+            "r_percent": "77"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In 1986, this Nigerian writer and former pro-Biafran political prisoner became the first African to win the Nobel Prize in Literature. ",
+            "answer": "wole soyinka",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "16",
+            "c_percent": "13",
+            "d_percent": "4",
+            "e_percent": "2",
+            "r_percent": "8"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "550 foot-pounds per second, or 746 watts, equates to 1 unit of what other measurement of energy consumed per unit of time?",
+            "answer": "horsepower",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "67",
+            "c_percent": "47",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "48"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Parallel side length A plus parallel side length B multiplied by height and divided by 2. Or, (A+B)h/2: This is the mathematical formula for the area of what shape?",
+            "answer": "trapezoid",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "73",
+            "c_percent": "62",
+            "d_percent": "57",
+            "e_percent": "43",
+            "r_percent": "56"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Identify the woman pictured here, who is the only real-life woman ever to have been depicted on such a medium. ",
+            "answer": "martha washington",
+            "image": "/images/art/498yu5x0948y59.jpg",
+            "a_percent": "70",
+            "b_percent": "51",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "30",
+            "r_percent": "43"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Among the prizes presented during the annual Cannes International Film Festival, the Caméra d'Or is awarded to the best film, as determined by the independent jury, that meets what specific criterion?",
+            "answer": "first film (first feature film by a new director)",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "39",
+            "c_percent": "30",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "23"
+        }
+    ]
 }

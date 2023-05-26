@@ -1,77 +1,79 @@
 {
+    "date": "June 4, 2014",
     "league": 61,
     "day": 17,
-    "date": "June 4, 2014",
-    "1": {
-        "category": "POP MUSIC",
-        "prompt": "\"I Saw Her Standing There\" by John Lennon (1981), \"Flames of Paradise\" by Jennifer Rush (1987), \"Through the Storm\" by Aretha Franklin (1989), \"Written in the Stars\" by LeAnn Rimes (1999), and \"Ghetto Gospel\" by Tupac Shakur (2005) are all singles released by the named artists in a duet with (or featuring) what other artist?",
-        "answer": "elton john",
-        "image": null,
-        "a_percent": "63",
-        "b_percent": "42",
-        "c_percent": "37",
-        "d_percent": "30",
-        "e_percent": "20",
-        "r_percent": "34"
-    },
-    "2": {
-        "category": "GEOGRAPHY",
-        "prompt": "In May 1993, with over 50 million more people than #2 Uganda, this country became the most populous landlocked country in the world.",
-        "answer": "ethiopia",
-        "image": null,
-        "a_percent": "67",
-        "b_percent": "39",
-        "c_percent": "30",
-        "d_percent": "19",
-        "e_percent": "10",
-        "r_percent": "23"
-    },
-    "3": {
-        "category": "FILM",
-        "prompt": "As of the weekend of March 30, 2014, what film is the top-grossing animated feature of all time, ahead of the $1.063 billion earned by Toy Story 3 (per the AMPAS definition of an \"animated feature\")?",
-        "answer": "frozen",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "85",
-        "c_percent": "86",
-        "d_percent": "82",
-        "e_percent": "75",
-        "r_percent": "82"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "The American Kennel Club classifies recognized breeds into one of seven groups, according to their primary functions and other distinctive traits. Into which group are the Bernese Mountain Dog, Boxer, Doberman Pinscher, Rottweiler, Saint Bernard, and Siberian Husky all classified?",
-        "answer": "working group",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "62",
-        "c_percent": "60",
-        "d_percent": "52",
-        "e_percent": "40",
-        "r_percent": "52"
-    },
-    "5": {
-        "category": "CURR EVENTS",
-        "prompt": "In January 2013, former Deputy National Security Advisor Denis McDonough succeeded recently appointed Treasury Secretary Jack Lew in what position, which McDonough still holds today?",
-        "answer": "white house chief of staff",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "48",
-        "c_percent": "41",
-        "d_percent": "31",
-        "e_percent": "18",
-        "r_percent": "35"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "Identify the modernist novel that was first published in 1922 but set on a June day eighteen years earlier and based on a work written three thousand years earlier.",
-        "answer": "ulysses",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "83",
-        "c_percent": "77",
-        "d_percent": "69",
-        "e_percent": "40",
-        "r_percent": "59"
-    }
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"I Saw Her Standing There\" by John Lennon (1981), \"Flames of Paradise\" by Jennifer Rush (1987), \"Through the Storm\" by Aretha Franklin (1989), \"Written in the Stars\" by LeAnn Rimes (1999), and \"Ghetto Gospel\" by Tupac Shakur (2005) are all singles released by the named artists in a duet with (or featuring) what other artist?",
+            "answer": "elton john",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "42",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In May 1993, with over 50 million more people than #2 Uganda, this country became the most populous landlocked country in the world.",
+            "answer": "ethiopia",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "39",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "23"
+        },
+        {
+            "category": "FILM",
+            "prompt": "As of the weekend of March 30, 2014, what film is the top-grossing animated feature of all time, ahead of the $1.063 billion earned by Toy Story 3 (per the AMPAS definition of an \"animated feature\")?",
+            "answer": "frozen",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "85",
+            "c_percent": "86",
+            "d_percent": "82",
+            "e_percent": "75",
+            "r_percent": "82"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The American Kennel Club classifies recognized breeds into one of seven groups, according to their primary functions and other distinctive traits. Into which group are the Bernese Mountain Dog, Boxer, Doberman Pinscher, Rottweiler, Saint Bernard, and Siberian Husky all classified?",
+            "answer": "working group",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "60",
+            "d_percent": "52",
+            "e_percent": "40",
+            "r_percent": "52"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In January 2013, former Deputy National Security Advisor Denis McDonough succeeded recently appointed Treasury Secretary Jack Lew in what position, which McDonough still holds today?",
+            "answer": "white house chief of staff",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "48",
+            "c_percent": "41",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "35"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Identify the modernist novel that was first published in 1922 but set on a June day eighteen years earlier and based on a work written three thousand years earlier.",
+            "answer": "ulysses",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "69",
+            "e_percent": "40",
+            "r_percent": "59"
+        }
+    ]
 }

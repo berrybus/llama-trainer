@@ -1,77 +1,79 @@
 {
+    "date": "December 16, 2015",
     "league": 67,
     "day": 24,
-    "date": "December 16, 2015",
-    "1": {
-        "category": "CLASS MUSIC",
-        "prompt": "Identify either the medieval Latin poem being sung in this excerpt, or the cantata, first staged in 1937, in which it famously appears. ",
-        "answer": "o fortuna/carmina burana",
-        "image": "/images/art/8y458nc054y.mp3",
-        "a_percent": "81",
-        "b_percent": "67",
-        "c_percent": "60",
-        "d_percent": "49",
-        "e_percent": "33",
-        "r_percent": "45"
-    },
-    "2": {
-        "category": "WORLD HIST",
-        "prompt": "A symbolic victory for Bolshevik revolutionaries occurred on November 7, 1917, with the storming of a building that sits between its namesake square and St. Petersburg's Neva River. Now part of a larger museum complex with a different name, this famous building itself is (and was at the time) known as what?",
-        "answer": "winter palace",
-        "image": null,
-        "a_percent": "66",
-        "b_percent": "52",
-        "c_percent": "40",
-        "d_percent": "27",
-        "e_percent": "11",
-        "r_percent": "29"
-    },
-    "3": {
-        "category": "LANGUAGE",
-        "prompt": "Though it appears in dictionaries from the mid-1800s, infamously ill-spoken U.S. Senator Warren G. Harding was criticized in May 1920 for giving a stump speech that notoriously included what word? The word was believed to be both a malapropism and a neologism, although it is arguably neither.",
-        "answer": "normalcy",
-        "image": null,
-        "a_percent": "65",
-        "b_percent": "46",
-        "c_percent": "34",
-        "d_percent": "24",
-        "e_percent": "10",
-        "r_percent": "19"
-    },
-    "4": {
-        "category": "LITERATURE",
-        "prompt": "Dr. Pangloss, a professor of \"m\u00e9taphysico-th\u00e9ologo-cosmolonigologie\" and self-described optimist, is a secondary but important character in what famous and influential (and controversial) 1759 novella, which itself is ironically subtitled ou l'Optimisme (\"or Optimism\")?",
-        "answer": "candide",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "79",
-        "c_percent": "69",
-        "d_percent": "56",
-        "e_percent": "29",
-        "r_percent": "47"
-    },
-    "5": {
-        "category": "FILM",
-        "prompt": "Phil, Stu, and Alan travel to Las Vegas to attend a bachelor party celebrating the upcoming marriage of their friend Doug. This is the premise for what commercially and critically successful comedy film?",
-        "answer": "the hangover",
-        "image": null,
-        "a_percent": "96",
-        "b_percent": "95",
-        "c_percent": "94",
-        "d_percent": "93",
-        "e_percent": "91",
-        "r_percent": "94"
-    },
-    "6": {
-        "category": "GEOGRAPHY",
-        "prompt": "Abaco, Eleuthera, Bimini, Andros, Great Exuma, and New Providence are among the islands that form what country?",
-        "answer": "bahamas",
-        "image": null,
-        "a_percent": "88",
-        "b_percent": "79",
-        "c_percent": "68",
-        "d_percent": "54",
-        "e_percent": "36",
-        "r_percent": "47"
-    }
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Identify either the medieval Latin poem being sung in this excerpt, or the cantata, first staged in 1937, in which it famously appears. ",
+            "answer": "o fortuna/carmina burana",
+            "image": "/images/art/8y458nc054y.mp3",
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "49",
+            "e_percent": "33",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A symbolic victory for Bolshevik revolutionaries occurred on November 7, 1917, with the storming of a building that sits between its namesake square and St. Petersburg's Neva River. Now part of a larger museum complex with a different name, this famous building itself is (and was at the time) known as what?",
+            "answer": "winter palace",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "11",
+            "r_percent": "29"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Though it appears in dictionaries from the mid-1800s, infamously ill-spoken U.S. Senator Warren G. Harding was criticized in May 1920 for giving a stump speech that notoriously included what word? The word was believed to be both a malapropism and a neologism, although it is arguably neither.",
+            "answer": "normalcy",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "46",
+            "c_percent": "34",
+            "d_percent": "24",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Dr. Pangloss, a professor of \"métaphysico-théologo-cosmolonigologie\" and self-described optimist, is a secondary but important character in what famous and influential (and controversial) 1759 novella, which itself is ironically subtitled ou l'Optimisme (\"or Optimism\")?",
+            "answer": "candide",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "56",
+            "e_percent": "29",
+            "r_percent": "47"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Phil, Stu, and Alan travel to Las Vegas to attend a bachelor party celebrating the upcoming marriage of their friend Doug. This is the premise for what commercially and critically successful comedy film?",
+            "answer": "the hangover",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "93",
+            "e_percent": "91",
+            "r_percent": "94"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Abaco, Eleuthera, Bimini, Andros, Great Exuma, and New Providence are among the islands that form what country?",
+            "answer": "bahamas",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "68",
+            "d_percent": "54",
+            "e_percent": "36",
+            "r_percent": "47"
+        }
+    ]
 }
