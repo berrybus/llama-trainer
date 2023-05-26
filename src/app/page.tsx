@@ -11,8 +11,13 @@ function randomInt(min: number, max: number) {
 
 let currentData: Question;
 let isShowingAnswer = true;
-let score = 0;
-let totalQuestions = 0;
+
+let answerRatio: AnswerRatio = {
+  correct: 0,
+  total: 0,
+};
+
+let answerRatioByCategory: { [category: string]: AnswerRatio } = {};
 
 export interface MatchDayListing {
   date: string;
@@ -35,6 +40,11 @@ export interface Question {
 
 interface SearchResult {
   score: number;
+}
+
+interface AnswerRatio {
+  correct: number;
+  total: number;
 }
 
 const Home: NextPage = () => {
@@ -127,8 +137,13 @@ const Home: NextPage = () => {
     } else {
       const fuse = new Fuse([currentData.answer], { includeScore: true });
       const res: Array<Fuse.FuseResult<SearchResult>> = fuse.search(input);
+      if (answerRatioByCategory[currentData.category] === undefined) {
+        answerRatioByCategory[currentData.category] = { correct: 0, total: 0 };
+      }
+
       if (res.length > 0 && res[0].score !== undefined && res[0].score <= 0.3) {
-        score += 1;
+        answerRatio.correct += 1;
+        answerRatioByCategory[currentData.category].correct += 1;
         setCorrect(true);
       } else {
         setCorrect(false);
@@ -139,7 +154,8 @@ const Home: NextPage = () => {
       setC(currentData.c_percent);
       setD(currentData.d_percent);
       setE(currentData.e_percent);
-      totalQuestions += 1;
+      answerRatio.total += 1;
+      answerRatioByCategory[currentData.category].total += 1;
     }
     isShowingAnswer = !isShowingAnswer;
   };
@@ -245,8 +261,30 @@ const Home: NextPage = () => {
               </tbody>
             </table>
             <h3 className="card-title">
-              Score: {score}/{totalQuestions}
+              Score: {answerRatio.correct}/{answerRatio.total}
             </h3>
+            <table className="table table-compact text-center">
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Score</th>
+                </tr>
+              </thead>
+              <tbody>
+                {Object.entries(answerRatioByCategory).map(
+                  ([category, answerRatio]) => {
+                    return (
+                      <tr>
+                        <td>{category}</td>
+                        <td>
+                          {answerRatio.correct}/{answerRatio.total}
+                        </td>
+                      </tr>
+                    );
+                  }
+                )}
+              </tbody>
+            </table>
             <h3 className="card-title">Settings</h3>
             <p>TODO: Add more features</p>
           </div>
