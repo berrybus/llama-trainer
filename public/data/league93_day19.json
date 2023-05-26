@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 19,
+    "date": "June 10, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What state in Northern India is the country's most populous, and is in fact the world's most populous country subdivision? With over 230 million residents, it has more people than all but four countries.",
+            "answer": "uttar pradesh",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Despite leaving the Twitch platform in August 2019 to stream exclusively on Microsoft's Mixer platform (before returning in September 2020), a professional gamer named Tyler Blevins currently owns the most-followed Twitch channel, with over 18 million followers. By what name is Blevins, and his channel, known?",
+            "answer": "ninja",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "42",
+            "c_percent": "35",
+            "d_percent": "33",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Old Mortality and Noon Wine are two of the three short novels in a 1939 collection by American author Katharine Anne Porter. What is the name of the third\u2014a name that is used for the collection itself and that employs the rhetorical device of repetition with the word \"pale\"?",
+            "answer": "pale horse, pale rider",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "25",
+            "c_percent": "15",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "9"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "4-1-1 (directory assistance) operator was one of the former jobs of what American music legend and \"Queen of Hip Hop Soul\", who referenced that job in the title of her 1992 debut album?",
+            "answer": "mary j. blige",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "56",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Using technology from a company formed by American engineer Willis H. Carrier, Detroit's J. L. Hudson department store became, in the 1920s, the first such store with what customer-friendly feature?",
+            "answer": "air conditioning",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "55",
+            "d_percent": "45",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A particular measure of an economy's output can be calculated as the sum of the consumption of goods and services, investment, governmental purchases of goods and services, and net exports within a country's borders and within a specified time period (usually a year). By what name is this measure commonly known?",
+            "answer": "gross domestic product (gdp)",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "86",
+            "c_percent": "85",
+            "d_percent": "86",
+            "e_percent": "83",
+            "r_percent": "87"
+        }
+    ]
+}

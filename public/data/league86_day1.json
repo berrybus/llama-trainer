@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 1,
+    "date": "August 19, 2020",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Hyman G. Rickover, considered the father of the US nuclear navy, supervised the design and construction of the world's first nuclear-powered submarine, which had what name (shared with a well-known vessel from literature)?",
+            "answer": "uss nautilus",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "60",
+            "e_percent": "40",
+            "r_percent": "50"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The arena built under the former Millennium Dome in London, as well as the greater entertainment district on the Greenwich Peninsula within which the arena is located, is named after what mobile telecommunications provider?",
+            "answer": "o2",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "33",
+            "e_percent": "25",
+            "r_percent": "32"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In humans, the two most important and most common systems for blood grouping are the ABO system and a system involving a factor known by what six-letter name\u2014so-named for the primate species in which the factor was first recognized?",
+            "answer": "rhesus",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "39",
+            "r_percent": "49"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Jhumpa Lahiri's Pulitzer Prize-winning collection of short stories from 1999 takes its title from the book's third story, which involves an Indian tour guide who also works a day job as a translator in a doctor's office. What is that title?",
+            "answer": "interpreter of maladies",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "28",
+            "c_percent": "24",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "17"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "When referred to in its relation to a guitar, the object used in musical performance that is known formally as a plectrum is better known by what other term?",
+            "answer": "pick",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "76",
+            "e_percent": "67",
+            "r_percent": "75"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the CBS police drama reboot that signed off in April 2020 after 10 seasons and 240 episodes, falling shy of the original's twelve seasons and 279 episodes from 1968 to 1980.",
+            "answer": "hawaii five-0",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "57",
+            "e_percent": "43",
+            "r_percent": "50"
+        }
+    ]
+}

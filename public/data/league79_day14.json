@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 14,
+    "date": "December 6, 2018",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "The Lion and the Jewel, Death and the King's Horseman, A Dance of the Forests, The Swamp Dwellers, and The Trials of Brother Jero are works of what Nigerian playwright and Nobel laureate?",
+            "answer": "wole soyinka",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "15",
+            "c_percent": "9",
+            "d_percent": "5",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Irma S. Rombauer, a hostess and homemaker from St. Louis, self-published in 1931 the first edition of an eventual bestseller that became one of the most popular reference books of its kind in the United States, and remains today a classic. What is that book's title?",
+            "answer": "joy of cooking",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "64",
+            "d_percent": "54",
+            "e_percent": "39",
+            "r_percent": "52"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The structure that is formed by giving 1/2 twist to a flat strip of paper and joining the ends together, creating a surface with only one side and one edge, was reportedly discovered by and is named after what German mathematician?",
+            "answer": "august moebius",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "77",
+            "e_percent": "60",
+            "r_percent": "67"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "During the Russian Civil War that followed the 1917 October Revolution, forces of the new Soviet regime were known as the Red Army, while opposing anti-Bolshevik forces were associated with and known by what other color?",
+            "answer": "white",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "69",
+            "e_percent": "51",
+            "r_percent": "65"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The names of the four musical acts that recorded the songs \"Love in the First Degree,\" \"Good Feeling,\" \"Point of Know Return,\" and \"Say What You Want\" all have what in common, most distinctively?",
+            "answer": "u.s. states",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "27"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "An organization abbreviated the WSSA (the WCSA until 2005) is the international governing body overseeing events (including 3-3-3, 3-6-3, and Cycle events in the Individual, Doubles, and Relay categories) for what sport, which was first developed by Wayne Godinet in 1981?",
+            "answer": "sport stacking/speed stacking/cup stacking",
+            "image": null,
+            "a_percent": "22",
+            "b_percent": "13",
+            "c_percent": "9",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "9"
+        }
+    ]
+}

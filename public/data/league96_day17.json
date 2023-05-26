@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 17,
+    "date": "March 9, 2023",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The Little Dipper is an asterism comprised of the seven brightest stars of the constellation Ursa Minor. Those seven are Delta Ursae Minoris, Epsilon Ursae Minoris, Zeta Ursae Minoris, Eta Ursae Minoris, Gamma Ursae Minoris, Beta Ursae Minoris, and Alpha Ursae Minoris. The last of these is known more commonly as what?",
+            "answer": "polaris/north star/polestar",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "76",
+            "e_percent": "69",
+            "r_percent": "74"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What word is included in the titles of television series that have run in the United States (beginning in 2002), Australia (2003), Canada (2003), India (2004), and numerous other countries, starting with the original in Great Britain (premiering in 2001)?",
+            "answer": "idol",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "48",
+            "c_percent": "41",
+            "d_percent": "37",
+            "e_percent": "28",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The seat of the French Senate since 1958 is a Palais built in the early 17th century that has the name of what other country?",
+            "answer": "luxembourg",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "52",
+            "c_percent": "42",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"And the [REDACTED] of Renoir's title is the notion that the upper classes somehow stand above war.\" The preceding is from critic Roger Ebert's 1999 review/retrospective of what 1937 film?",
+            "answer": "la grande illusion (the grand illusion)",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "18",
+            "c_percent": "12",
+            "d_percent": "6",
+            "e_percent": "2",
+            "r_percent": "7"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What word links the process by which the communist regime collapsed in Czechoslovakia in 1989, rock bands that formed in New York City in 1964 and California in 2002, and a young equestrienne from a novel in 1935?",
+            "answer": "velvet",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "83",
+            "c_percent": "68",
+            "d_percent": "49",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Early-18th-century Jewish mystic Israel ben Eliezer, known as Baal Shem Tov (\"Master of the Good Name\"), founded what conservative and pietist movement within Judaism, which was centered in Eastern Europe until World War II and is centered now mostly in Israel and the US?",
+            "answer": "hasidism",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "57",
+            "d_percent": "49",
+            "e_percent": "41",
+            "r_percent": "49"
+        }
+    ]
+}

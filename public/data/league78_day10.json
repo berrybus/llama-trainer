@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 10,
+    "date": "August 31, 2018",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Pictures at Eleven, The Principle of Moments, Shaken 'n' Stirred, and Now and Zen (which features the single \"Tall Cool One,\" later featured in a Coca-Cola commercial) were the first four solo albums from what Rock and Roll Hall of Fame inductee?",
+            "answer": "robert plant",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "J.S. Bach's Concerto in A minor, Beethoven's Concerto in D major, op. 61, Mozart's Concerto in A major, K. 219, and Tchaikovsky's Concerto in D major, op. 35 were all written for what instrument?",
+            "answer": "violin",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "42",
+            "d_percent": "33",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In botany, this is the term for a tiny opening in the epidermis of a plant (especially abundant on leaves). In biology, it's any opening in a body, like the oral cavity of a nematode. In medicine, it's an opening in a body surface created by a surgical procedure. What is this term? ",
+            "answer": "stoma",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "36",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "28"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The CW Television Network, which began airing in September 2006, was created through a joint venture that resulted in the shutdown of what other two networks?",
+            "answer": "united paramount network (upn), the wb",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "38"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Though he never visited North America himself, Sir Walter Raleigh made two attempts to found an English colony on the continent, both of which were on what island (and both of which were unsuccessful)?",
+            "answer": "roanoke island",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "68",
+            "d_percent": "56",
+            "e_percent": "38",
+            "r_percent": "50"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What word appears most often on a standard Scrabble board?",
+            "answer": "score (also double, qi)",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "42",
+            "r_percent": "37"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 6,
+    "date": "May 23, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In September 2008, video game maker Activision's CEO, Bobby Kotick, made the unverified claim that the Aerosmith-specific installment of what video game franchise generated far more revenue than any of the band's actual album releases?",
+            "answer": "guitar hero",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "73",
+            "c_percent": "72",
+            "d_percent": "68",
+            "e_percent": "63",
+            "r_percent": "68"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the Egyptian who appeared in numerous news stories of international interest, along with Englishman Howard Carter, beginning in late 1922.",
+            "answer": "tutankhamun (king tut)",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "86",
+            "d_percent": "78",
+            "e_percent": "63",
+            "r_percent": "70"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In Northern Ireland's 2022 Stormont assembly election, 29% of the first preference vote was won by what republican party, the first non-unionist party to win a plurality of seats since the constituent country's establishment in 1921?",
+            "answer": "sinn f\u00e9in",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "34",
+            "r_percent": "45"
+        },
+        {
+            "category": "ART",
+            "prompt": "The ornamentation-less Bauhaus style of the 1920s began with architecture but its influence extended into various other design fields, with one example being a neutral, sans-serif typeface developed in 1957 in Switzerland. What is the name of this now-ubiquitous typeface?",
+            "answer": "helvetica",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What 1960 film is often (incorrectly) credited with the trivial distinction of being the first ever to feature a flushing toilet on-screen, though events in the bathroom shortly afterwards are much more famous?",
+            "answer": "psycho",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "75",
+            "e_percent": "60",
+            "r_percent": "68"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the common name (in English) of the waterway, the longest in the world of its kind, which runs for over 1,100 miles starting at Beijing in the north and teminating at Hangzhou in the south?",
+            "answer": "grand canal",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "30",
+            "c_percent": "18",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "13"
+        }
+    ]
+}

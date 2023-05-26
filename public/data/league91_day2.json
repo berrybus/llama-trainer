@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 2,
+    "date": "November 9, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Titles of different songs from the late 1970s by the Bee Gees, Leo Sayer, ABBA, and Andy Gibb all contain what word\u2014an activity appropriate for the era (or really any era)?",
+            "answer": "dancing",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "83",
+            "d_percent": "77",
+            "e_percent": "69",
+            "r_percent": "72"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The hexadecimal number 2A, when converted to decimal, becomes a number historically associated in baseball most closely with what player?",
+            "answer": "jackie robinson",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "37",
+            "r_percent": "40"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the cheese, the most popular of the Italian blue cheeses, which is among the earliest of all veined cheeses (having been introduced to the Po Valley in the 9th century) and is named after a village outside Milan.",
+            "answer": "gorgonzola",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "42",
+            "r_percent": "50"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Herbaceous plants whose scientific name is trifolium (\"trefoil\"), referring to the most common (but not exclusive) appearance of their leaves, are best-known by what familiar name?",
+            "answer": "clover",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "45"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Sixteenth-century Flemish geographer Gerardus Mercator is remembered today for his namesake cylindrical projection of the Earth's surface (with its major distortion at the polar regions), but he also coined what titanic neologism used commonly today for a collection of maps?",
+            "answer": "atlas",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "86",
+            "e_percent": "74",
+            "r_percent": "80"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Ottawa, Freeport, Jonesboro, Charleston, Galesburg, Quincy, and Alton were the seven towns that famously hosted large crowds (reportedly upwards of 18,000 in Galesburg) that gathered to watch what duo?",
+            "answer": "stephen douglas, abraham lincoln",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "47",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "26"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 12,
+    "date": "March 9, 2021",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "The most widely visited art museum in the United States located west of the Mississippi River is a facility, designed by architect Richard Meier, that opened to the public in 1997 and is named after what benefactor?",
+            "answer": "j. paul getty",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "50",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A common gaming set of seven items includes a tetrahedron, an octahedron, two pentagonal trapezohedrons, a dodecahedron, an icosahedron, and what sixth shape?",
+            "answer": "cube",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "69",
+            "e_percent": "58",
+            "r_percent": "64"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the R&B legend whose career highlights include a #1 hit with her eponymous group in 1975 (\"Lady Marmalade\") and another in a 1986 duet with Michael McDonald (\"On My Own\").",
+            "answer": "patti labelle",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Langa, Mabopane, Soweto, and Sharpeville are all names of locations in South Africa of a type most often referred to by what term?",
+            "answer": "township",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What word is the motto of a western US state, a brand of vacuum cleaner, and what Archimedes is alleged to have exclaimed before he left his tub and ran naked through the streets of Syracuse?",
+            "answer": "eureka",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "97",
+            "d_percent": "94",
+            "e_percent": "83",
+            "r_percent": "88"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The actor born Reu (or Rue) Alfred Wilson in 1917 and later known as Al LaRue was a star of low-budget (and arguably low-quality) Westerns of the late 1940s. He was best known by what nickname, after his main weapon that he wielded with some skill?",
+            "answer": "lash",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "22",
+            "c_percent": "14",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "9"
+        }
+    ]
+}

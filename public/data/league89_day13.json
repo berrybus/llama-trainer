@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 13,
+    "date": "June 3, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What titular descriptor do the horizon in a 1937 Frank Capra film and the weekend in a 1945 Billy Wilder film have in common?",
+            "answer": "lost",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "69",
+            "c_percent": "54",
+            "d_percent": "37",
+            "e_percent": "18",
+            "r_percent": "32"
+        },
+        {
+            "category": "ART",
+            "prompt": "Jeanne Gang, Norma Merrick Sklarek, Denise Scott Brown, Julia Morgan, Elizabeth Diller, Natalie de Blois, and Ada Louise Huxtable are all individuals who achieved significant professional success related to what field?",
+            "answer": "architecture",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A classic of children's literature from 1908, based on letters written by the author to his son Alastair, features the memorable riverside characters Rat, Mole, Badger, and what fourth?",
+            "answer": "(mr.) toad",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "46",
+            "e_percent": "31",
+            "r_percent": "41"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Audible, Goodreads, Ring, Twitch, and Zappos are all subsidiaries owned by what company?",
+            "answer": "amazon",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "95",
+            "e_percent": "94",
+            "r_percent": "95"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "\"Ken Lay and Jeffrey Skilling, more than anyone, are the reason I'm talking to you now from this law firm.\" This quote from July 2006, referencing former Enron executives, was made by a prematurely former governor of what state?",
+            "answer": "california",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "23",
+            "e_percent": "19",
+            "r_percent": "24"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The television series The City, which premiered in 2008 highlighting aspiring fashion designer Whitney Port's nascent employment with Diane von F\u00fcrstenberg in New York, was a spinoff from what other series, in which Port had appeared from its premiere in 2006?",
+            "answer": "the hills",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "33",
+            "c_percent": "31",
+            "d_percent": "26",
+            "e_percent": "22",
+            "r_percent": "28"
+        }
+    ]
+}

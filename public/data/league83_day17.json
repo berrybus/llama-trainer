@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 17,
+    "date": "December 10, 2019",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "A tax on calls over free internet-based messaging services such as WhatsApp, announced in October 2019, added to growing popular resentment over various economic and public sector corruption issues and triggered mass protests across what country, ultimately leading to the resignation of its prime minister on October 29?",
+            "answer": "lebanon",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "31",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "23"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Two armchairs and a coffee table in front of a black backdrop provided the simple setting for what weekly author interview series, which was hosted by C-SPAN founder Brian Lamb and ran on the network from 1989 to 2004, becoming the longest-running author interview program of its kind in U.S. TV history?",
+            "answer": "booknotes",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "17",
+            "c_percent": "12",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "9"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The radical Chinese leaders Jiang Qing (Mao Zedong's third wife), Wang Hongwen, Yao Wenyuan, and Zhang Chungqiao, all of whom rose to prominence during the Cultural Revolution, are, as a collective group, most widely known in English today by what term?",
+            "answer": "gang of four",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "65",
+            "c_percent": "51",
+            "d_percent": "34",
+            "e_percent": "18",
+            "r_percent": "34"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What was the name of the video game console released by Nintendo in 2001, its sixth generation, which succeeded the Nintendo 64 and was succeeded by the seventh-generation Wii in 2006?",
+            "answer": "gamecube",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "72",
+            "c_percent": "70",
+            "d_percent": "68",
+            "e_percent": "64",
+            "r_percent": "72"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Charles Bogle, Mahatma Kane Jeeves, and Otis Criblecoblis were writing pseudonyms of what legendary performer, whose portrayals included Mr. Micawber, Larsen E. Whipsnade, Egbert Sous\u00e9, and Prof. Eustace P. Mcgargle?",
+            "answer": "w.c. fields",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "8",
+            "e_percent": "3",
+            "r_percent": "11"
+        },
+        {
+            "category": "ART",
+            "prompt": "The celebrated museum of applied arts founded in London's Marlborough House in 1852 to house items displayed at the Great Exhibition of 1851 is named after what two individuals?",
+            "answer": "victoria, albert",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "41"
+        }
+    ]
+}

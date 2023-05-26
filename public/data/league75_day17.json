@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 17,
+    "date": "December 8, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What was the name of the pious Bohemian \"Good King\"\u2014actually a duke, and now the patron saint of the Czech Republic\u2014who is noted for his charitable giving on St. Stephen's Day (December 26)?",
+            "answer": "wenceslaus (vaclav)",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "55",
+            "r_percent": "67"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What unit of length in the U.S. Customary System, expressed as a two-word term, is equal to 6,076 feet (1,852 meters). Traditionally, it has also been expressed as one minute of arc on the Earth's surface (i.e., one minute of latitude).",
+            "answer": "nautical mile",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "50",
+            "r_percent": "64"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "One form of competitive rowing (crew), where each rower pulls one oar through the water with both hands, is called sweep. The other main form, where each rower has two oars (one in each hand), goes by what name, after a term for the oars themselves?",
+            "answer": "sculling",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "64",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "33",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A highly modified (and wildly unsafe) 1921 Oldsmobile Model 46 touring roadster appears prominently in the opening credits of what TV show?",
+            "answer": "the beverly hillbillies",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "57",
+            "d_percent": "49",
+            "e_percent": "37",
+            "r_percent": "47"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The musical instrument known as a harmonium is a \"pump\" or \"reed\" version of what other instrument (and in fact those quoted words often precede this other instrument as alternate terms for the harmonium)?",
+            "answer": "organ",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "53",
+            "e_percent": "37",
+            "r_percent": "54"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What musical artist and \"Queen of Funk,\" born Yvette Marie Stevens in Chicago in 1953, took at a young age her African name which means \"woman of fire\"?",
+            "answer": "chaka khan",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "41"
+        }
+    ]
+}

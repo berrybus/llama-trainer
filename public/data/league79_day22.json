@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 22,
+    "date": "December 18, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Sucrose, known colloquially as common table sugar, is technically a disaccharide sugar, with each of its molecules made up of two simple sugar units. What are the names of these two monosaccharides?",
+            "answer": "glucose, fructose",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "55",
+            "e_percent": "44",
+            "r_percent": "56"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Retired NYC detective Joe Leland travels to Los Angeles to visit his daughter, Stephanie Leland Gennaro, who is attending the holiday party of her employer, the Klaxon Oil Corporation. This is the set up for the Roderick Thorp novel Nothing Lasts Forever, which was later adapted into what film?",
+            "answer": "die hard",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "76",
+            "e_percent": "66",
+            "r_percent": "71"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The title character, having been forced into an arranged marriage, fatally stabs her new husband on their wedding night, then emerges bloodied from her bedroom and wanders among the wedding guests singing il dolce suono in the famous \"mad scene\" of what Italian opera?",
+            "answer": "lucia di lammermoor",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "17",
+            "c_percent": "12",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the only South American country that lies completely south of the Tropic of Capricorn?",
+            "answer": "uruguay",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "55"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the name for the document, legally required and filed with the Securities and Exchange Commission, which outlines a given mutual fund's investing goals and strategy, fees and expenses, and other information relevant to potential investors?",
+            "answer": "prospectus",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "68",
+            "c_percent": "64",
+            "d_percent": "57",
+            "e_percent": "44",
+            "r_percent": "51"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A once-popular dance originated in New Orleans in the early 1900s and was memorialized in song by Ma Rainey and Spike Jones (and on stage by August Wilson). This dance, and a jazz standard by Jelly Roll Morton, are named after a former Detroit neighborhood (controversially razed in the 1950s in the name of \"slum clearance\") itself named for its rich, dark marsh soils? What is that name shared by the dance and the neighborhood?",
+            "answer": "black bottom",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "34",
+            "c_percent": "23",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "17"
+        }
+    ]
+}

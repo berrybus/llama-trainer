@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 8,
+    "date": "August 18, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Fill in the blank in the title of the following accurately named 2017 book by English craftswomen, businesswomen, and authors Sarah Lomax and Rachel Skinner: Millinery: The Art of [BLANK]-Making.",
+            "answer": "hat",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "57",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In some areas, a delicacy known as a \"Berliner\" is called another name, that of a long-time resident of Berlin. What is that other name?",
+            "answer": "bismarck",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "30",
+            "c_percent": "20",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "9"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The American rapper and songwriter Amalaratna \"Amala\" Zandile Dlamini, who had hits in 2020 and 2021 with \"Say So\", \"Streets\", and \"Kiss Me More\" (featuring SZA), is known professionally by what feline name?",
+            "answer": "doja cat",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "54",
+            "c_percent": "50",
+            "d_percent": "48",
+            "e_percent": "47",
+            "r_percent": "52"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The mnemonic device FANBOYS represents a set of seven words that are all what part of speech in the English language?",
+            "answer": "(coordinating) conjunctions",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "43"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The consumer goods company Procter & Gamble devised a particular laundry-detergent delivery and dosage innovation with the launch of the Salvo brand in the 1960s. Later, the company relaunched this innovation as a different, liquid version, to great success. What is the name of this latter, inedible, 3-in-1 product?",
+            "answer": "(tide) pods",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "88",
+            "c_percent": "87",
+            "d_percent": "84",
+            "e_percent": "80",
+            "r_percent": "81"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A method for measuring wind force at sea, based on the effects of the wind on a canvas of a full-rigged frigate, was developed in 1805 by what French-descended, Ireland-born rear admiral of the Royal Navy?",
+            "answer": "sir francis beaufort",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "42",
+            "c_percent": "26",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "14"
+        }
+    ]
+}

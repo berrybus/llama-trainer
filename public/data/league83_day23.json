@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 23,
+    "date": "December 18, 2019",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "In 1917, a porcelain urinal was infamously submitted to an exhibition held by the Society of Independent Artists in New York. The work was titled Fountain and inscribed with the year and a name (which was not the name of the artist who created the piece). What was that name inscribed on the piece?",
+            "answer": "r. mutt",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A young Truman Capote provided the inspiration for the character Dill in what novel, whose author was a long-time friend of Capote's (and was, in turn, an inspiration for Idabel in Capote's Other Voices, Other Rooms)? Note, name the novel.",
+            "answer": "to kill a mockingbird",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "57",
+            "e_percent": "39",
+            "r_percent": "52"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Marilyn, a blonde and conventionally attractive art student at Westbury College, was considered the unfortunate physical outcast by her family in what TV sitcom?",
+            "answer": "the munsters",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "25",
+            "r_percent": "35"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What term, which means \"way of the warrior\" and is comparable to the European notion of chivalry, is used for the courage, loyalty, piety, self-control, etc., that defines the code of conduct of the samurai class?",
+            "answer": "bushido",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "56",
+            "d_percent": "44",
+            "e_percent": "27",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the largest and most populous (by far) among all the islands that make up the French overseas collectivity known as French Polynesia?",
+            "answer": "tahiti",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "51",
+            "e_percent": "30",
+            "r_percent": "47"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Dr. Dre's classic 1992 rap album The Chronic is well remembered for its immense success and enduring hit singles, but also for extensively featuring what other artist, who would launch a successful solo career with his own quadruple-platinum debut album a year later?",
+            "answer": "snoop dogg",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "74",
+            "c_percent": "68",
+            "d_percent": "63",
+            "e_percent": "55",
+            "r_percent": "61"
+        }
+    ]
+}

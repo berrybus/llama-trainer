@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 5,
+    "date": "August 13, 2021",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "An Italian American named Leo Castelli, who died in 1999 at age 91 having spent most of his life in New York, is considered a visionary in the development of what type of commercial establishment?",
+            "answer": "art gallery",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "19",
+            "c_percent": "13",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Soviet secret police agency responsible from 1934 for state security and the Gulag system, eventually subsumed under the KGB, was known by an abbreviation of the Russian for \"People's Commissariat for Internal Affairs\". In the Latin alphabet, what is that four-letter initialism (of which none of the letters are P, C, I, or A)?",
+            "answer": "nkvd",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While it covers a breadth of sporting topics (particularly women in sports), the podcast On the Bus with Cammi & AJ is hosted by Cammi Granato and AJ Mleczko, who are Olympic gold medalists in what sport (in which both women also have full-time jobs)?",
+            "answer": "ice hockey",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "22",
+            "e_percent": "15",
+            "r_percent": "21"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"My Favorite Orkan\" (a play on the title of the 1960s sitcom My Favorite Martian) was a 1978 episode of the television series Happy Days, and spawned what other sitcom which debuted later that year?",
+            "answer": "mork and mindy",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "77",
+            "e_percent": "63",
+            "r_percent": "69"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Lil Nas X's 2021 hit single \"Montero\" has a subtitle taken from the title of a gay romance novel from 2007 (and its successful 2017 film adaptation). What is that subtitle?",
+            "answer": "call me by your name",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "62",
+            "d_percent": "54",
+            "e_percent": "44",
+            "r_percent": "54"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "After a nearly two-week delay, neurosurgeon Ariel Henry was sworn in on July 20, 2021, as the new prime minister of what country?",
+            "answer": "haiti",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "40"
+        }
+    ]
+}

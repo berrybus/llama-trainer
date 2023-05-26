@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 5,
+    "date": "November 10, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "According to the title of a 1999 book by British author Giles Andreae, while warthogs waltz, chimps cha-cha, and lions tango, what animals can't dance (although that title turns out to be false)?",
+            "answer": "giraffes",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "39",
+            "c_percent": "34",
+            "d_percent": "29",
+            "e_percent": "24",
+            "r_percent": "27"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Norodom Sihamoni is the current king, and Hun Sen is the current Prime Minister of what constitutional monarchy?",
+            "answer": "cambodia",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "15",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The disease formally named Canine Infectious Tracheobronchitis is more commonly referred to by what alliterative name?",
+            "answer": "kennel cough",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "46",
+            "e_percent": "38",
+            "r_percent": "43"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The name of what Apache warrior and hero has been co-opted by the US military on a number of occasions, from the arguably celebratory and with his family's permission (on the insignia of the US Army's first parachute regiment), to the controversial if not outright offensive (the code name for the killing of Osama bin Laden)?",
+            "answer": "geronimo",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "80",
+            "e_percent": "60",
+            "r_percent": "71"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What beverage, a fountain drink which consists of milk, seltzer, and flavored syrup (such as Fox's U-bet), has a peculiar name in that neither of the items in that name is an ingredient in the drink?",
+            "answer": "egg cream",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "54",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the term used for the kind of company that designs and distributes typefaces? The word, which describes such companies as Hoefler & Co., Font Bureau, and Colophon, is a legacy from pre-desktop publishing days, when such companies manufactured metal and wood typefaces for printing presses.",
+            "answer": "foundry",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "32",
+            "c_percent": "24",
+            "d_percent": "14",
+            "e_percent": "9",
+            "r_percent": "13"
+        }
+    ]
+}

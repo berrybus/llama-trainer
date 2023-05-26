@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 23,
+    "date": "June 17, 2021",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "In 1960, the French artist Yves Klein patented the process for developing his trademark creation, which he named IKB. The first two letters stand for International Klein; what is the \"B\"?",
+            "answer": "blue",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What river of central Europe, which formed part of the border between East and West Germany, rises in the Czech Republic and flows through the cities of Dresden, Magdeburg, and Hamburg on its way to the North Sea?",
+            "answer": "elbe/labe",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "9",
+            "r_percent": "23"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Irish word pr\u00e1ta, a st\u00e1placha ar aiste bia na h\u00c9ireann associated with an Gorta M\u00f3r, translates to English as what?",
+            "answer": "potato",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "49",
+            "c_percent": "41",
+            "d_percent": "30",
+            "e_percent": "23",
+            "r_percent": "33"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "L.A.-born guitarist Tracy Ulrich, performing under a stage name, co-founded a glam metal band named after himself. He was also a founding member of another rock band which was also partially named after him (though his tenure in this latter band was brief, as he was replaced by a mononymous guitarist born Saul Hudson). Ulrich's professional first name is the slightly modified \"Tracii\"; what is his professional surname?",
+            "answer": "guns",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "33"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A March 2021 headline from the Indian business daily The Economic Times reported that \"Indian _____ prices _____ 5% in a month.\" The two words that fill in these blanks are (coincidentally) first names of two prominent colonial American clergymen, who were son and father. What are those two names?",
+            "answer": "cotton, increase",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "51",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Give the name of the trigonometric function that, in a right triangle, is equal to the ratio of the length of the side adjacent to a given angle to the side opposite the given angle.",
+            "answer": "cotangent",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "32",
+            "c_percent": "27",
+            "d_percent": "23",
+            "e_percent": "17",
+            "r_percent": "20"
+        }
+    ]
+}

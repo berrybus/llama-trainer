@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 15,
+    "date": "June 6, 2022",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "One of the most fashionable jewelry houses in Europe before World War I was that of what Russian family of Huguenot descent, whose brand remains well-known today (especially because of its indirect association with Easter)?",
+            "answer": "faberg\u00e9",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "81",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A registered National Historic Landmark that is advertised as the only official royal palace in the United States is located in what city, at the corner of King St. and Richards St.?",
+            "answer": "honolulu",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "64",
+            "c_percent": "50",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "29"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Sports-themed films from 1985 (cycling), 1988 (baseball), 1989 (baseball), 1996 (golf), 1999 (baseball), 2014 (American football), and 2015 (cross-country) all star what actor?",
+            "answer": "kevin costner",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "56",
+            "r_percent": "63"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In what video game\u2014an \"endless runner\" platformer reminiscent of the arcade game Frogger and the Atari 2600 game Freeway, and popular on iOS and Android since its launch in 2014\u2014do players move their character (by default, a chicken) through progressively more difficult levels as obstacles stand in its way and intersect its path?",
+            "answer": "crossy road",
+            "image": null,
+            "a_percent": "21",
+            "b_percent": "19",
+            "c_percent": "15",
+            "d_percent": "15",
+            "e_percent": "14",
+            "r_percent": "19"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Parsi (or Parsee) is a fitting name given to Indian followers of what ancient religion?",
+            "answer": "zoroastrianism",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "67",
+            "c_percent": "52",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "32"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Late-19th- and early-20th-century poet and lyricist Steingr\u00edmur Thorsteinsson is best remembered today as a translator of numerous literary works\u2014including King Lear (Lear konungur), The Arabian Nights (\u00de\u00fasund og ein n\u00f3tt \u2013 Arabiskar s\u00f6gur ), Robinson Crusoe (R\u00f3b\u00ednson Kr\u00fasoe), and Hans Christian Andersen's tales (e.g., Lj\u00f3ti andarunginn and Litla st\u00falkan me\u00f0 eldsp\u00fdturnar)\u2014into what language?",
+            "answer": "icelandic",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "52"
+        }
+    ]
+}

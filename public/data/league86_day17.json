@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 17,
+    "date": "September 11, 2020",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "Laser printing, the graphical user interface paradigm, Ethernet, and object-oriented programming are developments credited to the Palo Alto Research Center, which was formed in 1970 as a subsidiary of what corporation?",
+            "answer": "xerox",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "37",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A photo of a national sports team\u2014particularly volleyball, basketball, field hockey, handball, or soccer\u2014whose players are wearing trademark white jerseys with light blue vertical stripes is almost surely of a team representing what nation?",
+            "answer": "argentina",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "74",
+            "c_percent": "69",
+            "d_percent": "64",
+            "e_percent": "53",
+            "r_percent": "65"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "\"United We Stand America\" was a tax-exempt \"educational\" organization founded and financed in the 1990s by what political figure?",
+            "answer": "h. ross perot",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "30",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Toward the beginning of the novel Tom Sawyer, Tom accumulates an assortment of his schoolmates' possessions (e.g., kite, apple, couple of tadpoles, dead rat and a string to swing it with) in exchange for their chance to participate in what task?",
+            "answer": "paint/whitewash a fence",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "83",
+            "e_percent": "72",
+            "r_percent": "76"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Miss Lonelyhearts\", \"Miss Torso\", the lead character's fashion model girlfriend Lisa, and a wise-cracking nurse named Stella are among the characters in what 1954 film?",
+            "answer": "rear window",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The portmanteau \"Camford\", which can be used as a term of convenience or as one of derision, is much less common than what other, similar portmanteau with an identical meaning and provenance?",
+            "answer": "oxbridge",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "39",
+            "e_percent": "20",
+            "r_percent": "36"
+        }
+    ]
+}

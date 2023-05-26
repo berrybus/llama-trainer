@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 24,
+    "date": "September 30, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What voracious, predatory, and aggressive South American flesh-eater was the inspiration (and namesake) for a horror film series that began in 1978?",
+            "answer": "piranha",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "85",
+            "d_percent": "81",
+            "e_percent": "70",
+            "r_percent": "78"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Novelists Anne Tyler and Laura Lippman are most closely associated with what US city, which provides the setting for the majority of their respective novels as well as Rebecca Skloot's The Immortal Life of Henrietta Lacks?",
+            "answer": "baltimore",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "30"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What citrus, an orange hybrid developed in France in the late 18th century and possibly named for a city in the Lombardy region of northern Italy, has a rind that produces an essential oil used in pharmaceuticals, perfumes, confectionery, and Earl Grey tea? ",
+            "answer": "bergamot",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "44",
+            "e_percent": "30",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The American-born singer Selena, who died tragically in Corpus Christi at the age of 23, has been called the \"Queen of\" what music style, which is also associated with the music of Grupo Mazz, Emilio Navaira, Ram\u00f3n Ayala, and Freddy Fender, and whose trademark sound draws from norte\u00f1o (a musical style of Northern Mexico) and brass music of Czech and German immigrants?",
+            "answer": "tejano",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "53",
+            "d_percent": "38",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What is the word missing from the following Cockney expression, which was used in the title of a beloved British sitcom that debuted in the early 80s: \"Only fools and [BLANK] work.\"?",
+            "answer": "horses",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "38",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Uruk, Ur, Lagash, Kish, Eridu, and Nippur were all city-states located within an ancient, historical, pre-Akkadian, pre-Babylonian region of southern Mesopotamia known by what name?",
+            "answer": "sumer",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "24",
+            "r_percent": "38"
+        }
+    ]
+}

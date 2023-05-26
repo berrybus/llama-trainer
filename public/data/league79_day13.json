@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 13,
+    "date": "December 5, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The continuous random movement of particles suspended in a fluid as they collide with the molecules of the fluid is a phenomenon explained by Albert Einstein in 1905, but observed in 1827 by a Scottish botanist, after whom it is now named. What is that name given to this phenomenon?",
+            "answer": "brownian motion",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "54",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "36"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What is the name of the performing arts centre, the largest such complex in Europe and a prominent example of Brutalist architecture, which is located in the City of London, and serves as a home to the London Symphony Orchestra, BBC Symphony Orchestra, and Royal Shakespeare Company, as well as a namesake library, art gallery, and cinema?",
+            "answer": "barbican centre",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "28",
+            "c_percent": "21",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "ART",
+            "prompt": "A nearly seven-foot-tall marble sculpture of the goddess Aphrodite, now housed in the Louvre Museum in Paris, was found by a peasant in 1820 on what Greek island?",
+            "answer": "milos/milo",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "55",
+            "c_percent": "37",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Heteronyms are words that have a different pronunciation and meaning from one another but the same spelling. An adjective that can describe a set of angles that total 360 degrees and a verb that can mean to state in a prescribed order different forms of a given verb (based on its person, number, gender, tense, aspect, mood, and/or voice) are heteronyms that share what spelling?",
+            "answer": "conjugate",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "73",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "54",
+            "r_percent": "60"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In typical versions of the game Dungeons & Dragons, one of nine different alignments is assigned to player characters based on the choices made by players on the axes of a 3x3 grid. One axis spans from Good to Evil, with Neutral in between. What are the two ends of the other axis, also with Neutral in the middle? (Note: two answers are required.)",
+            "answer": "lawful, chaotic",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "62",
+            "c_percent": "55",
+            "d_percent": "49",
+            "e_percent": "42",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What country gained independence in 1948 under Prime Minister U Nu, who was overthrown in a 1962 military coup led by Ne Win?",
+            "answer": "burma/myanmar",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "63",
+            "c_percent": "47",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "33"
+        }
+    ]
+}

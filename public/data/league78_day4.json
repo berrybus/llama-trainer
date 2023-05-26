@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 4,
+    "date": "August 23, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify either the structure that became the world's tallest in 1889 (a distinction it held until the Chrysler Building's completion in 1930) or the landmark overtaken as the world's tallest in 1889. Both structures are iconic, and the weight of the taller of the two is one-eighth that of the shorter.",
+            "answer": "eiffel tower, washington monument",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "73",
+            "r_percent": "76"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In Arnold Schwarzenegger's first feature film role, in which he was credited as \"Arnold Strong,\" he portrayed Hercules visiting\u2014per the 1970 film's title\u2014what location?",
+            "answer": "new york",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "49",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "26",
+            "r_percent": "33"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In modern Broadway history, a few musicals have had titles that include a slash (/): 1980's A Day in Hollywood/A Night in the Ukraine, 1988's Romance/Romance, 2014's If/Then, and what fourth, a 1995 musical based on a 1982 film of the same name (and with the same director and lead actress)?",
+            "answer": "victor/victoria",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "49",
+            "e_percent": "31",
+            "r_percent": "38"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What term can be used in geometry for the region of a circle bounded by an arc of the circle and a chord that connects the endpoints of the arc, and also for the portion of a sphere included between a pair of parallel planes that intersect the sphere? Note, while these are common uses of the term in question in geometry, they are not the most common.",
+            "answer": "segment",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "26",
+            "c_percent": "20",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The chemical compound sodium bicarbonate, when sold in grocery stores, is more commonly labeled as what?",
+            "answer": "baking soda",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "93",
+            "d_percent": "90",
+            "e_percent": "82",
+            "r_percent": "86"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 1938 Munich Agreement, which led to Neville Chamberlain's now-infamous declaration of \"peace for our time,\" authorized Nazi Germany's annexation of Czechoslovakian territory that is best known by what name?",
+            "answer": "sudetenland",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "48",
+            "e_percent": "26",
+            "r_percent": "42"
+        }
+    ]
+}

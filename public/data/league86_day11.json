@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 11,
+    "date": "September 2, 2020",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Archery marksmanship and operatic inspiration are legacies of what legendary 13th/14th-century hero of Swiss liberation from Austrian oppressors?",
+            "answer": "william tell",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "81",
+            "d_percent": "65",
+            "e_percent": "36",
+            "r_percent": "52"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Panaji is the capital and Vasco da Gama the most populous city in what Indian state, the country's smallest by land area and wealthiest by GDP per capita, and a tourist hot spot located on the country's western coast?",
+            "answer": "goa",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "44",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Theodore Roosevelt's vivid response to questions about his fitness during the 1912 presidential campaign resulted in the Progressive Party (whose slate he headed) being also known by what nickname?",
+            "answer": "bull moose",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "91",
+            "c_percent": "83",
+            "d_percent": "69",
+            "e_percent": "45",
+            "r_percent": "60"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In 2013, Austrian businessman Maximilian Riedel replaced his father Georg as leader of a company whose primary operation is the manufacture and sale of what product?",
+            "answer": "(wine) glassware/stemware",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "42",
+            "c_percent": "37",
+            "d_percent": "31",
+            "e_percent": "25",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Provide the mineral that completes this descending list: diamond, corundum, topaz, quartz, orthoclase, apatite, fluorite, calcite, gypsum, ______.",
+            "answer": "talc",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "43"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A Vindication of the Rights of Woman is the best-known work of what 18th-century British author and feminist of Irish descent, who died in 1797 shortly after giving birth to her daughter Mary (who also became a successful and important writer in her own right)?",
+            "answer": "mary wollstonecraft",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "22",
+            "r_percent": "34"
+        }
+    ]
+}

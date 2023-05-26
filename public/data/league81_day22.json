@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 22,
+    "date": "June 21, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "As designated by the national government, there are two indigenous groups in Australia, one of which is the Aboriginal people. The other is a native people whose homelands are the islands in what waterway, after which the group is today formally named?",
+            "answer": "torres strait",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "19",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "12"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The Garden Party, The Increased Difficulty of Concentration, and The Memorandum are plays written by what Velvet Revolutionary? ",
+            "answer": "v\u00e1clav havel",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "43",
+            "d_percent": "25",
+            "e_percent": "9",
+            "r_percent": "24"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The title of what 1913 Willa Cather novel comes from a poem by Walt Whitman, where he enthusiastically endorses America's bold and adventurous westward expansion?",
+            "answer": "o pioneers!",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "33",
+            "e_percent": "16",
+            "r_percent": "32"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the reptilian nickname\u2014applied derisively but subsequently embraced\u2014that was given to northerners during the U.S. Civil War suspected of insurgent activities on behalf of the Confederacy?",
+            "answer": "copperheads",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "47",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A heartbeat, a helicopter noise, a cash register, and a cacophony of alarm clocks are among the sound effects on what rock album from 1973?",
+            "answer": "dark side of the moon",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "59"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Shannen Doherty, Lisanne Falk, and Kim Walker all appeared in the same 1989 film playing characters with what first name?",
+            "answer": "heather",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "52",
+            "r_percent": "61"
+        }
+    ]
+}

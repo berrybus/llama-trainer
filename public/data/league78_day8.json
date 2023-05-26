@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 8,
+    "date": "August 29, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The infectious disease known as whooping cough is known by what other name (which it shares with the bacterium that causes it)?",
+            "answer": "pertussis",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "54",
+            "e_percent": "40",
+            "r_percent": "50"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The letter \"e\" is expressed in International Morse Code by a single dot, in Braille by the pattern , and in American Sign Language by the handshape where all four fingers are bent and hooked, with the thumb opposed and fully closed so that its length touches the fingernails of the other fingers. What consonant is expressed in International Morse Code by a single dash, in Braille by the pattern , and in ASL by the handshape where the fingers are curled into a fist, with the thumb under the index finger, so that the thumb tip protrudes between the index finger and the middle finger?",
+            "answer": "t",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "30",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The heart, liver, and lungs of a calf or sheep chopped up with suet, onions, oatmeal, and seasoning, and boiled in a sheep's stomach, is a traditional preparation of what dish, which is historically served during a Scottish celebration known as Burns supper?",
+            "answer": "haggis",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "97",
+            "d_percent": "94",
+            "e_percent": "83",
+            "r_percent": "88"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the name of this young woman, per the work's title? ",
+            "answer": "christina",
+            "image": "/images/art/895698v09v9y5.jpg",
+            "a_percent": "62",
+            "b_percent": "43",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "16"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the woman who swept the four apparatus titles and thus also won the women's all-around title in dominant fashion at the U.S. Gymnastics Championships in Boston in August 2018.",
+            "answer": "simone biles",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "77",
+            "c_percent": "73",
+            "d_percent": "65",
+            "e_percent": "58",
+            "r_percent": "64"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The artist born Steven Demetre Georgiou in 1948 in London, who changed his name to Yusuf Islam after his conversion to the Muslim faith, performed under what name during the peak of his commercial success in the 1970s?",
+            "answer": "cat stevens",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "83",
+            "e_percent": "68",
+            "r_percent": "73"
+        }
+    ]
+}

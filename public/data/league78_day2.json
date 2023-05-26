@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 2,
+    "date": "August 21, 2018",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The I Promise School opened its doors on July 30, 2018, to 240 at-risk third- and fourth-graders in what city?",
+            "answer": "akron, ohio",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "51",
+            "c_percent": "47",
+            "d_percent": "42",
+            "e_percent": "34",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Camp David Accords of 1978, named for the presidential retreat where they were negotiated in secret, were signed at the White House with President Jimmy Carter as witness. What two men were the signatories to these agreements, which led to their sharing of the 1978 Nobel Peace Prize?",
+            "answer": "menachem begin, anwar sadat",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "60",
+            "c_percent": "46",
+            "d_percent": "31",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "ART",
+            "prompt": "Pictured here are the Burghers of what city? ",
+            "answer": "calais",
+            "image": "/images/art/8956vm04986mv0468m.jpg",
+            "a_percent": "64",
+            "b_percent": "42",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What word is redacted in this image? ",
+            "answer": "microwave",
+            "image": "/images/art/40985u3c0495um.jpg",
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "62",
+            "e_percent": "53",
+            "r_percent": "63"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the world's largest country by area in which Spanish is the majority language?",
+            "answer": "argentina",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "68",
+            "d_percent": "64",
+            "e_percent": "51",
+            "r_percent": "55"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the musical term most commonly used for the gradations of relative loudness or softness with which music is performed? Some of its more important \"markings\" are p, pp, mp, f, and cresc.",
+            "answer": "dynamics",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "30",
+            "e_percent": "23",
+            "r_percent": "31"
+        }
+    ]
+}

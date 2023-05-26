@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 6,
+    "date": "August 27, 2018",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "An event known as Crufts, which is hosted annually in the United Kingdom and was founded by Charles Cruft in 1891, is an exhibition centered around the judging of what? ",
+            "answer": "dogs",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "54",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "29",
+            "r_percent": "34"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Until his retirement in 1973, \"Willy the Hillbilly\" was the advertising mascot for what product, which still exists today with the same name but a sharply different marketing strategy?",
+            "answer": "mountain dew",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "45",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Atoms that have the same atomic number (i.e., the same number of protons) but a different number of neutrons are referred to by what term, from the Greek for \"equal\" and \"place\" (as they occupy the same position on the periodic table)?",
+            "answer": "isotopes",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "66",
+            "e_percent": "52",
+            "r_percent": "66"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Sir Christopher Wren Building, the oldest college building still standing in the United States, sits on the campus of what university, the original home of the Phi Beta Kappa academic honor society and the nation's second-oldest institution of higher education (after Harvard)?",
+            "answer": "college of william and mary",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "28",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Though he was essentially the group's lead singer, Ralph Tresvant had arguably the least prolific post-breakup musical career of all the primary members of what 1980s R&B group?",
+            "answer": "new edition",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "39",
+            "c_percent": "31",
+            "d_percent": "24",
+            "e_percent": "17",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Harry Vardon Trophy, Claret Jug, Wanamaker Trophy, and Bob Jones Award are all honors earned through excellence in what sport?",
+            "answer": "golf",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "49",
+            "r_percent": "56"
+        }
+    ]
+}

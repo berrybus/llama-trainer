@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 8,
+    "date": "March 1, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "A rivalry between two competing factions in Baltimore for the title of \"Filthiest People Alive\" forms the basis of what 1972 movie, which a contemporaneous review in Variety described as \"one of the most vile, stupid and repulsive films ever made\"?",
+            "answer": "pink flamingos",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "28",
+            "e_percent": "16",
+            "r_percent": "28"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "In this image, a hemidemisemiquaver is represented by what letter? ",
+            "answer": "a",
+            "image": "/images/art/4985y0c395y.png",
+            "a_percent": "95",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "67",
+            "e_percent": "49",
+            "r_percent": "60"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Similia similibus curentur, a Latin phrase that translates to \"like cures like,\" forms the basis of a doctrine underpinning a holistic approach to medicine proposed in the late 18th century by German physician Samuel Hahnemann that is known by what name?",
+            "answer": "homeopathy",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "55",
+            "e_percent": "42",
+            "r_percent": "54"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "\u0256, \u025b, \u0278 \u0263, \u026d, \u0272, \u0273, \u027d, \u028a, \u0292, and \u0298 are among the characters in an \"international alphabet\" known as IPA. What does the letter P in IPA stand for?",
+            "answer": "phonetic",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "76",
+            "e_percent": "65",
+            "r_percent": "72"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In U.S. history, there have been three elections to recall state governors. The first two were successful\u2014Lynn Frazier (North Dakota, 1921) and Gray Davis (California, 2003)\u2014while the third was unsuccessful. Name either the governor in the third instance (from 2012) or the state he continues to govern.",
+            "answer": "scott walker, wisconsin",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "43",
+            "r_percent": "51"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Training Camp, Goblin Stadium, Bone Pit, Barbarian Bowl, P.E.K.K.A's Playhouse, Spell Valley, and Builder's Workshop are among the battleground \"arenas\" used in what massively popular hybrid deck-building/tower defense mobile game?",
+            "answer": "clash royale",
+            "image": null,
+            "a_percent": "11",
+            "b_percent": "13",
+            "c_percent": "8",
+            "d_percent": "7",
+            "e_percent": "8",
+            "r_percent": "10"
+        }
+    ]
+}

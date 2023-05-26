@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 5,
+    "date": "August 25, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "When the third and fourth of its eleven letters are removed, the name of a US city becomes the name of an ancient board game, considered a precursor to checkers (draughts), that originated in the Middle East and was introduced into Europe by the Moors. Give the name of the city or the name of the game.",
+            "answer": "albuquerque/alquerque",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "54",
+            "c_percent": "45",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What band's eponymous 1985 hit album was in fact their eighth studio release but their first to be dominated by power ballads, including \"What About Love\", \"Never\", and \"These Dreams\"?",
+            "answer": "heart",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "33",
+            "r_percent": "42"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Virginia Elliott and Robert Howard Jones's 1934 cookbook Soups and Sauces has one of the first known published recipes for a soup that replaces the milk in clam chowder with tomatoes and has what geographical name?",
+            "answer": "manhattan (clam chowder)",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "63",
+            "e_percent": "51",
+            "r_percent": "58"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Ceres, Vesta, Pallas, Hygiea, Euphrosyne, and Interamnia are items in a very long list that could be described by a word that is the name of an arcade game released in 1979. What is that name?",
+            "answer": "asteroids",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "61",
+            "e_percent": "44",
+            "r_percent": "55"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What man, who cofounded the Zimbabwe African National Union in 1963 and became its leader in 1975, was declared the country's prime minister in 1980 after ZANU won a landslide victory in the country's first post-independence elections?",
+            "answer": "robert mugabe",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "40",
+            "r_percent": "52"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In the 1983 Tom Cruise film All the Right Moves, Craig T. Nelson plays a character with what occupation (with which he would become even more closely associated a few years later)?",
+            "answer": "coach",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "64",
+            "e_percent": "50",
+            "r_percent": "56"
+        }
+    ]
+}

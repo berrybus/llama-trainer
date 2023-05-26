@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 14,
+    "date": "September 8, 2017",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The chemical element oganesson, whose name became official in November 2016, has the highest atomic number and highest atomic mass of all known (non-hypothetical) elements. Within plus or minus five, what is oganesson's atomic number?",
+            "answer": "118",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "56",
+            "c_percent": "48",
+            "d_percent": "37",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What Anne Tyler novel, first published in 1985, tells the story of a middle-aged travel writer named Macon Leary who does not like traveling?",
+            "answer": "the accidental tourist",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The French diplomat Ferdinand de Lesseps, as head of the Franco-American Union, formally presented the Statue of Liberty to the United States in 1884. However, he is more closely associated with two immense engineering projects focused on the construction of two separate what? One project resulted in massive success and international acclaim, while the other left him ruined.",
+            "answer": "canals",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Peter Strauss and Nick Nolte were the title characters of what successful and influential television miniseries, based on a novel by Irwin Shaw, that first aired in early 1976 (and had a sequel which began later that year)?",
+            "answer": "rich man, poor man",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "26",
+            "c_percent": "19",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "16"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What institution, founded in 1694 and privately owned until 1946, is known popularly as \"The Old Lady of Threadneedle Street,\" where its London office has stood since 1734?",
+            "answer": "the bank of england",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In a standard 52-card deck of playing cards, three cards are referred to as the \"one-eyed royals.\" Two are the Jack of Spades and Jack of Hearts. What axe-wielder is the third? (Answer must include card name and suit.)",
+            "answer": "king of diamonds",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "36",
+            "r_percent": "46"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 23,
+    "date": "March 20, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The Children of Gebalaawi, The Thief and the Dogs, the Cairo Trilogy, and Miramar are all works of what African novelist, who survived an assassination attempt in October 1994?",
+            "answer": "naguib mahfouz",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "16",
+            "c_percent": "11",
+            "d_percent": "6",
+            "e_percent": "2",
+            "r_percent": "8"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The point on a number line or graph that represents the ordered pair (0,0), where the x and y axes meet, is most commonly known by what word?",
+            "answer": "origin",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "77",
+            "c_percent": "73",
+            "d_percent": "68",
+            "e_percent": "59",
+            "r_percent": "70"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Around the year 1180, a thirteen-year-old Mongol boy named Temujin was made chief of his tribe. What word for \"chief\" was used as his title, a word that is still common today (in reference to Temujin and others)?",
+            "answer": "khan",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "56",
+            "r_percent": "69"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Prior to its rebranding as Pop in 2015, that cable channel was previously named after what publication, whose function as a channel service had mostly become obsolete?",
+            "answer": "tv guide",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "75",
+            "d_percent": "66",
+            "e_percent": "53",
+            "r_percent": "59"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The highest mountain range in New Zealand has the name K\u0101 Tiritiri o te Moana, but was given what other common name by Captain James Cook in 1770, in a derivative display of obvious and unsurprising European bias?",
+            "answer": "southern alps",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "23"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Sissy Spacek appeared in two films in 1986 that were both adaptations of Pulitzer Prize\u2013winning plays (from 1981 and 1983), in which she portrays (respectively) a killer of an abusive husband and a suicidal daughter. Name either of these plays.",
+            "answer": "crimes of the heart, 'night mother",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "22",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "10"
+        }
+    ]
+}

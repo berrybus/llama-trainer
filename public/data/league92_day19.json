@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 19,
+    "date": "March 11, 2022",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "When ground into a paste and served with sushi, Japanese horseradish is better known by what name?",
+            "answer": "wasabi",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "99",
+            "d_percent": "98",
+            "e_percent": "97",
+            "r_percent": "97"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The Office that serves the US Congress and was founded in 1921 as the General Accounting Office was renamed in 2004, remaining the GAO but replacing the first two words in its name. What is that new, current name?",
+            "answer": "government accountability office",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "49",
+            "e_percent": "33",
+            "r_percent": "44"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What cosmetics company, a subsidiary of Est\u00e9e Lauder, was founded in 1984 in Toronto by Frank Angelo and Frank Toskan as Make-Up Art Cosmetics, as their products were geared initially toward makeup professionals and fashion models?",
+            "answer": "mac",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "55",
+            "d_percent": "50",
+            "e_percent": "43",
+            "r_percent": "51"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Tripolitania, Tunis, and Algiers were three city-state-like provinces of the Ottoman Empire in North Africa that were known collectively as what \"States\"? The term originated from the name of an ethnic group indigenous to the region, and was also used for the coastal territory where these provinces existed.",
+            "answer": "barbary states",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "62",
+            "d_percent": "46",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Despite the familiar story, it is unlikely that a bell was often used as a tool by what 1904 Nobel winner (it was more likely a buzzer, metronome, electric shock device, or other stimuli)?",
+            "answer": "ivan pavlov",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "92",
+            "e_percent": "83",
+            "r_percent": "86"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What massively influential electro-funk and hip hop song, whose familiar bassline has appeared on hundreds of subsequent recordings, was recorded by Afrika Bambaataa and the Soulsonic Force and released on the fledgling Tommy Boy Records label in 1982?",
+            "answer": "planet rock",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "26",
+            "c_percent": "17",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "14"
+        }
+    ]
+}

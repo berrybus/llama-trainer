@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 13,
+    "date": "June 18, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Zuckerman Bound, a collection that includes the trilogy The Ghost Writer, Zuckerman Unbound, and The Anatomy Lesson, along with the novella The Prague Orgy, is the work of what late American novelist?",
+            "answer": "philip roth",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "28",
+            "r_percent": "41"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Volga, Ural, and Kura Rivers all discharge into what body of water?",
+            "answer": "caspian sea",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "34",
+            "e_percent": "24",
+            "r_percent": "36"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name for any of various bacteria having a round or ovoid form, including those that cause strep throat, some forms of pneumonia and meningitis,  and staph infections?",
+            "answer": "coccus/cocci",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "42",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name any one of the U.S. states that were not one of the original thirteen British colonies but became a state in the 18th century.",
+            "answer": "vermont, kentucky, tennessee",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "47"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Whose \"witch\" is pictured here? ",
+            "answer": "(maria gaetana) agnesi",
+            "image": "/images/art/8945c04m5093myc0.jpg",
+            "a_percent": "20",
+            "b_percent": "9",
+            "c_percent": "6",
+            "d_percent": "3",
+            "e_percent": "2",
+            "r_percent": "4"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Though she did not star in the film (having died seven years earlier), Rita Hayworth plays an important role (of sorts) as a plot element in what 1994 film?",
+            "answer": "the shawshank redemption",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "53",
+            "e_percent": "39",
+            "r_percent": "46"
+        }
+    ]
+}

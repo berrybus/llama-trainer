@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 2,
+    "date": "February 23, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The title of the video game Doom comes from a line in what 1986 film, when Tom Cruise's character Vincent Lauria responds to a question about what's in his long velvet-covered case with that word (\"Doom\").",
+            "answer": "the color of money",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "19",
+            "r_percent": "28"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "An advertising campaign beginning in February 2020 saw a popular food brand, established in 1958, wade into a polarizing debate regarding looping animations. What is that brand?",
+            "answer": "jif peanut butter",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "42",
+            "c_percent": "39",
+            "d_percent": "34",
+            "e_percent": "25",
+            "r_percent": "27"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What element was first detected as an unexpected line in the spectrum of the Sun in 1868, and discovered on Earth in 1895 (in the uranium mineral cleveite)?",
+            "answer": "helium",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "As they relate specifically to the religions' central figures, what is the Christian equivalent of the Islamic Mawlid an-Nabi?",
+            "answer": "christmas",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The man who served as the First Commissioner of Works and Public Buildings within the government of the United Kingdom from 1855 to 1858, who was believed to be upwards of 6'7\" in height, had the last name of Hall, and was elevated to the peerage as Baron Llanover in 1859. What was his first name?",
+            "answer": "benjamin (ben)",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "31",
+            "c_percent": "22",
+            "d_percent": "15",
+            "e_percent": "9",
+            "r_percent": "14"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Deep in the heart of Summer, sweet is life tome still,But my heart is a lonely hunter that hunts on a lonely hill.These lines from \"The Lonely Hunter\", by a Scottish poet writing under the pseudonym Fiona MacLeod, are the origin of the title of what American novelist's 1940 debut?",
+            "answer": "carson mccullers",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "44",
+            "c_percent": "33",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "17"
+        }
+    ]
+}

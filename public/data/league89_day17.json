@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 17,
+    "date": "June 9, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The writer and performance artist born Ramona Lofton, who wrote the 1996 novel Push and its 2011 sequel, The Kid, is best known by what pen name?",
+            "answer": "sapphire",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "36"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A standard system for representing a point in two-dimensional space measures the point in terms of distance from a given origin, along a set of perpendicular axes. In this system, the coordinates of that point\u2014as well as the plane itself\u2014are most typically named after what individual?",
+            "answer": "ren\u00e9 descartes",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "52",
+            "e_percent": "36",
+            "r_percent": "43"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Per its official published classic rules, the OBJECT of what game is \"To be the first player to get all four of your pawns from your color START to your color HOME\"? (The newer version of the game with \"Fire and Ice Power-Ups\" has the same object but only three pawns per player.)",
+            "answer": "sorry!",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "76",
+            "c_percent": "72",
+            "d_percent": "68",
+            "e_percent": "64",
+            "r_percent": "65"
+        },
+        {
+            "category": "ART",
+            "prompt": "A soft limestone statuette found in 1908 in the southern Austrian village of Willendorf, created an estimated 25,000 years ago, is of a woman who is typically given what name (which is a bit of an anachronism, as the name would have had no meaning to the figurine's creator)?",
+            "answer": "venus",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"College\", \"I Dream of Jeannie Cusamano\", \"Pine Barrens\", \"Pie-O-My\", and \"Made in America\" are episode titles from what acclaimed television series?",
+            "answer": "the sopranos",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "From 1947 to 1971, the cities of Chittagong, Khulna, Rajshahi, Gazipur, and Mymensingh were all within what country?",
+            "answer": "pakistan",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "36"
+        }
+    ]
+}

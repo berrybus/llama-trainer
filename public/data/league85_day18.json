@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 18,
+    "date": "June 16, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Hit songs from 2020 by DaBaby featuring Roddy Ricch, from 2017 by Post Malone featuring 21 Savage, and from 2007 by Nickelback all share what title, which is also the name of a popular energy drink?",
+            "answer": "rockstar",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "51",
+            "c_percent": "45",
+            "d_percent": "40",
+            "e_percent": "38",
+            "r_percent": "49"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the hit multiplayer tactical shooter game launched into beta by Riot Games on April 7, 2020, and released widely on June 2.",
+            "answer": "valorant",
+            "image": null,
+            "a_percent": "24",
+            "b_percent": "20",
+            "c_percent": "19",
+            "d_percent": "17",
+            "e_percent": "16",
+            "r_percent": "21"
+        },
+        {
+            "category": "ART",
+            "prompt": "The American photographer William Wegman is well-known for his warmly whimsical and witty works which primarily feature dogs of what breed?",
+            "answer": "weimaraner",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "36"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A book-length essay by Chimamanda Ngozi Adichie, adapted from a presentation she gave in 2012 that broadly addresses issues around human rights and gender equality, suggests that \"We Should All Be\" what?",
+            "answer": "feminists",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the flamboyant and eccentric evangelist, the inspiration for \"Big Sister\" in Nathanael West's The Day of the Locust, who established the International Church of the Four-Square Gospel in Los Angeles, incorporated in 1927?",
+            "answer": "aimee semple mcpherson",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "20",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The capital of what mountainous Asian country is named after a temple and public shelter located near the city's center, which itself takes its name from the Sanskrit for \"wood\" and \"pavilion\", and which collapsed during a 7.8 magnitude earthquake in 2015? (Note, name the country.)",
+            "answer": "nepal",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "75",
+            "d_percent": "69",
+            "e_percent": "60",
+            "r_percent": "73"
+        }
+    ]
+}

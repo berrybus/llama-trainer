@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 20,
+    "date": "September 16, 2020",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What antiquated term for a foppish dandy who affects a foreign style and manner is derived from the name of a social circle in 18th-century London, which itself was named (according to one legend) by its founders after an exotic (to them) food they encountered during travels in Italy?",
+            "answer": "macaroni",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "49",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Sean Penn, Jennifer Jason Leigh, Judge Reinhold, Phoebe Cates, Forest Whitaker, Eric Stoltz, Anthony Edwards, Nicolas Cage, Alicia Silverstone, Brittany Murphy, Paul Rudd, and Donald Faison were among the up-and-coming (or still unknown) actors who appeared in films by what director?",
+            "answer": "amy heckerling",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "24",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Monoceros, a mythical creature and the name of a constellation in the celestial equator, is also known by what English translation of the term?",
+            "answer": "unicorn",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "78",
+            "d_percent": "65",
+            "e_percent": "49",
+            "r_percent": "65"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The fifth and seventh Etruscan kings of Rome, the latter of whose reign ended in 509 BCE (and ended the Roman Kingdom), shared what name (nomen), followed immediately by Priscus and Superbus respectively?",
+            "answer": "tarquin (tarquinius)",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "20",
+            "c_percent": "13",
+            "d_percent": "8",
+            "e_percent": "3",
+            "r_percent": "10"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The National Women's Soccer League team located in Utah has a name based on that of its affiliated MLS team\u2014and a name which, (perhaps) unrelatedly, it shares with a team in Major League Baseball. What is that name?",
+            "answer": "royals",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "47",
+            "c_percent": "38",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "29"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Blind Blake's Southern _____, Blind Boy Fuller's _____ Mama _____, Blind Willie McTell's Georgia _____, Blind Willie Walker's South Carolina _____, William Moore's Barbershop _____, and Michigan J. Frog's Michigan _____\u2014what single word fills in all of the blanks in these song titles?",
+            "answer": "rag",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "46",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "11",
+            "r_percent": "23"
+        }
+    ]
+}

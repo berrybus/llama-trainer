@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 14,
+    "date": "December 5, 2017",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the man who resigned as Prime Minister of Lebanon on November 4, 2017, just over thirteen years after his father resigned from the same post.",
+            "answer": "saad hariri",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the twelve cities along Lake Ontario with a population greater than 100,000, one is located in the United States. What is that city, which had just over 210,000 residents during the 2010 census?",
+            "answer": "rochester, new york",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "31",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"Charles Entertainment\" are the (real) first and middle names of a corporate mascot who has what last name?",
+            "answer": "cheese",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "66",
+            "e_percent": "54",
+            "r_percent": "67"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the tiny hamlet on the far western outskirts of Greater London, in an area now a part of the London Borough of Hillingdon, which was demolished as part of a massive civil construction project in 1944?",
+            "answer": "heathrow",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "36",
+            "c_percent": "25",
+            "d_percent": "18",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What drink served to British sailors in the Age of Sail, consisting (typically) of rum mixed with water, takes its name from the nickname borne by 18th-century British Admiral Edward Vernon from the waterproof cloak he wore?",
+            "answer": "grog",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "50",
+            "e_percent": "31",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Identify the subatomic particle of the baryon family, believed to be composed of two up quarks and one down quark, which has a mass of 1.672x10-24 grams and a positive electric charge of 1.602x10-19 coulombs.",
+            "answer": "proton",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "42",
+            "c_percent": "32",
+            "d_percent": "29",
+            "e_percent": "22",
+            "r_percent": "33"
+        }
+    ]
+}

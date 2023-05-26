@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 7,
+    "date": "February 27, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "An oscillator executing \"simple harmonic motion\" (SHM) generates a wave whose graph of y (vertical diameter) against x (time) is most commonly known by what term?",
+            "answer": "sine/sinusoidal wave",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "69",
+            "c_percent": "66",
+            "d_percent": "62",
+            "e_percent": "55",
+            "r_percent": "58"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Among the various types of rugs is one whose name comes from the French for \"caterpillar\" (which the fabric is meant to resemble). What is that name?",
+            "answer": "chenille",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "35",
+            "c_percent": "26",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "20"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Eureka and Lisbon are the two most common varieties in the United States of what fruit crop, grown predominantly in California along with specialty varieties and hybrids such as Variegated Pink and Meyer?",
+            "answer": "lemon",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "70",
+            "e_percent": "60",
+            "r_percent": "64"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What musical, which debuted at the Bernard B. Jacobs Theatre in October 2008 with music and lyrics by Jason Robert Brown, is the only Broadway musical with a cast composed entirely of teenagers\u2014a cast that included Ariana Grande, who at the time was actually age fifteen?",
+            "answer": "13",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "19",
+            "c_percent": "14",
+            "d_percent": "10",
+            "e_percent": "8",
+            "r_percent": "13"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The name of a community in northern Spain is (or is included in) the names of the seat of Webb County, Texas, and the third-most populous city in the Mexican state of Tamaulipas, two cities that face each other across the Rio Grande. What is that name?",
+            "answer": "laredo",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What fictional Wessex town provides the setting for the majority of the 1886 Thomas Hardy novel that begins with main character Michael Henchard's sale of his wife and daughter, details his business success and ascent in municipal politics, and ends with his ruin and death?",
+            "answer": "casterbridge",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "14"
+        }
+    ]
+}

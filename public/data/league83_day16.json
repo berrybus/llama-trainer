@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 16,
+    "date": "December 9, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "A list of seven locations began in 1940 with Singapore, continued in 1941 with Zanzibar, and ended in 1962 (after a ten-year hiatus) with Hong Kong. Give any one of the other four locations that complete this list.",
+            "answer": "morocco, utopia, rio, bali",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "41",
+            "c_percent": "28",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Vltava River (also known as the Moldau) runs through what European national capital city?",
+            "answer": "prague",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "51",
+            "c_percent": "41",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "According to its official American Society, there are formally thirteen descriptive divisions of what spring flower, which is also known botanically as narcissus and is within the amaryllis family? Among these classifications are Trumpet, Large-Cupped, Triandrus, and Jonquilla.",
+            "answer": "daffodil",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "49",
+            "c_percent": "42",
+            "d_percent": "32",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In June 2015, a one-night-only concert of what musical, based on the life of Marilyn Monroe (and unrelated to Fox News) and taken from the show-within-a-show on the canceled TV series Smash, was performed in the Minskoff Theatre on Broadway?",
+            "answer": "bombshell",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "37",
+            "c_percent": "32",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "21"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A fraud perpetrated by a group associated with President Warren Harding known as the \"Ohio Gang\" involved the siphoning of oil, intended for the U.S. Navy, to the Mammoth Oil Company. What was the name of the oil field in Wyoming in which this oil was located?",
+            "answer": "teapot dome",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "73",
+            "d_percent": "58",
+            "e_percent": "30",
+            "r_percent": "44"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What \"velvet-voiced\" R&B singer, who started the first Patti LaBelle fan club in the early 60s and began his career as a backing vocalist for Bette Midler, David Bowie, Barbra Streisand, and others, achieved multiplatinum solo success with the albums Never Too Much, Give Me the Reason, Power of Love, and Dance with My Father?",
+            "answer": "luther vandross",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "44",
+            "d_percent": "35",
+            "e_percent": "25",
+            "r_percent": "34"
+        }
+    ]
+}

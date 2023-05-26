@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 21,
+    "date": "September 27, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Befitting a cold-weather sport played in the Sunshine State, the punny name of the minor-league ice hockey team in Orlando imagines the existence of what fanciful ursine species? ",
+            "answer": "solar bears",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "60",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "39"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What WWII icon had previously made her acting debut at age 12 as an uncredited chorus girl in the 1929 film Happy Days before later starring in Pigskin Parade (1936) and Million Dollar Legs (1939)? ",
+            "answer": "betty grable",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "39",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What is the name (not abbreviation) for the short-range two-way radio communication system that originated in the US in the 1940s and remains associated most closely with long-distance truck drivers, who were primary users of the system?",
+            "answer": "citizens band radio",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "62",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "20",
+            "r_percent": "33"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Drive to Survive is the subtitle of what popular and acclaimed series that launched on Netflix in 2019 and starred Sebastian Vettel, Daniel Ricciardo, Max Verstappen, and Lewis Hamilton, among others?",
+            "answer": "formula 1",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "59",
+            "e_percent": "50",
+            "r_percent": "61"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the lyrical mush made from yellow legumes that has been consumed (and liked) in Britain for centuries whether hot, cold, or in the pot over a week old. ",
+            "answer": "pease porridge/pease pudding",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "41",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "MATH",
+            "prompt": "There are three poles and several discs of different sizes, all initially on one of the poles in size order with the smallest at the top. The object is to transfer the discs to one of the other poles by moving them individually, with a disc never placed above a smaller one. This is a mathematical toy commonly named a \"Tower of\" what Asian city?",
+            "answer": "hanoi",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "29",
+            "e_percent": "22",
+            "r_percent": "33"
+        }
+    ]
+}

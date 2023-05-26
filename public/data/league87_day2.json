@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 2,
+    "date": "November 5, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What name for a particular type of gastropod is also a unit of mass in the imperial system of units, as well as a term for a solid ballistic projectile?",
+            "answer": "slug",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "56"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the heavy metal band, which formed in 1994 as \"Burn the Priest\", whose current name comes from the section within the Ordinary of the Roman Catholic Mass known as Agnus Dei?",
+            "answer": "lamb of god",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The official Emblem of India, derived from the insignia of the 3rd-century BCE Mauryan emperor Ashoka, features a circular base upon which four animals are mounted, standing back-to-back. What type of animal are they?",
+            "answer": "lions",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "25",
+            "c_percent": "19",
+            "d_percent": "13",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Bill Murray has collaborated with director Ivan Reitman numerous times over the years (e.g., Stripes, Ghostbusters), but his first big film break was a Reitman-directed movie named after what food item?",
+            "answer": "meatballs",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "58",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "43"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Numerous times during its nearly 25-year run\u2014including every year since 2013\u2014the highest-rated syndicated television program in the United States has been a half-hour daytime series that stars (and is named after) an individual with what first name?",
+            "answer": "judy",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "23",
+            "r_percent": "27"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Cathetus, a term used in geometry and trigonometry, describes an object that comes in pairs (catheti) within a broader set of three. The third item in that set, the one that is not a cathetus, is most commonly known by what other term?",
+            "answer": "hypotenuse",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "21",
+            "r_percent": "30"
+        }
+    ]
+}

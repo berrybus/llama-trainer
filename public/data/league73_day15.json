@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 15,
+    "date": "June 5, 2017",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "In a January 1973 speech describing the Paris Peace Accords of that month ending direct U.S. military combat in the war in Vietnam, President Richard M. Nixon, varying on a theme during his 1968 campaign, declared his goals for \"peace with\" what?",
+            "answer": "honor",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "32",
+            "e_percent": "14",
+            "r_percent": "30"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What major Pacific coast city developed around the massive natural harbor known as Port Jackson?",
+            "answer": "sydney, australia",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In diving competitions, there are four possible official dive positions undertaken during the flight of the dive. Three are straight, tuck, and free\u2014what is the fourth?",
+            "answer": "pike",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "61",
+            "c_percent": "55",
+            "d_percent": "47",
+            "e_percent": "37",
+            "r_percent": "41"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Although he had a long and successful career in popular music\u2014both solo and with his wife Mary Ford\u2014what guitarist has a greater legacy as a pioneer of the solid-body electric guitar, studio multitracking, electronic echo, and other modern recording techniques?",
+            "answer": "les paul",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "54",
+            "e_percent": "37",
+            "r_percent": "51"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The U.S. Department of Energy's national accelerator laboratory located in Batavia, Illinois, operated jointly by the University of Chicago and a not-for-profit research university consortium, is named after what nuclear physicist?",
+            "answer": "enrico fermi",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "31",
+            "r_percent": "42"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What term is derived from the name of a Greek philosopher who declared that happiness and the absence of pain are the greatest goods and has come to mean, in the context of food and wine, a person of refined tastes?",
+            "answer": "epicure/epicurean",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "28",
+            "r_percent": "48"
+        }
+    ]
+}

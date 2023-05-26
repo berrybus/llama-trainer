@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 4,
+    "date": "February 24, 2020",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What man, who began a food empire with an ice-cream shop in the Boston area in 1925, is widely credited as inventing the concept of the modern restaurant franchise, with his namesake eateries dominating the interstate highway landscape beginning in the 1950s and becoming the U.S. largest restaurant chain in the 1960s (though today is mostly defunct)?",
+            "answer": "howard johnson",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "26",
+            "r_percent": "36"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In January 1970, Carol Channing became the first celebrity to perform at what annual event?",
+            "answer": "super bowl (halftime show)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "ART",
+            "prompt": "Name the Basque village that was bombed on April 26, 1937, by Nazi German and fascist Italian forces at the request of Nationalist leader Francisco Franco, in a campaign codenamed Operation R\u00fcgen. The horrific event has been artistically depicted on numerous occasions, most famously in the summer of that same year.",
+            "answer": "guernica",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "67",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The Charlotte-based rapper who recorded the song \"Suge\", the Atlanta-based rapper who recorded the song \"Yes Indeed\", and the rapper who recorded \"Gucci Flip Flops\" and first achieved fame via Dr. Phil, all have stage names that contain what word (in various spellings)?",
+            "answer": "baby/bhabie",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "25",
+            "c_percent": "20",
+            "d_percent": "17",
+            "e_percent": "12",
+            "r_percent": "20"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The \"small\" version of what common unit of measure is equal to 4.1868 of the SI unit of energy (joules), while the \"large\" version is equal to 4,184 joules?",
+            "answer": "calorie",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "46",
+            "e_percent": "38",
+            "r_percent": "47"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Satavahana, Vakataka, Chalukya, and Rashtrakuta dynasties are among those that ruled in a geographic region named after what plateau, which sits between the Western Ghats and the Eastern Ghats mountain ranges on the Indian subcontinent?",
+            "answer": "deccan (plateau)",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "20",
+            "c_percent": "14",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "11"
+        }
+    ]
+}

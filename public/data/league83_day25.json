@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 25,
+    "date": "December 20, 2019",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "The pronunciations of the state of Nevada, the Idaho city of Boise, and the NYC thoroughfare Houston Street are considered a kind of linguistic password that distinguishes locals from nonlocals. They are geographic examples of a term derived from Hebrew, which originated in the Book of Judges as a way for Gileadites to identify Ephraimites attempting to return to their conquered territory. What is this word?",
+            "answer": "shibboleth",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "33",
+            "e_percent": "19",
+            "r_percent": "31"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The lost and hidden (and fictional) Incan city of Parapata is central to the plot of a 2019 film that features the first live-action film appearance of what title character?",
+            "answer": "dora (the explorer)",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "67",
+            "c_percent": "63",
+            "d_percent": "57",
+            "e_percent": "47",
+            "r_percent": "54"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What Japanese word completes this series: sweet, salt, bitter, sour, _________.",
+            "answer": "umami",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "86",
+            "e_percent": "76",
+            "r_percent": "80"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Princely States were more than 500 principalities and kingdoms, with rulers of various faiths, that existed from the 1850s until 1947, the majority of which located in what present-day country?",
+            "answer": "india",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "65",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "30",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Peloponnesian War is the setting for the eleventh and most recent main installment in what video game series, which began in 2007 with a game set in the Holy Land during the Third Crusade?",
+            "answer": "assassin's creed",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "63",
+            "c_percent": "61",
+            "d_percent": "56",
+            "e_percent": "50",
+            "r_percent": "58"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Musician Dick Dale, who passed away in March at the age of 81, and whose biggest hit song was 1963's \"Misirlou\", was known as \"The King of\" what type of guitar? This sobriquet was referenced in the title and opening track from his second studio album, also from 1963.",
+            "answer": "surf guitar",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "55",
+            "c_percent": "45",
+            "d_percent": "31",
+            "e_percent": "20",
+            "r_percent": "27"
+        }
+    ]
+}

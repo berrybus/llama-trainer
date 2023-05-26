@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 17,
+    "date": "March 16, 2021",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "The mathematical constant pi (\u03c0) is commonly defined as the ratio of the a of a circle to its b. What two words, in order, correctly replace a and b in the preceding sentence?",
+            "answer": "circumference, diameter",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "62",
+            "e_percent": "51",
+            "r_percent": "61"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the English title of the massively successful manga series by Hajime Isayama which is a slight mistranslation of the original Japanese Shingeki no Kyojin (a more precise translation would not include the preposition \"on\")?",
+            "answer": "attack on titan",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "31",
+            "c_percent": "27",
+            "d_percent": "24",
+            "e_percent": "23",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "To impart some fun to the language and as a tribute to the comedy sketch group whose scripts he was reading at the time, Dutch programmer Guido van Rossum gave the programming language that he created and with which he is closely associated what name?",
+            "answer": "python",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "72",
+            "e_percent": "60",
+            "r_percent": "69"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Of all the teams in the \"Big Four\" North American pro sports leagues (MLB, NBA, NFL, NHL) whose team names include an animal, only one was named after an animal that is extinct. What is that team name (both location and animal required)? ",
+            "answer": "toronto raptors",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "66",
+            "e_percent": "55",
+            "r_percent": "63"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What religious movement is named after the man who served as Emperor of Ethiopia from 1930 until he was deposed in 1974?",
+            "answer": "rastafarianism",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "61",
+            "d_percent": "46",
+            "e_percent": "26",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the title of the masterpiece from 1942 in the Art Institute of Chicago collection that its painter, Edward Hopper, claims was inspired by \"a restaurant on New York's Greenwich Avenue where two streets meet\"?",
+            "answer": "nighthawks",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "79",
+            "c_percent": "70",
+            "d_percent": "52",
+            "e_percent": "32",
+            "r_percent": "45"
+        }
+    ]
+}

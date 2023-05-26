@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 10,
+    "date": "May 27, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A city named Cairo is famous, perhaps above all else, for its location at the confluence of two major rivers. What are the names of those two rivers?",
+            "answer": "mississippi, ohio",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "56",
+            "c_percent": "42",
+            "d_percent": "29",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Gatorade High School Basketball Player of the Year Award winners from 2017 (Megan Walker), 2018 (Christyn Williams), 2019 (Azzi Fudd), and 2020 (Paige Bueckers) all went on to play basketball at what university?",
+            "answer": "university of connecticut",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "70",
+            "d_percent": "65",
+            "e_percent": "56",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Evergreen trees bear leaves throughout the year. What term, originating from the Latin for \"fall off\", is most commonly used to describe the opposite: plants that shed all their leaves at the end of each growing season?",
+            "answer": "deciduous",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "94",
+            "d_percent": "89",
+            "e_percent": "76",
+            "r_percent": "82"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Illyria is the setting for what Shakespeare comedy, which ends with Olivia betrothed to Sebastian, Orsino announcing that he will marry Viola, and self-righteous Malvolio taking a powder? The play is believed to have been written for entertainment on the Feast of the Epiphany (hence the name).",
+            "answer": "twelfth night",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "70",
+            "d_percent": "54",
+            "e_percent": "35",
+            "r_percent": "47"
+        },
+        {
+            "category": "ART",
+            "prompt": "Pablo Picasso named his sole contribution to 1916's Salon d'Antin Le Bordel d'Avignon, but exhibition organizer Andr\u00e9 Salmon renamed it with the title by which the famous painting is best known today, replacing \"Le Bordel\" with what other French term?",
+            "answer": "les demoiselles",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "38",
+            "c_percent": "25",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "William George Spencer Cavendish, sixth Duke of Devonshire, eighth Baron Clifford, formerly the Marquess of Hartington and Lord Chamberlain of the Household during the reigns of George IV and William IV, is an important figure in the history of what fruit?",
+            "answer": "banana",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "37",
+            "e_percent": "25",
+            "r_percent": "34"
+        }
+    ]
+}

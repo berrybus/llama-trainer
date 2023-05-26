@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 13,
+    "date": "June 1, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "\"Till earth and heaven ring\" is the second line of a famous poem by James Weldon Johnson that, once it was set to music, was adopted as the official song of the NAACP and is widely considered the \"Black National Anthem.\" What is the poem's first line, which also serves as its title?",
+            "answer": "lift every voice and sing",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "31",
+            "c_percent": "24",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "16"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Cape Spear, the easternmost point in Canada, is located on the Avalon Peninsula of what large island?",
+            "answer": "newfoundland",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "54",
+            "d_percent": "43",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The alleged \"corrupt bargain\" of 1824-1825 resulted in the election of John Quincy Adams as U.S. President by the House of Representatives and the appointment of what House speaker and Kentuckian as secretary of state?",
+            "answer": "henry clay",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "24",
+            "r_percent": "37"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In 1978, the 2.4-mile Waikiki Rough Water Swim, the 115-mile Around Oahu Bike Race, and the 26.2-mile Honolulu Marathon were combined to establish a new competition that introduced what novel two-word term?",
+            "answer": "ironman triathlon (iron man)",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "87",
+            "e_percent": "82",
+            "r_percent": "83"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What surname goes in the blank in this otherwise complete and alphabetical (but not chronological) list: Archer, ________, Kirk, Picard, Sisko.",
+            "answer": "janeway",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "48",
+            "e_percent": "34",
+            "r_percent": "43"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The Obie Awards, which honor theatre produced Off-Broadway and Off-Off-Broadway, are presented annually by the American Theatre Wing and what New York weekly publication, which originated the awards in 1955?",
+            "answer": "the village voice",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "55",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "32"
+        }
+    ]
+}

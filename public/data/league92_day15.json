@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 15,
+    "date": "March 7, 2022",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What is the first name adopted in the 1980s by the prolific African American designer and fiber artist born Sherilyn Bailey? It's taken from the name of a 3rd-century queen of Palmyra, making Bailey today arguably the most successful artist in history whose first name begins with \"X\" (in place of the \"Z\" with which her royal namesake's name is usually rendered)?",
+            "answer": "xenobia",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "28",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In every US presidential election starting 1952 and ending in 2004, there was either a Bush, a Dole, or a Nixon on the GOP ticket, except for one year. Give the name of either of the Republicans on the national ticket in that exception year. (Note, answer with a name, not the year.)",
+            "answer": "barry goldwater, william miller",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "52",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "19th-century German anatomist Paul Langerhans spent the most significant period of his career conducting pioneering research into what organ?",
+            "answer": "pancreas",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "53",
+            "c_percent": "41",
+            "d_percent": "28",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Bull, the Banana Split, the Skunk, the Caterpillar, and the Mallard were the last five eliminated (with the Queen of Hearts earning the victory) on the most recently completed season of what reality competition television series?",
+            "answer": "the masked singer",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "77",
+            "e_percent": "70",
+            "r_percent": "72"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What term was coined by Mark Twain in the title of his 1873 novel, which satirized the materialism and loosened business and political morals in the decade following the American Civil War?",
+            "answer": "the gilded age",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "65",
+            "c_percent": "52",
+            "d_percent": "37",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Completed in 2012, a 2,080-foot-tall structure known as Skytree\u2014currently the tallest tower in the world and second-tallest structure after the Burj Khalifa\u2014dominates the skyline of what city?",
+            "answer": "tokyo",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "39",
+            "c_percent": "27",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "23"
+        }
+    ]
+}

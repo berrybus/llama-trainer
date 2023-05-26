@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 24,
+    "date": "March 18, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "From 1993 until 2019, the present-day country of North Macedonia was known (and formally recognized by the United Nations) by what five-letter abbreviation?",
+            "answer": "fyrom",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "17"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Judy Garland introduced the now-standards \"The Trolley Song\" and \"Have Yourself A Merry Little Christmas\" in a 1944 film set in 1903 and 1904 in what US city?",
+            "answer": "st. louis",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "47",
+            "e_percent": "32",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Concrete is a material produced by mixing sand and crushed stone with air, water, and a binder. What word is most commonly used to refer to that binding substance?",
+            "answer": "cement",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "55",
+            "e_percent": "46",
+            "r_percent": "50"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In games such as Pok\u00e9mon TCG and Yu-Gi-Oh! TCG, what do the letters in TCG stand for (the 'G' is Game)? The phrase could also be used to describe and categorize other games such as Keyforge, Flesh and Blood, and the original TCG, Magic: The Gathering.",
+            "answer": "trading card game",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In what modern Japanese martial art, which is descended from the fighting techniques and swordmanship of the ancient samurai and whose name translates as \"way of the sword\", do practitioners use bamboo swords called shinai and protective armor called b\u014dgu?",
+            "answer": "kendo",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "43",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In the 1980s, US officials attempted to use proceeds from covert arms sales to Iran as a means of financing support for what anti-government group?",
+            "answer": "contra rebels",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "59",
+            "r_percent": "66"
+        }
+    ]
+}

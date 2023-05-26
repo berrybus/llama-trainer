@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 14,
+    "date": "March 12, 2019",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Human rights campaigner Rigoberta Mench\u00fa, who won the 1992 Nobel Peace Prize, has fought for the rights of indigenous peoples in what country, her homeland, where she ran for president in 2007 and 2011 as a candidate of indigenous political parties?",
+            "answer": "guatemala",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "30",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The St. Lawrence River, Frobisher Bay, Davis Strait, Hudson River, Hudson Bay, and Baffin Bay were all discovered by European explorers seeking a route by sea between the Atlantic and Pacific Oceans. By what name was this desired \"Passage\" known most commonly, including by these explorers?",
+            "answer": "northwest (passage)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "84",
+            "e_percent": "67",
+            "r_percent": "76"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The measure of the ability of a material to store electric charge; a pyrimidine component of DNA and RNA; the third note of the A minor scale; the third-heaviest quark flavor: All of these can be represented by what letter/symbol?",
+            "answer": "c",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "63",
+            "e_percent": "53",
+            "r_percent": "61"
+        },
+        {
+            "category": "ART",
+            "prompt": "El 2 de mayo de 1808 en Madrid and El tres de mayo de 1808 en Madrid are paintings, currently in the permanent collection of the Museo del Prado, by what artist?",
+            "answer": "francisco goya",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "27",
+            "r_percent": "41"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Olga, Masha, and Irina Prozorova are the main characters in what classic play that premiered in 1901?",
+            "answer": "the three sisters",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "60",
+            "c_percent": "44",
+            "d_percent": "30",
+            "e_percent": "18",
+            "r_percent": "29"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the anime and film character who is known, among other things, for her mastery of the ancient cyborg martial art Panzer Kunst, and for her superior skills in the sport of motorball.",
+            "answer": "alita",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "37",
+            "c_percent": "32",
+            "d_percent": "26",
+            "e_percent": "21",
+            "r_percent": "26"
+        }
+    ]
+}

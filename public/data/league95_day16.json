@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 16,
+    "date": "December 1, 2022",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The mythological character Jocasta is notable, in part, for being the wife of what Corinthian-raised Greek King of Thebes (who himself was, among other things, her second husband)?",
+            "answer": "oedipus",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "78",
+            "c_percent": "65",
+            "d_percent": "45",
+            "e_percent": "27",
+            "r_percent": "36"
+        },
+        {
+            "category": "MATH",
+            "prompt": "\"May I have a large container of coffee right now?\" is a popular mnemonic for what?",
+            "answer": "pi",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "35",
+            "c_percent": "24",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What moon of Jupiter is, with near constant volcanic activity, the most geologically active body in the Solar System? This intense geological activity results from tidal heating produced by its orbital eccentricity, which in turn is caused by the gravitational pulls of Jupiter and the other three Galilean moons (Ganymede, Callisto, and Europa).",
+            "answer": "io",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Thanks in no small part to the subreddit r/wallstreetbets, what company's stock increased in price from $2.57 in April 2020 to $483 at one point on January 28, 2021?",
+            "answer": "gamestop (gme)",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "88",
+            "e_percent": "85",
+            "r_percent": "86"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The two most prominent sacred sites of the Pitjantjatjara people are known natively as Kata Tjuta and what?",
+            "answer": "uluru",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "33",
+            "c_percent": "20",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A certain stage in Chinese history began in the 5th century BCE, when the Zhou kingdom had split into various territorial kingdoms and fiefs that fought for dominance, and ended in 221 BCE, when the Qin dynasty took control and unified the kingdoms. This stage of Chinese history is known in English as what (two words) \"Period\", after a Chinese text compiled during the Han dynasty that chronicled the era?",
+            "answer": "warring states",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "32",
+            "c_percent": "23",
+            "d_percent": "17",
+            "e_percent": "11",
+            "r_percent": "16"
+        }
+    ]
+}

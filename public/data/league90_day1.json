@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 1,
+    "date": "August 9, 2021",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "What word completes this first line of the theme song to the TV series Barney & Friends, sung to the tune of \"Yankee Doodle\": Barney is a ______.",
+            "answer": "dinosaur",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "88",
+            "d_percent": "86",
+            "e_percent": "81",
+            "r_percent": "82"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "An irredentist unification movement's militant wing known as EOKA existed, at its peak during the 1950s, on what is today what island republic?",
+            "answer": "cyprus",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Fill in the blank in the name of the following album, recorded in 2010 and posthumously released in July 2021: Welcome ____ America. (Precise answer required.)",
+            "answer": "2",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "47",
+            "e_percent": "37",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A roughly figure-eight-shaped path known as an analemma is most often associated with what object?",
+            "answer": "the sun",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "31",
+            "c_percent": "21",
+            "d_percent": "12",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"Ultamate Rewards\" is a loyalty points program offered by a multi-billion-dollar retailer, with stores in all 50 states, that sells (per the company's name) what type of products/supplies?",
+            "answer": "beauty",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "65",
+            "c_percent": "64",
+            "d_percent": "62",
+            "e_percent": "59",
+            "r_percent": "63"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Kiwi Caleb Shepherd made history on July 30 as the first male to win a women's Olympic Games medal, earning a silver in what sport (while facing his eight fellow New Zealand teammates)?",
+            "answer": "rowing",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "44",
+            "e_percent": "29",
+            "r_percent": "35"
+        }
+    ]
+}

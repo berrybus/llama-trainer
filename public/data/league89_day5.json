@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 5,
+    "date": "May 21, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "In a 1956 film that was possibly the first-ever \"rock 'n' roll\" movie, Bill Haley and His Comets perform \"Happy Baby\", \"Razzle-Dazzle\", \"See You Later, Alligator\", and what title song?",
+            "answer": "rock around the clock",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "63",
+            "d_percent": "50",
+            "e_percent": "31",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Developed by a Belgian-American chemist in 1907, the world's first synthetic polymer (plastic) has what name? The name is derived from the chemist's name, but (when written, if not in pronunciation) could evoke something found on the inside of an oven (in a groaning pun sense, perhaps)?",
+            "answer": "bakelite",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "53",
+            "c_percent": "42",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "29"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Of the twelve founding members of the short-lived European Super League of April 2021, three are Italian clubs: Inter Milan, AC Milan, and what third club, based in Turin?",
+            "answer": "juventus",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "32",
+            "r_percent": "40"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the first word shared by the names of the sea vessels whose two-word names end in Glory, Govern, Globe, Greet, Golden, Goods, and Genius?",
+            "answer": "ever",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "44",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "16",
+            "r_percent": "20"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The most powerful African empire of the early modern period was the Songhai Empire, which was founded in the early 15th century, reached its zenith in the early 16th century, and was centered in eastern Mali in the capital of Gao and what other legendary city, where Musa I built the Great Mosque during his reign over the Mali Empire?",
+            "answer": "timbuktu",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "54",
+            "e_percent": "31",
+            "r_percent": "46"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "\"Suffering is the basis of all existence\" is a guiding principle of LearnedLeague and, in simplified form, the first of the Four Noble Truths first taught by whom?",
+            "answer": "buddha",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "45",
+            "r_percent": "56"
+        }
+    ]
+}

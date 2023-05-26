@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 5,
+    "date": "February 26, 2018",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Due to improved sales tracking information, albums (including, for example, the last eight released by Eminem) frequently debut at #1 on the Billboard 200 chart, but what artist was the first to accomplish this feat with Captain Fantastic and the Brown Dirt Cowboy in 1975?",
+            "answer": "elton john",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "27",
+            "r_percent": "39"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the organs in spiders (and other silk-producers) through which silk/gossamer is produced and released? In most spiders, they are located on the underside towards the rear, though in Spider-Man they appear to be in the wrists.",
+            "answer": "spinnerets",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "36"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A tradition began in 1952 when Detroit hockey fans threw a particular item onto the ice that symbolized the eight playoff wins the team needed to capture the Stanley Cup (which the Red Wings were successfully able to do, without a single loss). What was that item?",
+            "answer": "octopus",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "57",
+            "r_percent": "59"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What is represented by the yellow in this map? ",
+            "answer": "louisiana purchase",
+            "image": "/images/art/94085yc05yn0c59y0.jpg",
+            "a_percent": "76",
+            "b_percent": "70",
+            "c_percent": "67",
+            "d_percent": "64",
+            "e_percent": "58",
+            "r_percent": "57"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In 1873, a unification of municipalities on opposite banks of the Danube River formed what city, now its nation's capital?",
+            "answer": "budapest",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "39",
+            "r_percent": "52"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The autological term for what figure of speech and rhetorical device is derived from the Greek words for \"sharp\" and \"dull\"?",
+            "answer": "oxymoron",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "30",
+            "r_percent": "38"
+        }
+    ]
+}

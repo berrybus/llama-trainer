@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 17,
+    "date": "June 15, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The title character in the 1833 novel L\u00e9lia was a gifted and complex iconoclast who derided traditional oppressive society, not unlike the book's author, who wrote it under what pseudonym (which she first used for 1832's Indiana)? ",
+            "answer": "george sand",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the game of craps, if the dice in the first roll (the \"come-out\") do not total 2, 3, 7, 11, or 12, a target number is established, which the shooter hopes to match in subsequent rolls before landing a 7. What is the common name in casinos for this target number?",
+            "answer": "point",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "38",
+            "c_percent": "29",
+            "d_percent": "24",
+            "e_percent": "17",
+            "r_percent": "23"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Works written by David Foster and Linda Thompson, Ashford & Simpson, Nick Lowe, Alan Silvestri, and Dolly Parton are among the songs that appear on the soundtrack for what hit movie from the 1990s?",
+            "answer": "the bodyguard",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "34",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In May 1990, two Western Asian member states of the United Nations merged to form a republic that continued as a single UN member under what name (that had been a part of both predecessors' names)?",
+            "answer": "yemen",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "39",
+            "c_percent": "25",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "21"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "An oil-burning miner's safety lamp, used for gas detection, was invented in 1815 by (and is named after) what British chemist?",
+            "answer": "sir humphry davy",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "17",
+            "c_percent": "11",
+            "d_percent": "5",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Eleven different animated one-minute segments that frequently aired on the series Sesame Street, with a funky jazz soundtrack whose vocals were provided by The Pointer Sisters, were produced to teach children how to count to twelve (there was no segment for the number one). These segments did so via showing the workings of what type of machine?",
+            "answer": "pinball",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "34",
+            "d_percent": "24",
+            "e_percent": "17",
+            "r_percent": "24"
+        }
+    ]
+}

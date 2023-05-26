@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 23,
+    "date": "March 17, 2023",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"How many years must a mountain exist before it is washed to the sea?\" and \"How many times must a man look up before he can see the sky?\" are among the questions to which the answer\u2014per the lyrics (and title) of a 1963 folk song\u2014is what?",
+            "answer": "blowin' in the wind",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "79",
+            "e_percent": "62",
+            "r_percent": "70"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Garden flowers of the Dianthus genus, most of which are native to the Mediterranean region, are typically what color? In fact, this color is the flower's common name, and the flower is the source for the usage of this word as a color.",
+            "answer": "pink",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "22",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "7",
+            "r_percent": "16"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "According to the population and housing census of 2020, there are four cities in South Korea with populations greater than 2 million. One is the capital city of Seoul; name any one of the other three.",
+            "answer": "busan, incheon, daegu",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "39",
+            "r_percent": "57"
+        },
+        {
+            "category": "ART",
+            "prompt": "A 2014 film directed by Tim Burton tells the true story of the artist Margaret Keane (played by Amy Adams) and her untalented husband, Walter (Christoph Waltz), who took credit for her work until his death in 2000. Margaret's work is famous for the accentuation of its subjects' what? (This accentuation is referenced in both the title of the film and in the name of the San Francisco gallery that holds the largest collection of her work.)",
+            "answer": "eyes",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "72",
+            "d_percent": "63",
+            "e_percent": "55",
+            "r_percent": "64"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Kilkenny, The Burning Hills, Guns of the Timberlands, and How the West Was Won are among the 100 books that cumulatively sold over 200 million copies written by what prolific author, whose French-sounding name (a slight modification of his real name) belied the American-frontier themes of his works?",
+            "answer": "louis l'amour",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "57",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Specially shaped \"dice\" and the specific way these dice-esque objects land (which determines how points in the game are scored) are the peculiar trademarks of a game that was released in 1977. These dice are molded in the shape of what animal, which gives this game its name?",
+            "answer": "pigs",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "43",
+            "c_percent": "39",
+            "d_percent": "35",
+            "e_percent": "29",
+            "r_percent": "32"
+        }
+    ]
+}

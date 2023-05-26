@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 9,
+    "date": "November 17, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Name the geological period of the Mesozoic era, between approximately 145 and 65 million years ago, during which the dinosaurs and other giant reptiles, as well as many invertebrates, became extinct.",
+            "answer": "cretaceous",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "35"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 1713 Treaty of Utrecht stipulated the transfer from France to Britain the island of Newfoundland, the Hudson Bay territory, and what former French colony centered on present-day Nova Scotia and New Brunswick? The name of the colony is also used today for a certain protected area in the United States, and is the etymological source for the name of a certain group of Americans of French descent.",
+            "answer": "acadia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "56",
+            "d_percent": "41",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While Shelley Duvall famously appeared in Stanley Kubrick's The Shining in 1980, that same year she also starred (and was widely regarded as perfectly cast) in a role as what cartoon character?",
+            "answer": "olive oyl",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "54",
+            "e_percent": "41",
+            "r_percent": "47"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Oh Boy\" and \"Not Fade Away\" are the first two tracks from the self-titled 1957 album The \"Chirping\" Crickets, which featured a band led by what rock and roll pioneer? ",
+            "answer": "buddy holly",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The name of the third-most populous city in Colombia is the first four letters of the name of a US state and also the first four letters of the name of a Roman emperor. What is that city?",
+            "answer": "cali",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "90",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "59",
+            "r_percent": "69"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the multiple-prize-winning novel written by Colson Whitehead in 2019 that is a fictionalized account of the notorious Arthur G. Dozier School for Boys, a reform school in Florida that was finally closed in 2011 after decades of abuse and murder allegations (much of which was confirmed in subsequent investigations).",
+            "answer": "the nickel boys",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "33",
+            "c_percent": "27",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "19"
+        }
+    ]
+}

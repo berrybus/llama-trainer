@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 3,
+    "date": "November 9, 2022",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Dude Perfect member Coby Cotton, Survivor: Samoa contestant Jaison Robinson, and NFL Hall-of-Famer Michael Strahan are among the individuals who have traveled into space over the past year on missions operated by what company?",
+            "answer": "blue origin",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "38",
+            "e_percent": "30",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Which of the 31 states of Mexico is, perhaps ironically, the country's largest in area?",
+            "answer": "chihuahua",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "76",
+            "d_percent": "64",
+            "e_percent": "46",
+            "r_percent": "52"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The addition of the Boehm key mechanism (inspired by a similar system for the flute) was a major development in the history of what solo and orchestral instrument, which evolved from the chalumeau (a term still used today for the instrument's lowest register)?",
+            "answer": "clarinet",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "33",
+            "r_percent": "37"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Catherine Stebbins, Margaret Pryor, Amy Post, Elizabeth Cady Stanton, and Lucretia Mott were all present in what New York city on July 19 and July 20, 1848?",
+            "answer": "seneca falls",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "27",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The toxic blistering agent and chemical weapon 1-Chloro-2-[(2-chloroethyl)sulfanyl]ethane has an odor resembling horseradish, garlic, or what other plant, hence its common name?",
+            "answer": "mustard",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "67",
+            "r_percent": "75"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Identify the actor who portrayed the character on film in 2013 previously played by Warner Baxter (1926), Alan Ladd (1949), and Robert Redford (1974).",
+            "answer": "leonardo dicaprio",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "26"
+        }
+    ]
+}

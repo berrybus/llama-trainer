@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 14,
+    "date": "June 11, 2019",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "Arabic, Hebrew, and Maltese are all modern languages within a language classification whose name is also applied to a group of peoples of the Middle East who, according to the Bible, were descended from (and named after) a son of Noah and younger brother of Japheth. What is that classification?",
+            "answer": "semitic",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "47",
+            "e_percent": "26",
+            "r_percent": "45"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The labor theory of value, a major pillar of traditional Marxian economics, which states (in a nutshell) that the value of a good can be measured by the number of labor hours required to produce it, was organized at length in 1817's On the Principles of Political Economy and Taxation, the most famous work of what English classical economist?",
+            "answer": "david ricardo",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "22",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "13"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the symbol of the Lowndes County Freedom Organization, founded in Alabama in 1965 by activist Stokely Carmichael? The symbol was subsequently used (graphically and by name) for another organization, influenced by the LCFO, that was founded in Oakland a year later.",
+            "answer": "black panther",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "67",
+            "e_percent": "47",
+            "r_percent": "63"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The American companies D. Gottlieb & Co. (founded 1927), Williams Manufacturing (1943), and Bally Manufacturing (1932) were initially formed to produce what type of machine, for which they became famous as industry leaders until the 1980s? A \"video\" version of the machine in question was first released in 1977.",
+            "answer": "pinball",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "35",
+            "e_percent": "24",
+            "r_percent": "33"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the artistic term defined as a monochrome painting (or other work) completed entirely in shades of gray, frequently modeled in a decorative manner to imitate sculpture or stone relief? ",
+            "answer": "grisaille",
+            "image": null,
+            "a_percent": "17",
+            "b_percent": "11",
+            "c_percent": "7",
+            "d_percent": "3",
+            "e_percent": "2",
+            "r_percent": "5"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Wayne Messam, John Delaney, Marianne Williamson, Andrew Yang, and Eric Swalwell are names of individuals within a relatively large group that includes exactly one person of Indian and Jamaican ancestry. Who is that person?",
+            "answer": "kamala harris",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "37",
+            "r_percent": "49"
+        }
+    ]
+}

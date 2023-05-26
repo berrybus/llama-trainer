@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 14,
+    "date": "March 6, 2023",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "From March 1995 to December 1996, the president of Greece and a senior advisor for Policy and Strategy for US President Bill Clinton had the same last name, which is what?",
+            "answer": "stephanopoulos",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Charles Laughton, Tom Hulce, Mandy Patinkin, Anthony Hopkins, and Lon Chaney are among the actors who have portrayed in movies a tragic Parisian hero with what name? (Note, the actual name is required.)",
+            "answer": "quasimodo",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What word in golf is often used (technically incorrectly) to refer to any golf course but specifically refers most often to a seaside course (usually in the British Isles) with firm, sandy soil?",
+            "answer": "links",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "71",
+            "e_percent": "57",
+            "r_percent": "61"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the small West African country whose name, upon its declaration of independence in 1973, came to include the name of the country\u2019s capital city, to distinguish the country from a larger neighbor.",
+            "answer": "guinea-bissau",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "22",
+            "r_percent": "36"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In early January 2023, Chef Ren\u00e9 Redzepi announced that he will close his influential Michelin three-star restaurant in Copenhagen for regular service at the end of 2024. This restaurant, which is widely regarded as best restaurant in the world (and in fact topped the prestigious World's 50 Best Restaurants list a record five times), has what name\u2014an abbreviation of the Danish words for \"Nordic\" and \"food\"?",
+            "answer": "noma",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "30",
+            "r_percent": "39"
+        },
+        {
+            "category": "ART",
+            "prompt": "The famous and iconic monolithic human figures carved by the people of Rapa Nui between 350 and 950 years ago are known by a name that comes from the Rapa Nui language for \"statue\". What is that name?",
+            "answer": "moai",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "63",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "30"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 7,
+    "date": "November 12, 2020",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The cities of Baltimore, New Orleans, Los Angeles, and Chicago are all home to universities named after what person?",
+            "answer": "(st. ignatius of) loyola",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Cixi, the woman who served as Regent of China from 1861 to 1908, is commonly known in English as what type of \"empress\" (given the death of the Xianfeng Emperor, who was the father of her son the Tongzhi Emperor)?",
+            "answer": "empress dowager",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "36"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the third and final item in the set of Latin-derived calendrical terms that begins with the kalends and the nones?",
+            "answer": "ides",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "48",
+            "c_percent": "36",
+            "d_percent": "23",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "ART",
+            "prompt": "The loosely organized international group of avant-garde artists known as Fluxus includes its founder, Lithuanian-American artist George Maciunas, German performance artist Joseph Beuys, and\u2014likely best-known among the group\u2014what Japanese-born artist, musician, and peace activist?",
+            "answer": "yoko ono",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "66",
+            "r_percent": "76"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What two-word phrase, a term coined by academic Robin DiAngelo in 2011, is the title of her 2018 nonfiction bestseller with the subtitle Why It's So Hard for White People to Talk About Racism? Note, one of the two words in the phrase/title is the same as one of the words in the subtitle.",
+            "answer": "white fragility",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "65",
+            "c_percent": "59",
+            "d_percent": "55",
+            "e_percent": "46",
+            "r_percent": "51"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the 55 current members of the African Union, which country, once known as the French Territory of the Afars and the Issas, is the only one whose name and largest city's name (in their English pronunciation) have a first letter that is silent?",
+            "answer": "djibouti",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "57"
+        }
+    ]
+}

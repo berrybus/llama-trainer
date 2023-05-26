@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 20,
+    "date": "September 17, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Bullitt, Cumberland, Fayette, Jefferson, and Knox are among the 120 counties in what U.S. state?",
+            "answer": "kentucky",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "55",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "31",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "British actors Alex Lawther and Ewan McGregor played the same title character in different films, from 2017 (a biographical drama) and 2018 (a fantasy drama). What is the name of that character?",
+            "answer": "christopher robin",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "58",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A man named Ahmed Bey Zogu, and better known as Zog, served as Prime Minister (1922-24), President (1925-28), and King (1928-39) of what country? The latter position is one that had previously been offered, reportedly, to former English cricketer C.B. Fry.",
+            "answer": "albania",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "30",
+            "c_percent": "21",
+            "d_percent": "11",
+            "e_percent": "4",
+            "r_percent": "14"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "There are two basic methods of accounting generally recognized (and recognized by the Internal Revenue Service) for recording business activity. One is the \"cash\" method, where revenue and expenses are reported when cash is received or paid out. What is the common name for the other method, which records activity as it happens (e.g., when a product is delivered to a customer), even if cash has not changed hands?",
+            "answer": "accrual",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "39",
+            "c_percent": "34",
+            "d_percent": "33",
+            "e_percent": "25",
+            "r_percent": "32"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Name the composer, widely regarded as both the father of the symphony and of the string quartet, whose London Symphonies and Paris Symphonies are among his prodigious output of 106 symphonies and 68 string quartets.",
+            "answer": "joseph haydn",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "24"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The title of what 1927 novel refers to the specific type of animal to which the main character, a lonely middle-aged intellectual named Harry Haller, likens himself, as he labors to confront a bourgeois society he both hates and needs?",
+            "answer": "steppenwolf",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "12"
+        }
+    ]
+}

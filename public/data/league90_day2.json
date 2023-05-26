@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 2,
+    "date": "August 10, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Aesculus glabra, a tree species in the soapberry family, has a common name referencing what US state\u2014where it is the official state tree, and where it has a strong sports association? (Note, name the state.)",
+            "answer": "ohio",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "43"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Multiple full-scale models of naval vessels were created for the interior and exterior filming of what 1981 film, a major reason for its record-breaking budget that exceeded $18.5 million in US dollars?",
+            "answer": "das boot",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "42",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "17"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Mangosuthu Buthelezi founded the Inkatha movement in 1975 to represent Zulu interests within the Bantu homeland system. What was the name (or the three-letter abbreviation) for the Inkatha's primary rival organization, originally established in 1912, which sought to overthrow the apartheid system through armed insurrection?",
+            "answer": "african national congress (anc)",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "52",
+            "d_percent": "37",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In July 2021, the US government sold, for an undisclosed sum, the sole copy of an album previously possessed by former hedge fund manager and convicted felon Martin Shkreli. The album was recorded from 2007 to 2013 by what musical group?",
+            "answer": "wu-tang clan",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "75",
+            "d_percent": "67",
+            "e_percent": "57",
+            "r_percent": "63"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "While a certain book and staple of college writing courses is commonly known by the names of its coauthors (the first of whom originally published the 43-page book in 1918 and the second of whom enlarged it in 1959), it is also well-known by its official title, which is what? ",
+            "answer": "the elements of style",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "52",
+            "e_percent": "32",
+            "r_percent": "41"
+        },
+        {
+            "category": "ART",
+            "prompt": "Among the more popular works in the permanent collection of Washington, DC's National Portrait Gallery is a portrait by acclaimed painter Amy Sherald of what individual? (First and last name required.)",
+            "answer": "michelle obama",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "51",
+            "e_percent": "39",
+            "r_percent": "42"
+        }
+    ]
+}

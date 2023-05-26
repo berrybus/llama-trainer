@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 12,
+    "date": "November 19, 2020",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "While it is a somewhat popular name for girls in Spanish-speaking and Portuguese-speaking countries (and is the name of a city in Portugal where an apparition of Mary was reported in 1917), this name is much more common in the Muslim world, as it is the name of the daughter of the prophet Muhammad. What is that name?",
+            "answer": "fatima/fatimah",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "49",
+            "e_percent": "31",
+            "r_percent": "48"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "An Electrophonic console stereo, a brand-new Sherwood camping trailer, and an all-expenses-paid cruise for two to British Columbia were among the special prizes chosen just for the winners on what classic game show?",
+            "answer": "the newlywed game",
+            "image": null,
+            "a_percent": "23",
+            "b_percent": "15",
+            "c_percent": "13",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "7"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While Wisconsin's mascot is the Badger and Oregon's is the Duck, the two college football teams who played in January 2020 for the College Football Playoff National Championship both have what other mascot?",
+            "answer": "tiger",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "68",
+            "d_percent": "61",
+            "e_percent": "52",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The internet (as it exists today) stems from a network initiated in 1969 by a consortium of universities and private research groups funded by the Advanced Research Projects Agency of the United States Department of Defense. Correctly spell the acronym by which this network was most commonly known.",
+            "answer": "arpanet",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Gonga the Gorilla, the exhaustively tattooed O.E. Parker, the toothless General Sash, and the murderous \"Misfit\" are among the many grotesque characters created by what Southern Gothic author?",
+            "answer": "flannery o'connor",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "15"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The recipe for the cocktail known as a screwdriver, when vodka is replaced with sparkling wine (in a different ratio), becomes a recipe for what other cocktail\u2014likely served in a different glass?",
+            "answer": "mimosa",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "90",
+            "e_percent": "87",
+            "r_percent": "89"
+        }
+    ]
+}

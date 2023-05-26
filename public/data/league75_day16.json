@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 16,
+    "date": "December 7, 2017",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Who became, in June 2015, the first African American woman to be named a principal in the American Ballet Theater in its 75-year history?",
+            "answer": "misty copeland",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "43",
+            "c_percent": "38",
+            "d_percent": "35",
+            "e_percent": "29",
+            "r_percent": "34"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "According to the theme to The Jeffersons, fish don't fry in the kitchen, while what don't burn on the grill?",
+            "answer": "beans",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "51",
+            "c_percent": "41",
+            "d_percent": "34",
+            "e_percent": "25",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name any one of the four sovereign states whose land area sits entirely below the Tropic of Capricorn.",
+            "answer": "lesotho, new zealand, swaziland, uruguay",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "63",
+            "e_percent": "44",
+            "r_percent": "57"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A novel of religious satire by C.S. Lewis first published in 1942 takes the form of a series of letters to a \"Junior Tempter\" named Wormwood, with advice on how best to draw a particular Englishman into sin and, eventually, into Hell. These letters are written by Wormwood's uncle, a senior-level devil, who goes by what name?",
+            "answer": "screwtape",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A substance described as stannic, by definition, contains what element (especially with a valence of four)?",
+            "answer": "tin",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "58",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "20",
+            "r_percent": "35"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What is the term for the musical genre, synthesizing elements from blues, jazz, country and western, R&B, gospel, and other forms, that originated among the Cajuns and African American Creoles of southwest Louisiana in the early 20th century? The vest frottoir (or rub-board) is an instrument closely associated with the genre.",
+            "answer": "zydeco",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "58",
+            "e_percent": "37",
+            "r_percent": "50"
+        }
+    ]
+}

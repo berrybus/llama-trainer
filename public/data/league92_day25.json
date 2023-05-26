@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 25,
+    "date": "March 21, 2022",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The prolific English journalist, editor, and author G.K. Chesterton, a staunch conservative and fervent defender of the Catholic faith, is remembered for, among his many other works, a series of short stories featuring what gumshoe cleric?",
+            "answer": "father brown",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "49",
+            "c_percent": "38",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1962, what became the first Pacific small-island nation to gain independence from colonial powers? Its initial, directional two-word name was officially shortened to its current name in 1997 (either name is acceptable).",
+            "answer": "(western) samoa",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "51",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In Johnny Cash's Folsom Prison Blues, he sings about shooting a man in what city \"just to watch him die\"? While this city is about a two-hour drive from Folsom State Prison outside Sacramento, it's not in the same state (raising questions about jurisdiction or other possible crimes).",
+            "answer": "reno",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "97",
+            "d_percent": "94",
+            "e_percent": "85",
+            "r_percent": "88"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the online alias of YouTuber and entrepreneur Jimmy Donaldson, whose expensive stunt videos have helped him become one of the platform's highest earners, and whose virtual burger brand is sold from hundreds of locations in North America?",
+            "answer": "mrbeast",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "31",
+            "c_percent": "27",
+            "d_percent": "25",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In physics, an apparent force arising for an observer moving with a rotating system, and a reaction force that acts radially inwards on the object moving in the curve, are known by two similar terms. What is either of these standard terms?",
+            "answer": "centrifugal force, centripetal force",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "84",
+            "c_percent": "83",
+            "d_percent": "79",
+            "e_percent": "71",
+            "r_percent": "74"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the professional sports franchise that relocated from Syracuse, New York, in 1963, becoming\u2014with a name change\u2014the third active team (at the time) among the four major North American sports leagues to have a number as part of its name. (Note, full post-1963 team name including city is required.)",
+            "answer": "philadelphia 76ers",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "61",
+            "e_percent": "48",
+            "r_percent": "55"
+        }
+    ]
+}

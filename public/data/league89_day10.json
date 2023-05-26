@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 10,
+    "date": "May 28, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "In a 1975 film, the town of Westport, Connecticut, was among those that stood in for what fictional New York City suburb, where many of the men are business professionals, and most of the women are robots?",
+            "answer": "stepford",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "88",
+            "d_percent": "80",
+            "e_percent": "65",
+            "r_percent": "71"
+        },
+        {
+            "category": "ART",
+            "prompt": "An artistic term for a medieval and Renaissance technique, where paint is applied over gold leaf and partially scraped away, is today more commonly used\u2014minus its leading silent \"s\" and typically in the plural\u2014for a very different method and type of artistic expression. What is the term?",
+            "answer": "graffito/sgraffito/graffiti",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "33",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "15"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A subspecies of argali, a pale brown sheep native to Central Asia and considered to be the largest living sheep, has a common name referencing what person, who encountered the animal in the 13th century?",
+            "answer": "marco polo",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "56",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What word, which was invented in a classic work of literature in 1900, is now (in its plural version) a US trademark currently owned by an entity named DD IP Holder LLC?",
+            "answer": "munchkins",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "25",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "\"Satan Shoes\" are 666 pairs of altered Nike Air Max 97s produced and sold (drawing a lawsuit from Nike, Inc.) in 2021 by an art collective named MSCHF in collaboration with what rapper? ",
+            "answer": "lil nas x",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "78",
+            "d_percent": "73",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Battle of Karbala in 680 CE (61 AH) is significant for its role in a schism that created two separate entities, both of which still exist today. Give the common name for either of these two entities.",
+            "answer": "shi'a, sunni",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "62",
+            "e_percent": "44",
+            "r_percent": "57"
+        }
+    ]
+}

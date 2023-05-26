@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 7,
+    "date": "August 17, 2021",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What common first name (#59 for American boys born in 2020) is identical (in spelling though not pronunciation) to the Latin word for \"soldier\"?",
+            "answer": "miles",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "39",
+            "c_percent": "28",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The hydrocarbon methane, the simplest alkane, has the chemical formula CH4. What is the common name of the alkane with the formula C5H12?",
+            "answer": "pentane",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "24",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Mount Stromboli, which sits on (and essentially constitutes) its namesake island north of Sicily, is one of the three main active volcanoes in Italy, all of which have erupted in the last 100 years. Name both of the other two, which overlook the cities of Naples and Catania, respectively.",
+            "answer": "vesuvius, etna",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "62",
+            "e_percent": "38",
+            "r_percent": "53"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Calendar Round, a 52-year ritual cycle combining a solar and sacred calendar, and a Long Count calendar in which absolute dates were calculated from a zero date (equal to August 11, 3114 BCE), were cultural features of what people?",
+            "answer": "maya",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "71",
+            "e_percent": "65",
+            "r_percent": "69"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name any one of the three men who currently occupy the top three positions of the Official World Golf Ranking\u2014two Americans and a Spaniard, all of whom have won a major championship within the last 12 months.",
+            "answer": "jon rahm, dustin johnson, collin morikawa",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "39",
+            "c_percent": "33",
+            "d_percent": "28",
+            "e_percent": "24",
+            "r_percent": "27"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In mathematics, what is the term used for a set of quantities arranged in a rectangular array of rows and columns, typically enclosed in square brackets or large parentheses?",
+            "answer": "matrix",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "74",
+            "c_percent": "69",
+            "d_percent": "65",
+            "e_percent": "61",
+            "r_percent": "64"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 19,
+    "date": "December 13, 2018",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In beer brewing, what is the term for the sweet, amber liquid\u2014a combination of malt extracted from barley during the mashing process and water\u2014to which hops are added while boiling, and that the yeast will later ferment to produce alcohol?",
+            "answer": "wort",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "34",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Andrea McArdle became, in 1977, the youngest actor ever to be nominated for a Tony Award for her performance as the title character of what musical, in a role she originated on Broadway earlier that year?",
+            "answer": "annie",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "95",
+            "c_percent": "91",
+            "d_percent": "89",
+            "e_percent": "82",
+            "r_percent": "84"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The greatest landslide in a U.S. Presidential election since 1820 (when James Monroe ran virtually unopposed) occurred in the 20th century, when the winning candidate garnered 523 electoral votes (all but eight) and 60.8% of the popular vote. Identify either the Democratic or Republican nominee in this election.",
+            "answer": "franklin d. roosevelt, alf landon",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "39",
+            "c_percent": "32",
+            "d_percent": "30",
+            "e_percent": "27",
+            "r_percent": "35"
+        },
+        {
+            "category": "ART",
+            "prompt": "What ornamental design pattern, though commonly named after the Scottish town where shawls bearing the design were produced, actually originated in Persia, using a motif known as boteh (\"bush\")?",
+            "answer": "paisley",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "39",
+            "d_percent": "30",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The release of Cookie Lyon from prison, after serving seventeen years for drug dealing, is a central event in the January 2015 pilot episode of what television series?",
+            "answer": "empire",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "65",
+            "c_percent": "54",
+            "d_percent": "47",
+            "e_percent": "41",
+            "r_percent": "45"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Gunslinger, The Drawing of the Three, The Waste Lands, Wolves of the Calla, and Song of Susannah are among the titles of novels in what series of books, the last volume of which was released in 2004 (and shares its name with the series itself)?",
+            "answer": "the dark tower",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "44",
+            "e_percent": "37",
+            "r_percent": "43"
+        }
+    ]
+}

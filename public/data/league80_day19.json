@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 19,
+    "date": "March 19, 2019",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word is the English translation of the Spanish mariposa, the French papillon, the Italian farfalla, and the German Schmetterling?",
+            "answer": "butterfly",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "86",
+            "e_percent": "76",
+            "r_percent": "83"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What war was referred to contemporaneously by New Englanders, disparagingly, as \"Mr. Madison's War\"?",
+            "answer": "war of 1812",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "84",
+            "e_percent": "71",
+            "r_percent": "80"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Trevor Noah debuted as host of Comedy Central's The Daily Show on September 28, 2015, replacing Jon Stewart, whose tenure as host began in January 1999. Stewart replaced what comedian and former sports anchor, who hosted the show's premiere in July 1996?",
+            "answer": "craig kilborn",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "54",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The symbol cwt is the abbreviation for what unit of mass used in various systems of measurement? In the imperial system, it is equal to 112 lb.",
+            "answer": "hundredweight",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "40",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The now-popular casino card game baccarat is the cousin of a once-popular casino card game known colloquially as \"Shimmy\", which was displaced by baccarat in American casinos by the late 1950s. What is the actual, three-word name for \"Shimmy\"?",
+            "answer": "chemin de fer",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "19",
+            "c_percent": "9",
+            "d_percent": "6",
+            "e_percent": "2",
+            "r_percent": "6"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Kosoko Jackson's A Place for Wolves and Am\u00e9lie Wen Zhao's Blood Heir are debut novels by their respective authors that were each abruptly withdrawn from scheduled publication in 2019. These works are categorized within what genre, which received its own New York Times bestseller list in December 2012?",
+            "answer": "young adult (ya)",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "55",
+            "c_percent": "47",
+            "d_percent": "40",
+            "e_percent": "30",
+            "r_percent": "39"
+        }
+    ]
+}

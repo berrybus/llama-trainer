@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 1,
+    "date": "February 13, 2023",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the common one-word name for the large and complex (and massively labor-saving) modern farming machine that incorporates the harvesting activities of reaping, threshing, and winnowing into one process?",
+            "answer": "combine",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "74",
+            "e_percent": "60",
+            "r_percent": "63"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The first solo woman to receive a Tony award for playwriting was Wendy Wasserstein, who won the honor in 1989 for her Pulitzer-winning, multi-decade Chronicles of what woman (last name Holland)?",
+            "answer": "heidi",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "35",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "13"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The indigenous peoples of North America known as the Tlingit developed as a society and culture primarily in territory that is now a part of what US state?",
+            "answer": "alaska",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "64",
+            "d_percent": "58",
+            "e_percent": "46",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A perennial creeping plant with short spikes of purple or blue flowers of the genus Ajuga and a military signaling instrument that dates back to the 18th century share what name?",
+            "answer": "bugle",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "24",
+            "r_percent": "30"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What American food processing company fittingly identified the 2023 Super Bowl, which featured the Kansas City Chiefs vs. the Philadelphia Eagles, as a uniquely marketable opportunity to teach consumers about Roman numerals?",
+            "answer": "heinz",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "31"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"A landmark publication\u2026full of insight, revelation, self-examination, and hard-won wisdom about the eternal power of love over grief\" is what its publisher, Random House Books, calls Spare, a memoir written by whom?",
+            "answer": "prince harry, the duke of sussex",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "69",
+            "r_percent": "69"
+        }
+    ]
+}

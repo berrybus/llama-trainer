@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 2,
+    "date": "August 22, 2017",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The small dumplings, usually filled with minced meat or mashed potatoes, that are traditionally served on Rosh Hashanah or before the fasting of Yom Kippur are most commonly referred to by what Yiddish-derived name?",
+            "answer": "kreplach",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "31",
+            "c_percent": "23",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What syndicated daytime television series, an influential soap opera spoof that ran for two seasons and 325 episodes in the mid-1970s, featured Louise Lasser as the show's title heroine, heroine?",
+            "answer": "mary hartman, mary hartman",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "39",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What man served as the president of what was then Washington College in Lexington, Virginia, from September 1865 until his death in October 1870?",
+            "answer": "robert e. lee",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "86",
+            "d_percent": "77",
+            "e_percent": "61",
+            "r_percent": "66"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The vexillogically relevant term serp i molot (\u0441\u0435\u0440\u043f \u0438 \u043c\u043e\u0301\u043b\u043e\u0442) translates to English as what?",
+            "answer": "hammer and sickle (sickle and hammer)",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "57",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "11",
+            "r_percent": "24"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "If You Need Healing, Do These Things; The Miracle of Seed-Faith; and Something Good is Going to Happen to You! are works by what Pentecostal preacher and university founder?",
+            "answer": "oral roberts",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "42",
+            "d_percent": "32",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The pia mater, the arachnoid mater, and the dura mater are the three membranes that envelop the mammalian brain and spinal cord. They are known collectively by what term?",
+            "answer": "meninges",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "42",
+            "c_percent": "33",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "23"
+        }
+    ]
+}

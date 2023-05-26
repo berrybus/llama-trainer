@@ -49,7 +49,7 @@ interface AnswerRatio {
 
 const Home: NextPage = () => {
   const [minLeague, setMinLeague] = useState<number>(60);
-  const [maxLeague, setMaxLeague] = useState<number>(72);
+  const [maxLeague, setMaxLeague] = useState<number>(96);
   const [day, setDay] = useState<number>(1);
   const [league, setLeague] = useState<number>(60);
   const [prompt, setPrompt] = useState<string>("");
@@ -77,7 +77,7 @@ const Home: NextPage = () => {
   const fetchData = async () => {
     try {
       const newDay = randomInt(1, 25);
-      const newLeague = randomInt(60, 72);
+      const newLeague = randomInt(minLeague, maxLeague);
       setDay(newDay);
       setLeague(newLeague);
       console.log(`fetching league ${newLeague} on day ${newDay}`);
@@ -173,8 +173,10 @@ const Home: NextPage = () => {
     }
   };
 
-  let shouldShowImage = image !== "" && image.endsWith(".jpg");
-  let shouldShowLink = image !== "" && !image.endsWith(".jpg");
+  let shouldShowImage =
+    image !== "" && (image.endsWith(".jpg") || image.endsWith(".png"));
+  let shouldShowLink =
+    image !== "" && !(image.endsWith(".jpg") || image.endsWith(".png"));
   return (
     <div className="container mx-auto">
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
@@ -190,7 +192,13 @@ const Home: NextPage = () => {
                 </h3>
               </div>
               <p>{prompt}</p>
-              {shouldShowImage ? <img src={image} alt={image}></img> : ""}
+              {shouldShowImage ? (
+                <figure className="px-10 pt-10">
+                  <img src={image} alt={image}></img>
+                </figure>
+              ) : (
+                ""
+              )}
               {shouldShowLink ? (
                 <a
                   className="link"
@@ -222,7 +230,7 @@ const Home: NextPage = () => {
                   readOnly={isShowingAnswer}
                 />
                 <div
-                  className="tooltip tooltip-primary"
+                  className="tooltip tooltip-primary invisible md:visible"
                   data-tip={isShowingAnswer ? "Shortcut: N" : "Shortcut: Enter"}
                 >
                   <button
@@ -261,7 +269,7 @@ const Home: NextPage = () => {
               </tbody>
             </table>
             <h3 className="card-title">
-              Score: {answerRatio.correct}/{answerRatio.total}
+              Total score: {answerRatio.correct}/{answerRatio.total}
             </h3>
             <table className="table table-compact text-center">
               <thead>

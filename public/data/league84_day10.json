@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 10,
+    "date": "March 3, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The title of what 1986 Walter Hill-directed film is taken from the location where, according to legend, Mississippi Delta Bluesman Robert Johnson sold his soul to the devil in exchange for mastery of the blues guitar?",
+            "answer": "crossroads",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "63",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The 1979 autobiography A Time to Heal was written by what politician, who was first elected to the U.S. House of Representatives in 1948 and served on the Warren Commission after the assassination of President Kennedy in 1963?",
+            "answer": "gerald r. ford",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "American author O. Henry coined what term in the story \"The Admiral\", from his 1904 book Cabbages and Kings, describing the country of Honduras (which he fictionalized as \"Anchuria\"), where he lived for six months in the late 1890s?",
+            "answer": "banana republic",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "63",
+            "e_percent": "41",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Grand National, held at Aintree Racecourse near Liverpool annually beginning in 1839, is a National Hunt race that is what specific type of horse race, a term derived in part from the feature that was once used to mark the finish line in such races?",
+            "answer": "steeplechase",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "43"
+        },
+        {
+            "category": "ART",
+            "prompt": "A masterpiece of classical antiquity originally sculpted in bronze by Myron around 450 BCE portrays its subject in the midst of what athletic activity?",
+            "answer": "discus throwing",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "82",
+            "e_percent": "70",
+            "r_percent": "70"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Identify the television series where, in a 2007 fourth-season episode titled \"You Don't Want to Know\", a stage magician has a cardiac event while submerged during a Chinese Water Torture Cell act, with his diagnosis ultimately determined to be lupus!",
+            "answer": "house (m.d.)",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "71",
+            "e_percent": "63",
+            "r_percent": "65"
+        }
+    ]
+}

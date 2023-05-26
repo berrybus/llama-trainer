@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 20,
+    "date": "December 8, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What British pop act, while one of the most successful of the 1980s, only released a total of two studio albums during its formal five-year existence\u20141983's Fantastic and 1984's Make It Big?",
+            "answer": "wham!",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "63",
+            "d_percent": "52",
+            "e_percent": "40",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Love Medicine (1984), The Plague of Doves (2008), The Round House (2012), and The Night Watchman (2020) are novels by what Pulitzer winner, a pre-eminent author of Native American fiction?",
+            "answer": "louise erdrich",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The capital city and main port of French Guiana shares its name with a pepper native to the area. What is that name?",
+            "answer": "cayenne",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "75",
+            "c_percent": "62",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "50"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Harry Alonzo Longabaugh was the actual name of an outlaw, Wild Bunch member, title character of a 1969 Western movie, and film institute namesake who was known by what nickname?",
+            "answer": "the sundance kid",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "78",
+            "c_percent": "66",
+            "d_percent": "50",
+            "e_percent": "31",
+            "r_percent": "50"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Olympic gymnastics are divided into three categories: artistic gymnastics, rhythmic gymnastics, and a third introduced in 2000 and known as what? Belarus's Ivan Litvinovich and China's Xueying Zhu won gold in this category in Tokyo in 2021.",
+            "answer": "trampoline",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "33",
+            "d_percent": "24",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What city was the birthplace of American playwright August Wilson, in its predominantly African American Hill District, which also served as the setting for many of his plays?",
+            "answer": "pittsburgh",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "55",
+            "c_percent": "38",
+            "d_percent": "24",
+            "e_percent": "12",
+            "r_percent": "25"
+        }
+    ]
+}

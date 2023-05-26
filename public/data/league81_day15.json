@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 15,
+    "date": "June 12, 2019",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "What is the term in mathematics for the operation or number that leaves others unchanged when combined with them? In multiplication, it is one, while in addition, it is zero.",
+            "answer": "identity (element)",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "51",
+            "c_percent": "46",
+            "d_percent": "41",
+            "e_percent": "33",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The virtual eradication of yellow fever from the Panama Canal Zone was made possible in part by the research of what physician, army surgeon, and former military hospital namesake, who showed that the disease was transmitted by the Aedes aegypti mosquito?",
+            "answer": "walter reed",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "43",
+            "r_percent": "55"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The #1 game by global downloads in the iOS App Store and Google Play for 2018 is described by its maker, Voodoo Games, as an \"exciting adventure of the bouncing ball through the...tower labyrinth\". What is the name of that game?",
+            "answer": "helix jump",
+            "image": null,
+            "a_percent": "21",
+            "b_percent": "15",
+            "c_percent": "10",
+            "d_percent": "8",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The neurotic Captain Queeg is a literary character who commanded what naval warship, until being relieved of his command by Lt. Steve Maryk?",
+            "answer": "uss caine",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "47",
+            "c_percent": "33",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Battle of Balaclava, which occurred in October 1854 during the Crimean War, is remembered today for what failed military action, which was famously commemorated in verse six weeks later?",
+            "answer": "charge of the light brigade",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "79",
+            "d_percent": "62",
+            "e_percent": "33",
+            "r_percent": "54"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Arrays of houses, usually of the Victorian or Edwardian era, whose exteriors are decorated in various colors to enhance their architectural detail, are commonly referred to by what feminine term? The term was first used to describe the Victorian houses of \"Postcard Row\" in San Francisco, and has also been applied to Charleston's \"Rainbow Row\" and a set of houses in Baltimore's Charles Village.",
+            "answer": "painted ladies",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "61",
+            "c_percent": "55",
+            "d_percent": "45",
+            "e_percent": "37",
+            "r_percent": "46"
+        }
+    ]
+}

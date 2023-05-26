@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 24,
+    "date": "March 27, 2019",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What dynamic and charismatic entertainer was featured wearing an eyepatch on the cover of his debut album released in 1955, after a car accident the previous year resulted in the loss of his left eye?",
+            "answer": "sammy davis jr.",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What, according to the title of Flannery O'Connor's short story masterpiece first published in 1953, is \"A Good Man\"?",
+            "answer": "hard to find",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "41",
+            "r_percent": "54"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The narrow, five-to-seven-kilometer wide Isthmus of Perekop connects what peninsula to the mainland of Eastern Europe?",
+            "answer": "crimea",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "47",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "36"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the common name of the flowering plant Salvia hispanica, a species of the mint family native to central and southern Mexico, whose seeds were popular for a time in the 1980s (and still sold today) as \"pets\"?",
+            "answer": "chia",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "89",
+            "c_percent": "86",
+            "d_percent": "84",
+            "e_percent": "79",
+            "r_percent": "82"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "An important figure in La Navidad has a name that is a near-homonym for dark lowland plains (note plural) on the Moon. What is either name?",
+            "answer": "mar\u00eda/maria",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The PGA Tour's championship trophy, first won in 2007 by Tiger Woods, is a \"Cup\" that has, since its inauguration, been sponsored by (and named after) what corporation?",
+            "answer": "fedex",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "41",
+            "c_percent": "38",
+            "d_percent": "34",
+            "e_percent": "29",
+            "r_percent": "35"
+        }
+    ]
+}

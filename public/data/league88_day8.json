@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 8,
+    "date": "March 3, 2021",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "The body part in humans (and some other animals) that in ancient Rome would have been referred to as pollex would today, in modern Rome, be called il pollice, and in English would most commonly be called what?",
+            "answer": "thumb",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "With all twenty-two of its US-released singles reaching the Billboard Top 40 and five consecutive albums reaching #1 (with a sixth reaching #2), what band was one of the most successful rock acts of the 1970s (but not the most successful of its leader's career)?",
+            "answer": "(paul mccartney and) wings",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "25",
+            "r_percent": "30"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The largest accession of territory by the United States was the roughly 827,000-square-mile Louisiana Purchase in 1803. Second-largest, sixty-four years later, was over 586,000 square miles of territory formally known by what name?",
+            "answer": "alaska (russian america)",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "68",
+            "d_percent": "57",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The National Highway Traffic Safety Administration-mandated bar of steel tubing that is installed on the rear underside of tractor-trailers to prevent \"underride\" collisions is known as an underride guard, ICC bar, or DOT bumper. However, it's perhaps best known by a name referencing what Hollywood star because of a tragic event in June 1967?",
+            "answer": "jayne mansfield",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Per the sitcom's sixth episode in 1974, a TV character\u2014whose real name was Warren Weber\u2014received, from his mom, his nickname that referenced that he liked to make things with clay. What was that nickname?",
+            "answer": "potsie",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What obsolete medical term completes the title of Ben Jonson's Every Man in His ______, a comedy in which each of the four main characters is stereotyped with one ruling temperament (sanguine, phlegmatic, choleric, and melancholic)?",
+            "answer": "humour",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "67",
+            "e_percent": "46",
+            "r_percent": "57"
+        }
+    ]
+}

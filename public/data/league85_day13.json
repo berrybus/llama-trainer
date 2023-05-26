@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 13,
+    "date": "June 9, 2020",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Samuel Beckett's Waiting for Godot and Eugene Ionesco's The Bald Soprano are widely considered works within a classification known as \"Theatre of the\" what? The designation, and the term itself, were inspired by an assessment of the human condition presented by Albert Camus in 1942's The Myth of Sisyphus.",
+            "answer": "absurd",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "87",
+            "d_percent": "76",
+            "e_percent": "56",
+            "r_percent": "68"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "When the sun and moon are aligned at times of full or new moon, their combined gravitational pull produces a tide range known as spring tides. What is the associated term for tides when the sun and moon exert perpendicular forces, during a waxing or waning half moon?",
+            "answer": "neap tides",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "52",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "35"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What Durham native did British Prime Minister Boris Johnson name to the newly formed position of Chief Adviser to Prime Minister on July 24, 2019?",
+            "answer": "dominic cummings",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "23"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A section along the parallel 39\u00b0 42' 23.6\" in the eastern United States is known by what name?",
+            "answer": "mason-dixon line",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "68",
+            "e_percent": "52",
+            "r_percent": "57"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What is the English title of the 1957 Ingmar Bergman film, his first popular success in the U.S., which in his native Swedish is an untranslatable idiom roughly meaning a personal, private, treasured place (Smultronst\u00e4llet), but in English sounds like something one might find on a hike or foraging expedition?",
+            "answer": "wild strawberries",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In a ranking of ten basic types of (non-wildcard) poker hands, with a Royal Flush being #1 and High Card being #10, what hand is in position #4?",
+            "answer": "full house",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "61",
+            "e_percent": "55",
+            "r_percent": "59"
+        }
+    ]
+}

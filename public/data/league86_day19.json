@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 19,
+    "date": "September 15, 2020",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "The actors Letitia Wright, Uzo Aduba, and Tatiana Maslany have received nominations for Primetime Emmy Awards (with the latter two winning) for their performances on different series that all include what word in their titles?",
+            "answer": "black",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "62",
+            "e_percent": "52",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A short story by Shirley Jackson, first published in The New Yorker magazine in 1948, details a festive (and horrific) annual event in a small town in rural America. Per the story's title, what type of event is it?",
+            "answer": "lottery",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "79",
+            "c_percent": "67",
+            "d_percent": "56",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "An atom (or group of atoms) that has lost one or more electrons, making it positively charged, is a specific type of ion known by what name?",
+            "answer": "cation",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "53",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The most massive known accumulation of coral lies in a reef (actually a system of reefs and islands) known by what name?",
+            "answer": "great barrier reef",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "96",
+            "c_percent": "95",
+            "d_percent": "93",
+            "e_percent": "91",
+            "r_percent": "91"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "On July 17, 2020, DJ Khaled dropped two songs featuring Drake, both of which entered the Billboard Hot 100 in the top ten. Give the one-word title of either song\u2014one of which is an apt description of either artist, the other of which is the only European country where the song reached #1.",
+            "answer": "popstar, greece",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "34",
+            "c_percent": "27",
+            "d_percent": "22",
+            "e_percent": "17",
+            "r_percent": "30"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the term most often applied to a three-paneled carving or painting with the two outer panels (wings) hinged so that they can cover the center? Hieronymus Bosch's The Garden of Earthly Delights is an example.",
+            "answer": "triptych",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "71",
+            "e_percent": "50",
+            "r_percent": "60"
+        }
+    ]
+}

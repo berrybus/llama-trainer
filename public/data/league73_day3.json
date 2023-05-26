@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 3,
+    "date": "May 17, 2017",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "What name precedes the following phrases in titles of television series? House of Payne; Meet the Browns; Love Thy Neighbor.",
+            "answer": "tyler perry",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "79",
+            "d_percent": "71",
+            "e_percent": "68",
+            "r_percent": "67"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "As of the 1860 U.S. Census, what was the most populous city in what would become the Confederate States of America? It was roughly four times more populated than the CSA's second-largest city, Charleston.",
+            "answer": "new orleans",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "50",
+            "c_percent": "38",
+            "d_percent": "27",
+            "e_percent": "16",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The supposed fossilized human-like remains presented by Charles Dawson beginning in 1912, which were exposed in 1953 as a forgery, are known by a name referencing the village in East Sussex, England, where the bone fragments were \"discovered.\" What is that village?",
+            "answer": "piltdown",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "66",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "12",
+            "r_percent": "30"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Give any one of the three rhyming titles that comprise American bohemian writer Henry Miller's Rosy Crucifixion trilogy, all of which were initially banned in the U.S. but ultimately published in 1965.",
+            "answer": "sexus, plexus, nexus",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "24",
+            "c_percent": "18",
+            "d_percent": "9",
+            "e_percent": "3",
+            "r_percent": "12"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Blonde d'Aquitaine, Simmental, Limousin, Charolais, and Belgian Blue are all continental European breeds of what?",
+            "answer": "cattle",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "French business magnate Bernard Arnault is the Chairman and CEO of a luxury goods conglomerate whose name is oddly complicated but is typically reduced to an initialism referencing some of the company's many brands. What are those initials?",
+            "answer": "lvmh",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "33",
+            "c_percent": "24",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "20"
+        }
+    ]
+}

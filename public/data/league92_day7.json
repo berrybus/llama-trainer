@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 7,
+    "date": "February 23, 2022",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the title character's name in DuBose Heyward's lyrical 1925 novel, which describes the adventures of a disabled African American street beggar (and his mistress) living among the tenements of Catfish Row in Charleston, South Carolina?",
+            "answer": "porgy",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "56",
+            "c_percent": "40",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Colonel John T. Thompson was an inventor whose best-known creation is associated most closely with American gangsters of the Prohibition era. What is the common name used for this invention?",
+            "answer": "tommy gun",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "74",
+            "e_percent": "61",
+            "r_percent": "68"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The principal religious structure in Ancient Rome was a temple on Capitoline Hill dedicated to what Roman god, who was referred to generally (and in the name of this temple) as \"Optimus Maximus\"?",
+            "answer": "jupiter (jove)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "69",
+            "e_percent": "50",
+            "r_percent": "61"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A character played by Tom Hanks repeatedly and desperately yells the last name of Hanks's real-life wife during a poignant scene in what film?",
+            "answer": "cast away",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "79",
+            "e_percent": "71",
+            "r_percent": "73"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "British pathologist Michael Anthony Epstein is credited with discovering the virus (of the family Herpesviridae and genus Lymphocryptovirus) that is associated with several human cancers and causes infectious mononucleosis. He made this discovery along with B.G. Achong and what Irish-born virologist?",
+            "answer": "yvonne barr",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "33"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The folk tale character Henny Penny is also known (particularly in the United States) by a different two-word name that is also the name of a menu item at most KFC locations. What is that name?",
+            "answer": "chicken little",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "42",
+            "r_percent": "53"
+        }
+    ]
+}

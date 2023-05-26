@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 16,
+    "date": "March 15, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "1984's W.O.W. was the debut solo album for what provocative artist, who had previously played chainsaw and machine gun and sang lead vocals for The Plasmatics?",
+            "answer": "wendy o. williams",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "28",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "ART",
+            "prompt": "In 1905, the critic Louis Vauxcelles coined (inadvertently) the term for what artistic movement, in a derogatory remark regarding the work of Andre Derain and Henri Matisse at the Salon d'Automne in Paris?",
+            "answer": "fauvism",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "35",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "16"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A popular television series from the early 1960s featured the adventures of two young travelers crossing the country on what highway, which provided the series its title?",
+            "answer": "route 66",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "93",
+            "e_percent": "86",
+            "r_percent": "89"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Indian-administered territory of Ladakh, the Pakistani-administered territories of Gilgit-Baltistan and AJK, and the Chinese-administered territories of Aksai Chin and the Trans-Karakoram Tract are among those located within a geographical region best-known by what name?",
+            "answer": "kashmir",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "41"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Ficelle, which means \"string\" in French, is also the name for a certain perishable item. What other item, very similar to a ficelle but thicker (and occasionally longer), means \"stick\", \"baton\", or \"rod\"?",
+            "answer": "baguette",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In 1966, Harvard University clinical psychologist Timothy Leary organized a spiritual organization that had what three-letter abbreviation\u2014surely by purposeful design and not coincidence, as it was the same as the organization's \"sacrament\"?",
+            "answer": "lsd",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "77",
+            "e_percent": "57",
+            "r_percent": "69"
+        }
+    ]
+}

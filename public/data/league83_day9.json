@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 9,
+    "date": "November 25, 2019",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the British peer who served as the Crown's Lord Lieutenant of Ireland from 1798 to 1801 and as its Governor-General of the Presidency of Fort William (a.k.a viceroy of India) from 1786 to 1793, though he is best remembered stateside for his actions in Virginia in 1781.",
+            "answer": "charles cornwallis",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "70",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "39"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What mathematical term is used to designate a trapezoid (in the UK, a trapezium) having its two non-parallel sides of equal length? Such a shape is also sometimes referred to as a regular trapezoid.",
+            "answer": "isosceles",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "20",
+            "e_percent": "14",
+            "r_percent": "23"
+        },
+        {
+            "category": "FILM",
+            "prompt": "1942's Woman of the Year was the first, Keeper of the Flame was the second later that same year, and 1957's Desk Set was the eighth of the nine total films that starred what two Hollywood legends?",
+            "answer": "katharine hepburn, spencer tracy",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "42",
+            "d_percent": "30",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"In the criminal justice system, sexually based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the\" what?",
+            "answer": "special victims unit (svu)",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "93",
+            "d_percent": "89",
+            "e_percent": "84",
+            "r_percent": "85"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Corundum, a mineral form of aluminum oxide (Al2O3) naturally transparent in its pure state, is perhaps best-known (and most desired) in its impure varieties. Give the name of either of the two primary varieties of corundum.",
+            "answer": "ruby, sapphire",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "43",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What national capital is the most populous predominantly English-speaking city in the Caribbean?",
+            "answer": "kingston",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "66",
+            "e_percent": "51",
+            "r_percent": "61"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 16,
+    "date": "March 11, 2020",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "The difference between how words such as \"programme,\" \"centre,\" \"offence,\" and \"colour\" are spelled in the US versus many other parts of the Anglophone world results largely from the English language spelling reform efforts of what American, and his Compendious 1806 work?",
+            "answer": "noah webster",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "69",
+            "e_percent": "53",
+            "r_percent": "57"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The 1st United States Volunteer Cavalry, raised for service in the Spanish-American War of 1898 by Col. Leonard Wood and Lt. Col. Theodore Roosevelt, was known colloquially by what name?",
+            "answer": "rough riders",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "84",
+            "e_percent": "68",
+            "r_percent": "74"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Business executive and current international fugitive Carlos Ghosn was, at the time of his initial arrest in November 2018, chairman of an alliance among three automakers (as well as chairman of each individual company). Mitsubishi was one of the three. Name both of the other two.",
+            "answer": "renault, nissan",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "37",
+            "c_percent": "30",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the influential monthly series that premiered on MTV in May 1989 and was hosted initially (and most famously) by Cindy Crawford and subsequently by other supermodels such as Rebecca Romijn, Shalom Harlow, Amber Valletta, and Molly Sims, until the cancellation of its regular run in 2000.",
+            "answer": "house of style",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "35",
+            "c_percent": "26",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The hexadecimal equivalent to the decimal number 2989 spells the name of what hit album released in 1987?",
+            "answer": "bad",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "33",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What was the last name of the baby kidnapped in a 1987 crime farce that is also the location where the kidnapping (by characters Hi and Ed) occurred?",
+            "answer": "arizona",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "56",
+            "e_percent": "39",
+            "r_percent": "45"
+        }
+    ]
+}

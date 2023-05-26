@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 8,
+    "date": "June 11, 2018",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What musician and 27-time Grammy winner (a record co-holder among living artists) is the leader of the bluegrass music band Union Station?",
+            "answer": "alison krauss",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "57",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "24",
+            "r_percent": "31"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name of the mausoleum commissioned in 1632 by Mughal Emperor Shah Jahan in memory of his favorite wife, Arjumand Banu Begum?",
+            "answer": "taj mahal",
+            "image": null,
+            "a_percent": "100",
+            "b_percent": "99",
+            "c_percent": "97",
+            "d_percent": "94",
+            "e_percent": "86",
+            "r_percent": "91"
+        },
+        {
+            "category": "ART",
+            "prompt": "Who designed the work of art in the foreground of this photo? ",
+            "answer": "filippo brunelleschi",
+            "image": "/images/art/98u34m0982u.jpg",
+            "a_percent": "48",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Classico, Montalbano, and R\u00f9fina are among the eight \"zones\" where what Tuscan red wine is produced? ",
+            "answer": "chianti",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "51",
+            "r_percent": "58"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "On one side of the standard Canadian two-dollar coin (\"toonie\") is a portrait of Queen Elizabeth II, while on the other side is an image of what carnivore?",
+            "answer": "(polar) bear",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "47",
+            "e_percent": "41",
+            "r_percent": "49"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Early in the game play of Pok\u00e9mon Go, players join one of three teams that serve as contingents battling to control Gyms within the Pok\u00e9mon Go world. Name any one of these three color-coded teams, corresponding to red, blue, and yellow, respectively.",
+            "answer": "valor, mystic, instinct",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "31",
+            "c_percent": "28",
+            "d_percent": "25",
+            "e_percent": "23",
+            "r_percent": "31"
+        }
+    ]
+}

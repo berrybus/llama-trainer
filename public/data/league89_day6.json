@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 6,
+    "date": "May 24, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A college in Hartford, Connecticut, and a university in San Antonio, Texas, are two major degree-awarding institutions with what name (a college in Dublin, Ireland, is among those that would make three)?",
+            "answer": "trinity",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "60",
+            "r_percent": "68"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Filariasis, a disease originated by various nematode worms, can give rise to enlargement of lymph nodes and blockage of lymph channels, resulting in massive swelling of certain parts of the human body\u2014a condition named after what animal?",
+            "answer": "elephant",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "80",
+            "e_percent": "72",
+            "r_percent": "75"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the name of the pop-vocal quintet formed in the late 1960s featuring Marilyn McCoo and Florence LaRue which, despite its name, was visible to humans and did not appear to involve the unification of the forces of gravity and magnetism?",
+            "answer": "the fifth dimension",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "44",
+            "c_percent": "32",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Though Americans won eight consecutive gold medals beginning with the first modern Olympiad in 1896, from 1960 to 1992, Dick Fosbury was the only male competitor from the U.S. to win the gold (in 1968) in what Olympic event?",
+            "answer": "high jump",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "63",
+            "c_percent": "54",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "38"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Franziska Donner was the inaugural first lady of what country, located 5,000 miles from her homeland of Austria? She served in the role starting in 1948 until her husband's resignation during the April Revolution of 1960, from which point they lived in exile in Hawaii.",
+            "answer": "south korea",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "20",
+            "c_percent": "12",
+            "d_percent": "5",
+            "e_percent": "3",
+            "r_percent": "9"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Australian director P.J. Hogan's hit indie film from 1994 starring Toni Collette, and his big-budget follow-up from 1997 starring Julia Roberts and Dermot Mulroney, both prominently feature what type of event (both in plot and in title)?",
+            "answer": "wedding",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "69",
+            "r_percent": "72"
+        }
+    ]
+}

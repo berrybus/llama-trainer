@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 6,
+    "date": "August 16, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the common name of the cake, which originated in the early 1900s and is similar to devil's food cake, whose recipe today often includes simple cochineal food coloring, but traditionally used beetroot or anthocyanin-rich cocoa?",
+            "answer": "red velvet cake",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "88",
+            "e_percent": "83",
+            "r_percent": "86"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Identify the book, in possession of Trinity College in Dublin since 1661, that is named after the abbey in County Meath where it was kept for centuries prior (and perhaps where it was created).",
+            "answer": "the book of kells",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Bundles of rods bound with straps or thongs, which were a sign of administrative or regal authority in and around ancient Rome, gave their name millennia later to what political ideology?",
+            "answer": "fascism",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "71",
+            "d_percent": "58",
+            "e_percent": "36",
+            "r_percent": "53"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "During a period from 2003 to 2008, Billboard magazine's Modern Rock Tracks chart was dominated by five bands, who held the chart's #1 spot nearly half the time (152 of 313 weeks). Name any one of these five bands.",
+            "answer": "foo fighters, green day, incubus, linkin park, red hot chili peppers (also acc. nine inch nails, weezer, the offspring)",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "35",
+            "c_percent": "33",
+            "d_percent": "31",
+            "e_percent": "30",
+            "r_percent": "32"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A Spanish word that means \"they will go\" is also, in Spanish, the name of an independent nation. It is very similar to the country's name in English, which is what?",
+            "answer": "iran",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Give the complete name of the Hollywood star who portrayed Sarah Reeves Merrin on Party of Five, Melinda Gordon on Ghost Whisperer, and Julie James in the first two I Know What You Did Last Summer movies.",
+            "answer": "jennifer love hewitt",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "61",
+            "d_percent": "55",
+            "e_percent": "44",
+            "r_percent": "49"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 23,
+    "date": "September 21, 2020",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "At the time of the dissolution of the USSR in 1991, Russia was by far the most populous Soviet republic, with nearly 150 million people. Which of the other fourteen republics was the least populous, at about one percent of Russia's population?",
+            "answer": "estonia",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "25",
+            "c_percent": "20",
+            "d_percent": "15",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In the title of Susan Glaspell's 1931 Pulitzer-winning play, it was \"Alison's\", while John Guare's Obie-winner from 1971 was \"of Blue Leaves\", and Sarah Ruhl's 2005 comedy and Pulitzer finalist was \"Clean\". What is the item in question?",
+            "answer": "house",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "47",
+            "d_percent": "38",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1926's The Murder of Roger Ackroyd earned the first major recognition for what author, who also wrote romantic novels (such as 1944's Absent in the Spring) under the pseudonym Mary Westmacott?",
+            "answer": "agatha christie",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "58"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "French-born Kylian Mbapp\u00e9 appears on the cover of the latest, to-be-released installment of what popular video game series?",
+            "answer": "fifa",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Occultist Aleister Crowley's first published novel was titled Diary of a Drug Fiend. Name the artist\u2014arguably once a drug fiend himself\u2014whose second solo album is titled Diary of a Madman, and whose first solo album features the song \"Mr. Crowley\".",
+            "answer": "ozzy osbourne",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "47",
+            "e_percent": "37",
+            "r_percent": "49"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The concept that a theory should not propose the existence of anything more than what is needed for its explanation\u2014specifically, \"do not multiply entities beyond necessity\"\u2014is sometimes called the \"principle of parsimony\", but more often named after (and attributed to) an English philosopher from what village in the county of Surrey?",
+            "answer": "ockham",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "62",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "47"
+        }
+    ]
+}

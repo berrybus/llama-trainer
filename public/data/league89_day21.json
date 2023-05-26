@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 21,
+    "date": "June 15, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In 1876, Felix Adler founded an organization (and movement), stressing the importance of morality and ethics in human interaction, that he named the Society for Ethical what?",
+            "answer": "culture",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "33",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "19"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Reilly is to Ferrell (2018) as Burke is to Brett (1984-94) as Bruce is to Rathbone (1939-46) as Morell is to Cushing (1959) as Freeman is to whom (2010-17)?",
+            "answer": "cumberbatch",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "40"
+        },
+        {
+            "category": "ART",
+            "prompt": "In an 1821 painting by John Constable, likely his most famous, a group of peasants gather hay while horses pull a cart known (per the painting's title) as a what?",
+            "answer": "wain",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "29",
+            "c_percent": "17",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Acclaimed American actor and singer Paul Robeson, whose international fame was established via his performance of \"Ol' Man River\" in Show Boat, was also closely identified with what Shakespeare character, whom he portrayed in London (1930) and on Broadway (1943)?",
+            "answer": "othello",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the king of Greek mythology whose foolish wish was granted by Dionysus, rendering him unable to eat (among other troubles) until he gained relief by bathing in the River Pactolus.",
+            "answer": "midas",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "73",
+            "e_percent": "57",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What dynasty ruled most of northern India from 1526 until the mid-18th century, beginning with Babur, prospering under Akbar, and reaching its peak under Shah Jahan?",
+            "answer": "moghul/mughal",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "34"
+        }
+    ]
+}

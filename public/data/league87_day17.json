@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 17,
+    "date": "December 3, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was American singer-songwriter Meghan Trainor's 2014 debut single all about?",
+            "answer": "that bass",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "82",
+            "e_percent": "76",
+            "r_percent": "79"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the Spanish islands known as the Balearic Islands, the largest in area is Mallorca, and the second-largest is Menorca. What island is third?",
+            "answer": "ibiza",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "50",
+            "e_percent": "35",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A scientific instrument named after James Webb, scheduled for implementation in October 2021, is intended to replace a similar instrument named after what other American? ",
+            "answer": "edwin hubble",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "79",
+            "e_percent": "65",
+            "r_percent": "72"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Written beginning around 900 BCE, the texts that make up the final portion of the Vedas (and thus are also known also as the Vedanta\u2014\"End of the Vedas\") and form the basis of Hindu religion and philosophy are best known by what name?",
+            "answer": "upanishads",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "18",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "10"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Art of This Century gallery, which existed in New York from 1942 to 1947, was a primary showcase for Abstract Expressionism during its early period. Name the famous art patron and collector who operated this gallery, and played an important role in avant-garde art in America (where she was born) and Europe (where she spent much of her life)?",
+            "answer": "peggy guggenheim",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "51",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The July 2002 bankruptcy of the accounting firm Arthur Andersen was a culmination of events set in motion by the unraveling of a financial scheme a few months prior within what other company, whose December 2001 Chapter 11 filing was the largest corporate bankruptcy in history at the time?",
+            "answer": "enron",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "86",
+            "e_percent": "77",
+            "r_percent": "80"
+        }
+    ]
+}

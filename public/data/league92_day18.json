@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 18,
+    "date": "March 10, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term (or common abbreviation) for the method invented by American engineer Edwin Howard Armstrong by which radio waves are altered for broadcast signal transmission, which provided an advantage over its (still-common) predecessor due to its better signal-to-noise ratio?",
+            "answer": "frequency modulation (fm)",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "79",
+            "e_percent": "69",
+            "r_percent": "76"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What satirical title character from an early 1990s Disney animated comedy television series was the superheroic alter ego of unremarkable suburban avian Drake Mallard?",
+            "answer": "darkwing duck",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "62",
+            "e_percent": "52",
+            "r_percent": "56"
+        },
+        {
+            "category": "ART",
+            "prompt": "One of the best-known (and perhaps quintessential) works of modern video art, which has been met with wildly divergent critical and public opinion, is what seven-hour, five-film \"Cycle\" by American artist Matthew Barney?",
+            "answer": "the cremaster cycle",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "18",
+            "c_percent": "13",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "9"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "As published in the New York Charities Directory of 1917, what organization\u2014incorporated six years prior\u2014conceived as its mission to \"make 12 million Americans physically free from peonage, mentally free from ignorance, politically free from disenfranchisement, and socially free from insult\"?",
+            "answer": "naacp",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Khao San Road, a 1,345-foot-long travel hub that reportedly hosts the largest transient backpacker population in the world, is located in what city?",
+            "answer": "bangkok",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "59",
+            "d_percent": "52",
+            "e_percent": "38",
+            "r_percent": "51"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "One player states a word and a number and nothing else (e.g. \"breakfast, three\"), and their partner subsequently begins pointing at cards lying on the table between them in a 5x5 grid. They are likely playing what popular game, designed by Czech game designer Vlaada Chv\u00e1til and published in 2015?",
+            "answer": "codenames",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "50",
+            "c_percent": "46",
+            "d_percent": "47",
+            "e_percent": "46",
+            "r_percent": "45"
+        }
+    ]
+}

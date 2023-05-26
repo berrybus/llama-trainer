@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 25,
+    "date": "June 25, 2020",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Until Android 10 in September 2019, versions of the mobile operating system were named in alphabetical order using a sugary treat-themed naming scheme. What was the name for Android version 6, which was released in 2015 between \"Lollipop\" and \"Nougat\"?",
+            "answer": "marshmallow",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "68",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "52",
+            "r_percent": "58"
+        },
+        {
+            "category": "FILM",
+            "prompt": "An acting duo that appeared together in 2015's Joy, 2014's Serena, and 2013's American Hustle first appeared together in what 2012 film?",
+            "answer": "silver linings playbook",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "61",
+            "e_percent": "54",
+            "r_percent": "59"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Lions Gate Bridge, the Granville Street Bridge, and the Alex Fraser Bridge are all bridges located within the metro area of what city?",
+            "answer": "vancouver",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "34",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "As per their name, a tribe in Greek mythology lured Odysseus's scouts to eat what, after which the men had to be dragged back to their ship and chained to benches?",
+            "answer": "lotus",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "38",
+            "e_percent": "20",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the early 16th century, the government of the Republic of Venice forced the city's Jewish residents to live in an area known by what name\u2014the first use of a term that endures to this day?",
+            "answer": "ghetto",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "97",
+            "d_percent": "95",
+            "e_percent": "87",
+            "r_percent": "92"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "German-born model Rob Pilatus and French gymnast Fabrice Morvan did not sing on any successful pop albums from the 1980s, but most notably they didn't sing on the hit debut by what group?",
+            "answer": "milli vanilli",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "57",
+            "e_percent": "42",
+            "r_percent": "48"
+        }
+    ]
+}

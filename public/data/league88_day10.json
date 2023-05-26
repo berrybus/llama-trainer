@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 10,
+    "date": "March 5, 2021",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A pair of shell-shaped objects, carved from boxwood, walnut, or other wood, with the hollowed sides facing each other and connected by a cord, comprises what musical instrument associated with Spanish folk dance?",
+            "answer": "castanets",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Though he adopted various pseudonyms during his lifetime, including \"Walter\" and \"Rudi\", the revolutionary born in 1892 with the name Josip Broz, in what at the time was Austria-Hungary, was best-known by what other name?",
+            "answer": "tito",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "54",
+            "c_percent": "38",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Jacques Plante, who was born in Quebec in 1929, is widely regarded as the individual who first popularized what now-commonplace sporting (and, to a lesser degree, cinematic) accoutrement?",
+            "answer": "hockey/goalie mask",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "60",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "29"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A book from 2013 by design expert Jude Stewart is subtitled An Exceedingly Surprising Book About Color. What is this book's main title, which is the name of a made-up person also associated tangentially with the pattern that appears on the LGBT pride flag? Note, full name with middle initial required.",
+            "answer": "roy g. biv",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "62",
+            "e_percent": "49",
+            "r_percent": "57"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A structural parallel to Robert Louis Stevenson's Dr. Jekyll and Mr. Hyde can be found in what 1963 comedy film, as well as its 1996 remake?",
+            "answer": "the nutty professor",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The binary number 1111110001, which equals the hexadecimal number 3F1, when converted to Roman numerals, spells what English word? It is one of the very few common words which are valid Roman numbers.",
+            "answer": "mix",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "64",
+            "e_percent": "51",
+            "r_percent": "63"
+        }
+    ]
+}

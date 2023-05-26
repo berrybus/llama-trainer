@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 15,
+    "date": "September 10, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "For her three works in the Broken Earth series (The Fifth Season, The Obelisk Gate, and The Stone Sky), what American novelist has won the science fiction literary award known as the Hugo Award (in the Best Novel category) for three years running?",
+            "answer": "n. k. jemisin",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "26",
+            "c_percent": "20",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On the evening of August 20, 2018, protestors toppled a statue of a Confederate soldier named \"Silent Sam\" that stood since 1913 on the northern edge of the campus of what university?",
+            "answer": "university of north carolina",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "64",
+            "d_percent": "55",
+            "e_percent": "41",
+            "r_percent": "52"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"In the spring of 1980, the port at Mariel Harbor was opened, and thousands set sail for the United States. They came in search of the American Dream.\" This text appears on a poster\u2014popular in American college dorm rooms occupied by males and in homes of artists featured on MTV Cribs\u2014for what 1983 film, a remake of a 1932 Howard Hawks classic?",
+            "answer": "scarface",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "41",
+            "r_percent": "51"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The disease beriberi is caused by the absence in one's diet of vitamin B1, a vitamin that is also known commonly by what name?",
+            "answer": "thiamine",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "43",
+            "c_percent": "32",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "24"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the man who became Japan's War Minister in 1940 and Prime Minister in 1941, serving the latter role until 1944. He was hanged as a war criminal in December 1948.",
+            "answer": "hideki tojo",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "28",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "List the three races of the U.S. Triple Crown of Thoroughbred Racing in order from shortest to longest in distance (i.e., length of the track).",
+            "answer": "preakness stakes, kentucky derby, belmont stakes",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "45",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "25",
+            "r_percent": "29"
+        }
+    ]
+}

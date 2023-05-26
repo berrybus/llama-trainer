@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 11,
+    "date": "September 13, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 2021, UNESCO officially inscribed as a World Heritage site a transnational \"Great Spas of Europe\", consisting of eleven spa towns across seven countries. What city in central France\u2014very much well known (and notorious) historically for something other than its holiday appeal\u2014is that country's only representative on the list?",
+            "answer": "vichy",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While it is now sponsored by vacation rental marketplace Vrbo, the Fiesta Bowl, played every January in the Phoenix metro area, was title-sponsored from 1996 to 2014 by what snack brand?",
+            "answer": "tostitos",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "76",
+            "d_percent": "71",
+            "e_percent": "64",
+            "r_percent": "68"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Many countries of the world, including France, Australia, the United States, and the United Kingdom, have flags comprising red, white, and blue. What is the only United Nations member whose famous and distinctive flag contains none of those three colors (or any arguable shades thereof)?",
+            "answer": "jamaica",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What adjective, used in mathematics, probability, and other fields (frequently to describe variables, processes, matrices, etc.), comes from the Greek for \"guess\" and is often used essentially as a synonym for \"random\"?",
+            "answer": "stochastic",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "35",
+            "c_percent": "29",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "19"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Chevalier Ren\u00e9 d'Herblay, the Count de la F\u00e8re, and the Baron du Vallon de Bracieux de Pierrefonds are the title characters (though not necessarily the best-known names of those characters) from what 1844 novel?",
+            "answer": "the three musketeers",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "83",
+            "e_percent": "66",
+            "r_percent": "71"
+        },
+        {
+            "category": "ART",
+            "prompt": "Among the most notable works of contemporary British artist Jenny Saville are large-scale paintings featuring voluminous and sometimes arguably grotesque depictions of what? A prime example is her 1992 painting Propped, which sold in 2018 for \u00a39.5 million, the most ever at auction for a living female artist.",
+            "answer": "human form/(nude) women",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "46",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "27",
+            "r_percent": "43"
+        }
+    ]
+}

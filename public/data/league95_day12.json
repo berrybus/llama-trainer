@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 12,
+    "date": "November 22, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The world's oldest active sports-car endurance-racing event, first held in 1923 and organized by Automobile Club de l'Ouest, is run annually in what city?",
+            "answer": "le mans",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "36",
+            "r_percent": "44"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The Behavior of Organisms and Verbal Behavior, along with his namesake \"Box\" for facilitating experimental observations, are works of what psychologist and proponent of operant conditioning?",
+            "answer": "b. f. skinner",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Tagus, Ebro, and Douro Rivers are the three longest rivers on what peninsula?",
+            "answer": "iberian peninsula",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "80",
+            "c_percent": "69",
+            "d_percent": "58",
+            "e_percent": "43",
+            "r_percent": "55"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Different types of affixes in English include the prefix (e.g., \"dis\" in \"dislike\"), suffix (e.g., \"able\" in \"fixable\"), and a third type that is exemplified by the third \"s\" of \"passersby\". What is the name for this latter type of affix?",
+            "answer": "infix",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "21"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Dried leaves of the holly shrub Ilex paraguariensis, native to Paraguay and Brazil, are roasted, powdered, and infused with water to make a greenish tea-like beverage. What is the name shared by this shrub and the resulting beverage?",
+            "answer": "(yerba) mate",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "55",
+            "c_percent": "46",
+            "d_percent": "38",
+            "e_percent": "29",
+            "r_percent": "36"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Many home-mortgage borrowers have an account in which the mortgage lender retains money for property taxes and homeowners insurance, allowing these payments to be split over 12 months. This type of account, sometimes known as an impound account, is most commonly known by what other term, which can be used generally for any funds or assets held by a third party as part of a transaction?",
+            "answer": "escrow",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "87",
+            "e_percent": "79",
+            "r_percent": "78"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 14,
+    "date": "September 8, 2020",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Although the role existed previously, a now-common term for this role was not used in the television context until 1952, applied by a CBS news executive (the actual executive is subject to debate) to a colleague during the network's coverage of that year's political nominating conventions. What is the term?",
+            "answer": "anchor",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "52",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "31",
+            "r_percent": "39"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Ex-Exodus guitarist Kirk Hammett, ex-Flotsam and Jetsam bassist Jason Newsted, and ex-Suicidal Tendencies bassist Robert Trujillo are among the past and present non-original members of what band?",
+            "answer": "metallica",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "43",
+            "e_percent": "33",
+            "r_percent": "44"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Steve McQueen played a titular self-made millionaire in a 1968 film that was remade in 1999 with Pierce Brosnan in the role of the self-made billionaire (having been adjusted for inflation, presumably). What is the name of this character?",
+            "answer": "thomas crown",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "61",
+            "e_percent": "45",
+            "r_percent": "54"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "From the election of 1964 onward, there have been two individuals elected Vice President of the United States who were primarily affiliated with the state of Indiana (Dan Quayle and Mike Pence). What is the only other state that can claim this distinction within this time period?",
+            "answer": "minnesota",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "52",
+            "c_percent": "38",
+            "d_percent": "24",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the name for the instrument of war\u2014a small box filled with gunpowder and used as a bomb to blast through a gate or barricade\u2014that appears in a famous quote from Shakespeare's Hamlet, in reference to how Claudius was hoist with one of his own making?",
+            "answer": "petard",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "69",
+            "e_percent": "48",
+            "r_percent": "58"
+        },
+        {
+            "category": "ART",
+            "prompt": "The subject of a classic, large-scale Renaissance painting is being blown ashore by the wind gods Zephyr and Aura, while a nymph heralding the arrival of spring greets the subject with a cloak. Who is the subject of this work?",
+            "answer": "venus",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "38",
+            "r_percent": "50"
+        }
+    ]
+}

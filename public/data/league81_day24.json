@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 24,
+    "date": "June 25, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A Seinfeld episode highlights the page-to-screen changes of a particular book when George, having joined a book club but too lazy to read and having watched the movie instead, comments on the romantic coupling at the end, only to be reminded (or informed) that the narrator was gay. What 1958 novella was the club discussing?",
+            "answer": "breakfast at tiffany's",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "53",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "38"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Between 1816 and 1825, most of Spanish South America achieved independence under the leadership of two primary libertadores, subsequently breaking into nine separate countries. One was Sim\u00f3n Bol\u00edvar; who was the other? Argentina's highest recognition for officials from foreign countries is named in his honor.",
+            "answer": "jos\u00e9 de san mart\u00edn",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "23",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "14"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The country of Dream Land on a star-shaped planet called Popstar is the homeland of what flexible and cheerfully voracious video game character?",
+            "answer": "kirby",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "57",
+            "c_percent": "52",
+            "d_percent": "50",
+            "e_percent": "45",
+            "r_percent": "50"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The name for what Irish c\u00faige (\"province\") has been used historically for various political parties that support Northern Ireland's union with Great Britain?",
+            "answer": "ulster",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "55",
+            "d_percent": "39",
+            "e_percent": "19",
+            "r_percent": "38"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Cal Trask, Jim Stark, and Jett Rink are the three credited feature film roles of what Hollywood legend?",
+            "answer": "james dean",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "41",
+            "e_percent": "25",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Losartan, eprosartan, irbesartan, telmisartan, and valsartan are medicines prescribed predominantly (and indicated primarily) to treat what condition?",
+            "answer": "hypertension/high blood pressure",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "53",
+            "c_percent": "48",
+            "d_percent": "39",
+            "e_percent": "31",
+            "r_percent": "41"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 6,
+    "date": "February 27, 2018",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "\"Lost bread\" is the literal translation of pain perdu, which is best known in English as what?",
+            "answer": "french toast",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "66",
+            "c_percent": "57",
+            "d_percent": "44",
+            "e_percent": "30",
+            "r_percent": "41"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the common name for the tactical short-range ballistic missiles, developed during the Cold War by the Soviet Union, that Iraq used extensively against coalition forces during the Gulf War?",
+            "answer": "scud",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "83",
+            "d_percent": "72",
+            "e_percent": "55",
+            "r_percent": "62"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the pop group pictured here, reportedly the most tweeted-about celebrity in 2017? ",
+            "answer": "bts",
+            "image": "/images/art/5804594059y6tig.jpg",
+            "a_percent": "20",
+            "b_percent": "14",
+            "c_percent": "10",
+            "d_percent": "9",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Tiny people living beneath the floorboards and within the walls of a large house are the subject\u2014and give their name to the title\u2014of what 1952 novel by English author Mary Norton?",
+            "answer": "the borrowers",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the comedian and actress whose Broadway debut was in 1959's Once Upon a Mattress, and who also appeared as a regular on the sitcom Stanley beginning in 1956 and won an Emmy working on The Garry Moore Show before superstardom on her own namesake variety series.",
+            "answer": "carol burnett",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "44",
+            "r_percent": "52"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While none of the Great Lakes are located entirely within Canada, the two largest lakes with that distinction (entirely within Canada) are \"Great\" lakes in their own right. Please name both.",
+            "answer": "great bear lake, great slave lake",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "41",
+            "c_percent": "27",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "17"
+        }
+    ]
+}

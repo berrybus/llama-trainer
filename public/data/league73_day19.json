@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 19,
+    "date": "June 9, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "In Greek legend, Polynices and (exactly) six others comprised a group of champions who attacked a rival city of Argos to deprive Polynices's brother Eteocles of kingship. This group is known by what name, which is also the title of an Aeschylean tragedy that chronicles the event?",
+            "answer": "seven against thebes",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "34",
+            "c_percent": "21",
+            "d_percent": "11",
+            "e_percent": "4",
+            "r_percent": "16"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A series of didactic compositions by Johann Sebastian Bach from the 1740s famously exemplifies the \"art\" of what formal compositional technique?",
+            "answer": "fugue",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "57",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "John Sholto Douglas, the 9th Marquess of Queensberry, is an important figure in the history of what sport?",
+            "answer": "boxing",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "72",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "20",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Fino, Manzanilla, and Amontillado are varieties of what Spanish fortified wine made from grapes grown near the town of Jerez de la Frontera, from which the wine takes its name?",
+            "answer": "sherry",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "57",
+            "d_percent": "41",
+            "e_percent": "23",
+            "r_percent": "43"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Who served as president of the political federation known as the United Arab Republic, a 1958-61 union between Egypt and Syria, for its entire three-year existence?",
+            "answer": "gamal abdel nasser",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "17",
+            "r_percent": "34"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the name of the supergroup formed by Bob Geldof and Midge Ure in 1984 to record the now-ubiquitous holiday song \"Do They Know It's Christmas?\"",
+            "answer": "band aid",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "38"
+        }
+    ]
+}

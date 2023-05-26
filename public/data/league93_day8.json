@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 8,
+    "date": "May 25, 2022",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Benjamin Britten's choral symphony Opus 44, Robert Schumann's Symphony No. 1, and Darius Milhaud's Little Symphony No. 1 all have common names that refer to what time of year?",
+            "answer": "spring",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "77",
+            "c_percent": "75",
+            "d_percent": "74",
+            "e_percent": "72",
+            "r_percent": "76"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Ving Rhames has appeared in every installment of a popular film series that debuted in 1996, including those scheduled for release in July 2023 and June 2024. Name the only other actor to appear in every film in this particular series.",
+            "answer": "tom cruise",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "46",
+            "e_percent": "36",
+            "r_percent": "44"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Helen Graham, in flight from her dashing dipsomaniac husband Arthur Huntingdon, is the title character of the epistolary 1848 novel The Tenant of Wildfell Hall, by what English novelist? (Either full name or full pseudonym are acceptable.)",
+            "answer": "anne bront\u00eb/acton bell",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "32",
+            "c_percent": "20",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The US ended its Space Shuttle program in July 2011 upon the safe landing of what craft, which joins the other three surviving shuttles (Discovery, Endeavour, and Enterprise) on display in various air, space, and science museums?",
+            "answer": "atlantis",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "58",
+            "c_percent": "44",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "27"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The popular breed of dog that was known\u2014mostly due to political or discriminatory reasons\u2014in some locations for a period of time as Alsatian is best-known today by what other name?",
+            "answer": "german shepherd",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "58",
+            "e_percent": "38",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The sulfide cinnabar, until modern times a primary source for the pigment vermilion, is the main ore of what metallic element of the zinc group?",
+            "answer": "mercury",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "40",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "20"
+        }
+    ]
+}

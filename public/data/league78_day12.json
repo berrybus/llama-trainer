@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 12,
+    "date": "September 5, 2018",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Jeroboam, Rehoboam, Salamanzar, Balthazar, and Nebuchadnezzar, in addition to being Biblical kings, are also names for different sizes of what?",
+            "answer": "(wine) bottles",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "46",
+            "e_percent": "30",
+            "r_percent": "41"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A 1933 James Hilton novel, which allegedly became in 1939 the first mass-market paperback, featured a utopian world that was FDR's source for the name of his presidential retreat (\"Shangri-la,\" later Camp David). What is the title of that novel?",
+            "answer": "lost horizon",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "43",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Mass production of steel from molten pig iron began in the mid-19th century upon the invention of a process named after its prolific English inventor, who patented it in 1856. What is the name of this process, by which compressed air is blasted through molten iron to burn out excess carbon and impurities?",
+            "answer": "bessemer process",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "28",
+            "e_percent": "14",
+            "r_percent": "28"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Male film characters who get to be female for a short time, and from this brief experience believe themselves able to understand and sympathize with women and represent their perspective to the world, have been said by critics to display a syndrome named after the title character in what 1982 movie?",
+            "answer": "tootsie",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "69",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "ART",
+            "prompt": "What single word fills in the blanks in the following phrases, all significant in art history: ______Carr\u00e9, ______ d'Automne, ______ des Ind\u00e9pendants, ______ des Refus\u00e9s?",
+            "answer": "salon",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "36",
+            "c_percent": "24",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the plainly and accurately descriptive name used, in English, for the massive withdrawal of the Chinese Red Army from southeastern to northwestern China in 1934-35, which had the essential effect of establishing Mao Zedong as the leader of the Chinese Communist Party.",
+            "answer": "the long march",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "64",
+            "c_percent": "49",
+            "d_percent": "32",
+            "e_percent": "14",
+            "r_percent": "31"
+        }
+    ]
+}

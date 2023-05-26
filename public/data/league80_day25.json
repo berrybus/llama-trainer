@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 25,
+    "date": "March 28, 2019",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name for the most common type of cheese, similar to chhena, that is used in traditional South Asian cuisines, often coupled in popular dishes with palak (saag), khoya, or mattar?",
+            "answer": "paneer",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "77",
+            "c_percent": "73",
+            "d_percent": "70",
+            "e_percent": "61",
+            "r_percent": "66"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The title characters in the current Netflix television series Grace and Frankie previously appeared together as two-thirds of a trio of stars in what 1980 comedy film?",
+            "answer": "9 to 5",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "70",
+            "c_percent": "62",
+            "d_percent": "48",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "ART",
+            "prompt": "Among the numerous works in the seventy-year career of Japanese artist Yayoi Kusama, perhaps the most famous\u2014currently the subject of an exhibition traveling through North America\u2014involve cube-shaped rooms whose walls are all lined with what?",
+            "answer": "mirrors",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "57",
+            "c_percent": "50",
+            "d_percent": "46",
+            "e_percent": "40",
+            "r_percent": "46"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Give the name of either the Indonesian statesman and nationalist who was his country's first, post-revolution president, or the general who succeeded him in 1967 and served until his own presidency collapsed in 1998.",
+            "answer": "sukarno, suharto",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "62",
+            "c_percent": "49",
+            "d_percent": "32",
+            "e_percent": "13",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The men's professional soccer league Major League Soccer (MLS) expanded to twenty-four teams for the current 2019 season with the addition of the team that plays its home games in what Midwestern city?",
+            "answer": "cincinnati",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "22",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the last name of the hard-boiled Chicago detective, from the works of novelist Sara Paretsky and first appearing in 1982's Indemnity Only, who is known to friends as \"Vic\" and to only a select few by her given name, Victoria?",
+            "answer": "warshawski",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "34",
+            "c_percent": "21",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "14"
+        }
+    ]
+}

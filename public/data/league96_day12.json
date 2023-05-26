@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 12,
+    "date": "March 2, 2023",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "The name of what 1972 musical, with music and lyrics by Stephen Schwartz and libretto by Bob Fosse (who also directed the Broadway debut), is a homophone of the last name of a player named in 1996 to the NBA's 50th Anniversary All-Time Team (and also the 75th Anniversary Team announced in 2021)?",
+            "answer": "pippin",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "63",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "33"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What last name fills in the blank in this chronological (and partial) list? Petrosian, Spassky, [BLANK], Karpov, Kasparov.",
+            "answer": "fischer",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "84",
+            "d_percent": "71",
+            "e_percent": "47",
+            "r_percent": "56"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Hard to Swallow was the name of a heavy-metal album (and, in the view of some reviewers and listeners, an accurate description of the album) released in 1998 by what artist? He was attempting a change of direction after his extremely successful 1990 hip hop debut, To the Extreme, which remains one of the bestselling hip hop albums of all time (though it was also mostly critically derided).",
+            "answer": "vanilla ice",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "67",
+            "d_percent": "59",
+            "e_percent": "46",
+            "r_percent": "55"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "A nationalist political party devoted to the causes of Welsh independence and the recognition of Welsh language, culture, and economy is commonly known by a two-word name. That first word is \"Plaid\" (Welsh for \"Party\"); what is the second word?",
+            "answer": "cymru",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "49",
+            "c_percent": "35",
+            "d_percent": "23",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "ART",
+            "prompt": "A simple and rough grid of made-up objects (chent, tiv, enker, hackeb, etc.) comprises the 1978 cartoon \"Little Things\", which was the first piece published in The New Yorker by what cartoonist? She would go on to publish more than 800 additional cartoons in the magazine over the next 45 years (and counting)\u2014including, in 1986, her first cover, which pictured a man in a lab coat presenting an ice cream chart.",
+            "answer": "roz chast",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "26",
+            "c_percent": "22",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "12"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Gary Ewing, Karen Fairgate McKenzie, Valene Ewing Gibson Valeska, and Abby Fairgate Cunningham Ewing Sumner were among the longtime characters on an eventful drama series that ran from 1979 to 1993 and was set, in large part, on a cul-de-sac in a quiet Southern California community with what name?",
+            "answer": "knots landing",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "16"
+        }
+    ]
+}

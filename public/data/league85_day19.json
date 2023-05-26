@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 19,
+    "date": "June 17, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What controversial psychological thriller released in 2019 surpassed Deadpool 2 to become the highest-grossing R-rated film of all time (measured by worldwide box office)?",
+            "answer": "joker",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "43",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The top two magazines in the United States ranked by circulation size are, by a huge margin, magazines published and distributed by an organization that goes by what four initials?",
+            "answer": "aarp",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "39",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "29"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the first and largest stadium in ancient Rome, modeled on the Greek hippodrome, which was located a few blocks from the Colosseum between the Aventine and Palatine hills?",
+            "answer": "circus maximus",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The imaging technique abbreviated PET operates via the emission of what antiparticle, after which the procedure is named?",
+            "answer": "positron",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "31",
+            "r_percent": "42"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Future Secretary of Defense Robert McNamara was among the ten \"Whiz Kids\"\u2014Army Air Force veterans and management scientists that worked as a successful unit during WWII\u2014who were hired as a group after the war to form the planning department of what major American corporation?",
+            "answer": "ford motor company",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "29",
+            "c_percent": "21",
+            "d_percent": "15",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Republic of Maryland was a short-lived country that existed beginning in 1834 until it was merged into what present-day African nation in 1857?",
+            "answer": "liberia",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "64",
+            "e_percent": "43",
+            "r_percent": "56"
+        }
+    ]
+}

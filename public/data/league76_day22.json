@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 22,
+    "date": "March 26, 2018",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The first king of Scots, a mononymous New York hairdresser who died in 2013, the intended (or perceived) target of a 1986 assault on Dan Rather, and the top-selling instrumental artist in music history all share what name?",
+            "answer": "kenneth",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "34",
+            "r_percent": "47"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Although the nations are nearly equal in population, which nation on the island of Hispaniola is the larger in land area?",
+            "answer": "dominican republic",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Raspberry, cherry, grape, lemon, orange, and root-beer were the original six flavors of what drink, which was developed in 1927 and is now owned by Kraft Foods? Currently available flavors include tropical punch, strawberry, mixed berry, black cherry, and\u2014oh yeah!\u2014blue raspberry lemonade.",
+            "answer": "kool-aid",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "86",
+            "e_percent": "80",
+            "r_percent": "84"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "When originally proposed in 1960, the \"marketing mix\" of business consisted of the \"Four Ps.\" The first three are product, place, and price\u2014what is the fourth?",
+            "answer": "promotion",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "30",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The object in this image is a simple version of a scientific instrument with what technical name? ",
+            "answer": "seismometer/seismograph",
+            "image": "/images/art/984ucm0m59ctu03c4.jpg",
+            "a_percent": "90",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "80",
+            "e_percent": "70",
+            "r_percent": "76"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On the game show Family Feud, what is the name for the segment of gameplay at the end, in which two members of the winning family take turns answering the same five questions with the goal of earning a combined total of 200 points?",
+            "answer": "fast money",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "42",
+            "c_percent": "32",
+            "d_percent": "27",
+            "e_percent": "25",
+            "r_percent": "29"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 22,
+    "date": "March 23, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Texas toast, bacon, tomatoes, mornay sauce. What meat is missing from this list of primary ingredients in the sandwich known as the Hot Brown (per Louisville's Brown Hotel itself)?",
+            "answer": "turkey",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "29",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Darius III ruled as the final king of the Achaemenid dynasty in Persia, dying in 330 BCE after his army had been defeated by forces led by what man, who had proclaimed himself king of Asia?",
+            "answer": "alexander the great",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "40",
+            "r_percent": "58"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What \"First Lady of Song\" famously recorded selections from the \"Great American Songbook\", including the Gershwins' \"I Got Rhythm\", Cole Porter's \"I Get a Kick Out of You\", and Johnny Mercer's \"Something's Gotta Give\", in a series of studio albums released in the late 1950s and early 1960s?",
+            "answer": "ella fitzgerald",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "61",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While there are about 70 different chemical elements in seawater (not including hydrogen and oxygen), ions of two make up over 85% of all dissolved materials (by mass). One of the elements is sodium. What is the other element (or ion)?",
+            "answer": "chlorine/chloride",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "74",
+            "c_percent": "71",
+            "d_percent": "66",
+            "e_percent": "58",
+            "r_percent": "65"
+        },
+        {
+            "category": "ART",
+            "prompt": "Malcolm Morley, Anish Kapoor, Gillian Wearing, Helen Marten, and Charlotte Prodger are among the winners of what annual prize, named after an Englishman who died in 1851?",
+            "answer": "turner prize",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "19",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Probably the three most famous steals in NBA history were all by the same team\u2014against the Philadelphia 76ers in 1965, against the Los Angeles Lakers in 1984, and against the Detroit Pistons in 1987. Name any one of the three players who stole the ball in these three historic plays.",
+            "answer": "john havlicek, gerald henderson, larry bird",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "64",
+            "c_percent": "62",
+            "d_percent": "56",
+            "e_percent": "48",
+            "r_percent": "53"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 9,
+    "date": "June 12, 2018",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Bill and Hillary Clinton were among the co-founders in 1978 of what corporation, which would finally be dissolved fourteen years later?",
+            "answer": "whitewater development corporation",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "74",
+            "e_percent": "53",
+            "r_percent": "60"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "C. Bechstein, B\u00f6sendorfer, and Bl\u00fcthner are regarded as three of the \"Big Four\" manufacturers of what item? Other producers have included \u00c9rard, Baldwin, Weber, and Nordheimer.",
+            "answer": "pianos",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "52",
+            "e_percent": "40",
+            "r_percent": "53"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Of the hundreds of species of cactus found in the United States, the largest in physical size\u2014and perhaps most iconic, due to its association with the American Southwest and namesake national park in Arizona\u2014has what name?",
+            "answer": "saguaro",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "42",
+            "r_percent": "54"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Floyd Lawson, Helen Crump, Howard Sprague, Clara Edwards, and Otis Campbell were among the secondary characters in what long-running 1960s television sitcom?",
+            "answer": "the andy griffith show",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What word, the name of small town in the French Seine-Maritime region where its namesake soft cheese is made, is redacted in this image? ",
+            "answer": "neufchatel",
+            "image": "/images/art/98u4c09m0c95uv0.jpg",
+            "a_percent": "57",
+            "b_percent": "51",
+            "c_percent": "42",
+            "d_percent": "34",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the name of the wealthy Baghdadian who, according to legend, discovers the rocs' eggs and the Valley of Diamonds, is buried alive with his deceased wife, and kills the Old Man of the Sea (among numerous other adventures)?",
+            "answer": "sinbad",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "38"
+        }
+    ]
+}

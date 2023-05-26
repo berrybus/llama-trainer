@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 10,
+    "date": "September 1, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "On April 23, 2016, Beyonc\u00e9 released her sixth studio album, Lemonade, available exclusively on what subscription-based music streaming service, which she co-owns with Jay-Z, Rihanna, Calvin Harris, and numerous other prominent music artists?",
+            "answer": "tidal",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "57",
+            "e_percent": "53",
+            "r_percent": "60"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Boy: Tales of Childhood, which includes stories of Norwegian holidays, the author's sadistic schoolmasters, and his childhood fantasies as an inventor of sweets, is the first volume of memoirs by what British writer?",
+            "answer": "roald dahl",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "80",
+            "d_percent": "70",
+            "e_percent": "56",
+            "r_percent": "68"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What Western, which began as a CBS radio series in 1952, holds the record as the longest-running continuously aired drama series in American television history? It is tied with Law & Order at 20 seasons but surpasses the crime drama in episode count, 635 to 456.",
+            "answer": "gunsmoke",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "70",
+            "c_percent": "62",
+            "d_percent": "53",
+            "e_percent": "37",
+            "r_percent": "49"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "\"Six hungry monkeys eating oranges\" and \"She has many ears on\" are mnemonics used for remembering a certain complete set. In this set, what is represented by the last word in the mnemonic (\"oranges\" or \"on\")?",
+            "answer": "(lake) ontario",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "55",
+            "d_percent": "45",
+            "e_percent": "33",
+            "r_percent": "44"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What emperor, widely regarded as one of the wealthiest people in history with a fortune estimated at $400 billion in current dollars, is believed to have depressed the price of gold due to his abundant almsgiving during a pilgrimage to Mecca from his native Mali Empire around the year 1325?",
+            "answer": "mansa musa (musa i)",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "30",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "ART",
+            "prompt": "Pictured here are works by what American conceptual artist, who received the Los Angeles Museum of Contemporary Art's Distinguished Women in the Arts Award in 2010 (earning a plaque she herself designed for the award in 1994)? ",
+            "answer": "jenny holzer",
+            "image": "/images/art/49085yc9.jpg",
+            "a_percent": "18",
+            "b_percent": "12",
+            "c_percent": "7",
+            "d_percent": "4",
+            "e_percent": "4",
+            "r_percent": "6"
+        }
+    ]
+}

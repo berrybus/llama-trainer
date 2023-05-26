@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 21,
+    "date": "September 18, 2018",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "British fashion designer Sarah Burton, who has served as creative director for the Alexander McQueen fashion house since McQueen's death in 2010, shot to international fame when it was revealed the following year that she had designed the widely lauded and influential bridal gown worn by whom?",
+            "answer": "kate middleton",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "87",
+            "c_percent": "86",
+            "d_percent": "81",
+            "e_percent": "75",
+            "r_percent": "80"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Important historical expulsions in the capital of Bohemia (in modern-day Czechia) in 1419 and 1618, which led to the Hussite Wars and the Thirty Years' War respectively, are known today by a term that they share. What is that term?",
+            "answer": "defenestration (of prague)",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "23"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In the NATO phonetic alphabet (officially, the International Radiotelephony Spelling Alphabet), A is represented by Alfa, B by Bravo, and Z by Zulu. Another letter is represented by a word that is a popular sport. What is that word?",
+            "answer": "golf",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "54",
+            "r_percent": "62"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the most common Italian parallel to the Turkish raki, the French pastis, the Greek ouzo, and the Eastern Mediterranean arak?",
+            "answer": "sambuca",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "41",
+            "c_percent": "34",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1929 film Blackmail, widely regarded as Britain's first \"talkie,\" was the tenth film from what director, who would go on to direct an additional 45 feature films during his illustrious career?",
+            "answer": "alfred hitchcock",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "40",
+            "r_percent": "53"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Pine Valley, Pennsylvania; Llanview, Pennsylvania; Oakdale, Illinois; Port Charles, New York; and Genoa City, Wisconsin, are all fictional cities associated with a specific television genre known by what term? The term arose in the 1930s to describe certain radio dramas.",
+            "answer": "soap opera",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "78",
+            "d_percent": "68",
+            "e_percent": "52",
+            "r_percent": "61"
+        }
+    ]
+}

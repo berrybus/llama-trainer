@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 18,
+    "date": "September 13, 2018",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Who replaced Malcolm Turnbull on August 24, 2018, as Prime Minister of Australia?",
+            "answer": "scott morrison",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "25",
+            "c_percent": "18",
+            "d_percent": "10",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In the 1939 film The Wizard of Oz, who pulls back the curtain to reveal that the \"Wizard\" is just a blustery man talking into a microphone?",
+            "answer": "toto",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "58",
+            "r_percent": "66"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Caspian Sea is bordered by five countries: Iran, Kazakhstan, Russia, Turkmenistan, and what fifth?",
+            "answer": "azerbaijan",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "32"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Brandy\" was a hit in the UK in 1971 for the song's co-writer, Scott English, but became, under a slightly altered name, a much greater hit (and first US #1) in 1974 for what other artist?",
+            "answer": "barry manilow",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "22",
+            "e_percent": "16",
+            "r_percent": "19"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Canis Major Dwarf, Segue 1, Sagittarius Dwarf, Ursa Major II Dwarf, Triangulum II, and Large Magellanic Cloud are names of different celestial objects known as what?",
+            "answer": "galaxies",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name of the mountain fortress in the Judaean desert, perched atop a plateau 1,300 feet above the western shores of the Dead Sea, that was fortified between 37 and 31 BCE and is now a national park and UNESCO World Heritage Site?",
+            "answer": "masada",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "19",
+            "r_percent": "32"
+        }
+    ]
+}

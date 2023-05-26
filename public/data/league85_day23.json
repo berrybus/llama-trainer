@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 23,
+    "date": "June 23, 2020",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A mixture that traditionally includes thyme, rosemary, savory, marjoram, and oregano is often marketed as herbes from where?",
+            "answer": "provence",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "82",
+            "c_percent": "78",
+            "d_percent": "72",
+            "e_percent": "60",
+            "r_percent": "65"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "One example of a contronym\u2014a word that has contradictory meanings based on context\u2014is a word that means both \"confidently optimistic\" and \"bloodthirsty\". What is that word?",
+            "answer": "sanguine",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "52",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "39"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What last name is shared by an American Civil War general and novelist, a vice president under Franklin D. Roosevelt, and a candidate for U.S. President in the 1960s?",
+            "answer": "wallace",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "62",
+            "c_percent": "46",
+            "d_percent": "31",
+            "e_percent": "16",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The fourth- and fifth-largest lakes in North America are \"Great\" lakes that are not one of the five Great Lakes. Name either of the two.",
+            "answer": "great slave lake, great bear lake",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "\"Jumpman\" was an early name for the video game character now known as Mario, and is also unrelatedly the name of a logo owned by what company?",
+            "answer": "nike",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "77",
+            "c_percent": "72",
+            "d_percent": "68",
+            "e_percent": "60",
+            "r_percent": "69"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The name for the supercontinent Pangaea comes from the Ancient Greek for \"all\" (pan) and \"Mother Earth\" (Gaia). Likewise, what is the name of the superocean that surrounded Pangaea, from the Ancient Greek for \"all\" and \"sea\"?",
+            "answer": "panthalassa",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "15"
+        }
+    ]
+}

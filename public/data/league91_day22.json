@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 22,
+    "date": "December 10, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The original and traditional version of the Viennese indulgence known as Sachertorte is a dense chocolate layer cake coated with dark chocolate and served with whipped cream, with the cake layers sandwiching a layer of jam made from what fruit?",
+            "answer": "apricot",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "34",
+            "c_percent": "24",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The \"Pop-o-Matic\" die container was an innovation introduced in 1965 with what board game, now produced by Hasbro?",
+            "answer": "trouble/frustration",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "68",
+            "c_percent": "63",
+            "d_percent": "56",
+            "e_percent": "49",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What celebrity chef, who has hosted a myriad of eponymous shows on the Food Network (in addition to his appearances on Iron Chef America, Chopped, Worst Cooks in America, Food Network Star, The Best Thing I Ever Ate, and many others), has been on the network since its debut in 1994, and is set to celebrate his 30th anniversary on the channel after a new three-year contract was settled in November 2021.",
+            "answer": "bobby flay",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "53",
+            "c_percent": "49",
+            "d_percent": "45",
+            "e_percent": "38",
+            "r_percent": "45"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A large commercial truck that in the US might be called a \"big rig\", \"18-wheeler\", \"tractor trailer\", or \"semi\" would in Britain most likely be called a what, from an English dialect verb meaning to tug or drag?",
+            "answer": "(articulated) lorry",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "79",
+            "e_percent": "62",
+            "r_percent": "70"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What term in dance is typically used to describe a turn around one leg, most commonly with the foot of the other leg touching the knee of the turning leg (in pass\u00e9)?",
+            "answer": "pirouette",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "75",
+            "c_percent": "74",
+            "d_percent": "71",
+            "e_percent": "66",
+            "r_percent": "71"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What word, derived in part from a term in Old Norse for \"color\", is used for a water-soluble mixture of various naturally occurring organic dyes extracted from lichens that is used to test materials for acidity? ",
+            "answer": "litmus",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "45",
+            "r_percent": "60"
+        }
+    ]
+}

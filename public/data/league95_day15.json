@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 15,
+    "date": "November 30, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Englishman James Hargreaves is widely credited as the inventor of a machine in the 1760s that massively advanced the technology for textile manufacturing and was a catalyst for the Industrial Revolution. What was the name of this machine, which apocryphally (but probably not actually) is named after his wife or one of his daughters, whose action inadvertently inspired the machine's development?",
+            "answer": "spinning jenny",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "22",
+            "r_percent": "35"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name any one of the three women who won a Singles Grand Slam tennis major in the year 2022.",
+            "answer": "iga swiatek, elena rybakina, ashleigh barty",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "18",
+            "e_percent": "12",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What are, in correct order, the most populous and least populous of the seven countries in Central America (both by significant margins)? Note: two answers are required, they must be in correct order, and the seven countries of Central America do not include Mexico or Colombia.",
+            "answer": "guatemala, belize",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "41",
+            "c_percent": "31",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "22"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics of his country smash released in April 1987, due to the fact that all his exes live in Texas, where does George Strait hang his hat?",
+            "answer": "tennessee",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "42",
+            "r_percent": "47"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Vice-presidential incumbent Dick Cheney was the running-mate of fellow incumbent George W. Bush in the 2004 US presidential election. What fellow senator was Democratic nominee John Kerry's running mate during that election?",
+            "answer": "john edwards",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "64",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The fictional and colossally popular metal band Dethklok (sometimes stylized as D\u00ebthkl\u00f8k for maximum brutality) was the centerpiece of the animated series Metalocalypse, which debuted in 2006 on a late-night programming block that is aimed at a more mature audience than the daytime network with which it shares channel space. What is the name of this programming block?",
+            "answer": "adult swim",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "86",
+            "e_percent": "78",
+            "r_percent": "81"
+        }
+    ]
+}

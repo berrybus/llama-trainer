@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 21,
+    "date": "September 26, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Among the popular alliteratively named features to emerge from the Mack Sennett comedies of the 1910s were the Keystone Kops and what \"Beauties\", among whose ranks were Phyllis Haver, Carole Lombard, and Marie Prevost?",
+            "answer": "bathing (beauties)",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "51",
+            "c_percent": "42",
+            "d_percent": "31",
+            "e_percent": "22",
+            "r_percent": "29"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Possibly the most notable military conflict in history named after an automaker was what War fought in 1987, during which Chadian forces used outfitted HiLuxes and Land Cruisers to mobilize troops and expel Libyan occupiers?",
+            "answer": "toyota war",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "56",
+            "e_percent": "44",
+            "r_percent": "55"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Cheetah, Puma, Leopard, Mountain Lion, Mavericks, High Sierra, and Catalina have, starting in 2001, been among names associated with what company?",
+            "answer": "apple computer",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "73",
+            "e_percent": "63",
+            "r_percent": "69"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Give either the name or the three-letter abbreviation for the genetic disorder in which one's body lacks an enzyme needed to metabolize the amino acid phenylalanine.",
+            "answer": "phenylketonuria/pku",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "35",
+            "c_percent": "25",
+            "d_percent": "21",
+            "e_percent": "15",
+            "r_percent": "22"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Legalize It, Equal Rights, and Bush Doctor were the first three albums in the solo career of what reggae legend and original Wailer (with Bunny Wailer and Bob Marley), who was tragically murdered during a home burglary in 1987?",
+            "answer": "peter tosh",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "44",
+            "c_percent": "35",
+            "d_percent": "24",
+            "e_percent": "17",
+            "r_percent": "25"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Prince Philip, the husband of Queen Elizabeth II, is a Duke whose title of nobility is named after what city (and likewise Elizabeth was Duchess of this until her accession to the throne in 1952)?",
+            "answer": "edinburgh",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "34",
+            "r_percent": "48"
+        }
+    ]
+}

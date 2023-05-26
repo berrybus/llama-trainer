@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 6,
+    "date": "February 22, 2023",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the most common Italian translation of the English word \"clowns\" (especially as they pertain to Ruggero Leoncavallo)?",
+            "answer": "pagliacci",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "38",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "ART",
+            "prompt": "Among the many career highlights of Danish architect Arne Jacobsen, perhaps his most timeless is a chair, commissioned by the SAS Royal Hotel Copenhagen, that had what shape, by which name the chair is still manufactured and sold today? It's not to be confused with the similar, and probably even more literal, name of a chair designed by fellow Dane Henrik Thor-Larsen.",
+            "answer": "egg",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "44",
+            "c_percent": "35",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "27"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The most enduring legacy of the American freighting company Russell, Majors, and Waddell was a subsidiary that remains famous today despite operating for just 18 months beginning in April 1860, before declaring bankruptcy. This subsidiary's service has always been best known by what name?",
+            "answer": "pony express",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "61",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "One of television's most famous portrayals of the position of medical examiner was Jack Klugman's performance as what character, on that character's eponymous NBC series from 1976 to 1983?",
+            "answer": "quincy",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "42",
+            "d_percent": "31",
+            "e_percent": "21",
+            "r_percent": "26"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In the Best Musical category at the 2022 Tony Awards, the subject (deceased since 2009) of one nominee shares a name (first and last) with the writer of the book, music, and lyrics of another nominee, the eventual winner. What are the first and last names that these two individuals share?",
+            "answer": "michael jackson",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "47",
+            "c_percent": "38",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What colorless, odorless, gaseous, nonmetallic element, which is totally inert and has no known compounds, has the lowest boiling point of all the elements (269\u00b0 below zero on the Celsius scale)?",
+            "answer": "helium",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "63",
+            "c_percent": "55",
+            "d_percent": "48",
+            "e_percent": "36",
+            "r_percent": "49"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 4,
+    "date": "February 23, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A pilot, who serves as narrator, crash lands in a desert and encounters a solitary, golden-haired young boy, who describes his life on his home planet and his visits to ten other mostly uninhabited planets. In time, the rose-loving boy leaves his corporeal body to return home. This is the framework for what fable published in 1943?",
+            "answer": "the little prince (le petit prince)",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "63",
+            "e_percent": "48",
+            "r_percent": "60"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the man who was sworn in on February 5, 2018, to replace Janet Yellen as chair of the board of governors of the U.S. Federal Reserve.",
+            "answer": "jerome powell",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "(1) The Duke of Richelieu's capture of Port Mahon on the island of Minorca in June 1756; (2) The town of Bayonne, located at the confluence of the Nive and Adour rivers in southwest France; (3) the French verb manier (\"to stir\"); (4) an Old French term for \"egg yolk.\" These are four possible etymologies for what word?",
+            "answer": "mayonnaise",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "38"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the sartorial term used in college athletics for a player who is held out of competition for a year, though continuing to attend practices and classes, and thus is granted an extra year of playing eligibility? The term in question can be used in this noun form, and also as a verb or an adjective.",
+            "answer": "redshirt",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "85",
+            "d_percent": "79",
+            "e_percent": "75",
+            "r_percent": "74"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A state in Venezuela, a department in Colombia, and a capital city of another South American nation (the constitutional capital, not the de facto capital) are all named after an independence leader and compatriot of Sim\u00f3n Bol\u00edvar. Who was that man?",
+            "answer": "antonio jos\u00e9 de sucre",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "36",
+            "c_percent": "25",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Homer and Margaret (n\u00e9e Wiggum) are the names of the parents of what American cartoonist?",
+            "answer": "matt groening",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "89",
+            "e_percent": "79",
+            "r_percent": "80"
+        }
+    ]
+}

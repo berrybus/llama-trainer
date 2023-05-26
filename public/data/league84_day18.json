@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 18,
+    "date": "March 13, 2020",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In an article from 1994, the New York Times declared a \"Big Three\" in the area of online information services. America Online (AOL) and Compuserve were two\u2014what was the third?",
+            "answer": "prodigy",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Middle schooler Greg Heffley is the main character in what massively successful book series written and illustrated by Jeff Kinney? Subtitles of installments in the series include Rodrick Rules, The Last Straw, and Wrecking Ball.",
+            "answer": "diary of a wimpy kid",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "69",
+            "e_percent": "61",
+            "r_percent": "67"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "English race car driver Lewis Hamilton won the 2019 Formula One World Drivers' Championship, his third in a row, sixth overall, and fifth with what carmaker's constructor team?",
+            "answer": "mercedes (mercedes amg petronas motorsport)",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "29",
+            "c_percent": "24",
+            "d_percent": "20",
+            "e_percent": "17",
+            "r_percent": "23"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What slang word for power and respect is a pivotal (and titular) element in a 1992 film directed by Ernest Dickerson that starred Omar Epps and Tupac Shakur in his debut in a major acting role?",
+            "answer": "juice",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "29",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "For most of its history\u2014as a medieval territory, confederation with the Holy Roman Empire, short-lived kingdom, dominion of the Swedish Empire, Governorate of Russia, etc.\u2014the historical area known as Livonia covered area now predominantly within two present-day countries. Name either country.",
+            "answer": "estonia, latvia",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "49",
+            "c_percent": "43",
+            "d_percent": "39",
+            "e_percent": "30",
+            "r_percent": "36"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Of the dozens of singles released by the Rolling Stones in the United States, exactly one has a title which is, in its one-word entirety, a common female first name. What is that title? ",
+            "answer": "angie",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "55",
+            "d_percent": "44",
+            "e_percent": "30",
+            "r_percent": "40"
+        }
+    ]
+}

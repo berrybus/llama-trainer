@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 18,
+    "date": "June 8, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the term, derived from the Spanish for \"rogue,\" for a type of literary narrative, usually comic or satirical, that depicts the escapades of a single, likeable, roguish hero living by his (or her, but more often his) wits? English examples include Huckleberry Finn, A Confederacy of Dunces, and Moll Flanders, while the progenitor is widely considered to be the 1554 novella Lazarillo de Tormes.",
+            "answer": "picaresque",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "52",
+            "c_percent": "39",
+            "d_percent": "23",
+            "e_percent": "8",
+            "r_percent": "27"
+        },
+        {
+            "category": "ART",
+            "prompt": "What Australian-born writer, whose books The Shock of the New and American Visions were both serialized for television, was dubbed by the New Yorker as the \"most famous art critic in the world,\" a role he filled for Time magazine for more than 30 years?",
+            "answer": "robert hughes",
+            "image": null,
+            "a_percent": "25",
+            "b_percent": "13",
+            "c_percent": "10",
+            "d_percent": "5",
+            "e_percent": "1",
+            "r_percent": "7"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the hip-hop impresario who produced five of the ten singles to reach number one on the Billboard Hot 100 in 1997, appearing as an artist on three of them including \"I'll Be Missing You\", which sat at the top for eleven weeks during the spring and summer.",
+            "answer": "puff daddy (sean combs/p. diddy)",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "54",
+            "r_percent": "61"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the full name of the politician who currently serves as president of the Democratic Republic of the Congo, a position he has held since January 2001, having taken office ten days after the assassination of his father, Laurent?",
+            "answer": "joseph kabila",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "21",
+            "c_percent": "16",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A political naming dispute has existed since 1991 between the nation of Greece (who claims exclusive use of a certain name for its largest region) and a former federal unit of Yugoslavia (who claims the name for itself as an independent republic). What is this disputed name?",
+            "answer": "macedonia",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "63",
+            "e_percent": "37",
+            "r_percent": "55"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The dwindling number of US-based mainline passenger airlines will reduce further by one upon the completion of the merger of Virgin America into what Pacific Northwest-based carrier, following its acquisition in April 2016?",
+            "answer": "alaska airlines",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "71",
+            "e_percent": "62",
+            "r_percent": "67"
+        }
+    ]
+}

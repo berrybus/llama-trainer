@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 19,
+    "date": "March 13, 2023",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1958, Syria and Egypt formed a union that lasted until 1961 and an army coup in Syria. What was the name of that union and sovereign state (Egypt retained the name as its sole member until 1971)?",
+            "answer": "united arab republic (u.a.r.)",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "39",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Trainwreck is the title of a three-part Netflix docuseries from 2022 that depicts the unruliness and violent chaos that occurred at a music festival that was also the subject\u2014and the primary title\u2014of a separate HBO documentary subtitled Peace, Love, and Rage. What was the name of that festival (and the HBO documentary)?",
+            "answer": "woodstock 99",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "50",
+            "c_percent": "45",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "35"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word, defined generally as an aristocrat or person of high birth, dates from the Roman Republic and the ruling members of the Senate, who controlled all aspects of government and society?",
+            "answer": "patrician",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "18",
+            "r_percent": "33"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The literary character Jean Louise Finch, who is first introduced in a novel published in 1960, is better known by what nickname?",
+            "answer": "scout",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "71",
+            "e_percent": "56",
+            "r_percent": "62"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the US state capital cities named after US presidents, which one is located the farthest west?",
+            "answer": "lincoln, nebraska",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "64",
+            "e_percent": "51",
+            "r_percent": "58"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Italian physicist Evangelista Torricelli proposed an experiment demonstrating that atmospheric pressure determines the height to which a fluid will rise in a tube when it's inverted over a saucer of the same liquid. This notion led directly to the development of what scientific measuring instrument (with which Torricelli is associated today)?",
+            "answer": "barometer",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "83",
+            "e_percent": "71",
+            "r_percent": "78"
+        }
+    ]
+}

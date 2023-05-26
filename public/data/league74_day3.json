@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 3,
+    "date": "August 23, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the corresponding name of the best-known item in the set, as outlined in the Prose Edda, that also includes Megingj\u00f6r\u00f0 and J\u00e1rngreipr?",
+            "answer": "mj\u00f6lnir",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "42",
+            "c_percent": "33",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "23"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The United States's scientific research station located at the South Pole is named formally after what two men, a Norwegian and a Briton respectively?",
+            "answer": "roald amundsen, robert falcon scott",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "55",
+            "c_percent": "42",
+            "d_percent": "23",
+            "e_percent": "10",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Tarquinius Priscus and Tarquinius Superbus, the fifth and seventh (and final) kings of Rome, were traditionally identified with what ancient Italian civilization, which would begin its decline at the end of the Roman Kingdom and become fully assimilated during the subsequent Roman Republic?",
+            "answer": "etruscan",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "46",
+            "e_percent": "24",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The Ladykillers, Rififi, Ocean's Eleven, and Reservoir Dogs are among the movies influenced by what classic 1950 John Huston film noir? Its title (from the source novel of the previous year) introduced into the vernacular a term for an unsafe and alienating urban landscape.",
+            "answer": "the asphalt jungle",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "37",
+            "c_percent": "26",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "ART",
+            "prompt": "What woman, whose Fort Peck Dam appeared on the first cover of Life magazine in 1936, was one of the original staff photographers for the magazine, and later became the first woman photographer to work with the U.S. armed forces during World War II?",
+            "answer": "margaret bourke-white",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "22",
+            "c_percent": "13",
+            "d_percent": "8",
+            "e_percent": "3",
+            "r_percent": "10"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While residents of modern Texas are referred to as \"Texans\", what demonym was used for citizens (especially Anglo citizens) of the Republic of Texas (1836-46) and the prior period when the area was a part of Mexico? Note, correct spelling is required.",
+            "answer": "texians",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "28",
+            "c_percent": "23",
+            "d_percent": "17",
+            "e_percent": "15",
+            "r_percent": "23"
+        }
+    ]
+}

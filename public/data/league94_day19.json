@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 19,
+    "date": "September 23, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the primary Acropolitan building of white Pentelic marble that was reduced to a shell via a 1687 explosion while housing a powder magazine during the concurrent Ottoman-Venetian war.",
+            "answer": "parthenon (temple of athena)",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On the US version of the sitcom The Office, for most of the series's run, the accounting department at the Scranton branch of Dunder Mifflin Paper Company consisted of three people. Give the first name of any one of these three characters.",
+            "answer": "angela, kevin, oscar",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "67",
+            "c_percent": "67",
+            "d_percent": "65",
+            "e_percent": "62",
+            "r_percent": "67"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Though the use of a specific aerial apparatus probably does carry a greater than average risk of broken bones, that is not the reason why the apparatus shares an etymology with two different bones in the human hand. What is the name of that apparatus, or either bone?",
+            "answer": "trapeze/trapezium/trapezoid",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "57",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "31",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Feuding families named Montecchi and Cappelletti (in reality, probably more like political factions than actual families) are today most closely associated, at least in a literary sense, with what Italian city (though they may not necessarily have existed there)?",
+            "answer": "verona",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "83",
+            "d_percent": "72",
+            "e_percent": "54",
+            "r_percent": "65"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "An immediately post-homicide scene from Arthur Conan Doyle's \"The Adventure of the Gloria Scott\" is the source for a clich\u00e9 that was used during Watergate to describe a tape where Richard Nixon, in a conversation with H.R. Haldeman, essentially reveals a conspiracy to obstruct justice. What is that clich\u00e9? ",
+            "answer": "smoking gun",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Tiraspol is the largest city in a Russian-backed breakaway republic that borders Ukraine and is officially recognized as a part of Moldova. This enclave is best known by what name, after the river that it mostly borders to the east?",
+            "answer": "transnistria",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "35",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "19"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 1,
+    "date": "May 22, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The Mishnah and the Gemara are the two components of what central text in Rabbinic literature?",
+            "answer": "talmud",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "61",
+            "d_percent": "50",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Plugs, spoons, jigs, spinners, and bugs are all related items used during what outdoor activity?",
+            "answer": "fishing",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "56",
+            "r_percent": "59"
+        },
+        {
+            "category": "ART",
+            "prompt": "A view to the east from the asylum at Saint-R\u00e9my-de-Provence\u2014a stylized scene prominently featuring a cypress tree with the village center in the background. This actually describes several post-impressionist paintings, but of those, the one that is by far the most famous has what title?",
+            "answer": "the starry night",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "66",
+            "c_percent": "59",
+            "d_percent": "46",
+            "e_percent": "33",
+            "r_percent": "43"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What city, created from the consolidation of its two namesake towns in 1913, is the most populous in the United States whose common name contains a hyphen? Its minor league baseball team is the Dash, in (slightly inaccurate) reference to the symbol.",
+            "answer": "winston-salem, north carolina",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "51",
+            "c_percent": "41",
+            "d_percent": "32",
+            "e_percent": "20",
+            "r_percent": "30"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "How much money you got? How many problems you got? How many people done doubted you?  What is rapper 21 Savage's answer to these and many other questions, from the lyrics (and title) of his recently released song?",
+            "answer": "a lot",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "28",
+            "c_percent": "24",
+            "d_percent": "18",
+            "e_percent": "17",
+            "r_percent": "23"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The culinary vegetable known as the sunchoke, sunroot, or topinambour, is also known as an \"artichoke\" that is named after what city (though it is neither an artichoke nor related to the city in any way)?",
+            "answer": "jerusalem",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "48",
+            "e_percent": "32",
+            "r_percent": "38"
+        }
+    ]
+}

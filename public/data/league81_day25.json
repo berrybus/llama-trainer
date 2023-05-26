@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 25,
+    "date": "June 26, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Two best-selling children's picture books by Adam Rubin, the original published in 2012 and its sequel in 2017, discuss dragons' unexpected love for what food?",
+            "answer": "tacos",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "35",
+            "c_percent": "31",
+            "d_percent": "26",
+            "e_percent": "22",
+            "r_percent": "28"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The gist of the Sixteenth Amendment to the U.S. Constitution can be summed up by a phrase that is the name of one of the 40 spaces on a standard Monopoly board. What is that phrase?",
+            "answer": "income tax",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "55"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A geographical region that has been historically referred to as Barbara, Bilad al Barbar (\"Land of the Berbers\"), and Jasiiradda Soomaali (in Somali) is sometimes referred to in English by the abbreviation HOA. What do the letters \"HOA\" stand for?",
+            "answer": "horn of africa",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "75",
+            "d_percent": "65",
+            "e_percent": "43",
+            "r_percent": "61"
+        },
+        {
+            "category": "ART",
+            "prompt": "Name the painter who, though included in exhibitions with the Impressionists in the 1870s and 1880s, was not very well-known in her home country until her Modern Woman mural was displayed at the Chicago Columbian Exposition in 1893.",
+            "answer": "mary cassatt",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "45",
+            "d_percent": "32",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What film, which opened in February of last year, was the top grossing film in the United States in 2018, with its $700 million in total gross putting it just ahead of Avengers: Infinity War and nearly $100 million ahead of #3 Incredibles 2?",
+            "answer": "black panther",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "74",
+            "d_percent": "68",
+            "e_percent": "59",
+            "r_percent": "68"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What three-letter basic unit of area in the metric system is equal to 100 square meters, or approximately 0.02471 acres?",
+            "answer": "are",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "18"
+        }
+    ]
+}

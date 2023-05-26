@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 13,
+    "date": "March 3, 2023",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "At the conclusion of World War II, the Socialist Federal Republic of Yugoslavia emerged as a federation of six constituent republics. Which one of the six is missing from this unordered list? Macedonia, Croatia, Serbia, Bosnia and Herzegovina, Montenegro.",
+            "answer": "slovenia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of the 1992 pop smash \"My Lovin'\", by the R&B group En Vogue, includes a parenthetical. That parenthetical is a phrase that is repeated (or partially repeated) in the song 56 times. What is that repeated phrase, which per the message of the song applies to \"my lovin'\" (from En Vogue's perspective)?",
+            "answer": "(you're) never gonna get it",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "53",
+            "d_percent": "45",
+            "e_percent": "34",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Gunslinger, The Drawing of the Three, and The Waste Lands are the first three novels in what 4300+ page epic fantasy series?",
+            "answer": "the dark tower",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "60",
+            "c_percent": "53",
+            "d_percent": "44",
+            "e_percent": "34",
+            "r_percent": "40"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The keys on older typesetting machines were arranged in columns, which were sorted by the frequency with which their constituent letters were used. The second column was s h r d l u (consisting of the 7th through the 12th most frequently used letters); what six letters comprised the first column and often appeared with \"shrdlu\" in print due to operator error? (Note, the six letters must be in exact order.)",
+            "answer": "etaoin",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "14",
+            "c_percent": "8",
+            "d_percent": "4",
+            "e_percent": "1",
+            "r_percent": "5"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Identify the hormone released by the pituitary gland during the final stage of pregnancy that stimulates the uterine muscles, initiating labor and maintaining contractions during childbirth. It is sometimes called the \"love hormone\".",
+            "answer": "oxytocin",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "60",
+            "c_percent": "53",
+            "d_percent": "45",
+            "e_percent": "37",
+            "r_percent": "49"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Manzanilla, Picholine, Gordal, Ponentine, Gaeta, and Castelvetrano are varieties of what drupe?",
+            "answer": "olives",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "63",
+            "c_percent": "56",
+            "d_percent": "47",
+            "e_percent": "36",
+            "r_percent": "45"
+        }
+    ]
+}

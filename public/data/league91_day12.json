@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 12,
+    "date": "November 23, 2021",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "In math, a \"multiplicative inverse\" can be defined, for a number x, as the number which when multiplied by x produces the \"multiplicative identity\" (i.e., one). In most scenarios, the multiplicative inverse is much better known by what other term?",
+            "answer": "reciprocal",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "44"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The name of what pencil model, produced by a company founded by American entrepreneur Joseph Dixon in 1827, comes from the discovery of a graphite ore in 1815 on Lead Mountain in upstate New York?",
+            "answer": "ticonderoga",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "48",
+            "r_percent": "56"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The title of a 1988 stylized documentary by Errol Morris, when shifted on the visible color spectrum, becomes an ambitious 1998 war epic by Terrence Malick. Give the title of either film.",
+            "answer": "the thin blue line/the thin red line",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "55",
+            "e_percent": "36",
+            "r_percent": "48"
+        },
+        {
+            "category": "ART",
+            "prompt": "In a mock-epic poem published in The New York Review of Books in 1984 titled \"The SoHoiad\", in which critic Robert Hughes pillories the commercialization and dishonesty of the New York art scene in that decade, he refers to two particular artists (rather unfairly) as \"Keith Boring\" and \"Jean-Michel Basketcase\". What were the actual last names of these two individuals?",
+            "answer": "haring, basquiat",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Northumbria, Mercia, East Anglia, and Kent are generally identified as four of the seven kingdoms in England from the 5th century until the 8th century. The other three are named after what Germanic people (specifically, their West, East, and South tribes), who entered Britain with the Angles during the latter stages of the Roman occupation?",
+            "answer": "saxons",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "73",
+            "e_percent": "53",
+            "r_percent": "67"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Coca, guano, jerky, poncho, and llama are among the words that originated in what language, which was spoken by the Incan tribes around Cuzco and today has official status in Peru, Ecuador, and Bolivia?",
+            "answer": "quechua",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "32"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 13,
+    "date": "December 4, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The longest river in the United States flows into the second-longest river in the United States just a few miles north of what major city?",
+            "answer": "st. louis",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "58",
+            "r_percent": "66"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Path Made Clear: Discovering Your Life's Direction and Purpose; Food, Health, and Happiness: 115 On-Point Recipes for Great Meals and a Better Life; and What I Know for Sure are books by what author, who is probably better known for her success in other media?",
+            "answer": "oprah winfrey",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "67",
+            "c_percent": "59",
+            "d_percent": "51",
+            "e_percent": "41",
+            "r_percent": "51"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "From its early days in the 18th century, through the formation of the Kingdom of Saudi Arabia, and into the present day, the House of Saud has maintained an allegiance to a Sunni Islam sect best known by what name, after the theologian and native of Central Arabia who founded it in the 1740s?",
+            "answer": "wahhabism/wahhabi",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "56",
+            "c_percent": "46",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the title of Kanye West's 2004 debut studio album, which he named (in part) in reference to his withdrawal from Chicago State University six years earlier?",
+            "answer": "the college dropout",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "59",
+            "c_percent": "54",
+            "d_percent": "49",
+            "e_percent": "42",
+            "r_percent": "50"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In chemistry, this term refers to a continuous solid phase in which particles are embedded; in geology, it's a fine-grained rock in which coarser-grained material is embedded; in mathematics, it's a set of quantities in a rectangular array. What is the word in question?",
+            "answer": "matrix",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "63",
+            "c_percent": "54",
+            "d_percent": "47",
+            "e_percent": "39",
+            "r_percent": "46"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "According to the work's popular title, what was the name of the person for whom Ludwig van Beethoven composed his Bagatelle No. 25 in A Minor for Piano in 1810?",
+            "answer": "elise",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "56",
+            "e_percent": "39",
+            "r_percent": "52"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 23,
+    "date": "December 19, 2018",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What dynasty, descended from the French counts of Anjou, ruled England from 1154 to 1485? Lancaster and York were two branches of the family, which was ousted by Henry VII of the House of Tudor.",
+            "answer": "plantagenet",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "67",
+            "c_percent": "53",
+            "d_percent": "35",
+            "e_percent": "16",
+            "r_percent": "37"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Bobby Moynihan, Kate Micucci, Kate McKinnon, and Kenan Thompson have voiced (respectively) the characters Hal the Dog, Daisy the Bunny, Squeeks the Mouse, and Ronald the Cat, all friends of Taran Killam's title character, in what children's TV series currently airing on PBS Kids?",
+            "answer": "nature cat",
+            "image": null,
+            "a_percent": "26",
+            "b_percent": "17",
+            "c_percent": "13",
+            "d_percent": "9",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In November 2018, prior to a series of restrictions disclosed by the U.S. Food and Drug Administration, what company, which has over 70% of domestic e-cigarette market share, announced suspension of retail sales of its flavored e-cigarette pods and an end to promotions on social media?",
+            "answer": "juul labs",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "74",
+            "c_percent": "71",
+            "d_percent": "68",
+            "e_percent": "62",
+            "r_percent": "67"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What Dutch American villager and legendary master of repose is quite possibly literature's best known fictional American Revolution-era Loyalist?",
+            "answer": "rip van winkle",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "61",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Jelawat, Prapiroon, Maria, Jongdari, Shanshan, Soulik, Cimaron, Jebi, Mangkhut, Trami, Kong-rey, Yutu, Usagi, and Man-yi are all names of what?",
+            "answer": "(2018 pacific ocean) typhoons",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What Romanian, the 2018 French Open Champion, is currently ranked number one on the Women's Tennis Association (WTA) Tour, in a spot she has held since October of last year?",
+            "answer": "simona halep",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "23"
+        }
+    ]
+}

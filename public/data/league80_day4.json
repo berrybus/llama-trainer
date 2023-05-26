@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 4,
+    "date": "February 25, 2019",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Brenda Mae Tarpley, Norma Deloris Egstrom, Rose Louise Hovick, and \u674e\u632f\u85e9 are names of three women and a man who are (or were) known by pseudonyms/transliterations that all have what last name?",
+            "answer": "lee",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "56",
+            "c_percent": "44",
+            "d_percent": "35",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What independent country is named after the province in the southwestern corner of the Netherlands?",
+            "answer": "new zealand",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "48",
+            "c_percent": "36",
+            "d_percent": "23",
+            "e_percent": "10",
+            "r_percent": "23"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What television series received numerous Emmy nominations in 1995\u2014including for Outstanding Writing for a Drama Series, Outstanding Directing for a Drama Series, and Outstanding Lead Actress in a Drama Series (Claire Danes)\u2014but was nonetheless cancelled after its single, critically acclaimed season?",
+            "answer": "my so-called life",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "48",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What name is missing the from the following titles of novels by Patricia Highsmith? ______ Under Ground, ______'s Game, The Boy Who Followed ______, ______ Under Water.",
+            "answer": "ripley",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "44",
+            "c_percent": "32",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "23"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A vane, rachis, calamus, and barbules are among the components of what biological epidermal appendages?",
+            "answer": "feathers",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "33",
+            "c_percent": "24",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "17"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What phrase, which originally referred to actual prolonged skin irritation, is believed to have first been used in its current and more common form\u2014as a psychological and interpersonal condition\u2014in a 1952 play by George Axelrod (and subsequent 1955 film)? ",
+            "answer": "seven year itch",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "23",
+            "r_percent": "35"
+        }
+    ]
+}

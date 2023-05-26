@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 7,
+    "date": "May 23, 2017",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The \"solo recital\"\u2014both the term and the type of piano concert\u2014is widely credited to what 19th-century Hungarian virtuoso, who undoubtedly revolutionized the art of performance and created the model for concert pianists that remains in place today?",
+            "answer": "franz liszt",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "66",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "24",
+            "r_percent": "40"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the name, in English, of the structure, which was initially completed in the year 691 and sits adjacent to the Al-Aqsa Mosque within the Haram al-Sharif (\"Noble Sanctuary\"), that serves as the holiest Muslim shrine in the city of Jerusalem?",
+            "answer": "dome of the rock",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "62",
+            "d_percent": "47",
+            "e_percent": "30",
+            "r_percent": "46"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In each year from 1983 to 1988, the Emmy Award for Best Actress in a Drama Series was won by one of the two stars of what TV series?",
+            "answer": "cagney & lacey",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "49",
+            "c_percent": "41",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Tiger Williams, Dale Hunter, Tie Domi, Marty McSorley, and Bob Probert are the top five in the history of the National Hockey League in what statistic?",
+            "answer": "penalties (in minutes)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "45",
+            "r_percent": "46"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Certain pharmaceuticals indicated for the treatment of depression and anxiety disorders work by inhibiting the activity of a particular family of enzymes. The drugs, which include Marplan, Nardil, and Parnate, are best known collectively by what abbreviation?",
+            "answer": "maois",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "37",
+            "c_percent": "31",
+            "d_percent": "24",
+            "e_percent": "19",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Virginia Woolf's Mrs. Dalloway and a titular tragic Young Lady from a (very long) epistolary 1748 novel share what first name?",
+            "answer": "clarissa",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "36",
+            "c_percent": "28",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "19"
+        }
+    ]
+}

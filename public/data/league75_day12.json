@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 12,
+    "date": "December 1, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "First mentioned in Bavaria in the 1420s, Karn\u00f6ffel\u2014which translates to \"hernia,\" was at the time a rude word for a cardinal, and was banned by clerical authorities for its irreverent promotion of anarchy\u2014is considered the oldest identifiable what?  ",
+            "answer": "card game",
+            "image": null,
+            "a_percent": "22",
+            "b_percent": "10",
+            "c_percent": "5",
+            "d_percent": "3",
+            "e_percent": "1",
+            "r_percent": "7"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Beginning in medieval England with a statute enacted in 1285, the practice whereby an individual could call out loudly for help in the pursuit and apprehension of a criminal, with those who heard the call obliged by law to assist, is known by the phrase \"hue and\" what?",
+            "answer": "cry",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "57",
+            "e_percent": "35",
+            "r_percent": "52"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A fictional largest diamond in the world with an unusual flaw in the center, given to Princess Dala of Lugash (also fictional) by her father the Shah, is the title object of a comedy caper film from 1963. What is that object, which gives its name not only to that film, but the entire subsequent film series, as well as its cartoon mascot?",
+            "answer": "the pink panther",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "84",
+            "e_percent": "69",
+            "r_percent": "77"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A term used by dental professionals for what is more commonly known as tartar or hardened plaque is also, unrelatedly, a term used in mathematics. What is that term?",
+            "answer": "calculus",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "Louise Bourgeois' 1999 sculpture titled Maman is a massive work (over thirty feet tall) depicting what type of animal? A cast of similar but smaller work, from three years prior, sold at auction in 2015 for $28.2 million.",
+            "answer": "spider",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "27",
+            "c_percent": "18",
+            "d_percent": "12",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Accent, Saz\u00f3n, and Ve-Tsin are trade names for what chemical compound, which was first produced commercially in Japan as Aji-no-moto (\"essence of taste\")?",
+            "answer": "monosodium glutamate (msg)",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "68",
+            "e_percent": "53",
+            "r_percent": "61"
+        }
+    ]
+}

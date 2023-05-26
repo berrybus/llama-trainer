@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 25,
+    "date": "September 23, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Roger Deakins has been nominated for an Academy Award for Best Cinematography fifteen times, finally winning the 2017 award on his fourteenth nomination, and again for a film from 2019. Name either of these films, neither of which are set in the present day, and which have a certain titular similarity.",
+            "answer": "blade runner 2049, 1917",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The \"Rowdy Friends\" from a (rather dated) 1984 music video include George Jones driving a riding lawnmower, Waylon Jennings and Willie Nelson playing poker, and Jim Varney being transported via bovine. What country artist sings the song in the video?",
+            "answer": "hank williams, jr.",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The protagonist of Charles Dickens' Little Dorrit, the title character of Gillian Flynn's Gone Girl, and one of Louisa May Alcott's Little Women all share what first name?",
+            "answer": "amy",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The fox with the largest ears (each one up to six inches long), which help it disperse body heat in the dry and hot climate of the Sahara Desert, is actually the smallest of all fox species, at just 16 inches from tip to tail. What is this alliteratively named fox?",
+            "answer": "fennec fox",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "38",
+            "e_percent": "30",
+            "r_percent": "39"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What single country fills in both blanks in this partial, chronological list of sports pairs:...England/England, Mexico/Brazil, West Germany/West Germany, Argentina/Argentina, Spain/Italy, Mexico/Argentina, Italy/West Germany, USA/Brazil, ______/______, Japan & South Korea/Brazil...(Note, just one answer is required.)",
+            "answer": "france",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "59",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In English, the training uniform used in various Japanese martial arts (e.g., aikido, karate, jujutsu, etc.) is most-often referred to by what two-letter word?",
+            "answer": "gi",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "64",
+            "d_percent": "58",
+            "e_percent": "50",
+            "r_percent": "59"
+        }
+    ]
+}

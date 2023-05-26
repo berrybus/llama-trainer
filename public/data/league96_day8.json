@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 8,
+    "date": "February 24, 2023",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What city in southwestern Sweden is that country's second-largest city and chief seaport, as well as a commercial center for shipbuilding, food processing, chemicals, and its namesake heavy metal subgenre?",
+            "answer": "gothenburg/g\u00f6teborg",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "42",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"Forest person\" is the English translation (from Malay) of the name of what primate, which is fitting because it is both the most arboreal of all primates and the largest arboreal mammal?",
+            "answer": "orangutan",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "82",
+            "d_percent": "71",
+            "e_percent": "56",
+            "r_percent": "68"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In geometry, \"explementary angles\" is the term for a pair of angles that add up to 360\u00b0. What are the corresponding terms, in order, for angles that add up to 90\u00b0 and 180\u00b0?",
+            "answer": "complementary, supplementary",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "50",
+            "d_percent": "40",
+            "e_percent": "28",
+            "r_percent": "38"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A classic 1990s movie about a wish-granting genie with the title Shazaam never existed, and it definitely didn't star what comedian who got his start as a finalist on the show Star Search before featuring in A Different World and his own namesake sitcom, as well as numerous actual films?",
+            "answer": "sinbad",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "50",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The 1978 poetry collection The Black Unicorn and the groundbreaking memoirs Zami (1982), and The Cancer Journals (1980) are among the celebrated works of what American author, who often introduced herself at public engagements as a \"Black, lesbian, mother, warrior, poet\"?",
+            "answer": "audre lorde",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "22",
+            "c_percent": "17",
+            "d_percent": "12",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A kingdom known as Silla existed for nearly one thousand years, much of that time as one-third of a \"Three Kingdoms\" period, on what peninsula?",
+            "answer": "korea",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "22",
+            "r_percent": "31"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 25,
+    "date": "December 21, 2018",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Name the French Benedictine monk of the 17th and 18th centuries who remains known today by virtue of the essential improvements he introduced to the m\u00e9thode champenoise style of wine production?",
+            "answer": "dom pierre p\u00e9rignon",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "70",
+            "c_percent": "55",
+            "d_percent": "39",
+            "e_percent": "21",
+            "r_percent": "39"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "An invention in the 1740s of a means to store static electricity, which permitted experiments with more powerful charges (and was used shortly thereafter by Benjamin Franklin), was what type of \"jar,\" named for the Dutch city where it was discovered by Pieter van Musschenbroek?",
+            "answer": "leyden",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "48",
+            "c_percent": "34",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "26"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the two-word phrase for the genre of art whose masters through history have included Louise Moillon, Jean-Baptiste-Sim\u00e9on Chardin, Anne Vallayer-Coster, Juan S\u00e1nchez Cot\u00e1n, Vincent van Gogh, and Paul C\u00e9zanne\u2014numerous works from the latter of whom include the phrase in their titles?",
+            "answer": "still life",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "53",
+            "c_percent": "46",
+            "d_percent": "33",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Shanghai Express, Destry Rides Again, The Blue Angel, Dishonored, The Scarlet Empress, Blonde Venus, and Witness for the Prosecution are all films which featured what Hollywood star?",
+            "answer": "marlene dietrich",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "There are four poetic feet in classical meter which are disyllabic (i.e., the feet are each made up of two syllables). They are most commonly known as iamb, trochee, pyrrhus, and what fourth?",
+            "answer": "spondee",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "19",
+            "c_percent": "13",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What was the name used for the enormous traveling caravan combining a circus, menagerie, and collection of freaks presented by P. T. Barnum beginning in 1871? The term was borrowed and altered slightly to describe the NFL's St. Louis Rams teams of the late 1990s and early 2000s.",
+            "answer": "the greatest show on earth",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "62",
+            "e_percent": "50",
+            "r_percent": "59"
+        }
+    ]
+}

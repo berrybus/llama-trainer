@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 25,
+    "date": "July 5, 2018",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What American bandmaster and composer, known as the \"March King,\" was leader of the United States Marine Band for 12 years beginning in 1880 before leaving to found his own successful touring band?",
+            "answer": "john philip sousa",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "93",
+            "d_percent": "86",
+            "e_percent": "67",
+            "r_percent": "74"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What 1931 crime film starring Edward G. Robinson, produced early in the sound era, is one of the earliest and most influential of what came to be known as \"gangster movies\"? Given the subject matter and plot, it's probably not the inspiration for a similarly named restaurant chain.",
+            "answer": "little caesar",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the mythological hero in this illustration, taken from the logo of a European football (soccer) team. ",
+            "answer": "ajax",
+            "image": "/images/art/57yc9578y6978.jpg",
+            "a_percent": "51",
+            "b_percent": "35",
+            "c_percent": "28",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The U.S. federal statute known colloquially as \"Obamacare\" and often shortened to the \"Affordable Care Act\" has a full name that is abbreviated PPACA. What do the letters \"PP\" in this abbreviation stand for?",
+            "answer": "patient protection",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Reprise Records, a still-existing record label now owned by Warner Music Group, was formed in 1960 by what musical artist, who served as its CEO and Chairman of the Board and also released his LP Ring-a-Ding-Ding! through the label in 1961?",
+            "answer": "frank sinatra",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "65",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "John H. Johnson, founder of the Johnson Publishing Company and the first African American to appear on the Forbes 400, achieved much of his prosperity via the publication of what magazine, his first major success, which he began in 1945?",
+            "answer": "ebony",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "58",
+            "e_percent": "48",
+            "r_percent": "55"
+        }
+    ]
+}

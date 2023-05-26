@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 25,
+    "date": "March 29, 2018",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "\"The story you are about to see is true. The names have been changed to protect the innocent.\ufeff\" This quote has often been reused and parodied, but it (or variations of it) was used first, and most famously, on what police procedural drama series?",
+            "answer": "dragnet",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "53",
+            "e_percent": "33",
+            "r_percent": "47"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Great Pyramid of Giza, the oldest and largest of the six pyramids in the Giza complex, is generally believed to have been commissioned by Khufu, a ruler during the Fourth Dynasty in the 26th century BCE. Khufu was known to the Greeks, and is still widely referred to in the West, by what other name?",
+            "answer": "cheops",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "51",
+            "c_percent": "36",
+            "d_percent": "20",
+            "e_percent": "8",
+            "r_percent": "22"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Vermilion, Iroquois, Kankakee, Clark, and Wabash are among the counties that run along the eastern boundary of what U.S. state?",
+            "answer": "illinois",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "55",
+            "c_percent": "52",
+            "d_percent": "46",
+            "e_percent": "35",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The majority of the thousands of living species in the phylum known as Annelid are commonly referred to as what?",
+            "answer": "worms",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "60",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "21",
+            "r_percent": "36"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The bakeware pictured here has what name, which was trademarked by the Nordic Ware company of Minnesota in 1950? ",
+            "answer": "bundt pan",
+            "image": "/images/art/4876jg985jf784jg.png",
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "80",
+            "e_percent": "75",
+            "r_percent": "79"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The graph of the function y = x2 forms what type of curve, first defined by ancient Greek mathematician Apollonius of Perga?",
+            "answer": "parabola",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "83",
+            "c_percent": "80",
+            "d_percent": "77",
+            "e_percent": "70",
+            "r_percent": "67"
+        }
+    ]
+}

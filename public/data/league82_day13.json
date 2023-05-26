@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 13,
+    "date": "September 16, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The modern definition of the term lesbian is etymologically rooted in the work of what poet, who lived on the island of Lesbos in the 6th century BCE?",
+            "answer": "sappho",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "72",
+            "d_percent": "55",
+            "e_percent": "34",
+            "r_percent": "46"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The US Air Force's Kelly Field, Lackland Air Force Base, and Randolph Air Force Base are all located in or near what city, which has a long and eventful history concerning military compounds?",
+            "answer": "san antonio",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "42",
+            "d_percent": "31",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Gene Gene the Dancing Machine, the Unknown Comic, Jamie Farr, and Jaye P. Morgan all frequently appeared on what reality competition (of sorts) TV series?",
+            "answer": "the gong show",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the scientific term for the shedding of leaves by deciduous plants during autumn, from the Latin for \"cut away\"? It's also used for the intentional shedding of a body part in animals and the separation of mitospores from a fungus.",
+            "answer": "abscission",
+            "image": null,
+            "a_percent": "23",
+            "b_percent": "12",
+            "c_percent": "8",
+            "d_percent": "4",
+            "e_percent": "2",
+            "r_percent": "7"
+        },
+        {
+            "category": "ART",
+            "prompt": "Frederick C. Robie, a successful businessman who owned automobile and bicycle companies in the early 1900s and lived for a time in Chicago's Hyde Park neighborhood, is remembered today almost exclusively for his association with what Prairie modernist?",
+            "answer": "frank lloyd wright",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Brook, Sunapee, Dolly Varden, Lake, Cutthroat, Rainbow, and Golden are among the different types of what game fish?",
+            "answer": "trout",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "98",
+            "d_percent": "98",
+            "e_percent": "95",
+            "r_percent": "95"
+        }
+    ]
+}

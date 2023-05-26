@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 2,
+    "date": "November 14, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Catholic popes who corrected the error of the Julian calendar (16th century), battled German Emperor Henry IV over the secularized condition of the Church (11th century), returned the papacy to Rome from Avignon (14th century), and standardized (allegedly but probably not actually) the mainstream form of Western plainsong (6th century) all shared what name?",
+            "answer": "gregory",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "69",
+            "d_percent": "53",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In geometry, what word is used most often to describe an angle that is greater than \u03c0/2 radians and less than \u03c0 radians?",
+            "answer": "obtuse",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "73",
+            "c_percent": "73",
+            "d_percent": "72",
+            "e_percent": "67",
+            "r_percent": "70"
+        },
+        {
+            "category": "FILM",
+            "prompt": "First introduced to movie audiences in 1984, the laconic Cyberdyne Systems Model 101 was better known as what?",
+            "answer": "terminator",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "50",
+            "r_percent": "53"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Acer saccharum is the scientific name of a species of tree that is best known by what common two-word name?",
+            "answer": "sugar maple",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "48",
+            "e_percent": "31",
+            "r_percent": "42"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What two-word term from economics, attributed to Friedrich von Wieser (as a translation of Grenznutzen) and central to demand theory, is commonly defined as the extra satisfaction gained by the consumer from an increment in the consumption of a given product?",
+            "answer": "marginal utility",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "46",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "28",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Skye, Mull, Islay, and Jura and among the Inner, and Lewis and Harris, North Uist, South Uist, and Benbecula are among the Outer of what archipelago off the coast of Scotland?",
+            "answer": "hebrides",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "69",
+            "d_percent": "51",
+            "e_percent": "25",
+            "r_percent": "42"
+        }
+    ]
+}

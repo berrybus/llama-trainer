@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 20,
+    "date": "March 19, 2021",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "An international custody battle, a media phenomenon, and political chaos originated with the discovery in 1999 of a five-year-old boy floating on a makeshift raft three miles off the coast of Fort Lauderdale, Florida. This boy, now a grown man and Cuban citizen, has what first name?",
+            "answer": "eli\u00e1n (gonzalez)",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "76",
+            "e_percent": "57",
+            "r_percent": "63"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The 2000 novel White Teeth was the widely acclaimed debut of what 24-year-old English author, whose subsequent novels include On Beauty (2005) and NW (2012)?",
+            "answer": "zadie smith",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "56",
+            "c_percent": "49",
+            "d_percent": "40",
+            "e_percent": "30",
+            "r_percent": "37"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name either of the characters (a girl and a squirrel, respectively) that form the title of the 2013 Kate DiCamillo superhero novel that was adapted into a film released on Disney+ in February 2021.",
+            "answer": "flora & ulysses",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "29",
+            "c_percent": "22",
+            "d_percent": "17",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The 13th-century mathematician Leonardo of Pisa was posthumously given a name by which he is best-known today, after the name's alleged 1838 inventor Guillaume Libri shared it (maybe?) with two people, who then shared it with three people, who then shared it with five people, who then shared it with eight people, and so on, and so on. What is this name?",
+            "answer": "fibonacci",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "66",
+            "r_percent": "71"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Maximilien Robespierre and Jean-Paul Marat are among the 18th-century Frenchmen associated with the \"Society of the Friends of the Constitution\" (Soci\u00e9t\u00e9 des amis de la Constitution), a club that was best known informally by what name, taken from the monastery which was the club's frequent meeting place during the early 1790s?",
+            "answer": "jacobin",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "57",
+            "c_percent": "45",
+            "d_percent": "30",
+            "e_percent": "14",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Caprica, a planet in the Cyrannus star system, provided the setting for some of the episodes of what sci-fi drama series, as well as the title for the show's spinoff prequel? ",
+            "answer": "battlestar galactica",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "69",
+            "e_percent": "57",
+            "r_percent": "64"
+        }
+    ]
+}

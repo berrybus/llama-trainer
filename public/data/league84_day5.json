@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 5,
+    "date": "February 25, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A novel that is reportedly the most translated non-religious book in the world (probably now surpassed by The Little Prince, but almost certainly the most translated Italian book) is a story written in the 1880s by Carlo Collodi about what title character?",
+            "answer": "pinocchio",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "62",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The process of boiling a liquid and condensing and collecting the vapor is best known by what term?",
+            "answer": "distillation",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "68",
+            "e_percent": "56",
+            "r_percent": "64"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Gen. George Washington's famous crossing of the Delaware River on Christmas, 1776, preceded a pivotal Continental Army victory in a battle the following morning that took place in (and is named after) what city?",
+            "answer": "trenton",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "50",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Charles Path\u00e9, with his Path\u00e9 Freres company, is remembered today mostly as an early 20th-century leader in the world production and distribution of equipment in what industry?",
+            "answer": "film",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "49",
+            "c_percent": "39",
+            "d_percent": "28",
+            "e_percent": "16",
+            "r_percent": "24"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Latin word for \"trumpet\" is, in English, a different but related musical instrument. What is that instrument?",
+            "answer": "tuba",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "33",
+            "c_percent": "28",
+            "d_percent": "23",
+            "e_percent": "16",
+            "r_percent": "23"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What geological term is used for a mountain mass demarcated by faults and fissures, such as the highest point in Antarctica (named after long-time U.S. Representative Carl Vinson)? Another example is what was until recently believed to be the largest volcano on earth, located in the northern Pacific Ocean and named after Texas A&M University (Tamu).",
+            "answer": "massif",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "17",
+            "e_percent": "7",
+            "r_percent": "15"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 23,
+    "date": "September 29, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Autonomous Region of Bougainville, located in the western South Pacific Ocean, is scheduled to become independent by 2027 from what country, which itself gained autonomy from Australia in 1975?",
+            "answer": "papua new guinea",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "49",
+            "c_percent": "35",
+            "d_percent": "25",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Name the location in Greece which is the basic equivalent in Greek mythology to the Norse Asgard.",
+            "answer": "mount olympus",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "68",
+            "r_percent": "79"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "While it may evoke an abstract representation of the sun, or a flower, or an asterisk, the six yellow dashes on what company's logo are meant, per that company, to represent a spark (with each of the six parts called a \"sparklet\")?",
+            "answer": "walmart",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "56",
+            "r_percent": "64"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Who was declared legally dead in January 1939 in a probate court in Los Angeles, California, probably over 4,000 miles from the actual location where the death sadly occurred? ",
+            "answer": "amelia earhart",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "82",
+            "e_percent": "64",
+            "r_percent": "71"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In 1967, Birmingham, England teenagers John Osbourne, Tony Iommi, Terry Butler, and Bill Ward formed a band named the Polka Tulk Blues Band. The band was renamed Earth and then ultimately named what (after one of their songs, which would also be their debut album title)? The foursome would go on to release eight albums in the 1970s with this original lineup. ",
+            "answer": "black sabbath",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "44"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Liberty City, San Fierro, and Vice City are fictional cities (based on New York, San Francisco, and Miami, respectively) that appear as settings in what series of games?",
+            "answer": "grand theft auto (gta)",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "96",
+            "c_percent": "95",
+            "d_percent": "94",
+            "e_percent": "90",
+            "r_percent": "93"
+        }
+    ]
+}

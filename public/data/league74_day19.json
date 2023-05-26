@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 19,
+    "date": "September 15, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "For most professional boxing sanctioning organizations, the weight class that sits between Light Heavyweight and Heavyweight, with a weight limit of 200 pounds, is known as what? One exception is the WBO, where it is known as \"Junior Heavyweight.\"",
+            "answer": "cruiserweight",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "38",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Napoleon Bonaparte finally met his Waterloo in 1815 at the Battle of Waterloo, where he was defeated by a Prussian army under the command of Gebhard Leberecht von Bl\u00fccher, and British-led forces under the command of whom?",
+            "answer": "the duke of wellington (arthur wellesley)",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "70",
+            "c_percent": "55",
+            "d_percent": "41",
+            "e_percent": "22",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Beauty and the Beat, Vacation, and Talk Show are the early 1980s albums from what rock band?",
+            "answer": "the go-go's",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "60",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The controversial dark opera Death of Klinghoffer, which is based on the hijacking of the cruise liner Achille Lauro by members of the Palestine Liberation Front and has been criticized as sympathetic to the terrorists, is the work of what American composer?",
+            "answer": "john adams",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "30",
+            "c_percent": "20",
+            "d_percent": "11",
+            "e_percent": "4",
+            "r_percent": "13"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the most common name for the formula pictured here? ",
+            "answer": "quadratic formula (equation)",
+            "image": "/images/art/4985y930cm395cm395cm.png",
+            "a_percent": "83",
+            "b_percent": "79",
+            "c_percent": "75",
+            "d_percent": "71",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Steve Guttenberg, Daniel Stern, Mickey Rourke, Kevin Bacon, Timothy Daly, Paul Reiser, and Ellen Barkin\u2014mostly show biz unknowns at the time\u2014all appeared in what 1982 Baltimore-based film comedy?",
+            "answer": "diner",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "33"
+        }
+    ]
+}

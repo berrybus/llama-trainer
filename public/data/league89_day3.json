@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 3,
+    "date": "May 19, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What fruit is most closely associated with an 1856 riot in present-day Panama, a 1995 novel by Irish writer Marian Keyes, and the comedian Gallagher?",
+            "answer": "watermelon",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "70",
+            "e_percent": "56",
+            "r_percent": "61"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The Roman ruler of the gods, the Roman ruler of the titans, and the Greek father of the titans are included, in order, as a segment within a common sequence. What are these three names, in that correct order?",
+            "answer": "jupiter, saturn, uranus",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "55",
+            "e_percent": "33",
+            "r_percent": "44"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In three feature films beginning in 1995, plus numerous shorts, Don Rickles provided the voice for what mustachioed solanum?",
+            "answer": "mr. potato head",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "65",
+            "e_percent": "50",
+            "r_percent": "60"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In April 2021, who became the first player in major league baseball since Babe Ruth 100 years prior to start a game as pitcher while also leading the league in home runs?",
+            "answer": "shohei ohtani",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "48",
+            "c_percent": "44",
+            "d_percent": "36",
+            "e_percent": "29",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1959, Mao Zedong instituted the second five-year plan of his rule targeting massive increases in industrial output and agricultural efficiency. This plan, which was a disastrous failure, is best known as the \"Great\" what (two word answer)\u2014a misnomer, as industrial production halved by 1962?",
+            "answer": "leap forward",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "37",
+            "r_percent": "51"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The cities of Quezon City and Manila are located on what island, the northernmost, largest in area, and most populous of the main Philippine Islands?",
+            "answer": "luzon",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "65",
+            "c_percent": "50",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "31"
+        }
+    ]
+}

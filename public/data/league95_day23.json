@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 23,
+    "date": "December 12, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "A meeting in Beirut, Lebanon, of world leaders and individuals hostile to the United States (Fidel Castro, Idi Amin, Ayatollah Khomeini, Mikhail Gorbachev, Pahpshmir, et al.) is disrupted by a Los Angeles police lieutenant at the beginning of what 1988 movie?",
+            "answer": "the naked gun: from the files of police squad!",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "35"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "In a musical story from 1871, Radam\u00e8s, a captain in the Egyptian Army, is the love interest of both the king's daughter, Amneris, and what enslaved Ethiopian princess?",
+            "answer": "aida",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "74",
+            "c_percent": "61",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "36"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Between the atmosphere above and the asthenosphere (the part of the mantle \"without strength\") below are the solid, outermost layers of the Earth\u2014the rigid, upper part of the mantle, and the crust. This firm planetary shell is known by what name, derived in part from the Greek for \"stone\"?",
+            "answer": "lithosphere",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "35",
+            "e_percent": "19",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The \"Beginner Books\" series, published by Random House beginning in 1957, had contributions from Helen Palmer, P.D. Eastman (the series' art director), and Bennett Cerf, but is most associated with the works of what other author?",
+            "answer": "dr. seuss (theodor geisel)",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "63",
+            "e_percent": "50",
+            "r_percent": "56"
+        },
+        {
+            "category": "ART",
+            "prompt": "Sakuntala, The Mature Age, and The Waltz are among the popular works by what late-19th/early-20th-century French sculptor? She was not famous in her own time, but posthumously gained acclaim for her works and talent later in the 20th century, especially via numerous biographies and films about her life that were produced beginning in the 1980s (and which often focused on her association with Auguste Rodin and her mental health struggles later in life).",
+            "answer": "camille claudel",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "15",
+            "c_percent": "11",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "From Susan Rice, beginning in 2009, to Linda Thomas-Greenfield, currently in the role, the last five individuals to hold the office of Ambassador of the United States of America to the United Nations (on a non-interim basis) have been women. Name any one of the three women who served in the position on a permanent basis between Ambassadors Rice and Thomas-Greenfield.",
+            "answer": "samantha power, nikki haley, kelly craft",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "62",
+            "e_percent": "45",
+            "r_percent": "54"
+        }
+    ]
+}

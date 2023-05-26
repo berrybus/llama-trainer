@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 13,
+    "date": "March 13, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Tabqa Dam on the Euphrates River, completed in 1973, created Lake Assad, which is the largest lake in what country?",
+            "answer": "syria",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the baseball player who, in 2017, set records for most extra-base hits (8) and total bases (29) in a single World Series while tying the record for most home runs (5).",
+            "answer": "george springer",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "17",
+            "e_percent": "13",
+            "r_percent": "19"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Give the title of any one of the three films\u2014from 1992, 1996, and 2001\u2014that have come to be known as the \"Red Curtain Trilogy.\" Although unrelated in terms of plot, they share the same director (his first three films) and lavishly incorporate traditional theatrical conventions and lush imagery.",
+            "answer": "strictly ballroom, romeo + juliet, moulin rouge!",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "49",
+            "c_percent": "43",
+            "d_percent": "32",
+            "e_percent": "25",
+            "r_percent": "36"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What portmanteau arose from a governor of Massachusetts during the 1810s and his partisan political activity that evoked a particular amphibian?",
+            "answer": "gerrymander",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "85",
+            "c_percent": "82",
+            "d_percent": "68",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the name of the revolutionary literary movement of late-18th-century Germany, a short-lived and intensely emotional precursor to Romanticism named after a 1776 play by Friedrich Maximilian Klinger, which rejected classicism in favor of artistic creativity and subjective feeling?",
+            "answer": "sturm und drang",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "29",
+            "c_percent": "20",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name of the extract from the stomach of a young animal (particularly a calf or lamb) that contains an enzyme that causes the milk protein casein to curdle, and is therefore used in the manufacture of some cheeses?",
+            "answer": "rennet",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "57",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "28",
+            "r_percent": "38"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 9,
+    "date": "June 4, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "A Fran\u00e7ois Truffaut film of the French New Wave has an English title that seems nonsensical. In actuality, it's a literal translation of its French title, referencing an idiom that translates more figuratively into English as \"run wild\" or \"raise hell\". What is that English title?",
+            "answer": "the 400 blows",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Death and Life of Great American Cities, a seminal work in the field of urban planning, was written in 1961 by what tenacious New Yorker (and foe of Robert Moses)?",
+            "answer": "jane jacobs",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 1840 Treaty of Waitangi was signed by the British government and chieftains of what indigenous people, recognizing the people's land rights and rights as British subjects in return for recognition of Queen Victoria's sovereignty over the people's homeland?",
+            "answer": "maori",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "39"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Memory wire, dead-soft wire, and tiger-tail are materials most commonly used in the making of what?",
+            "answer": "jewelry",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "31",
+            "c_percent": "23",
+            "d_percent": "16",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Granite, Anthem, Pinnacle, and TerraPro are all names of models produced by what US-based truck manufacturer, founded in 1900 as a maker of buses? ",
+            "answer": "mack",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The plaques in the National Baseball Hall of Fame in Cooperstown, New York, for inductees Gary Carter, Andre Dawson, and Tim Raines depict the players wearing the hat of what team?",
+            "answer": "montreal expos",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "31"
+        }
+    ]
+}

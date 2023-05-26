@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 8,
+    "date": "August 28, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What muscle in the human body is actually a muscle group, consisting of the rectus femoris, vastus medialis, vastus lateralis, and vastus intermedius?",
+            "answer": "quadriceps (femoris)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "57",
+            "d_percent": "46",
+            "e_percent": "36",
+            "r_percent": "46"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A Slav tribe gave its name to a region around the River Oder bordering the Baltic Sea, which was settled in the 5th century and enjoyed independence from the 11th to the 17th centuries, and the region in turn gave its name to a thickly coated toy dog breed. What is that region's name?",
+            "answer": "pomerania",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "62",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The first (and still only) mother to become Wimbledon ladies' singles champion in the open era appeared as the now-quite-anachronistic \"Mrs. R. Cawley\" on the scoreboard in the 1980 final against Chris Evert-Lloyd (\"Mrs. J.M. Lloyd\"). This Australian tennis star is more associated with\u2014and achieved the majority of her success under\u2014what other last name, her maiden name?",
+            "answer": "goolagong",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "30",
+            "c_percent": "22",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "An Ottoman viceroy and pasha of Egypt from 1805 to 1849, the Indian religious scholar and author of 1936's monumental The Religion of Islam, and the man for whom the airport in Louisville, Kentucky, is officially named all share what name? (Two-word answer required.)",
+            "answer": "muhammad ali",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "76",
+            "c_percent": "64",
+            "d_percent": "49",
+            "e_percent": "30",
+            "r_percent": "51"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In an enduringly popular book from 1969, a voracious creature burrows through the pages of a book consuming an increasing volume of delicacies. What type of creature is he (through most of the story, at least)?",
+            "answer": "caterpillar",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "84",
+            "e_percent": "76",
+            "r_percent": "75"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Atlanta natives William Guest, Merald \"Bubba\" Knight, and Edward Patten were long-time members of what successful R&B and soul music backing group, who were (along with their leader) inducted into the Rock and Roll Hall of Fame in 1996?",
+            "answer": "the pips",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "37"
+        }
+    ]
+}

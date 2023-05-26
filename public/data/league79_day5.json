@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 5,
+    "date": "November 20, 2018",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "The cities of New York, Venice, Berlin, Las Vegas, and Bilbao are current or previous homes to art museums established by what foundation (after which the museums are all named)?",
+            "answer": "guggenheim",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "67",
+            "r_percent": "75"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Two Grammy Awards, a Nobel Peace Prize, and over a dozen honorary Doctor of Laws (LL.D) degrees are among the laurels bestowed upon what individual?",
+            "answer": "barack obama, jimmy carter",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "54",
+            "e_percent": "41",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Isaac, Taylor, and Zac are the names of the three brothers who form what namesake music group whose eleventh studio album, a symphonic double-album titled String Theory, was released on November 9, 2018?",
+            "answer": "hanson",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "73",
+            "e_percent": "67",
+            "r_percent": "67"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Give the first and last names of the composer, piano virtuoso, and former child prodigy of the Romantic era, n\u00e9e Wieck, who was one of the first pianists to perform the now-standard practice of playing from memory. ",
+            "answer": "clara schumann",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "22",
+            "c_percent": "16",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "10"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "With an estimated population of more than 140 million, what island is the world's most populous, though only the fifth-largest in its country in area?",
+            "answer": "java",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Gregorian calendar, named after Pope Gregory XIII, who promulgated it in October 1582, reformed the pre-existing calendar slightly, and one way of doing so was by altering the rule for leap years (no Feb. 29 in years divisible by 100, unless also divisible by 400). This corrected the previous calendar proposed and enacted by (and named after) whom?",
+            "answer": "julius caesar",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "67",
+            "e_percent": "52",
+            "r_percent": "58"
+        }
+    ]
+}

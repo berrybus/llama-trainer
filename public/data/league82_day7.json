@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 7,
+    "date": "September 6, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The second-largest lake in all of Latin America, after Lake Titicaca, is known locally as Cocibolca and shares a common name with the country in which it is located. What is that country?",
+            "answer": "nicaragua",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "27"
+        },
+        {
+            "category": "ART",
+            "prompt": "Identify the 1st-century BCE Roman engineer, author of an influential treatise on architecture, who was celebrated in a famous and enduring drawing from the late 15th century.",
+            "answer": "vitruvius",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "42",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "23"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What well-known method for teaching violin to young children is named after its founder, who wowed Japanese audiences in the mid-20th century with his extremely young but proficient string orchestras?",
+            "answer": "suzuki method",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "50",
+            "e_percent": "38",
+            "r_percent": "46"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The ice cream cone, Dr Pepper, puffed wheat cereal, the hamburger, the hot dog, peanut butter, iced tea, the club sandwich, and cotton candy are all (with varying degrees of credibility) believed to have been first popularized at the Louisiana Purchase Exposition, a major event held in 1904 in what city?",
+            "answer": "st. louis",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "66",
+            "e_percent": "46",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term used for the coarse-grained intrusive igneous rock composed mainly of quartz (between 10%\u201460%) and alkaline feldspar (at least 35%)? It's commonly encountered in everyday life and likely the most abundant igneous rock found on the earth's surface.",
+            "answer": "granite",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "53",
+            "e_percent": "44",
+            "r_percent": "52"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A central plank of the campaign of Andrew Yang, running for the Democratic nomination for U.S. president, is his proposed \"Freedom Dividend\", to address the country's growing wealth inequality and job instability. The Freedom Dividend is an example of a social program known as UBI. What do the letters in UBI stand for?",
+            "answer": "universal basic income",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "83",
+            "e_percent": "73",
+            "r_percent": "78"
+        }
+    ]
+}

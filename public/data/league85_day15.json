@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 15,
+    "date": "June 11, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "The \"2 Tone\" movement in British music of the late 1970s, represented by acts such as The Selecter, Madness, The Specials, and The (English) Beat, marked a revival of what musical genre\u2014a precursor to reggae and rocksteady that originated in Jamaica two decades earlier?",
+            "answer": "ska",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "57",
+            "e_percent": "44",
+            "r_percent": "56"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "On March 25, 1965, Dr. Martin Luther King, Jr., and 25,000 supporters completed a five-day, 54-mile freedom walk that began and ended in what two cities?",
+            "answer": "selma, montgomery",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "54",
+            "e_percent": "40",
+            "r_percent": "54"
+        },
+        {
+            "category": "MATH",
+            "prompt": "If A and B are two points on a straight line, the part of the line between and including A and B is normally referred to by what mathematical term?",
+            "answer": "segment",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "76",
+            "d_percent": "69",
+            "e_percent": "60",
+            "r_percent": "64"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Tombs of Atuan, The Farthest Shore, Tehanu, and The Other Wind are novels by Ursula K. LeGuin set in what fictional land, a chain of islands surrounded by uncharted ocean?",
+            "answer": "earthsea",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "46",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Among the 460 medications on the WHO's List of Essential Medicines is a medication produced by the pharmaceutical company Sanofi under the trade name Plaquenil. What is the generic name for this newsworthy antimalarial (or the related drug with which it is most often associated, produced by Sanofi as Aralen)?",
+            "answer": "hydroxychloroquine/chloroquine",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "73",
+            "c_percent": "69",
+            "d_percent": "63",
+            "e_percent": "55",
+            "r_percent": "62"
+        },
+        {
+            "category": "FILM",
+            "prompt": "During Hollywood's studio system era (1920s\u20131940s), a group of vertically integrated studios\u2014combining production, distribution, and exhibition\u2014were known as the \"Big 5\" and included MGM, Paramount, RKO, 20th Century Fox, and Warner Brothers. A separate \"Little 3\" were major studios that were not fully integrated (not owning their own theaters), and consisted of United Artists, Universal, and what third?",
+            "answer": "columbia",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "22",
+            "r_percent": "35"
+        }
+    ]
+}

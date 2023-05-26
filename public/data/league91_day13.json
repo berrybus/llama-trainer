@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 13,
+    "date": "November 29, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The association of doves with peace originates with the biblical story of the Great Flood, during which a dove\u2014released by Noah after the rains stopped\u2014returned holding what in its beak (a sign of life indicating that the waters had receded)?",
+            "answer": "olive leaf/branch",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "97",
+            "d_percent": "95",
+            "e_percent": "89",
+            "r_percent": "92"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Of the actual historical people after whom elements of the periodic table are named, two are women. One is Marie Curie, while the other was a Viennese-born Swedish physicist who was a co-discoverer of nuclear fission in 1938. What is her name, commemorated in element 109?",
+            "answer": "lise meitner",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "14"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The 2021 United Nations Climate Change Conference, which is known as COP26 (as it is the 26th \"Conference of the Parties\" to the UN Framework Convention on Climate Change), convened on October 31, 2021, in what city?",
+            "answer": "glasgow",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "56",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While all three claims are debatable, what mountain\u2014a volcano that last erupted in 1707\u2014is widely credited as the world's most visited mountain (credible given its proximity to a major world city), as the world's most climbed (possible as no experience is necessary during the summer months), and also as the world's most photographed (a fact that would not be its only association with photography)?",
+            "answer": "mt. fuji",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "75",
+            "e_percent": "57",
+            "r_percent": "69"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Most races which are categorized as TT races (for \"Tourist Trophy\"), including the original Isle of Man TT which first took place in 1907 and the Dutch TT which is normally held each June, are races using what conveyance?",
+            "answer": "motorcycle",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "38",
+            "c_percent": "31",
+            "d_percent": "23",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "\"Africa for Africans at home and abroad\" was the slogan of an organization founded by what Jamaican in 1914, whose efforts in the US starting in 1916 focused on repatriation of Black people to a new African republic established from former German colonies?",
+            "answer": "marcus garvey",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "42",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "29"
+        }
+    ]
+}

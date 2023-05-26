@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 22,
+    "date": "March 16, 2022",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Janice Pennington, Dian Parkinson, and Holly Hallstrom became famous for their daily appearances from the late 1970s into the early 1990s on what daytime television program?",
+            "answer": "the price is right",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "27"
+        },
+        {
+            "category": "ART",
+            "prompt": "Early 1960s works of English painter Bridget Riley including Fall, Fission, and Hesitate are archetypes of what contemporary art style, the term for which was coined in 1964 in Time magazine to describe a form of art that utilizes patterns and designs deceiving to the eye?",
+            "answer": "op art",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "39",
+            "c_percent": "26",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A standard set of 2\" full-size snooker balls comes with 22 balls, 15 of which are what color? This is also typically the color of the #3 ball in regular 8-ball pool.",
+            "answer": "red",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "74",
+            "e_percent": "64",
+            "r_percent": "69"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The title of Paula Vogel's bold and powerful 1998 Pulitzer-winning play pertains to the metaphor that provides the framework for its complex, empathetic story of pedophilia, sexual trauma, and victim-blaming. The title begins How I Learned to\u2014what is that last word?",
+            "answer": "drive",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "29",
+            "c_percent": "19",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The drupe of a certain small, shiny shrub within the genus Zizyphus originally provided the flavor\u2014and still provides the name\u2014for a certain gummy confection of flavoring (now violet, lilac, lime, wild cherry, or lemon) and sugar syrup. What is the name of that candy, or its similarly named (and similarly produced) sibling, both of which were introduced by the Heide Candy Company in 1920?",
+            "answer": "jujube/jujyfruit",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The most successful work of Austrian author Heinrich Harrer is a fast-paced travel and adventure story from 1953 that settles on his seven years spent where?",
+            "answer": "tibet",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "50"
+        }
+    ]
+}

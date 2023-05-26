@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 3,
+    "date": "November 15, 2019",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Henk van Os, Ronald de Leeuw, Wim Pijbes, and Taco Dibbits are the four most recent directors of a national art institution best known both locally and internationally by what name?",
+            "answer": "rijksmuseum",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "28",
+            "e_percent": "13",
+            "r_percent": "24"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The liquid part of blood (i.e., blood minus the blood cells) is plasma. What is the term for blood plasma from which fibrinogens and clotting factors have been removed?",
+            "answer": "serum",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Julius Nyerere served from 1962 to 1964 as president of what African nation, during which time he successfully negotiated a union with Zanzibar (and subsequently served in the same role in the new state of Tanzania until 1985)?",
+            "answer": "tanganyika",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "49",
+            "c_percent": "34",
+            "d_percent": "19",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What was the name of the offshore drilling rig operated by BP that exploded off the coast of Louisiana in April 2010, ultimately resulting in what some reports estimated at 4.9 million barrels of oil spilled into the Gulf of Mexico?",
+            "answer": "deepwater horizon",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "82",
+            "c_percent": "75",
+            "d_percent": "64",
+            "e_percent": "44",
+            "r_percent": "57"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The two oldest teams in the National Football League that have not relocated to another state have met at least once (and usually twice) every year but two since 1921. They are scheduled to meet for the 200th time on December 15, with that game's home team holding a 98-95-6 lead in the series and a 16-4 lead since 2010. Name either of these two teams, whose founders and looong-time coaches were charter members of the Pro Football Hall of Fame in 1963.",
+            "answer": "chicago bears, green bay packers",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "67",
+            "e_percent": "58",
+            "r_percent": "62"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The block of Stuyvesant Avenue in Brooklyn's Bed-Stuy neighborhood between Quincy Street and Lexington Avenue has an alternate honorific name celebrating what 1989 film, which was shot in its entirety on that block during the previous summer?",
+            "answer": "do the right thing",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "41"
+        }
+    ]
+}

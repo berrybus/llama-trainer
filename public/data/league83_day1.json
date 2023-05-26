@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 1,
+    "date": "November 13, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Gulf of Aden and the Gulf of Oman are branches of what marginal sea of the Indian Ocean?",
+            "answer": "arabian sea",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Airstrip One (formerly known as Great Britain) is located within the state of Oceania, which is itself one of the three major powers (along with Eurasia and Eastasia) in what novel?",
+            "answer": "nineteen eighty-four (1984)",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "71",
+            "e_percent": "52",
+            "r_percent": "65"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A cover version of Steve Winwood's 1986 hit single \"Higher Love\" was recorded but unreleased (except as a bonus track in Japan) until it was remixed by the Norwegian DJ Kygo in 2019 and posthumously released as a single in June. Who recorded this cover back in 1990?",
+            "answer": "whitney houston",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "40",
+            "c_percent": "36",
+            "d_percent": "33",
+            "e_percent": "28",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "German engineer Tobias Schmidt, working with French physician Antoine Louis, invented and built the prototype for a device first known as a louisette. This device was later (and is still today, perhaps unfairly) known by what other name, after another French physician and politician who proposed its broader use in 1789?",
+            "answer": "guillotine",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "45",
+            "r_percent": "58"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Identify the city missing from this complete list: 1/A: Boston; 2/B: New York; 3/C: Philadelphia; 4/D: Cleveland; 5/E: Richmond; 6/F: Atlanta; 7/G: Chicago; 8/H: St. Louis; 9/I: Minneapolis; 10/J: Kansas City; 11/K: Dallas; 12/L: ____________.",
+            "answer": "san francisco",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "36",
+            "c_percent": "28",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "16"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A model known as CIECAM02, designed in 2002 by the Vienna-based International Commission on Illumination to accurately model human color perception, defines six dimensions of color appearance, five of which are brightness, lightness, colorfulness, chroma, and saturation. The sixth dimension, which CIECAM02 defines as \"the degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow\", is what three-letter word?",
+            "answer": "hue",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "77",
+            "e_percent": "70",
+            "r_percent": "76"
+        }
+    ]
+}

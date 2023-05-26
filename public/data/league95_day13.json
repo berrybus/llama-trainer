@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 13,
+    "date": "November 28, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "For many years, until forbidden by law, fuel manufacturers produced gasoline that avoided engine knock by adding a certain antiknock agent that was a tetraethyl with what chemical element?",
+            "answer": "lead",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "80",
+            "e_percent": "64",
+            "r_percent": "69"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Bammy, a fried flatbread made from grated cassava and often served with fried fish, and descended from the food of the native Arawak culture, is a traditional dish of what nation?",
+            "answer": "jamaica",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "44",
+            "c_percent": "33",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "It was [REDACTED]; the rain fell in torrents, except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness.What phrase fills in the redacted section in this first line of the 1830 novel Paul Clifford?",
+            "answer": "a dark and stormy night",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "62",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "42"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Hopi and the Zuni are among the Native Americans distinctive for their settlements of multistory housing that are known by what Spanish term? The word is also used for the tribes themselves, as well as for a city and county in the state of Colorado.",
+            "answer": "pueblo",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "79",
+            "e_percent": "64",
+            "r_percent": "73"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word, which is sometimes used generally as a synonym for \"newspaper\" and is specifically a part of the name of some newspapers, originates from the name of a Venetian coin whose value at one time was the cost of one Venetian newspaper?",
+            "answer": "gazette ",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "57",
+            "c_percent": "48",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "ART",
+            "prompt": "\"Superflat\", a term used to describe a unique form of contemporary Japanese pop art based on historical Japanese flat art aesthetics, manga, and anime, was coined in 2000 by what artist, who founded the movement?",
+            "answer": "takashi murakami",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "20",
+            "c_percent": "15",
+            "d_percent": "12",
+            "e_percent": "8",
+            "r_percent": "13"
+        }
+    ]
+}

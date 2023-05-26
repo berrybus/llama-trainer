@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 1,
+    "date": "February 20, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What area, which sits along the eastern coast of Nicaragua and Honduras, is not named after an annoying pest (though they are abundant in the region), but rather for the indigenous people who have inhabited the area for centuries?",
+            "answer": "mosquito coast",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "59",
+            "r_percent": "64"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "While the term is used loosely to refer to just about any brass instrument (cornet, trumpet, trombone, etc.), the word horn is also used in the name of what common modern woodwind instrument, whose plaintive and mournful sound is featured prominently in Wagner's Tristan and Isolde and Sibelius's The Swan of Tuonela?",
+            "answer": "cor anglais/english horn",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "19"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "My Life, 32 Ways to Be a Champion in Business, and What You Can Do to Avoid AIDS are all books authored by what athlete?",
+            "answer": "earvin \"magic\" johnson",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "89",
+            "e_percent": "85",
+            "r_percent": "83"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Russian nickname grozny (as in the Chechen capital) translates literally to \"awe-inspiring\" or \"formidable,\" but when applied in its best known historical reference, it is more commonly rendered in English as what?",
+            "answer": "terrible",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "51",
+            "c_percent": "38",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "18"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "1-800-273-8255, a hit single by Logic featuring Alessia Cara and Khalid released in April 2017, is also the phone number for a hotline created for what purpose?",
+            "answer": "suicide prevention",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "81",
+            "c_percent": "79",
+            "d_percent": "76",
+            "e_percent": "74",
+            "r_percent": "74"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "1991's Treaty of Asunci\u00f3n created a free trade bloc whose full members today are Argentina, Brazil, Paraguay, and Uruguay, and that goes by what name?",
+            "answer": "mercosur",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "22",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "10"
+        }
+    ]
+}

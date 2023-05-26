@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 11,
+    "date": "November 30, 2017",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the nation highlighted on this map. ",
+            "answer": "mali",
+            "image": "/images/art/8597c05987vn6489.jpg",
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "33",
+            "r_percent": "50"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What name is missing from this otherwise complete list? Enterprise, Columbia, Challenger, Discovery, Endeavour.",
+            "answer": "atlantis",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "68",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In the form of linear equation expressed as y = mx + b, the b represents a point that is known by what term?",
+            "answer": "y-intercept",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "62",
+            "c_percent": "57",
+            "d_percent": "56",
+            "e_percent": "51",
+            "r_percent": "57"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What is the first name of the heroine who jockeys the winning horse in the famous English steeplechase the Grand National in a 1935 Enid Bagnold novel (and subsequent film adaptation)?",
+            "answer": "velvet",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "32",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The present use of the word \"cartoon,\" as a humorous drawing, is said to have originated with what English comic weekly magazine, which was founded in 1841 and named after the irascible figure in a famous puppet show?",
+            "answer": "punch",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "58",
+            "e_percent": "36",
+            "r_percent": "48"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A dog named Seymour waits for his owner outside Panucci's Pizza for twelve years before expiring in a poignant and memorable Emmy-nominated episode of what television series?",
+            "answer": "futurama",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "52",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "34",
+            "r_percent": "42"
+        }
+    ]
+}

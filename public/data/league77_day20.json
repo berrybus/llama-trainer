@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 20,
+    "date": "June 27, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "A Mesopotamian goddess of war, justice, and sexual love has a name that, particularly in the West, is more associated today (unfortunately for her) with a massive Hollywood flop that Roger Ebert described as \"a lifeless, massive, lumbering exercise in failed comedy.\" What is that name?",
+            "answer": "ishtar",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "81",
+            "c_percent": "66",
+            "d_percent": "49",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What word from acoustics, synonymous with tone quality or tone color, is defined as the character of a sound, distinct from its pitch and intensity? It's what makes two sounds with the same pitch and intensity distinguishable from each other.",
+            "answer": "timbre",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "60",
+            "e_percent": "46",
+            "r_percent": "55"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The populist political parties the Five Star Movement and the League, having earned the most votes in the general election held on March 4, 2018, formed a coalition government that is now in place in what country?",
+            "answer": "italy",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "62",
+            "d_percent": "53",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The novels The Deerslayer, The Last of the Mohicans, The Pathfinder, The Pioneers, and The Prairie, which are ordered here by plot chronology and all feature fictional frontiersman Natty Bumppo, are collectively known as what \"Tales,\" after a nickname used for Bumppo in The Pioneers (the first novel published)?",
+            "answer": "the leatherstocking tales",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "40",
+            "d_percent": "25",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the stadium, located in its namesake London neighborhood, that is owned by the English Football Association and serves as home pitch for England's national team?",
+            "answer": "wembley stadium",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "56",
+            "r_percent": "59"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Identify the Anglican cleric\u2014the Bishop of Johannesburg beginning in 1985 and then Archbishop of Cape Town from 1986 to 1996\u2014who was named chair of South Africa's post-apartheid Truth and Reconciliation Commission in 1995.",
+            "answer": "desmond tutu",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "81",
+            "e_percent": "60",
+            "r_percent": "69"
+        }
+    ]
+}

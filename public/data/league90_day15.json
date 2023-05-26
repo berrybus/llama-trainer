@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 15,
+    "date": "August 27, 2021",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "The Third Amendment to the US Constitution, likely the least litigated of all amendments, uses a particular term to describe the billeting of soldiers in private homes without the homeowners' consent. What is that verb?",
+            "answer": "quarter(ed)",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "65",
+            "r_percent": "73"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While working at a commercial art studio in Kansas City in 1919, a teenager named Ub Iwerks befriended a young fellow employee, with whom Ub would soon go into business and with whom he would be closely associated throughout his long and successful career. Who was this fellow illustrator and entrepreneur?",
+            "answer": "walt disney",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "50",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Dante Alighieri's Divine Comedy is divided into three parts. The first is Inferno\u2014what are the names of the other two?",
+            "answer": "purgatorio, paradiso (purgatory, paradise)",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "64",
+            "d_percent": "49",
+            "e_percent": "29",
+            "r_percent": "47"
+        },
+        {
+            "category": "ART",
+            "prompt": "The famous altarpiece started by Hubert van Eyck and completed by his brother Jan in 1432, titled Adoration of the Mystic Lamb, is housed at St. Bavo's Cathedral in what Belgian city (after which the altarpiece is better known)?",
+            "answer": "ghent",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "44",
+            "c_percent": "33",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What capital innovation debuted in Paris's Place de Gr\u00e8ve in April 1792?",
+            "answer": "guillotine",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "44"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What percussion instrument, with a keyboard-like arrangement of steel bars played with small hammers, has a name that translates to English as \"bells play\"?",
+            "answer": "glockenspiel",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "38"
+        }
+    ]
+}

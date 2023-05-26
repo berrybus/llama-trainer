@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 14,
+    "date": "March 9, 2020",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Who are the title characters in the George Gershwin opera set in Depression-era Charleston, South Carolina, and first produced in 1935?",
+            "answer": "porgy and bess",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "73",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What man, along with his family, was an occupant of a Washington, DC residence known as Blair House from 1948 until 1952?",
+            "answer": "harry s truman",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "44",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "33"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The Motion Picture, The Wrath of X, The Search for Y, The Voyage Home\u2014what two words have been replaced by 'X' and 'Y' in this sequence?",
+            "answer": "khan, spock",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "59",
+            "r_percent": "65"
+        },
+        {
+            "category": "ART",
+            "prompt": "What was the pseudonym of Italian painter Guido di Pietro, a Dominican friar who, through the patronage of Cosimo de' Medici, produced a well-known series of frescoes for the monastery of San Marco in Florence?",
+            "answer": "fra angelico",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "27",
+            "c_percent": "18",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Sporting News Reliever of the Year Award, which was presented annually to the best relief pitcher in each league in Major League Baseball (as determined by the magazine) until the award's retirement in 2010, was established in 1960 with a name that referenced what occupation, once popularly associated with a team's top reliever?",
+            "answer": "fireman",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "21"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The ensemble cast of what currently running television series includes a New Kid on the Block and a former member of the National Rifle Association board of directors?",
+            "answer": "blue bloods",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "21",
+            "e_percent": "15",
+            "r_percent": "21"
+        }
+    ]
+}

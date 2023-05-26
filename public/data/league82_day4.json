@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 4,
+    "date": "September 3, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Horizon Festival, which has (thus far) been held in Colorado, Northern Italy/Southern France, Australia, and Scotland/Northern England, is a fictional music and street racing jamboree that appears in what racing video game series?",
+            "answer": "forza",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "25",
+            "c_percent": "21",
+            "d_percent": "19",
+            "e_percent": "18",
+            "r_percent": "21"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the woman who assumed the role, on July 1, 2019, of White House Communications Director (the sixth person to serve in the role during the current administration) and also White House Press Secretary (the current administration's third).",
+            "answer": "stephanie grisham",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "41",
+            "c_percent": "32",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "28"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the sobriquet commonly assigned to King Ethelred of England, whose reign began in 978? The epithet is actually a mistranslation of a word meaning ill-advised, though arguably it fits, considering he was placed on the throne as a pre-teen.",
+            "answer": "unready",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "66",
+            "c_percent": "50",
+            "d_percent": "33",
+            "e_percent": "16",
+            "r_percent": "25"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Georgia O'Keeffe Museum is located, appropriately, in the capital city of what U.S. state? (Note, name the state.)",
+            "answer": "new mexico",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The oeuvre of Johann Sebastian Bach includes over 200 works of a type of composition known as what? A multi-movement work predominantly for voices with instrumental accompaniment, it is usually shorter than an oratorio.",
+            "answer": "cantata",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "44",
+            "c_percent": "32",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What 2002 Broadway musical is based on a film from 1988 and centers around a fictional local teenage dance show in Baltimore from 1962?",
+            "answer": "hairspray",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "66",
+            "e_percent": "54",
+            "r_percent": "60"
+        }
+    ]
+}

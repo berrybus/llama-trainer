@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 15,
+    "date": "March 15, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Meryl Streep has been nominated for an Academy Award for Best Actress 17 times (including for 2017's The Post) and has won the award twice. Name any one of the five actresses who have been nominated for that award exactly two times and won it twice.",
+            "answer": "sally field, vivien leigh, frances mcdormand, luise rainer, hilary swank",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the writer, social critic, and two-time Pulitzer-winner who cofounded the alternative newsweekly The Village Voice and ran unsuccessfully for mayor of New York in 1969.",
+            "answer": "norman mailer",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "40",
+            "c_percent": "25",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In his Groundwork of the Metaphysics of Morals, Immanuel Kant introduced the philosophical theory with which he is most closely associated\u2014similar (but not identical) to the \"Golden Rule\"\u2014which states (in part) that a person must act in ways that the person would wish everyone else would act in too. By what two-word term is this concept best known?",
+            "answer": "categorical imperative",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "46",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Among the named properties of equalities in mathematics are the transitive property (if a=b and b=c, then a=c), the symmetric property (if a=b, then b=a), and what other property, which states that any quantity is equal to itself (a=a)?",
+            "answer": "reflexive property",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "43",
+            "c_percent": "38",
+            "d_percent": "30",
+            "e_percent": "25",
+            "r_percent": "32"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A certain term used to represent, both geographically and culturally, a particular region of the United States is possibly (and plausibly) a corruption of the name of an English surveyor born in 1733. What is that term?",
+            "answer": "dixie",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "41",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "ART",
+            "prompt": "This image is a close-up on the face of an individual who is doing what, per the sculpture's common titles? ",
+            "answer": "dying",
+            "image": "/images/art/85u60v9098vm60u.jpg",
+            "a_percent": "31",
+            "b_percent": "24",
+            "c_percent": "18",
+            "d_percent": "13",
+            "e_percent": "8",
+            "r_percent": "13"
+        }
+    ]
+}

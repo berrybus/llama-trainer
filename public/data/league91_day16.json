@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 16,
+    "date": "December 2, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Of Athenian dramatist Sophocles's 123 plays, only seven remain intact, including three relating to Oedipus and his children: Oedipus the King, Oedipus at Colonus, and what third, named after and centered on Oedipus and Jocasta's daughter?",
+            "answer": "antigone",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "1950's \"Rollin' Stone\" was the first single on the Chicago-based Chess record label by what artist, who was born McKinley Morganfield in (or around) 1915 and raised near Clarksdale, MS?",
+            "answer": "muddy waters",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "53",
+            "c_percent": "40",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "28"
+        },
+        {
+            "category": "FILM",
+            "prompt": "According to on-screen text that opens the film, what 1999 movie is based on found footage shot five years prior by three student documentary filmmakers?",
+            "answer": "the blair witch project",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "98",
+            "c_percent": "96",
+            "d_percent": "93",
+            "e_percent": "88",
+            "r_percent": "90"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The policy with respect to Latin America during the early Franklin D. Roosevelt administration had what popular name, which today may be more associated with State Farm Insurance, but in the 1930s reflected America's intended hands-off approach and military withdrawal from the region?",
+            "answer": "good neighbor policy",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "65",
+            "r_percent": "72"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "A border crisis and humanitarian crisis erupted in the summer of 2021 as tens of thousands of migrants, mostly from the Middle East and Africa, attempted to enter the European Union from what country, in an orchestrated act by that country in retaliation for the EU's economic sanctions against it?",
+            "answer": "belarus",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "57",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "45"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Leland McKenzie, Douglas Brackman, Ann Kelsey, Arnie Becker, and Stuart Markowitz were among the large cast of characters on what acclaimed ensemble drama, which aired Thursday nights at 10:00 pm (ET) on NBC from 1986 to 1994?",
+            "answer": "l.a. law",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "33"
+        }
+    ]
+}

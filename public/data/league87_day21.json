@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 21,
+    "date": "December 9, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "A 1965 single by the Godfather of Soul, James Brown, has a title made up of two complete, three-word sentences (the latter in parentheses). Give either of these first-person sentences in the title of this song, Brown's highest-charting song on the Billboard Hot 100 at #3.",
+            "answer": "i got you (i feel good)",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A 1954 drama film gave its name to a specialty food store in Westhampton Beach, New York, that was purchased in 1978 by White House Office of Management and Budget staffer Ina Garten. What is the name of that film?",
+            "answer": "the barefoot contessa",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "56",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the name of the architectural marvel, which opened in October 1973, that sits on a promontory known to its original caretakers, the Gadigal clan of the Eora Nation, as Tubowgule, or \"where the knowledge waters meet\"?",
+            "answer": "sydney opera house",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Of the various major conferences attended by heads of Allied states during World War II, two African cities served as hosts: Cairo (twice), and what other city, in January 1943?",
+            "answer": "casablanca",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "48",
+            "c_percent": "39",
+            "d_percent": "32",
+            "e_percent": "24",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Myron Floren (accordion), Aladdin (violin), Larry Hooper (piano), the \"lovely Lennon Sisters\", and \"Champagne Ladies\" Alice Lon and Norma Zimmer were regulars on a long-running television series hosted by whom?",
+            "answer": "lawrence welk",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "37"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In a 1963 novel by Kurt Vonnegut, a co-creator of the atomic bomb\u2014who was playing a \"string game\" when the first bomb was dropped\u2014also created a product called \"ice-nine\" that eventually freezes all of the earth's water. What is the name of this novel?",
+            "answer": "cat's cradle",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "70",
+            "d_percent": "58",
+            "e_percent": "40",
+            "r_percent": "54"
+        }
+    ]
+}

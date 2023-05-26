@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 22,
+    "date": "March 19, 2020",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name for the common tomato-based sauce in Italian cuisine, believed to have been invented in Naples in the mid-twentieth century, that is typically prepared with black olives, capers, anchovies, and red pepper?",
+            "answer": "puttanesca",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "58",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Give the fourth item missing in the list of the Varna system: Shudras, Vaishyas, Kshatriyas, _________.",
+            "answer": "brahmins",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A demonym is a word that denotes natives or residents of a particular place\u2014e.g., Canadian, Chinese, Nigerian, Nigerien, Pakistani, Venezuelan. Correctly spell the demonym that identifies a native or resident of the nation of Cyprus.",
+            "answer": "cypriot",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "67",
+            "e_percent": "45",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What name is missing in this partial, alphabetized WMO nomenclature list, accurate in 1993 and 1999? ...Floyd, Gert, Harvey, Irene, Jose, _____, Lenny, Maria, Nate...",
+            "answer": "katrina",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "64",
+            "e_percent": "49",
+            "r_percent": "49"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Memories of Murder (2003), The Host (2006), and Snowpiercer (2013) are English titles of films directed and cowritten by what Oscar-winner?",
+            "answer": "bong joon-ho",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "32",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The musician and DJ Norman Cook, who was previously in the bands The Housemartins, Beats International, and Freak Power, and had a solo hit in 1999 with \"Praise You\", is known by what oxymoronic stage name?",
+            "answer": "fatboy slim",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "59",
+            "e_percent": "45",
+            "r_percent": "51"
+        }
+    ]
+}

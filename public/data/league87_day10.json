@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 10,
+    "date": "November 17, 2020",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "In 835 CE, the Persian polymath Muhammad ibn Musa al-Khwarizmi wrote a work whose title in English is The Compendious Book on Calculation by Completion and Balancing, and whose title in its original Arabic introduced what word into English?",
+            "answer": "algebra",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "68",
+            "e_percent": "52",
+            "r_percent": "61"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In April 2018, a regal announcement was made in the African city of Manzini, during a ceremony to celebrate the king's 50th birthday, that formally declared a change in the name of the country over which he reigns. Give either the former or new name of this country.",
+            "answer": "swaziland/eswatini",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In 1955, The Observer theatre critic Kenneth Tynan remarked, \"It forced me to re-examine the rules which had hitherto governed the drama; and having done so, to pronounce them not elastic enough.\" His review was for the English-language world premiere of what sparse tragicomedy, which baffles many theatregoers still to this day?",
+            "answer": "waiting for godot",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "45"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In an effort to explain the coloration of stars, an Austrian physicist first suggested the effect that is now more closely associated with the apparent change in the observed frequency of a sound wave, resulting from relative motion between the sound's source and observer. Who was this physicist?",
+            "answer": "christian doppler",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "69",
+            "e_percent": "53",
+            "r_percent": "58"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "If a particularly inconsistent (ten-pin) bowler bowls strikes in the first three frames, and then knocks down a single pin with each of the next four balls, what is the bowler's score at the end of five frames?",
+            "answer": "67",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "48",
+            "c_percent": "41",
+            "d_percent": "36",
+            "e_percent": "29",
+            "r_percent": "31"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"We Built This City\" and \"Nothing's Gonna Stop Us Now\" were massive hit singles from the 1980s (though widely reviled today) from what mononymous rock band?",
+            "answer": "starship",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "67",
+            "d_percent": "53",
+            "e_percent": "37",
+            "r_percent": "47"
+        }
+    ]
+}

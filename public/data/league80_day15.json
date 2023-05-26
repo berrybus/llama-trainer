@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 15,
+    "date": "March 13, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While there are hundreds of communities in the U.S. named after presidents, one of the most common place names (shared by around 30 municipalities in total) is the last name of a former president, but none of the communities are actually named after him. What is that common place name?",
+            "answer": "clinton",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "49",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "24",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The company Ravensburger AG, founded in the southern German town of Ravensburg, created the first version of its signature product in 1891, has repeatedly produced the world's largest version of this product, and (by its own account) is the world's most popular brand of the product. What is the product in question?",
+            "answer": "(jigsaw) puzzles",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "47",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "35"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What is the first name of the cousin of Dora M\u00e1rquez (a.k.a. Dora the Explorer) who began starring in his own eponymous animated children's television program in 2005?",
+            "answer": "diego",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "60",
+            "d_percent": "55",
+            "e_percent": "51",
+            "r_percent": "60"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A brief period of intellectual and political debate in 1956-57 in Communist China, initiated in the wake of Nikita Khrushchev's denunciation of Josef Stalin, takes its name from a line in a classical Chinese poem. The name of this campaign (and the line in the poem) references a \"hundred\" what?",
+            "answer": "flowers",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "38",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What British economist's plan for international monetary institutions, proposed at the 1944 Bretton Woods negotiations on post-war monetary policies, included the creation of an international monetary unit called the \"bancor\"? His overall plan was largely rejected in favor of the establishment of the IMF and World Bank.",
+            "answer": "john maynard keynes",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "61",
+            "e_percent": "40",
+            "r_percent": "56"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In classical Greek drama, the ensemble that comments collectively upon the play's action, often offering the view from society's perspective, is referred to by what term?",
+            "answer": "chorus",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "80",
+            "e_percent": "63",
+            "r_percent": "73"
+        }
+    ]
+}

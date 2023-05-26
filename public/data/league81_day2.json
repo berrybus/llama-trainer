@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 2,
+    "date": "May 23, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The largest storm system on Jupiter (and in the entire solar system), which rotates once every six days and is large enough to contain three Earths, is best known by what straightforward three-word name?",
+            "answer": "great red spot",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "29"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The authors of the children's books Possum Magic and The Slave Dancer, the founder of the Society of Friends (Quakers), and a popular anthropomorphic Roald Dahl character all share what last name?",
+            "answer": "fox",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "67",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "39"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Father Mayer and sons Nathan and James led the Frankfurt, London, and Paris branches (respectively) of what banking family, likely the wealthiest and most famous of the 19th century?",
+            "answer": "rothschild",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "70",
+            "d_percent": "55",
+            "e_percent": "36",
+            "r_percent": "51"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The territorial extent of the historical region known as al-Andalus varied over time during the roughly 800 years of its existence that effectively ended in 1492, but it was always confined to what peninsula?",
+            "answer": "iberia",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "77",
+            "e_percent": "58",
+            "r_percent": "69"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What term is most often used to refer to all numbers that can be represented on the number line? The complete set includes all natural numbers, whole numbers, integers, rational numbers, and irrational numbers.",
+            "answer": "real numbers",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "55",
+            "r_percent": "62"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What African country is named after a product that was effectively banned from international commercial trade in 1989?",
+            "answer": "c\u00f4te d'ivoire/ivory coast",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "90",
+            "e_percent": "79",
+            "r_percent": "85"
+        }
+    ]
+}

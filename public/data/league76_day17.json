@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 17,
+    "date": "March 19, 2018",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The historical name for a 1521 meeting that occurred between Martin Luther and Holy Roman Emperor Charles V in a city on the banks of the River Rhine could be read in English as a rather unappetizing nutritional regimen. What is that name?",
+            "answer": "diet of worms",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "82",
+            "c_percent": "71",
+            "d_percent": "54",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Major Key Alert, Bless Up, Anotha One, Give Thanks to the Most High and We the Best are all phrases associated with what pop music hitmaker and Snapchat staple?",
+            "answer": "dj khaled",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "42",
+            "c_percent": "39",
+            "d_percent": "35",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Although it's commonly known as hara-kiri or sometimes \"happy dispatch,\" what is the standard Japanese term for the suicidal disembowelment practiced by an individual in serious disgrace? The term comes from the Japanese words for \"to cut\" and \"abdomen.\"",
+            "answer": "seppuku",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "67",
+            "e_percent": "52",
+            "r_percent": "64"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What is the common title of the person in a theatrical production who is responsible for the overall execution of the production, organizing schedules, running production meetings, keeping track of blocking, and calling sound and lighting cues during the performance (among many other duties)?",
+            "answer": "(production) stage manager",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "56",
+            "e_percent": "49",
+            "r_percent": "57"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A single word has been redacted from the top of each of these three posters (covered by red boxes). What is the word? (The blue boxes conceal examples of the word in question.) ",
+            "answer": "gyros",
+            "image": "/images/art/5698ym4059y68mv09.jpg",
+            "a_percent": "8",
+            "b_percent": "6",
+            "c_percent": "4",
+            "d_percent": "3",
+            "e_percent": "2",
+            "r_percent": "3"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the scientific term, one of the three components of Ohm's law (along with current and resistance), that is used most commonly for the difference in potential energy between two points in an electrical field?",
+            "answer": "voltage",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "52",
+            "e_percent": "45",
+            "r_percent": "53"
+        }
+    ]
+}

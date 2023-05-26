@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 18,
+    "date": "September 23, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Collingwood, Essendon, Hawthorn, St. Kilda, and Carlton are all professional teams with very long histories in a sport best known internationally by a three-word name. What is that name?",
+            "answer": "australian rules football",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the scientific term used for any of two or more compounds that have the same molecular formula but differ in structure or other properties? Examples include methoxyethane and propanol, and glucose and fructose.",
+            "answer": "isomers",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "54",
+            "c_percent": "42",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A 1529 siege, a 1683 siege, an 1809 treaty, an 1814-15 congress, and a 1938 Award are among the significant events that occurred in what city?",
+            "answer": "vienna",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "24",
+            "r_percent": "38"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What one-word neologism was the name given to the backing section of the band The Parliaments, formed by George Clinton, which would become an R&B hitmaker in its own right through the 1970s?",
+            "answer": "funkadelic",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "39",
+            "r_percent": "49"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "When characters Holling Vincoeur and Shelly Tambo's daughter Miranda was born in early 1994, she became the 844th citizen of the town that provided the setting for what fictional television series?",
+            "answer": "northern exposure",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "39",
+            "c_percent": "32",
+            "d_percent": "24",
+            "e_percent": "13",
+            "r_percent": "20"
+        },
+        {
+            "category": "ART",
+            "prompt": "The craggy cliffs of Cap de Creus in coastal Catalonia are near the childhood home of what artist, and appear in the background of one of his most famous paintings, from 1931? (Note, name the artist.)",
+            "answer": "salvador dal\u00ed",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "38"
+        }
+    ]
+}

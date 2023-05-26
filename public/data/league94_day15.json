@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 15,
+    "date": "September 19, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The virtually plotless 1968 musical comedy film Head, directed by Bob Rafelson and written by Rafelson and Jack Nicholson, starred what foursome, whose TV show had been canceled earlier that year?",
+            "answer": "the monkees",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "61",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "\"If you look on every exit being an entrance somewhere else\" is a quote from Act I\u2014and the essential foundational premise\u2014of what 1966 play by Tom Stoppard? ",
+            "answer": "rosencrantz and guildenstern are dead",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "42",
+            "d_percent": "27",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What 2021 All-WNBA First Teamer was also the leading scorer for UMMC Ekaterinburg during their successful run for the 2020-21 EuroLeague Women Championship?",
+            "answer": "brittney griner",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "46"
+        },
+        {
+            "category": "ART",
+            "prompt": "Name the building whose construction was begun in 1560 for Florentine Duke Cosimo de' Medici to house magisterial and administrative offices. The building's top floor was used to display the family's extensive art collection, and that usage for the building was expanded and famously endures to this day. ",
+            "answer": "uffizi",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What dessert, distinctive with its unique frosting containing coconut and pecans, is deceptively named, as it has nothing to do with its namesake country, but rather is named after the man (first name Samuel) who developed a sweet ingredient called for in its original 1957 recipe? (Note, the dessert's full name is required.)",
+            "answer": "german chocolate cake",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "60",
+            "d_percent": "50",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A US municipality known as Boulder City, which still exists today, was established in 1931 specifically to house workers hired for the construction of a structure that is now known by what name?",
+            "answer": "hoover dam",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "63",
+            "r_percent": "69"
+        }
+    ]
+}

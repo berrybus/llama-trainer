@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 6,
+    "date": "August 26, 2020",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What term, now common in the field of art (and specifically the presentation and display of art), was originally an architectural term for a long and narrow passageway covered by a roof?",
+            "answer": "gallery",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "55",
+            "e_percent": "44",
+            "r_percent": "51"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What Hollywood star and best-selling children's book author is the current Lady Haden-Guest, wife of the 5th Baron Haden-Guest, of Saling in the County of Essex?",
+            "answer": "jamie lee curtis",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"The Trimates\" was a name given to the scientists and primatologists Jane Goodall, Dian Fossey, and Birut\u00e9 Galdikas. Dr. Galdikas studied orangutans; what primates did Drs. Goodall and Fossey study, respectively? (Note, two answers, must be in correct order.)",
+            "answer": "chimpanzees, gorillas",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "61",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "During a race in the early 1980s for development of a single, broadcast-quality recording unit containing both a camera and a videocassette recorder, Panasonic produced the Recam, Bosch the QuarterCam, and RCA the Hawkeye. All of them were costly losers to the eventual standard, Betacam, produced by what other company?",
+            "answer": "sony",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "84",
+            "e_percent": "77",
+            "r_percent": "82"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "\"Battle of the Boulevard\" refers to the basketball rivalry between Belmont University and Lipscomb University, which are situated about three miles apart on Belmont Avenue in what southern US city?",
+            "answer": "nashville, tennessee",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "45",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "22",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Pyramids, hanging gardens, mausoleum, temple, colossus, statue\u2014what type of item is missing from this otherwise complete list?",
+            "answer": "lighthouse (pharos)",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "68",
+            "c_percent": "55",
+            "d_percent": "40",
+            "e_percent": "24",
+            "r_percent": "37"
+        }
+    ]
+}

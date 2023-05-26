@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 9,
+    "date": "June 2, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "For the 1982 season, the NFL's MVP award was given to Washington's Mark Moseley, who remains today (and probably forever) the only player to win the award for playing what position?",
+            "answer": "kicker",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "55",
+            "r_percent": "62"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the year 747 CE, Persian general Abu Muslim led a religious and political rebellion in Khorasan that culminated in the defeat of the caliph Marwan II at the Battle of Zab in 750. This marked the end of one caliphate and the start of another. Give the common name for either.",
+            "answer": "umayyad, abbasid",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Ticos and ticas are terms that natives of what country affectionately use to refer to themselves?",
+            "answer": "costa rica",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "28",
+            "r_percent": "41"
+        },
+        {
+            "category": "ART",
+            "prompt": "In 1946, New Yorker art critic Robert Coates used a term in reference to the works of Jackson Pollock, Willem de Kooning, and others, which came to be used broadly for a movement in American painting that developed in New York during that decade. What is that term?",
+            "answer": "abstract expressionism",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "15",
+            "r_percent": "29"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Identify the song, written by Hoagy Carmichael and Stuart Gorrell in 1930 and famously recorded by Ray Charles in 1960, that was used as the theme to the late 80s/early 90s Atlanta-based TV sitcom Designing Women.",
+            "answer": "georgia on my mind",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "50",
+            "e_percent": "34",
+            "r_percent": "49"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While entropy (symbol S) is a measure in thermodynamics of the unavailability of a system's energy to do work, what similar term (symbol H) is a thermodynamic property defined as a system's internal energy plus the product of its pressure and volume, equivalent to the total heat content of the system? (Correct spelling is required.)",
+            "answer": "enthalpy",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "44",
+            "c_percent": "37",
+            "d_percent": "31",
+            "e_percent": "25",
+            "r_percent": "32"
+        }
+    ]
+}

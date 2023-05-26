@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 5,
+    "date": "August 25, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What term from philosophy is today an emphasis on the special position of persons in the greater scheme, their value and agency, and\u2014per a third Manifesto in 2003\u2014that \"knowledge of the world is derived by observation, experimentation, and rational analysis\"? It has been applied to schools of thought in contrast to \"theism\" and to an Ancient Greek doctrine (represented by Protagoras's decree that \"man is the measure of all things\") in contrast to \"absolutism.\" ",
+            "answer": "humanism",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "46",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "22",
+            "r_percent": "31"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Negotiations in 1988 led by U.N. Secretary-General Javier Perez de Cuellar brought about an armistice in a prolonged border war that began in 1980 between what two foes?",
+            "answer": "iran, iraq",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "35",
+            "e_percent": "19",
+            "r_percent": "34"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "An August 2009 fundraiser \"Pickin' for the Record\" sought the world record for most guitar players gathered at one time to play, with an official count of 1,868 players\u20141,865 more than the reported population of the central Texas community where the event was held. What is the name of that town, which is the subject of the 1977 Waylon Jennings song the group played?",
+            "answer": "luckenbach",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "26",
+            "c_percent": "21",
+            "d_percent": "16",
+            "e_percent": "11",
+            "r_percent": "17"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "First proposed in the 1860s and controversial at the time, the scientific laws known as the law of segregation, the law of independent assortment, and the law of dominance are known collectively as a set of laws named after what Augustinian friar?",
+            "answer": "gregor mendel",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "50",
+            "e_percent": "29",
+            "r_percent": "49"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The first novel in Terry Pratchett's Discworld series, the story of a cynical failed wizard named Rincewind, is The Colour of what?",
+            "answer": "magic",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "55",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "33",
+            "r_percent": "45"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In addition to his appearances on Cheers and Frasier, Kelsey Grammer earned an Emmy nomination for portraying Frasier Crane on what other NBC comedy, for an episode in which Frasier and his wife Lilith fly to Nantucket to conduct a self-esteem workshop?",
+            "answer": "wings",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "37",
+            "r_percent": "47"
+        }
+    ]
+}

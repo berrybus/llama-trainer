@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 9,
+    "date": "November 29, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Give the full name missing in this chronological list: Apollo Creed, Apollo Creed, __________, Ivan Drago, Tommy Gunn, Mason Dixon.",
+            "answer": "clubber lang (also acc apollo creed)",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "34",
+            "r_percent": "44"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In the mid-19th century, Frenchman Maurice Grey invented a steam-driven mill for pulverizing and sifting the seeds of what plant? Doing so enabled him to build a successful food company and a brand that still bears his name today.",
+            "answer": "mustard",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "64",
+            "e_percent": "51",
+            "r_percent": "57"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Cape Breton Island makes up approximately 19% of the total land area of what Canadian province, with most of the remainder on the province's peninsular mainland?",
+            "answer": "nova scotia",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "62",
+            "d_percent": "52",
+            "e_percent": "40",
+            "r_percent": "52"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Name any one of the three corporations led by CEOs Mary Barra, Jim Hackett, and Michael Manley.",
+            "answer": "general motors, ford motor company, fiat chrysler",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "54",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "\"Now or Never\u2014Are we to live or perish for ever?\", a pamphlet written and issued by Muslim nationalist Choudhary Rahmat Ali in early 1933, shortly after the conclusion of conferences organized to discuss constitutional reforms in India, contains the first documented use of what name?",
+            "answer": "pakistan (pakstan)",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "66",
+            "c_percent": "58",
+            "d_percent": "47",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The 1976 NCAA Men's Basketball champion Indiana Hoosiers are the most recent Division I men's basketball team to finish the season undefeated, but at the time it was not such a remarkable feat, as four of the prior twelve champions were undefeated. All four of those were teams representing what school?",
+            "answer": "ucla",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "62",
+            "c_percent": "59",
+            "d_percent": "53",
+            "e_percent": "42",
+            "r_percent": "46"
+        }
+    ]
+}

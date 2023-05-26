@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 21,
+    "date": "June 14, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Paul A.M. Dirac's 1930 theory of electrons and protons hypothesized a particle that is a mirror image of the electron, exactly the same but with an opposite charge. When discovered two years later, this antiparticle was given what name?",
+            "answer": "positron",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "38",
+            "r_percent": "46"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Jewish New Year holy day is Rosh Hashanah, the Day of Atonement is Yom Kippur, and Passover is Pesach. What other holy day, set on the 14th day of Adar, is the Feast of Lots, when the defeat of Haman is celebrated?",
+            "answer": "purim",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "80",
+            "c_percent": "68",
+            "d_percent": "55",
+            "e_percent": "36",
+            "r_percent": "50"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A Pale View of Hills (1982) was the debut novel of what Nagasaki-born English author, who is probably best known for the Booker Prize\u2013winning 1989 novel The Remains of the Day?",
+            "answer": "kazuo ishiguro",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "ART",
+            "prompt": "A certain style, taken from silks, porcelain, and lacquer that were admired (and imitated) in Europe, was used in the decorative arts, furniture, garden design, and elsewhere, peaking in the 18th century. This decorative aesthetic is known by what French term, referring to a country of its origin in the Far East?",
+            "answer": "chinoiserie",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "33",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "17"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Creepers\" are hostile NPCs (non-player characters) that appear in what video game, whose logo has a creeper face integrated within it?",
+            "answer": "minecraft",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "55",
+            "c_percent": "50",
+            "d_percent": "47",
+            "e_percent": "43",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In a beloved book and television series, Edward is #2, Henry is #3, Gordon is #4, James is #5, Percy is #6, and Toby is #7. Who is #1?",
+            "answer": "thomas",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "46",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "38"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 11,
+    "date": "June 1, 2021",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the most common name of the organization in Naples and the Italian region of Campania that is roughly parallel to the 'Ndrangheta in Calabria and the Mafia/Cosa Nostra in Sicily?",
+            "answer": "camorra",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "31",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "16"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The number of tablespoons in one gallon is what perfect square?",
+            "answer": "256",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "38",
+            "r_percent": "47"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A vehicle that in Britain might be referred to as an estate car would most likely be called what in the United States?",
+            "answer": "station wagon",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "45",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Blues-rock guitarist Peter Green was a co-founder and principal songwriter for what band (which was actually named after the band's drummer and bass guitarist) until his departure in 1970, a few years before the group's commercial peak?",
+            "answer": "fleetwood mac",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "62",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "40"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the three-word name of the fashion industry trade journal, founded in 1910 by Edmund Fairchild and today the flagship of Fairchild Media, which (despite its name) also covers men's fashions, and (despite its name) switched to a weekly print format in 2015 before moving to mostly digital-only in February 2017?",
+            "answer": "women's wear daily",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "33",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Much of the crop diversification in the American South in the early 20th century, away from soil-depleting cotton to alternatives such as sweet potatoes and peanuts, is credited to what man, who served as director of agricultural research at Alabama's Tuskegee Institute from 1896 to 1943?",
+            "answer": "george washington carver",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "77",
+            "e_percent": "60",
+            "r_percent": "67"
+        }
+    ]
+}

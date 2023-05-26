@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 18,
+    "date": "June 25, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Around two dozen U.S. cities and towns, the largest of which is in Ohio, have a name that is also a term for a member state of the Swiss Confederation. What is that name/term?",
+            "answer": "canton",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "83",
+            "c_percent": "70",
+            "d_percent": "54",
+            "e_percent": "31",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the most common, three-word name for the largest object ever put into Earth's orbit by humans?",
+            "answer": "international space station",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "86",
+            "d_percent": "84",
+            "e_percent": "77",
+            "r_percent": "79"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A specially prepared cornmeal dough usually stuffed with sweet or savory fillings and steamed inside a trimmed corn husk or banana leaf\u2014this describes, most commonly, what dish? Zacahuiles are giant ones, while norte\u00f1os are a smaller variety.",
+            "answer": "tamale",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "75",
+            "r_percent": "79"
+        },
+        {
+            "category": "ART",
+            "prompt": "This is the face of whom, per the work's title? ",
+            "answer": "venus",
+            "image": "/images/art/78yj8y508y54n0c9y8.jpg",
+            "a_percent": "78",
+            "b_percent": "75",
+            "c_percent": "68",
+            "d_percent": "63",
+            "e_percent": "48",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A category of satire that criticizes with gentle laughter (as opposed to bitter condemnation) takes its name from what 1st-century Latin lyric poet\u2014also famous for his Odes\u2014whose influential Satires were infused with warmth and charm?",
+            "answer": "horace",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "27",
+            "c_percent": "21",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the political machine, originally a club incorporated in 1789, that 100 years later was a dominant and corrupt force in New York City politics?",
+            "answer": "tammany hall",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "72",
+            "e_percent": "48",
+            "r_percent": "58"
+        }
+    ]
+}

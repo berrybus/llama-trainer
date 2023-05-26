@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 7,
+    "date": "February 28, 2019",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name of the drink that consists of espresso with a very small amount of milk (the coffee is literally \"spotted\" or \"stained\" in Italian)? The Starbucks version of the drink is essentially the reverse of this -- a latte where espresso is slowly poured over steamed milk (and very often topped with caramel sauce). ",
+            "answer": "macchiato",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "78",
+            "e_percent": "73",
+            "r_percent": "77"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In the ubiquitous TCP/IP computer network protocol abbreviation SMTP, what does the \"M\" stand for?",
+            "answer": "mail",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "44",
+            "d_percent": "38",
+            "e_percent": "28",
+            "r_percent": "33"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The collection of poems from 1912 titled Gitanjali (Song Offerings), based on medieval lyrics of devotion, led directly to its author's Nobel Prize in Literature the following year. Name this Bengali poet, who was the first non-European to win that award.",
+            "answer": "rabindranath tagore",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "19",
+            "c_percent": "14",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "9"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Howard K. Smith, George Herman, Lesley Stahl, Bob Schieffer, John Dickerson, and Margaret Brennan are among the journalists who have moderated what weekly news and public affairs program that debuted on November 7, 1954?",
+            "answer": "face the nation",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "40",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "23"
+        },
+        {
+            "category": "ART",
+            "prompt": "Rachel Whiteread, Sarah Lucas, Cornelia Parker, Christine Borland, Gillian Wearing, and Michael Landy are among a loosely affiliated group of individuals who have been referred to collectively by what term, based on their relative age, nationality, and shared vocation?",
+            "answer": "young british artists",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "21",
+            "c_percent": "14",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While it had characters named L.A. Joan (Shelley Duvall) and Albuquerque (Barbara Harris), the 1975 Robert Altman film in which they appeared was actually set in (and named after) what other city?",
+            "answer": "nashville",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "46",
+            "d_percent": "30",
+            "e_percent": "18",
+            "r_percent": "33"
+        }
+    ]
+}

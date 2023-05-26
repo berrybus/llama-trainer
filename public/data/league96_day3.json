@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 3,
+    "date": "February 15, 2023",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "The letter of the Greek alphabet which, in uppercase form, looks similar to the Latin letter \"A\" without the horizontal line (or alternatively, an upside-down \"V\") has what name?",
+            "answer": "lambda",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "55",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Tom Frieden, Brenda Fitzgerald, Robert Redfield, and Rochelle Walensky are past and present directors of what US federal agency?",
+            "answer": "the centers for disease control and prevention (cdc)",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Rayuela is an experimental, stream-of-consciousness novel written by Argentine author Julio Cort\u00e1zar in 1963 that invites readers to proceed through the novel in a normal linear fashion or by jumping around through its 155 chapters per the author's instructions. The name Rayuela translates to English as what game, which is the name by which the novel is known in the Anglosphere?",
+            "answer": "hopscotch",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "49",
+            "c_percent": "42",
+            "d_percent": "34",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In November 2022, former heavyweight champions Mike Tyson and Evander Holyfield teamed up as business partners to sell small edible cannabis sweets in the shape of what body part?",
+            "answer": "ear",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "91",
+            "d_percent": "88",
+            "e_percent": "80",
+            "r_percent": "81"
+        },
+        {
+            "category": "ART",
+            "prompt": "What, most notably, is located within the refectory of the Chiesa di Santa Maria delle Grazie in the heart of Milan, Italy?",
+            "answer": "the last supper (by leonardo da vinci)",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "52",
+            "c_percent": "39",
+            "d_percent": "26",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Considered to be a planet until 2006 (and still today by some), the dwarf planet Pluto is officially considered a KBO\u2014an object located where, per that initialism?",
+            "answer": "kuiper belt",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "46"
+        }
+    ]
+}

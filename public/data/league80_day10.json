@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 10,
+    "date": "March 6, 2019",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "While singers Florence Austral and Elsa Stralia also chose those professional names to honor their upbringing Down Under, the most famous soprano to do such a thing was what opera superstar of the late Victorian era? She was appointed Dame Grand Cross of the Order of the British Empire in 1927, became the first Australian to appear on the cover of Time magazine that same year, and appears on the country's one hundred-dollar note.",
+            "answer": "nellie melba",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "30",
+            "c_percent": "20",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "10"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Provide any one of the three adjectives that fill in the blanks in this rather depressing quote from Leviathan by Thomas Hobbes: \"...the life of man, solitary, poor, _______, _______, and _______.\"",
+            "answer": "nasty, brutish, short",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "49"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The term for the lowest level of hell in Buddhism was the stage name used by what Swedish electronic musician and DJ who died in April 2018 at age 28? (Either stage name or real name is acceptable.)",
+            "answer": "avicii/tim bergling",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "55",
+            "d_percent": "52",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The domesticated dog is the familiaris subspecies of the animal taxonomically classified by what genus and species?",
+            "answer": "canis lupus",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "25",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "An extraordinarily ill-advised (and ill-fated) purported episode during the Crusades involved approximately 50,000 individuals from France and Germany setting out to recapture Palestine in the year 1212. Per this woeful event's common name (which was borrowed by Kurt Vonnegut in the subtitle to Slaughterhouse-Five), most of these 50,000 individuals were what?",
+            "answer": "children",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "72",
+            "d_percent": "55",
+            "e_percent": "35",
+            "r_percent": "54"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The long-running reality series American Pickers, Forged in Fire, Pawn Stars, and Ancient Aliens, as well as the scripted drama series Vikings, are all broadcast on what television network?",
+            "answer": "the history channel",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "78",
+            "d_percent": "73",
+            "e_percent": "68",
+            "r_percent": "74"
+        }
+    ]
+}

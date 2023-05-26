@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 4,
+    "date": "August 24, 2017",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "The art movement known, in English, as Suprematism, which was established in 1913 and peaked later that decade before its swift decline, was founded in\u2014and mostly represented by artists from\u2014what country?",
+            "answer": "russia",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "35",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What district is the home\u2014and the colloquial namesake\u2014of London's Royal Opera House?",
+            "answer": "covent garden",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "44",
+            "c_percent": "32",
+            "d_percent": "20",
+            "e_percent": "9",
+            "r_percent": "23"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Whittier is the last name of what cheerful and irrepressibly optimistic (and arguably naive and self-delusional) character created in 1913 by Eleanor H. Porter?",
+            "answer": "pollyanna",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "16",
+            "r_percent": "32"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Namib, Nafud, Rub' al-Khali, Dasht-e-Lut, Karakum, and Taklamakan are all names of what?",
+            "answer": "deserts",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "68",
+            "c_percent": "57",
+            "d_percent": "41",
+            "e_percent": "23",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What metric unit of area is roughly equal to 2.47 acres in the U.S. customary system?",
+            "answer": "hectare",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "81",
+            "e_percent": "64",
+            "r_percent": "72"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The 1932 Norris-La Guardia Act made unenforceable, and the 1935 Wagner Act made illegal, what colorfully named employment contract, which stipulates that a worker's employment is conditional on not joining a trade union?",
+            "answer": "yellow-dog contract",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "26",
+            "c_percent": "15",
+            "d_percent": "8",
+            "e_percent": "3",
+            "r_percent": "13"
+        }
+    ]
+}

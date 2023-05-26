@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 12,
+    "date": "September 6, 2017",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Followers of the 13th-century Persian poet and Sufi mystic Jalal ad-Din Rumi founded the Mevlevi, a Muslim order famous for their meditative ceremonial dance. This group is better known, in English, by what term?",
+            "answer": "whirling dervishes",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "33",
+            "r_percent": "48"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In what two states did the path of totality for the August 21st solar eclipse enter (in the west) and exit (in the east) the United States?",
+            "answer": "oregon, south carolina",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "72",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "52",
+            "r_percent": "54"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the only name shared by cities in both the United States and Russia with populations greater than 200,000?",
+            "answer": "st. petersburg",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "90",
+            "d_percent": "84",
+            "e_percent": "77",
+            "r_percent": "83"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The coronation of Charles II in 1661, the Great Plague of 1665, and the Fire of London in September 1666 are among the events recorded in what person's diary of over one million words, which ends in 1669?",
+            "answer": "samuel pepys",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "60",
+            "c_percent": "45",
+            "d_percent": "30",
+            "e_percent": "14",
+            "r_percent": "30"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Batman: The Animated Series, which aired on the Fox network from 1992 to 1995, introduced what sidekick character, who was created by series co-producer Bruce Timm and writer Paul Dini, and has since been fully integrated into DC's comic books, and its animated and cinematic universes?",
+            "answer": "harley quinn",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "27",
+            "r_percent": "36"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In 1995, two new franchises were awarded by Major League Baseball (to begin play in 1998), bringing the total number of franchises to its current level of 30. Name either of those two teams.",
+            "answer": "arizona diamondbacks, tampa bay (devil) rays",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "58",
+            "e_percent": "47",
+            "r_percent": "52"
+        }
+    ]
+}

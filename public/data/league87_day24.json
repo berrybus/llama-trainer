@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 24,
+    "date": "December 14, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Astro's Playroom, a platform video game designed to demo the haptic feedback of the innovative DualSense controller, comes pre-installed on every production unit of what specific game console?",
+            "answer": "playstation 5",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "58",
+            "c_percent": "53",
+            "d_percent": "47",
+            "e_percent": "41",
+            "r_percent": "39"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The current location of a Chinese robot named Yutu-2 can be described by the title of an enduring rock album from the 1970s. What is that location/title?",
+            "answer": "dark side of the moon",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "83",
+            "d_percent": "74",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The world's largest free-trade agreement (as measured by total GDP), dubbed the Regional Comprehensive Economic Partnership, was signed in November 2020 by thirteen Asian nations plus Australia and New Zealand. This pact largely replaces what other trade pact, from which the United States withdrew in January 2017?",
+            "answer": "trans-pacific partnership (tpp)",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "70",
+            "c_percent": "64",
+            "d_percent": "55",
+            "e_percent": "41",
+            "r_percent": "48"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The name for an electrical product that featured heavily in TV ads from the 1980s is also sometimes used in film production for a device that assists in the synchronizing of audio and video to the exact frame. What is that shared name?",
+            "answer": "clapper",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "47",
+            "c_percent": "39",
+            "d_percent": "35",
+            "e_percent": "25",
+            "r_percent": "28"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A small museum located in the Northern Ireland community of Culmore, just north of Derry, commemorates the life of what Kansas-born pioneer, civil rights supporter, and charter member of The 99s, who died around 1937?",
+            "answer": "amelia earhart",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "41",
+            "c_percent": "29",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Emma Pillsbury, Sheldon Bieste, and Sue Sylvester were among the teachers and staff at the fictional William McKinley High School in Lima, Ohio, on what television series?",
+            "answer": "glee",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "63",
+            "e_percent": "52",
+            "r_percent": "60"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 1,
+    "date": "August 28, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the sport that has been an official women-only Olympic sport since the 1984 Games in Los Angeles, though its solo event was discontinued after 1992 and it is now only competed among duets and teams.",
+            "answer": "artistic swimming/synchronized swimming",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "67",
+            "c_percent": "65",
+            "d_percent": "61",
+            "e_percent": "57",
+            "r_percent": "57"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The 1956 U.S. Supreme Court case Browder v. Gayle upheld lower court rulings on the unconstitutionality of statutes regarding segregation on city buses. The case's named defendant, W.A. Gayle, was mayor of what city?",
+            "answer": "montgomery, alabama",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "29",
+            "r_percent": "36"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Give the first name of either of the adopted sons of the fictional millionaire widower and president of Trans Allied, Inc., who resided at 900 Park Avenue in New York.",
+            "answer": "willis, arnold",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "38",
+            "c_percent": "29",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "17"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The title of a series of articles written in 1971 by Don Hoefler, a correspondent for the trade newspaper Electronic News, is the source for what geographic name?",
+            "answer": "silicon valley",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "61",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Pop stars Rita Ora, Dua Lipa, Bebe Rexha, and Ava Max, all of whom are citizens of either Great Britain (the former two) or the United States (the latter two), each have parents who claim what ethnicity?",
+            "answer": "albanian",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "31",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A version of the law of conservation of energy expressed as \u0394U=Q-W, which states that the total energy of an isolated system is constant (a change in internal energy of a system is equal to the heat added minus the work done), is commonly referred to as the first law of what?",
+            "answer": "thermodynamics",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "87",
+            "e_percent": "79",
+            "r_percent": "84"
+        }
+    ]
+}

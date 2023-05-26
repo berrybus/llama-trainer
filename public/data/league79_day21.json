@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 21,
+    "date": "December 17, 2018",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Among the many additional characters released by Mattel in their line of dolls that started in 1959 with Barbie are Barbie's first best friend (in 1963), her younger sister (1964), first African American friend (1968), and current \"California Dream\" best friend (1988). Give the first name of any one of these four characters.",
+            "answer": "midge, skipper, christie, teresa",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "60",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The transformation of Japan into a centralized modern state with a policy of industrial development is largely a result of the overthrow of the Tokugawa Shogunate in 1868 and eventual formal restoration of imperial rule under the emperor known today by what name?",
+            "answer": "meiji",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "53",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Rocka Rolla (1974), British Steel (1980), Screaming for Vengeance (1982), Defenders of the Faith (1984), and Painkiller (1990) are among the classic albums from what heavy metal band, whose latest is 2018's Firepower?",
+            "answer": "judas priest",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the rough British equivalent of the American \"Main Street,\" such as is used in London in Camden, Marylebone, Sutton, and Kensington? The term is a specific name of streets in these areas, and also is used in general to refer to a primary business/shopping thoroughfare.",
+            "answer": "high street",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "47"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On the television series Survivor, immediately before extinguishing the flame on the torch of the newly eliminated castaway, host Jeff Probst normally utters what four-word catchphrase?",
+            "answer": "the tribe has spoken",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "50",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What are the names of the three children in the famous Eugene Field poem, published in 1889, who sail off one night in a wooden shoe to fish for herring?",
+            "answer": "wynken, blynken, nod",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "53",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "19",
+            "r_percent": "31"
+        }
+    ]
+}

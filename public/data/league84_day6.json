@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 6,
+    "date": "February 26, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The disease caused by the spirochete Borrelia burgdorferi and transmitted by the tick Ixodes scapularis was first identified in 1975 in and around what New England town?",
+            "answer": "lyme (connecticut)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "92",
+            "d_percent": "90",
+            "e_percent": "80",
+            "r_percent": "78"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The 15th-century French poet and satirist Olivier Basselin was famous for his bawdy drinking songs, which were known by a name\u2014derived from his birthplace\u2014that was later adapted into a term for a theatrical genre that became popular in North America. What is that genre?",
+            "answer": "vaudeville",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "62",
+            "d_percent": "52",
+            "e_percent": "38",
+            "r_percent": "47"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "An Australian soap opera set in the fictional town of Summer Bay, a 1990s sitcom set in suburban Detroit, and the first program to air on Cartoon Network's Adult Swim all have titles that contain what word?",
+            "answer": "home",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "29"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Umoja (unity), nia (purpose), and imani (faith) are among the principles promoted by activist and academic Maulana Karenga's 1966 creation that has what name?",
+            "answer": "kwanzaa",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "25",
+            "r_percent": "36"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "According to legend (and almost certainly false), a man named Robert Johnson sat on the courthouse steps in Salem, New Jersey, in September 1820, and ate what food? It shocked the crowd who had gathered to watch him die a painful death, as Americans at the time (allegedly) considered the now-ubiquitous produce item\u2014beloved in Jersey and its state vegetable\u2014 to be poisonous?",
+            "answer": "tomato",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Whose Elements (\u03a3\u03c4\u03bf\u03b9\u03c7\u03b5\u1fd6\u03b1) postulated, among other things, that it's possible to draw a straight line from any point to any other point, that it's possible to describe a circle with any center and radius, and that all right angles are equal to one another?",
+            "answer": "euclid",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "38",
+            "r_percent": "47"
+        }
+    ]
+}

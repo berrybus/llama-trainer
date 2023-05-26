@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 7,
+    "date": "May 29, 2020",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "The lower case Greek letter \u03b1 is represented in English as \"alpha\", \u03b2 is \"beta\", and \u03c0 is \"pi\". What name in English represents the Greek letter \u03b8?",
+            "answer": "theta",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "80",
+            "d_percent": "76",
+            "e_percent": "68",
+            "r_percent": "73"
+        },
+        {
+            "category": "ART",
+            "prompt": "Rembrandt and Caravaggio famously used what technique that involves the use of light and shading for dramatic effect, whose name comes from the Italian for \"light-dark\"?",
+            "answer": "chiaroscuro",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "43"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Cowsills, a singing group from Rhode Island composed of six siblings (and, eventually, their mother), along with their road manager Richard Korn, inspired what early-1970s television series?",
+            "answer": "the partridge family",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "72",
+            "e_percent": "58",
+            "r_percent": "62"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "An Italian-American named Pat Olivieri, who operated a hot dog stand in the 1930s in his hometown at the intersection of Wharton St., South 9th St., and Passyunk Ave., is credited, with his brother Harry, with creating what sandwich?",
+            "answer": "(philly) cheesesteak",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "80",
+            "e_percent": "69",
+            "r_percent": "77"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Japan's Tokugawa period, an era that began in 1603 and during which the country was under the rule of the Tokugawa Shogunate, is also known as the Edo Period. What, thanks to the Meiji government in 1868, is the name today of what was formerly \"Edo\"?",
+            "answer": "tokyo",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "51"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What blockbuster film presents lengthy scenes featuring a bookish ichthyologist, a survivor of the sinking of the USS Indianapolis, and a New York police chief?",
+            "answer": "jaws",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "50"
+        }
+    ]
+}

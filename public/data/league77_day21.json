@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 21,
+    "date": "June 28, 2018",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "This Pittsburgh-area medical clinic sits at the former site of what restaurant? ",
+            "answer": "pizza hut",
+            "image": "/images/art/5094985yumc0596u4059m6u0549.jpg",
+            "a_percent": "77",
+            "b_percent": "72",
+            "c_percent": "68",
+            "d_percent": "67",
+            "e_percent": "59",
+            "r_percent": "63"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Howlin' Wolf, Muddy Waters, Etta James, Willie Dixon, Buddy Guy, Bo Diddley, and Sonny Boy Williamson II were among the artists who recorded for what Chicago-based blues and R&B record label? The label was not named after a game (as might be assumed, especially considering the label's logos), but rather is an Anglicized version of the founding brothers' Polish last name.",
+            "answer": "chess records",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Eleven properties in the standard U.S. version of the board game Monopoly have names that include U.S. states. One state appears twice. Which one?",
+            "answer": "pennsylvania",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "74",
+            "e_percent": "64",
+            "r_percent": "68"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term used in the theory of general relativity for a point of infinite density and infinitesimal volume, at which space and time become infinitely distorted? They are believed to exist at the center of black holes, and the Big Bang theory suggests that one existed at the beginning of the universe.",
+            "answer": "singularity",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "65",
+            "c_percent": "60",
+            "d_percent": "52",
+            "e_percent": "36",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "This is a screenshot from what game show? ",
+            "answer": "tic tac dough",
+            "image": "/images/art/498y5c94y85n0435y8.jpg",
+            "a_percent": "27",
+            "b_percent": "16",
+            "c_percent": "11",
+            "d_percent": "8",
+            "e_percent": "5",
+            "r_percent": "7"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Ships operated by what cruise line have names ending with \"of the Seas\" (for example, Symphony of the Seas, Navigator of the Seas, and Empress of the Seas, among many others)?",
+            "answer": "royal caribbean",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "51",
+            "c_percent": "42",
+            "d_percent": "37",
+            "e_percent": "32",
+            "r_percent": "40"
+        }
+    ]
+}

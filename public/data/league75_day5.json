@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 5,
+    "date": "November 17, 2017",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "A famous bronze sculpture by Myron, from the 5th century BCE, depicts the contrapposto figure of a nude young man in the midst of competition in what Olympic event?",
+            "answer": "discus",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "86",
+            "e_percent": "74",
+            "r_percent": "82"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the center (centre) for the Edmonton Oilers and 20-year-old hockey phenom who won the 2017 Art Ross trophy as the NHL's leader in points, as well as the Hart Memorial Trophy as the league's most valuable player.",
+            "answer": "connor mcdavid",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "31",
+            "c_percent": "27",
+            "d_percent": "20",
+            "e_percent": "18",
+            "r_percent": "21"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Sam Nujoma, who entered politics in 1960 as a co-founder of the South West Africa People's Organization (SWAPO), was elected in 1990 as the first president of what nation?",
+            "answer": "namibia",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "32",
+            "e_percent": "18",
+            "r_percent": "32"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The title of Claude Debussy's Suite bergamasque comes from a line in a Paul Verlaine poem, and Debussy uses the title of that Verlaine poem as the title of the third movement of Suite bergamasque. What is the title shared by that poem and movement (arguably Debussy's most famous piano work)?",
+            "answer": "clair de lune",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The band that reached #1 in 1967 with \"Incense and Peppermints\"; the band led in the 1970s by Eric Carmen; the Irish rock band fronted by Dolores O'Riordan; the sleazy hard rock band that recorded \"Lit Up\" and \"Too Drunk...\"; Britain's biggest-selling all-female pop trio: the names of all of these musical groups share, most prominently, what distinction?",
+            "answer": "fruit",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "45",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The temperature scale named after Swedish astronomer Anders Celsius was formally named thus by the Conference General des Poids et Measures in 1948, but before that point (and still today, decreasingly), the scale was commonly known by what other name?",
+            "answer": "centigrade",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "85",
+            "c_percent": "82",
+            "d_percent": "71",
+            "e_percent": "58",
+            "r_percent": "67"
+        }
+    ]
+}

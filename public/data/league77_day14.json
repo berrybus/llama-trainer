@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 14,
+    "date": "June 19, 2018",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "In Through the Looking-Glass, Lewis Carroll first used what term to describe words that are composed of parts of two or more words? Examples are found throughout \"Jabberwocky\" and include mimsy (flimsy and miserable), galumphing (gallop and triumphant), and chortled (chuckle and snort).",
+            "answer": "portmanteau",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "85",
+            "c_percent": "78",
+            "d_percent": "69",
+            "e_percent": "50",
+            "r_percent": "56"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the name of the top-grossing summer caravan musical tour in 1997, the first to achieve this distinction with a lineup of all female-led acts?",
+            "answer": "lilith fair",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "67",
+            "e_percent": "53",
+            "r_percent": "56"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Bronze Age civilization that developed on the island of Crete roughly 5000 years ago and lasted for nearly two millennia is named after a legendary king. What is that name (either the king's or the civilization's)?",
+            "answer": "minos/minoan",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "59",
+            "e_percent": "35",
+            "r_percent": "53"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the name of the nonprofit organization that was the appellant in the landmark 2010 case before the U.S. Supreme Court where the majority held that, under the First Amendment, corporate funding of independent political broadcasts in candidate elections cannot be limited? The organization's name has become shorthand for the case itself.",
+            "answer": "citizens united",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "58",
+            "r_percent": "67"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name for the scientific study of how matter behaves at very low temperatures, including approaching absolute zero?",
+            "answer": "cryogenics/cryophysics",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "38",
+            "c_percent": "32",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What country has the greatest ratio of \"height\" (north/south distance) to \"width\" (east/west distance) in its contiguous land territory, with 2,653 miles between its northernmost and southernmost points but only 221 miles at its widest?",
+            "answer": "chile",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "87",
+            "e_percent": "81",
+            "r_percent": "84"
+        }
+    ]
+}

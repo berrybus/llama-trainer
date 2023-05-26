@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 19,
+    "date": "September 2, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the middle name of 25-year-old model and socialite Kendall Jenner, given to her in honor of her mother's close friend who died just over a year before Kendall was born?",
+            "answer": "nicole",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "59",
+            "d_percent": "50",
+            "e_percent": "38",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The public condemnation of heretics conducted by the Spanish and Portuguese Inquisitions, which is today often associated with its most extreme punishment of burning at the stake, is known by what three-word (or hyphenated three-part) phrase?",
+            "answer": "auto da fe/auto-da-fe",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "46",
+            "c_percent": "32",
+            "d_percent": "19",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Born a Crime: Stories from a South African Childhood is a bestselling coming-of-age memoir by what author, comedian, and television host?",
+            "answer": "trevor noah",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "93",
+            "e_percent": "87",
+            "r_percent": "90"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the desert, located mostly on Northern Chile's Pacific coast, that is widely regarded as the driest place on Earth. In some locations, no rain has ever been recorded in human history.",
+            "answer": "atacama",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Khoisan language families are distinctive among languages of the world for their extensive use of certain consonants that linguists\u2014and the International Phonetic Alphabet (IPA)\u2014describe using what word?",
+            "answer": "click",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "41",
+            "r_percent": "51"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Though it is typically dark brown, what mammal, native to northern Asia and related to the weasel, has a name which is synonymous with the word \"black\"?",
+            "answer": "sable",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "9",
+            "r_percent": "20"
+        }
+    ]
+}

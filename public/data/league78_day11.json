@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 11,
+    "date": "September 4, 2018",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "Give the names of the two men who previously held the position that has been held since 2014 by engineer and business executive Satya Nadella.",
+            "answer": "bill gates, steve ballmer",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "42",
+            "c_percent": "36",
+            "d_percent": "29",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A 1946 book by John Hersey, initially  published as a full-issue article in an August 1946 issue of the New Yorker magazine, describes the harrowing experiences of six individuals the previous year in what city, after which the book is named?",
+            "answer": "hiroshima",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "After the defeat of Cassius and Brutus at the Battle of Philippi in 42 BCE, the Roman Republic was primarily ruled by two men\u2014Octavian in the west, and what other man in the east? This arrangement lasted until the Battle of Actium in 31 BCE, and Octavian's subsequent supremacy (and eventual ascension as the first Roman Emperor).",
+            "answer": "mark antony",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "66",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "For three consecutive years in the 1980s, players from what Major League Baseball team won the American League Rookie of the Year Award (Jos\u00e9 Canseco in 1986, Mark McGwire in 1987, and Walt Weiss in 1988)?",
+            "answer": "oakland athletics",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "66",
+            "d_percent": "59",
+            "e_percent": "50",
+            "r_percent": "55"
+        },
+        {
+            "category": "ART",
+            "prompt": "The work of art formally titled La Trahison des images (The Treachery of Images) is a painting of (but, according to its included text, not actually) what object?",
+            "answer": "pipe",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "28",
+            "r_percent": "36"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Veins in the human body carry deoxygenated blood, with two exceptions. One exception is the umbilical vein, which is present during prenatal development and transports oxygenated blood from the placenta to the fetus. What is the other exception\u2014the only vein (actually four in number under normal conditions) that carries oxygenated blood and is present in all humans?",
+            "answer": "pulmonary vein",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "30",
+            "e_percent": "22",
+            "r_percent": "32"
+        }
+    ]
+}

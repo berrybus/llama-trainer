@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 2,
+    "date": "May 17, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The Way of Water is the subtitle to a release scheduled for December 2022 (but initially targeted for 2014) that is a sequel to what film?",
+            "answer": "avatar",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "68",
+            "e_percent": "61",
+            "r_percent": "69"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The board game invented in 1962 by University of Illinois sophomore John Spinello as The Box That Sparked and Made Noise is now a popular game known by what other name?",
+            "answer": "operation",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "84",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "68",
+            "r_percent": "79"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the field of study whose subject area is the utilization of the mechanical properties of water (and other liquids)\u2014particularly the way it flows and transmits pressure\u2014and the application of these properties in engineering?",
+            "answer": "hydraulics",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "75",
+            "e_percent": "66",
+            "r_percent": "68"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Kiel Canal, which connects the North Sea with the Baltic Sea, runs for roughly 60 miles in what country?",
+            "answer": "germany",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "49",
+            "c_percent": "35",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "24"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In July 1945, between V-E Day in May and V-J Day in August, a total of 14 people died when a US Army B-25 Mitchell bomber, after getting lost in fog, tragically crashed into what?",
+            "answer": "empire state building",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "15"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "One example of heteronyms (words that are spelled identically but have different meanings when pronounced differently) is a word for a certain alcoholic drink and a word some dictionaries define as \"end\" or \"purpose\". What is those words' shared spelling?",
+            "answer": "sake",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "20"
+        }
+    ]
+}

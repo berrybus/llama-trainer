@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 6,
+    "date": "February 22, 2022",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"Abenomics\" is a nickname that has been used widely for a set of economic policies adopted in what country?",
+            "answer": "japan",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "86",
+            "d_percent": "77",
+            "e_percent": "59",
+            "r_percent": "66"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the fourteen current territories formally administered by the United States, five have a permanent non-military population. Which of these territories' populations is the largest among the group?",
+            "answer": "puerto rico",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "82",
+            "c_percent": "80",
+            "d_percent": "75",
+            "e_percent": "69",
+            "r_percent": "72"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In physiology, it's the expansion and contraction of artery walls; in botany, it's a common name for the edible seed of plants in the Leguminosae or Fabaceae family. What is the word in question?",
+            "answer": "pulse",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "46",
+            "c_percent": "36",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Of the chansons de geste, a set of epic poems of medieval France, the oldest existing and best known is the chanson of what military leader, composed around the year 1100?",
+            "answer": "roland",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "38",
+            "c_percent": "26",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What CBS procedural drama, currently in its 19th season, has ranked in the top five in Nielsen broadcast ratings every year since the 2008\u20132009 television season?",
+            "answer": "ncis",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "52",
+            "e_percent": "40",
+            "r_percent": "44"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In 1981, Warner Bros. released an eponymous album by Minneapolis band The Time, with production, recording, engineering, and mixing credited to Jamie Starr\u2014an early pseudonym for whom?",
+            "answer": "prince",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "78",
+            "e_percent": "61",
+            "r_percent": "69"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 2,
+    "date": "November 15, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A best-selling 2000 novel by Myla Goldberg tells the story of the esoteric and fracturing Naumann family, with a focus on eleven-year-old Eliza as she navigates through what titular season?",
+            "answer": "bee season",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "30",
+            "c_percent": "21",
+            "d_percent": "15",
+            "e_percent": "9",
+            "r_percent": "14"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What acclaimed and Academy Award-nominated 1981 Wolfgang Petersen film could credibly hold the record for most critical reviews that include the word \"claustrophobic\"?",
+            "answer": "das boot",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "64",
+            "c_percent": "48",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The name of what African country is contained as a word in the names of two other African countries?",
+            "answer": "guinea",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "40",
+            "e_percent": "22",
+            "r_percent": "36"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The structure of the human brain responsible for olfaction (the sense of smell) has roughly what shape, which is normally included in the name of the structure itself?",
+            "answer": "bulb",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "32",
+            "c_percent": "25",
+            "d_percent": "19",
+            "e_percent": "15",
+            "r_percent": "21"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What document, arguably one of the most influential works in the 20th century, fell into decades-long obscurity not long after its initial publication, following (and due to) the failure of the European revolutions of 1848?",
+            "answer": "the communist manifesto",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "62",
+            "d_percent": "54",
+            "e_percent": "38",
+            "r_percent": "49"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "While a \"crime\" is legally defined as conduct that is prohibited and has punishment prescribed by law, what is the corresponding term for a wrongful act (other than breach of contract) that harms another and for which courts impose civil liability?",
+            "answer": "tort",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "48"
+        }
+    ]
+}

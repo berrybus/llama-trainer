@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 7,
+    "date": "June 8, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The initial volume of The Grammatical Institute of the English Language, which later came to be known as The American Spelling Book and subsequently The Elementary Spelling Book, was the earliest success and possibly the second-most (but definitely not first-most) important work of what pioneering American author and educator?",
+            "answer": "noah webster",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "37",
+            "r_percent": "45"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Luanda, Cabinda, Cuanza Sul, Namibe, and Zaire are among the provinces of what African nation?",
+            "answer": "angola",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What film won the inaugural Academy Award for Best Animated Feature in 2002, and remains today one of only two such Oscar-winners for DreamWorks Animation despite eleven subsequent nominations (the other was Wallace & Gromit: The Curse of the Were-Rabbit)? While the film was extremely successful commercially, its sequels are the studio's highest grossing films.",
+            "answer": "shrek",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "61",
+            "d_percent": "55",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "MATH",
+            "prompt": "While commonly used in adjective form, what word is, in its noun form, defined mathematically as a variable that approaches 0 as a limit, or a quantity less than any finite quantity but greater than zero?",
+            "answer": "infinitesimal",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "39",
+            "c_percent": "35",
+            "d_percent": "31",
+            "e_percent": "22",
+            "r_percent": "27"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The plastic polyvinylidene chloride (PVDC), remarkable for its ability to adhere to itself and its low permeability, was beginning in 1953 best known by what brand name? The brand, which still exists today and is now owned by S. C. Johnson & Son, changed its formula in 2004 from PVDC to ordinary low-density polyethylene due to cost, processing, and environmental concerns.",
+            "answer": "saran wrap",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "55",
+            "c_percent": "46",
+            "d_percent": "40",
+            "e_percent": "31",
+            "r_percent": "38"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"Fantasy gifts\" in what American retailer's Christmas Book catalogs have included Yours & Mine Limited Edition Rolls-Royce Dawns, a $20 million submarine, an Arch motorcycle designed by Keanu Reeves, and a live Black Angus bull?",
+            "answer": "neiman marcus",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "28",
+            "e_percent": "19",
+            "r_percent": "29"
+        }
+    ]
+}

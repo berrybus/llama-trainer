@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 14,
+    "date": "November 30, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "\"A jump to the left\", \"a step to the right\", \"bring your knees in tight\", and \"pelvic thrust\" are some of the instructions in what anthemic dance from a 1973 rock musical (note, name the dance)?",
+            "answer": "the time warp",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "67",
+            "e_percent": "52",
+            "r_percent": "61"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The Latin name for a particular ancient city is, by coincidence, also the anatomical name for the largest part of the hip bone. What is that name?",
+            "answer": "ilium",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "55",
+            "c_percent": "40",
+            "d_percent": "24",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In French cooking, b\u00e9chamel sauce is simply a white sauce made with a roux (butter and flour) and milk. B\u00e9chamel sauce with cheese added (typically Gruy\u00e8re) becomes what other French sauce?",
+            "answer": "mornay sauce",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In 1901, J.P. Morgan purchased the company that would become US Steel for $480 million primarily from what man, a Scottish-born industrialist who had helped form his namesake steel company in 1889?",
+            "answer": "andrew carnegie",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "76",
+            "e_percent": "55",
+            "r_percent": "66"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Former ESPN SportsCenter host Kevin Frazier is the current anchor for what daily news program that premiered with hosts Mary Hart and Ron Hendren in September 1981?",
+            "answer": "entertainment tonight (et)",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "25",
+            "r_percent": "33"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The most essential and enduring invention of American engineer Frank Zamboni is used by its operators primarily in what type of facility?",
+            "answer": "ice/skating/hockey rink",
+            "image": null,
+            "a_percent": "100",
+            "b_percent": "99",
+            "c_percent": "99",
+            "d_percent": "98",
+            "e_percent": "96",
+            "r_percent": "96"
+        }
+    ]
+}

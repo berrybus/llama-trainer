@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 6,
+    "date": "August 28, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "When both players have been dealt their six cards each, and the remainder put aside, both players select two of their six cards and discard them face down to the dealer's right. In this excerpt of rules from the traditional two-player version of a popular game, these four discards have a name, which in turn informs the name of the game. What is the name of this card game?",
+            "answer": "cribbage",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "30",
+            "c_percent": "27",
+            "d_percent": "23",
+            "e_percent": "20",
+            "r_percent": "22"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A brutal death in a vehicle accident kicks off the events that conclude the story of The Great Gatsby. Give the first name of either the character who dies in the accident or the character who was driving the car at the time.",
+            "answer": "myrtle, daisy",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "MATH",
+            "prompt": "While a quadrilateral with at least one pair of parallel sides is known in North America as a trapezoid, outside North America it is known as what? The term in question, to North Americans, describes a quadrilateral with no parallel sides (which, outside North America, is simply called a general irregular quadrilateral).",
+            "answer": "trapezium",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "24",
+            "c_percent": "16",
+            "d_percent": "8",
+            "e_percent": "5",
+            "r_percent": "14"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The only Gilbert and Sullivan comic opera to premiere officially in New York (or any city other than London) did so in 1879 and, in 1981, became the first with an extended, open-ended commercial Broadway run, with Kevin Kline, Rex Smith, and Linda Ronstadt in starring roles. Name that show.",
+            "answer": "the pirates of penzance",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "65",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Among the 25 ministerial departments in the government of the United Kingdom, Her Majesty's Treasury is responsible for public spending and development and execution of the government's economic policy. What is the common title of the government minister responsible for overseeing HM Treasury?",
+            "answer": "chancellor of the exchequer",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "59",
+            "e_percent": "34",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Two separate wars in the mid-19th century had their origins in China's efforts to block British traders from importing what product into China from India?",
+            "answer": "opium",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "63",
+            "e_percent": "48",
+            "r_percent": "62"
+        }
+    ]
+}

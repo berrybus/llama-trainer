@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 3,
+    "date": "May 18, 2022",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Produced starting in the 1950s by the manufacturing company Lesney Products & Co. Ltd., a diesel road roller, dump truck, cement mixer, Massey Harris tractor, London bus, Dennis fire engine, ERF petrol tanker, and Land Rover were among the first in what line of toys, named for the containers in which they were originally sold?",
+            "answer": "matchbox",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "64",
+            "e_percent": "49",
+            "r_percent": "58"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "\"Troubadour\", \"fallen woman\", \"pirate\", and \"masked ball\" are English translations of words and phrases found in the titles of major works by whom?",
+            "answer": "giuseppe verdi",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "29",
+            "c_percent": "20",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "12"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A hill in eastern South Africa known as Isandlwana was the site in January 1879 of a battle that saw British-led forces defeated by warriors from what other empire?",
+            "answer": "zulu",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "40",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A cave site near the village of Les Eyzies in the Dordogne region of France gives its name to fossils found there in 1868 of hominids, dating from about 30,000 years ago, that are considered representative of early modern humans. What is the name shared by that cave site and those prehistoric Homo sapiens?",
+            "answer": "cro-magnon",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "39",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The honorees at Oprah Winfrey's 2006 Legends Ball, celebrating 25 living African American women for their contributions to civil rights, entertainment, and the arts, included what poet and educator, who reflects on the nuanced and nonstereotypical realities of her youth (and of the youths of all Black people) in the personal and self-referentially titled 1968 poem \"Nikki-Rosa\"?",
+            "answer": "nikki giovanni",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "25",
+            "c_percent": "19",
+            "d_percent": "13",
+            "e_percent": "8",
+            "r_percent": "13"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Kiwi Strawberry, Mango Madness, Watermelon Lemonade, and Peach Tea are among the more popular drink flavors produced by what beverage company, which was founded in New York in 1972 and was itself named after an offering in its original beverage line?",
+            "answer": "snapple",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "79",
+            "e_percent": "70",
+            "r_percent": "73"
+        }
+    ]
+}

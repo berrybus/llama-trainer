@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 2,
+    "date": "August 20, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "\"Because I could not stop for death\"\"I sometimes answer questions wrong\"\"A cap of lead across the sky\"\"The points I score are not enough\"\"A little dog that wags his tail\"The preceding lines, some of which are first lines from poems by Emily Dickinson, all have four measures (tetrameter) and use what metrical foot?",
+            "answer": "iamb",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "85",
+            "c_percent": "82",
+            "d_percent": "78",
+            "e_percent": "65",
+            "r_percent": "72"
+        },
+        {
+            "category": "ART",
+            "prompt": "A 1999 novel, and also a 2003 film and a 2008 play both inspired by the novel, all share a name with (and have fictionalized plot points based on) a painting in the collection of the Mauritshuis art museum in The Hague. What is that name?",
+            "answer": "girl with a pearl earring",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The memoir 100 Years, 100 Stories, released in the weeks between the author's hundredth birthday in January 1996 and his death in March of that year, is a collection of anecdotes chronicling the life of what comedian?",
+            "answer": "george burns",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "30",
+            "r_percent": "36"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The northern New Jersey city of Carteret, which sits across the Arthur Kill from Staten Island, is named after Sir George Carteret, one of the two original proprietors of the colony of New Jersey. What more populous nearby city is named after his wife?",
+            "answer": "elizabeth",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "71",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A golden, gem-encrusted statue made by the Knights of Rhodes as a gift for Holy Roman Emperor Charles V is a fictional film noir MacGuffin known by what name?",
+            "answer": "the maltese falcon",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "79",
+            "d_percent": "67",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A hemihydrate of calcium sulfate (2CaSO4\u00b7H2O), prepared by heating gypsum, has a common name that references a city where gypsum was once widely mined. What is that city?",
+            "answer": "paris",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "22"
+        }
+    ]
+}

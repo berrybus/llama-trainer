@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 23,
+    "date": "March 24, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the name of the hit debut young adult novel from 2020 by Emma Lord whose title is a fun play on a term for an amusing first encounter between two people that eventually leads to a romantic relationship, updated for the era of social media?",
+            "answer": "tweet cute",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "50",
+            "c_percent": "44",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Josette Day and Jean Marais play the title characters in what French fantasy film from 1946, directed and written by Jean Cocteau and based on a 1757 tale by Mme. Jeanne-Marie Leprince de Beaumont?",
+            "answer": "beauty and the beast (la belle et la b\u00eate)",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the term commonly used for the Stone Age's final phase\u2014when humans first developed settlements and invented agriculture\u2014which translates directly from Greek as \"New Stone [Age]\"?",
+            "answer": "neolithic",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "75",
+            "e_percent": "55",
+            "r_percent": "68"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What London address is the parallel to Tokyo's 2-3-1 Nagata-cho, Chiyoda-ku, the current location of a building known as Kantei?",
+            "answer": "10 downing street",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "75",
+            "e_percent": "56",
+            "r_percent": "63"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The proto-caliphate known internationally as ISIS (Islamic State of Iraq and Syria) or ISIL (Islamic State of Iraq and the Levant) has also been referred to by what other, controversial, five-letter name, which is a transliteration of the acronym of its name in Arabic?",
+            "answer": "daesh",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "55",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "38"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What unique law enforcement agency has its roots in a group founded by empresario Stephen F. Austin in 1823 as a protection force for settlers after the Mexican War of Independence?",
+            "answer": "texas rangers",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "71",
+            "e_percent": "53",
+            "r_percent": "61"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 6,
+    "date": "September 5, 2019",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "The graph of a quadratic function has a shape that is most frequently referred to by what mathematical term?",
+            "answer": "parabola",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "83",
+            "d_percent": "78",
+            "e_percent": "68",
+            "r_percent": "70"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Fars Province is the fifth-largest and fourth-most populous of the thirty-one provinces of what country?",
+            "answer": "iran",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "O my Luve's like a ________  /  That's newly sprung in June; / O my Luve's like the melodie / That's sweetly play'd in tune. What three-word phrase fills in the blank?",
+            "answer": "red red rose",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "44",
+            "c_percent": "36",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "22"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Cattle, sheep, and goats are among the ungulates that have a four-compartment stomach. Give the common name of any one of these four compartments.",
+            "answer": "abomasum, omasum, reticulum, rumen",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "35",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Harris K. Telemacher, Phil Connors, Brick Tamland, and\u2014per the title of a 2005 film\u2014David Spritz are all film characters who held what occupation?",
+            "answer": "weatherman/meteorologist",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "33",
+            "r_percent": "39"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the repetitive two-word phrase used by colonial authorities for the anti-colonial and anti-settler uprising among the Kikuyu and other native groups in Kenya in the early 1950s?",
+            "answer": "mau mau",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "49",
+            "c_percent": "35",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "21"
+        }
+    ]
+}

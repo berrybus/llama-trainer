@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 19,
+    "date": "June 18, 2019",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "In March 2018, Nickelodeon announced a reboot of what television series, which will have \"Josh\" (played by Joshua Dela Cruz) filling the role previously held in the original series by \"Steve\" and then \"Joe\"?",
+            "answer": "blue's clues",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "57",
+            "c_percent": "53",
+            "d_percent": "48",
+            "e_percent": "44",
+            "r_percent": "48"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In scientific notation, a number is written as the base number times ten raised to a power. This base number is known as the significand, and sometimes also by what other term, which is also used for the fractional part of a common logarithm?",
+            "answer": "mantissa",
+            "image": null,
+            "a_percent": "26",
+            "b_percent": "16",
+            "c_percent": "11",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "8"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Pat McGrath, Charlotte Tilbury, Lisa Eldridge, John Chambers, Bobbi Brown, and Kevyn Aucoin are all people who achieved a level of fame and success as what type of artist?",
+            "answer": "makeup artist",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "47",
+            "c_percent": "44",
+            "d_percent": "41",
+            "e_percent": "38",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Located in northeast Arizona and extending into New Mexico and Utah, and occupying a land area the size of West Virginia, the largest federally recognized Native American Reservation (in both area and population) is the Nation of what tribe?",
+            "answer": "navajo (din\u00e9)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "77",
+            "d_percent": "68",
+            "e_percent": "53",
+            "r_percent": "67"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The Billboard #1 hit \"Lady\" from 1980, recorded by Kenny Rogers, augured well for the about-to-explode solo career of what R&B star who penned it, and ultimately recorded his own version in 1998?",
+            "answer": "lionel richie",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "27",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The remains of an 11th-century Viking settlement in Newfoundland, believed to provide evidence of the first presence of Europeans in North America, is an archaeological site named L'Anse aux what?",
+            "answer": "meadows",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "30",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "14"
+        }
+    ]
+}

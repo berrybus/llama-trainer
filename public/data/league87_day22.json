@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 22,
+    "date": "December 10, 2020",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What name fills in the blank in this partial, chronological list? Lie, Hammarskj\u00f6ld, Thant, _______, P\u00e9rez de Cu\u00e9llar...",
+            "answer": "waldheim",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "27",
+            "c_percent": "15",
+            "d_percent": "6",
+            "e_percent": "2",
+            "r_percent": "9"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What neologism for a zealous fan (or, when used as a verb, for demonstrating zealous fandom of something or someone) comes from the title character of a 2000 song by Eminem?",
+            "answer": "stan",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "79",
+            "e_percent": "72",
+            "r_percent": "76"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the most common term used for a number defined as a real number that cannot be expressed as a ratio between two integers (i.e., it has an infinite number of non-repeating digits to the right of the decimal point)?",
+            "answer": "irrational number",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "52",
+            "r_percent": "59"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"An early computer command that sent the machine into a race condition, forcing all instructions to compete for superiority at once.\" This is presented in its premiere episode as the definition of the title of what drama television series, whose fourth and final season concluded in 2017?",
+            "answer": "halt and catch fire",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "52",
+            "c_percent": "43",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "30"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term used for the cylinder or spindle used to hold thread below the needle of a sewing machine? The term is also used for a small plastic frame that holds a small amount of yarn for multi-color knitting?",
+            "answer": "bobbin",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "52",
+            "e_percent": "42",
+            "r_percent": "47"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The three-layered ice cream brick known as Neapolitan is a variant on another dessert of Italian heritage, traditionally consisting of cherry, pistachio, and chocolate or vanilla gelato, and sometimes containing candied fruits and nuts. What is that dessert's name?",
+            "answer": "spumoni",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "57",
+            "c_percent": "47",
+            "d_percent": "38",
+            "e_percent": "27",
+            "r_percent": "37"
+        }
+    ]
+}

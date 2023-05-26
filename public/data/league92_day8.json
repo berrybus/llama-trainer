@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 8,
+    "date": "February 24, 2022",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "In The Waste Land, what superlative does T. S. Eliot famously use to describe the month of April?",
+            "answer": "cruellest",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "75",
+            "c_percent": "59",
+            "d_percent": "38",
+            "e_percent": "19",
+            "r_percent": "34"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Luciano Pavarotti was not considered the \"King of\" a certain fruit-flavored drink brand (though it's a homophone), but rather of what particular operatic feat of strength for tenors, of which nine appear in only two minutes in the aria \"Pour mon ame\" from Donizetti's La Fille du r\u00e9giment?",
+            "answer": "high c",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "62",
+            "d_percent": "49",
+            "e_percent": "34",
+            "r_percent": "44"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In American parlance, the simple cocktail known as a \"Boilermaker\" contains two ingredients: whiskey, and what other?",
+            "answer": "beer",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "77",
+            "d_percent": "68",
+            "e_percent": "52",
+            "r_percent": "61"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the present name (or the standard three-letter abbreviation) of the political party of which every Mexican president was a member from the party's founding in 1929 through the end of the 20th century, and again from 2012-2018 with the election of Enrique Pe\u00f1a Nieto?",
+            "answer": "institutional revolutionary party / partido revolucionario institucional / pri",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "36",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Be seated. Now, I want you to remember that no bastard ever won a war by dying for his country. He won it by making the other poor dumb bastard die for his country.\" So begins the famous opening monologue from what 1970 biopic?",
+            "answer": "patton",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "86",
+            "d_percent": "75",
+            "e_percent": "52",
+            "r_percent": "61"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The 1981 song \"Talkin Baseball\" by Terry Cashman includes in its refrain \"Willie, Mickey, and The Duke\", referring to three players who starred as center fielders for the three New York City-based teams of the 1950s. The former two are Willie Mays and Mickey Mantle; what was the last name of the third?",
+            "answer": "snider",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "17",
+            "r_percent": "25"
+        }
+    ]
+}

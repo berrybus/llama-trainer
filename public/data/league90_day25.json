@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 25,
+    "date": "September 13, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "One-quarter cup (50g) of granulated sugar per egg white is a standard ratio for preparing a \"hard\" version of what light and airy whipped dessert and topping (\"soft\" versions use less sugar)?",
+            "answer": "meringue",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "87",
+            "e_percent": "80",
+            "r_percent": "83"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the woman whose most prominent government roles included US ambassadorships to Czechoslovakia and Ghana as well as President Gerald Ford's chief of protocol (a position she was the first woman to hold).",
+            "answer": "shirley temple black",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "62",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The children's book Click Clack Moo, written by Doreen Cronin and published in 2000, tells a story of a demanding group of cows who have the surprising ability to do what activity?",
+            "answer": "type",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "47",
+            "c_percent": "40",
+            "d_percent": "34",
+            "e_percent": "26",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A body of water known as Victoria Harbour separates the Kowloon Peninsula from what island?",
+            "answer": "hong kong (island)",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "35",
+            "r_percent": "52"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What was the last name of the entrepreneurial brothers whose diversified company\u2014which began as a soap-making firm in 1890\u2014was merged with a Dutch margarine producer (Margarine Unie) in 1930?",
+            "answer": "lever",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "44",
+            "e_percent": "27",
+            "r_percent": "40"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Aw Snap!, Blindfolded Musical Chairs, Danger Word, Say Whaaat?, and You Bet Your Wife are among the contests that have appeared on what television show that debuted on NBC in December 2017?",
+            "answer": "(ellen's) game of games",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "32",
+            "c_percent": "28",
+            "d_percent": "24",
+            "e_percent": "19",
+            "r_percent": "25"
+        }
+    ]
+}

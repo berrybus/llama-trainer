@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 9,
+    "date": "November 18, 2021",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Rent-a-Car Crash-up Derby, Alligator Tightrope, Shopping Cart Attack, Wasabi Snooters, and Golf Course Airhorn are a few of the dozens of segments from a 2002 film. Name that film, or the earlier television series from which it spun off.",
+            "answer": "jackass: the movie/jackass",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "74",
+            "r_percent": "78"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Although mass and energy can be converted into one another, the total quantity of mass and energy in a system must remain constant. This conservation law in physics is reflected in Einstein's famous equation where e is energy, m is mass, and c represents what?",
+            "answer": "speed of light (in a vacuum)",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "65",
+            "r_percent": "75"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Unimak, Umnak, and Attu are among the largest islands in what island chain and volcanic island arc, known natively as Unangam Tanaa?",
+            "answer": "aleutian islands",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "43",
+            "e_percent": "25",
+            "r_percent": "37"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Prussian Johann Gottlieb Goldberg, an 18th century composer and harpsichordist to Russian Count Hermann Karl von Keyserlingk of the Duchy of Courland and Semigallia, died of tuberculosis at age 29 in 1756, and is most remembered today thanks to a 1741 composition by whom?",
+            "answer": "johann sebastian bach",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "69",
+            "c_percent": "54",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the term used for the underground burial galleries of the Roman Empire, used most often (but not always) for Christian burials? The word today is often used for any subterranean cemetery and sometimes for underground passageways in general.",
+            "answer": "catacombs",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "72",
+            "r_percent": "80"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In 1673, during his performance in the title role of a play he wrote while ill, Moli\u00e8re collapsed, and he died later that day. The play, perhaps ironically, has a title often translated into English as The _____ Invalid (provide the adjective\u2014a direct cognate from the original French title\u2014that fills in the blank).",
+            "answer": "imaginary",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "30",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "11"
+        }
+    ]
+}

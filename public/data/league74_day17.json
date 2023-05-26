@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 17,
+    "date": "September 13, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Look What You Made Me Do,\" released on August 24, 2017, is the first single from what Taylor Swift album, which is set for release on November 10?",
+            "answer": "reputation",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "46",
+            "c_percent": "40",
+            "d_percent": "33",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The three stars on the flag of what U.S. state represent the state's legally codified Grand Divisions\u2014East, Middle, and West\u2014each of which has a distinct topography, and each of which has a distinct musical heritage?",
+            "answer": "tennessee",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "70",
+            "r_percent": "76"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A historically significant mathematics problem, asking, essentially, if a graph on four nodes with seven edges has a \"Eulerian path,\" was answered in the negative (by Leonhard Euler himself) using the seven bridges of what Prussian city?",
+            "answer": "k\u00f6nigsberg",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "19"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the cinematic take on Dr. Jekyll and Mr. Hyde from 1963 that presented a character named \"Buddy Love\" as the Hyde figure, and \"Julius Kelp\" as the Jekyll equivalent.",
+            "answer": "the nutty professor",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "39"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The man at the center of this photo, dated February 19, 2017, is currently the vice chairman (and de facto head) of what multinational conglomerate? ",
+            "answer": "samsung",
+            "image": "/images/art/5986740985f60985f4609845.jpg",
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "58",
+            "d_percent": "54",
+            "e_percent": "47",
+            "r_percent": "50"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A March 1960 event known as the Sharpeville Massacre is widely regarded as contributing directly to what country's departure from the British Commonwealth the following year?",
+            "answer": "south africa",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "30",
+            "e_percent": "19",
+            "r_percent": "33"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 3,
+    "date": "August 22, 2018",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Max Roach, Joe Morello, Elvin Jones, Cindy Blackman Santana, Billy Cobham, Tony Williams, Kenny Clarke, and Jack DeJohnette are all names of jazz musicians famous for their skill on what instrument?",
+            "answer": "drums",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "37",
+            "e_percent": "25",
+            "r_percent": "37"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The host of the original Star Search in the 1980s and '90s, a long-time co-host of the Jerry Lewis MDA Labor Day Telethon, Dick Clark's co-host on TV's Bloopers & Practical Jokes, and a spokesperson for the American Family Publishers sweepstakes\u2014any of these was arguably the second-most-prominent show business job held by what man?",
+            "answer": "ed mcmahon",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "76",
+            "d_percent": "66",
+            "e_percent": "49",
+            "r_percent": "54"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A split in rugby football in 1895 resulted in two separate forms of rugby, both of which evolved further to become two wholly separate sports. The names of the sports are Rugby _____ and Rugby _____.  Please provide the two words missing from the respective blanks.",
+            "answer": "league, union",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "35",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "20"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What was, until August 1883, the largest island in the Sunda Strait, between the Indonesian islands of Java and Sumatra?",
+            "answer": "krakatoa",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "69",
+            "d_percent": "52",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What name is shared in Greek mythology by one of the sea nymphs known as the Nereids, one of the Graces (with Aglaea and Euphrosyne), and one of the Muses (the Muse of comedy)? The name is also used (with a different pronunciation) by a popular Mexican musical artist and \"Queen of Latin Pop.\"",
+            "answer": "thalia",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "30",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Iron Brigade, Philadelphia Brigade, Excelsior Brigade, and Irish Brigade fought during the U.S. Civil War within the Union's principal army in the Eastern Theater, which was commonly known as \"Mr. Lincoln's Army\" but was formally known as the 'Army of' what body of water?",
+            "answer": "potomac",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "62",
+            "e_percent": "45",
+            "r_percent": "56"
+        }
+    ]
+}

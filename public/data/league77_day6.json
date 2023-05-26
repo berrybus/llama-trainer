@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 6,
+    "date": "June 7, 2018",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Pictured here is a typical scene from what currently running television series, a reboot of a series that ran from 1985 to 1992? ",
+            "answer": "macgyver",
+            "image": "/images/art/894ymc303cytm4095.jpg",
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "84",
+            "e_percent": "77",
+            "r_percent": "79"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A set of six string quartets by Wolfgang Amadeus Mozart composed between December 1782 and January 1785, and published in September of that year, were dedicated to\u2014and are commonly named after\u2014what other composer?",
+            "answer": "joseph haydn",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "20"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The resolution by the US Congress in August 1964 that authorized President Johnson to escalate the Vietnam War is named after what body of water?",
+            "answer": "gulf of tonkin",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "68",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The name for what vocation could be considered outdated, as its namesake chemical element (from Latin) has largely been banned for use by its tradesmen for decades?",
+            "answer": "plumbing",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "61",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "After the 2000 Sydney Olympics, various rule changes instituted by what sport's governing body (to improve the spectating experience) included increasing the ball diameter by 2mm, reducing a game from 21 to 11 points, and preventing the act of ball-hiding?",
+            "answer": "table tennis (ping pong)",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "47",
+            "e_percent": "41",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The actor who portrayed fictional mercenary leader Barney Ross in a three-film series during the 2010s has portrayed two other characters in successful multi-film franchises with at least three installments. Give the name of either of these other two characters.",
+            "answer": "rocky balboa, john rambo",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "55",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "39"
+        }
+    ]
+}

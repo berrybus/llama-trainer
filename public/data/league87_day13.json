@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 13,
+    "date": "November 20, 2020",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the revolutionary socialist writer and orator who took part in the 1905 Russian Revolution and advocated for a mass strike as the instrument of proletarian insurgency, before founding the Spartacist movement and the German Communist Party in Berlin (which led to her murder in 1919). While she was born in Poland and became a German citizen, her last name is a homophone of a different European country.",
+            "answer": "rosa luxemburg",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The numerous modern variations of the card game poker fall into three primary categories: draw poker, which is played with concealed hands; community card or hold 'em, with shared face-up cards; and another type, which features hands where some (or all) cards are exposed. This third type is sometimes known as open poker, but most often is called what?",
+            "answer": "stud poker",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "60",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What Indian industrial family began in Far East trade but diversified to create what is now Air India, and currently controls a namesake group that includes a major automaker, steel producer, telecommunications provider, electric utility, and IT services and consulting company?",
+            "answer": "tata",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "46",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the common name, dating from the 1840s, for the deep channel that connects the San Francisco Bay with the Pacific Ocean?",
+            "answer": "golden gate (strait)",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "45",
+            "e_percent": "28",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The Delta Blues artist who recorded \"Preachin' the Blues\" in 1930, the Australian band who released \"Don't Dream It's Over\" in 1986, the hip hop group who released \"Jump Around\" in 1989,  and the EDM trio who recorded \"Don't You Worry Child\" with John Martin in 2012\u2014all of these artists have what word in their names?",
+            "answer": "house",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Aa and pahoehoe are different types of what substance?",
+            "answer": "lava",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "35"
+        }
+    ]
+}

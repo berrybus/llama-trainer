@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 3,
+    "date": "May 22, 2020",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "The title of Jean Anouilh's 1953 play L'Alouette (\"The Lark\") refers to what historical person, who is also the subject of a 1924 George Bernard Shaw play inspired by the subject's recent (and long overdue) canonization?",
+            "answer": "joan of arc",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "71",
+            "e_percent": "53",
+            "r_percent": "64"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the top-selling passenger car in the United States whose model name is also a term for a specific type of musical composition?",
+            "answer": "(hyundai) sonata",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "76",
+            "e_percent": "62",
+            "r_percent": "66"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Wade Trophy, which was first awarded in 1978 (to Carol Blazejowski), is given annually to a woman deemed the best collegiate player in what sport?",
+            "answer": "basketball",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "46",
+            "d_percent": "38",
+            "e_percent": "32",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The symbols commonly used to indicate male and female\u2014a circle with an arrow pointing to the upper right (representing a sword and shield) and a circle with a cross beneath it (representing a hand mirror) are the astronomical and astrological symbols for what, respectively?",
+            "answer": "mars, venus",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "61",
+            "e_percent": "47",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The body of literary works written during the reign of England's Elizabeth I (1558-1603) is known as Elizabethan literature, while works written during Victoria's reign constitute Victorian literature. What term, rather than \"Jamesian\", is used for English literature coinciding with the reign of James I, beginning in 1603?",
+            "answer": "jacobean",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "50",
+            "c_percent": "35",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "23"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Hindu festival Diwali is commonly known as the \"Festival of Lights\". Likewise, Holi is sometimes referred to as the \"Festival of Love\" or \"Festival of Spring\", but most commonly (and fittingly) the \"Festival of\" what?",
+            "answer": "colors",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "67",
+            "c_percent": "66",
+            "d_percent": "61",
+            "e_percent": "55",
+            "r_percent": "61"
+        }
+    ]
+}

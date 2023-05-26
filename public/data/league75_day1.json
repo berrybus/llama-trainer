@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 1,
+    "date": "November 13, 2017",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Since 2002, three actors have played the title role in Spider-Man-themed films. The most recent is Tom Holland; name both of the other two.",
+            "answer": "tobey maguire, andrew garfield",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "63",
+            "e_percent": "57",
+            "r_percent": "61"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Give any one of the three words redacted in this image. ",
+            "answer": "not pennys boat",
+            "image": "/images/art/8957c9m8509.jpg",
+            "a_percent": "25",
+            "b_percent": "20",
+            "c_percent": "19",
+            "d_percent": "17",
+            "e_percent": "13",
+            "r_percent": "13"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In 1912 Chicago, Harriet Monroe founded a magazine for which she would serve as editor until her death in 1936, and that is published still today (thanks in part to a $200 million bequest in 2002 from philanthropist Ruth Lilly). What is that magazine, named after the literature it features monthly?",
+            "answer": "poetry",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "24",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What is the last name of the pioneering country music family that formed (as a musical group) in 1926 in the mountains of western Virginia when Sara Dougherty, her husband A.P., and her cousin (A.P.'s brother Ezra's wife) Maybelle began recording folk songs set to string-band backup? Their biggest hit was \"Wildwood Flower\" in 1928, though they remained one of America's most popular musical acts until their disbandment in 1943. ",
+            "answer": "carter",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "42",
+            "d_percent": "28",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The first woman to successfully claim the crown of England, doing so in 1553, was commonly known\u2014especially by Protestants\u2014by what sanguineous sobriquet?",
+            "answer": "bloody mary",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "95",
+            "d_percent": "91",
+            "e_percent": "76",
+            "r_percent": "79"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Chickpeas which are cooked, mashed, and blended with tahini and other ingredients form the dish called hummus. Chickpeas which are soaked, ground with scallions, garlic, and spices, formed into balls, and fried make up what other dish?",
+            "answer": "falafel",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "88",
+            "e_percent": "83",
+            "r_percent": "85"
+        }
+    ]
+}

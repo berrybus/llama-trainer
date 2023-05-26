@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 25,
+    "date": "June 20, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The stage play Everybody Comes to Rick's by Murray Burnett and Joan Alison was adapted for the screen to become what film?",
+            "answer": "casablanca",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "77",
+            "d_percent": "62",
+            "e_percent": "39",
+            "r_percent": "53"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Identify the Dravidian language, particularly associated with the Southern Indian state of Andhra Pradesh, whose over 80 million speakers make it the fourth most spoken in India after Hindi, Bengali, and Marathi?",
+            "answer": "telugu",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "18",
+            "c_percent": "11",
+            "d_percent": "8",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Statue of Liberty National Monument, located in New York Bay, encompasses two islands. One is Liberty Island\u2014what is the other?",
+            "answer": "ellis island",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "86",
+            "e_percent": "79",
+            "r_percent": "82"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Four fictional television-cartoon heroes fell into a pool of radioactive mud, emerged human-sized, and learned the morality and techniques of the shinobi. Give any one of their names.",
+            "answer": "michelangelo, leonardo, donatello, raphael",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "92",
+            "e_percent": "86",
+            "r_percent": "90"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A cognate of an Old English word for a flexible leather cord is in common use today for what garment, originally worn by men but nowadays predominantly by women, either as an undergarment or in certain settings?",
+            "answer": "thong",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "44",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "27",
+            "r_percent": "32"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Heavyweight boxing legend Muhammad Ali lost three of his last four fights to finish with a record of 56 wins and five losses. Prior to those final fights, all of which took place when Ali was 36 or older, Ali lost to Joe Frazier in March 1971 and to what other boxing Hall of Famer in March 1973?",
+            "answer": "ken norton",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "21",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "12"
+        }
+    ]
+}

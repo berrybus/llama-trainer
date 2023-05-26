@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 19,
+    "date": "December 7, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What word refers most commonly to a solution consisting of resin secreted by a certain scale insect, in a solvent of ethanol, that has been used widely as a high-gloss varnish, as a protective coating for various surfaces, as a food glaze, in electrical insulation, and elsewhere?",
+            "answer": "shellac",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "46",
+            "c_percent": "37",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Idris Elba has portrayed the self-destructive and morose title character on what gritty BBC-produced crime drama series since its debut in 2010?",
+            "answer": "luther",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "58",
+            "e_percent": "45",
+            "r_percent": "57"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Way 2 Sexy\" (featuring Future & Young Thug), \"Knife Talk\" (featuring 21 Savage & Project Pat), \"Girls Want Girls\" (featuring Lil Baby), and \"Fair Trade\" (featuring Travis Scott) are recent 2021 hit songs by what artist, who has served since September 2013 as global ambassador of the Toronto Raptors?",
+            "answer": "drake",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "79",
+            "e_percent": "71",
+            "r_percent": "77"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The Outrage and A Fistful of Dollars, both from 1964, are among the successful Western films modeled on the work of legendary director Akira Kurosawa, but the most successful such film was what 1960 masterpiece directed by John Sturges?",
+            "answer": "the magnificent seven",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "60",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "After an investigation revealed that the FBI and NYPD withheld vital evidence which would likely have led to their acquittal at trial, the Supreme Court of the State of New York in November 2021 vacated the convictions of Muhammad Abdul Aziz and Khalil Islam (the latter posthumously) for the February 1965 assassination of whom? ",
+            "answer": "malcolm x",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "91",
+            "d_percent": "84",
+            "e_percent": "68",
+            "r_percent": "77"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the 1730s, a British merchant captain told a story of torture at the hands of Spanish sailors, which was used to arouse public support in Britain for a war against their Atlantic trade rivals. This war was vividly named after what the captain allegedly lost while being tortured. What did he lose?",
+            "answer": "ear",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "45",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "24"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 21,
+    "date": "June 13, 2017",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What legal term, defined as a return arising from employment or office usually in the form of compensation, is closely associated with the U.S. Constitution due largely to its specific usage in Article I, Section 9, Clause 8?",
+            "answer": "emolument",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "61",
+            "e_percent": "43",
+            "r_percent": "52"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Pictured here is a screenshot taken during the opening credits of what eleven-minute comedy special that first aired on American television at 4:00 am on October 28, 2014? ",
+            "answer": "too many cooks",
+            "image": "/images/art/908tcy0589609t.jpg",
+            "a_percent": "53",
+            "b_percent": "46",
+            "c_percent": "42",
+            "d_percent": "35",
+            "e_percent": "29",
+            "r_percent": "31"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In standard algebraic chess notation, a double question mark (??) indicates a very bad move, which in the game is most commonly referred to by what word?",
+            "answer": "blunder",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "On the day in 1911 that it ordered the Standard Oil Trust to dissolve, the U.S. Supreme Court ordered the same to what other company, for violations of the Sherman Anti-Trust Act of 1890? The ruling led eventually to the creation of  R. J. Reynolds, Liggett & Myers, and Lorillard.",
+            "answer": "american tobacco company",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Walt Whitman eventually titled his prodigious 1855 poetic masterpiece\u2014in which he sounds his barbaric yawp, is large, and contains multitudes\u2014 a \"Song\" that celebrates what? ",
+            "answer": "myself (himself)",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "47",
+            "e_percent": "26",
+            "r_percent": "44"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the historical drama series, set in New Mexico and airing on the television channel WGN America from 2014 to 2016, that shares its name with a Woody Allen film.",
+            "answer": "manhattan",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "42",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "23"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 11,
+    "date": "March 9, 2018",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What French philosopher and chief editor of the Encyclop\u00e9die, who regularly published reports on the exhibitions of the French Academy (known as Salons) in Correspondance litt\u00e9raire beginning in 1759, is widely considered the founder of art criticism?",
+            "answer": "denis diderot",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "33",
+            "c_percent": "26",
+            "d_percent": "14",
+            "e_percent": "5",
+            "r_percent": "15"
+        },
+        {
+            "category": "MATH",
+            "prompt": "When dividing two numbers, the number that is divided is the \"dividend,\" whereas the number the dividend is being divided by is the \"divisor.\" What term, from a Latin adverb for \"how many times,\" is used for the quantity that is a result of the division?",
+            "answer": "quotient",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "78",
+            "d_percent": "71",
+            "e_percent": "60",
+            "r_percent": "68"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the name of the legal and theological document, with 28 editions published between 1487 and 1600, that was accepted for centuries by Roman Catholics and Protestants as an authoritative source on sorcery and satanism, and as a guide to Christian defense? (Either the original Latin title or the common English translation is acceptable.)",
+            "answer": "malleus maleficarum/hammer of witches",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "22",
+            "c_percent": "17",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "13"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Complete the following quote which concludes a speech given by William Jennings Bryan at the Democratic National Convention in Chicago on July 9, 1896. \"Having behind us the producing masses of this nation and the world, supported by the commercial interests, the laboring interests, and the toilers everywhere, we will answer their demand for a gold standard by saying to them: You shall not press down upon the brow of labor this crown of thorns, you shall not crucify mankind upon a ___________.\"",
+            "answer": "cross of gold",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "70",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "47"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "It is smaller (about three feet high); its pillar is curved outward instead of straight; it has brass strings that are plucked with the fingernails; it lacks pedals. These characteristics distinguish the Irish from the concert version of what instrument?",
+            "answer": "harp",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "87",
+            "e_percent": "78",
+            "r_percent": "85"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Following scandals involving an affair with a staff member and an allegation of sexual harassment, Barnaby Joyce resigned in February as deputy prime minister and National Party leader of what country?",
+            "answer": "australia",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "55",
+            "e_percent": "45",
+            "r_percent": "54"
+        }
+    ]
+}

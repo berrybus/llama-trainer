@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 24,
+    "date": "December 19, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Though she had written numerous books, including House of Incest, Winter of Artifice, and the Cities of the Interior series, what French-born American novelist did not achieve wide renown until the publication of her diaries written from 1931 to 1966, with their seven volumes published between 1966 and 1980?",
+            "answer": "ana\u00efs nin",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Violent contractions of the larynx and respiratory muscles with accompanying panic and related symptoms, induced by drinking, are known as hydrophobia. Hydrophobia is itself a historical name for what viral and usually fatal zoonotic disease, during the course of which these symptoms often appear?",
+            "answer": "rabies",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "42",
+            "r_percent": "59"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What Italian sparkling wine (spumante), typically made from its namesake grape (now known as the Glera) and named after the northeastern Italian village where the wine and grape originated, is the main ingredient in a Bellini cocktail?",
+            "answer": "prosecco",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "66",
+            "c_percent": "64",
+            "d_percent": "62",
+            "e_percent": "57",
+            "r_percent": "64"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Who is currently serving as Prime Minister of Russia, a position he has held since his term as President ended in May 2012?",
+            "answer": "dmitry medvedev",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "33",
+            "r_percent": "46"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Of the many factors that led to the inauguration of Ronald Reagan in January 1981, among the most significant was an event that occurred 444 days prior in what city?",
+            "answer": "tehran",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "74",
+            "e_percent": "52",
+            "r_percent": "63"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "This photo appeared on the cover of a 2010 album by what musical artist? ",
+            "answer": "eminem",
+            "image": "/images/art/48ireroiuh9tmy04e89.jpg",
+            "a_percent": "78",
+            "b_percent": "75",
+            "c_percent": "73",
+            "d_percent": "74",
+            "e_percent": "72",
+            "r_percent": "73"
+        }
+    ]
+}

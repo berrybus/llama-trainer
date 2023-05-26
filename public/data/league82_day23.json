@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 23,
+    "date": "September 30, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "My Friend Irma (1949), That's My Boy (1951), and Hollywood or Bust (1956) are among the films made during the hugely successful 10-year singing/clowning partnership of what two actors and entertainers?",
+            "answer": "dean martin, jerry lewis",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "35",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The city of Batavia, founded by the Dutch in 1619, was used as the capital of the Dutch East Indies and was known internationally by that name for over three centuries. Batavia corresponds mostly to what present-day capital city?",
+            "answer": "jakarta",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "30",
+            "r_percent": "46"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A line from Langston Hughes's 1951 poem Harlem, regarding what happens to a dream deferred, provides the title for what acclaimed 1959 play\u2014the first drama written by an African American woman or directed by any African American to be produced on Broadway?",
+            "answer": "a raisin in the sun",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "41",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Apart from the game's main playing pieces, a standard set for what game also typically includes sixteen \"wind disks\", marked North, South, East, or West (four of each)?",
+            "answer": "mah-jongg",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "39",
+            "c_percent": "32",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "20"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "San Francisco bike messenger David \"Puck\" Rainey was the most notorious cast member of the third season\u2014and perhaps any season\u2014of what MTV series?",
+            "answer": "the real world",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "79",
+            "e_percent": "70",
+            "r_percent": "73"
+        },
+        {
+            "category": "ART",
+            "prompt": "Marie Genevieve Van Goethem, a young girl who was studying at the Op\u00e9ra in Paris, was the model for the only sculpture exhibited by what French artist during his lifetime, in 1881?",
+            "answer": "edgar degas",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "29",
+            "e_percent": "19",
+            "r_percent": "26"
+        }
+    ]
+}

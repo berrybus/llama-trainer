@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 1,
+    "date": "February 19, 2020",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "The Chesebrough Manufacturing Company, which became Chesebrough-Ponds and was ultimately acquired by Unilever in 1987, was best known for a product discovered by its co-founder and company namesake in Titusville, Pennsylvania, and first sold in 1870. From the beginning, this product was (and is still today) sold under what brand name?",
+            "answer": "vaseline",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "An extra-judicial body of royal councilors and judges, existing from the late 15th century to the body's abolition in 1641, had what name, after the pattern painted on the ceiling of the room in the Palace of Westminster where the court met?",
+            "answer": "star chamber",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "14"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Kelly Monaco, Drew Lachey, Hines Ward, Rumer Willis, and Adam Rippon are among a group that is most closely associated with what TV show?",
+            "answer": "dancing with the stars",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "56",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Chalk is an organic variety and oolite a precipitate variety of what type of sedimentary rock, composed mainly of calcium carbonate?",
+            "answer": "limestone",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "58",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What 6th-century bishop of Paris is remembered today in large part via his namesake suburb of western Paris, and more specifically for that community's soccer club, which merged in 1970 with Paris FC to become what is today the most successful club in the French Ligue 1?",
+            "answer": "saint germain",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "37"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the current name of the transportation hub located on the site of a former German-American farming community originally named Orchard Place?",
+            "answer": "o'hare international airport (ord)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "27"
+        }
+    ]
+}

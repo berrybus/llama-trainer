@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 25,
+    "date": "September 24, 2018",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A spice used in the Middle East and India (particularly in naan), also known as kalonji, black caraway, black cumin, or onion seed, has a name that is also the first name of a famous cooking show host, cookbook author, and television personality. What is that name?",
+            "answer": "nigella",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "With over 23 million residents, what self-governing state is the most populous such entity, by far, that is not a member of the United Nations? From 2004 until 2010, it was home to the world's tallest building.",
+            "answer": "taiwan/republic of china",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Beale fired\u2014Obscenities Provoke Record Calls\" is the headline and subhead of a fictional 1975 edition of the New York Daily News that appears in what film?",
+            "answer": "network",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "48",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "There are two foundational stitches in knitting. The first is known simply as knit. What is the second, where the working yarn comes from the front side of the needle, and the needle enters the front of the stitch from right to left? Originally, the term referred to gold and silver thread used for embroidery.",
+            "answer": "purl",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "64",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "41",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Discussions between the United States and the Soviet Union, the first round of which concluded in 1972 and the second in 1979, and which were aimed at restricting the production and deployment of nuclear weapons, were known by what four-letter acronym?",
+            "answer": "salt",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "83",
+            "c_percent": "73",
+            "d_percent": "58",
+            "e_percent": "32",
+            "r_percent": "51"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the darts games 301 and 501, a player's final throw, to achieve a score of exactly zero (the object of the game), must have what characteristic?",
+            "answer": "double",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "24",
+            "c_percent": "22",
+            "d_percent": "18",
+            "e_percent": "15",
+            "r_percent": "18"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 11,
+    "date": "September 12, 2019",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Named for a small town in Indonesia, what term is used to designate a small variety or miniature strain of a conventional breed of poultry?",
+            "answer": "bantam",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "35",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "9",
+            "r_percent": "16"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What avant-garde American writer's Paris home was a salon during the interwar period for prominent artists and writers, who were drawn in by her literary reputation (and also the cooking of Alice B. Toklas)?",
+            "answer": "gertrude stein",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "46"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Rurikids were its country's first ruling dynasty, in power until the Time of Troubles in 1598. What was the name of this particular country's second (and final) dynasty, which ruled from 1613?",
+            "answer": "romanov",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Per its name, what type of activities was the committee formed by the U.S. House of Representatives in May 1938 created to investigate? The committee outlasted similar efforts in the Senate led by Joseph McCarthy, was renamed the Committee on Internal Security in 1969, and finally abolished in 1975.",
+            "answer": "un-american",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "75",
+            "e_percent": "55",
+            "r_percent": "60"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The English biologist and anatomist Richard Owen is widely credited today for coining what term, a compound of two Greek words, in his review on British reptiles published in an 1841 issue of the Report of the British Association for the Advancement of Science? ",
+            "answer": "dinosaur",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "33",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "ART",
+            "prompt": "Numerous paintings with the title Ecce Homo depict a scene which itself is known as Ecce Homo (from the Gospel of John), and which always includes Jesus Christ. These scenes often include what other individual, to whom the phrase \"ecce homo\" is attributed?",
+            "answer": "pontius pilate",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "53",
+            "c_percent": "40",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "25"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 24,
+    "date": "December 13, 2022",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"A multicolor tri-pipped bone\" would oddly but accurately describe the logo for what American company founded in Michigan in 1960?",
+            "answer": "domino's pizza",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "32",
+            "c_percent": "21",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The Latin word for \"sieve\" is the appropriate root for the name of what common kitchen item? ",
+            "answer": "colander",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "80",
+            "e_percent": "69",
+            "r_percent": "69"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On the game show Family Feud, what is the name of the show's bonus round, played after the main family-vs.-family game, where two family members attempt to combine for 200 points to win the ultimate cash prize?",
+            "answer": "fast money/big money",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "49",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "It is widely regarded that the musical form known as the English oratorio was developed around 1720 not by a natural-born Englishman, but rather a German-born composer (who did become a naturalized British subject in 1727). Who is this composer, whose most famous English oratorio (by far) was first performed in 1742?",
+            "answer": "georg frideric handel",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "70",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1977's How to Save Your Own Life continues the first-person narrative of Isadora Wing\u2014and her various exploits and tribulations, libidinous and otherwise\u2014that was introduced in what groundbreaking 1973 novel by the same author? (Note, name the 1973 novel.) ",
+            "answer": "fear of flying",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Wagner, Mathewson, Johnson, Ruth, [BLANK]. What last name is missing from this inaugural fivesome?",
+            "answer": "cobb",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "31"
+        }
+    ]
+}

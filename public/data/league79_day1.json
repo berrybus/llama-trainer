@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 1,
+    "date": "November 14, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The luminous and sometimes audible electric discharge projecting from the end of a pointed object (e.g., the wing of an airplane, spire, or mast of a ship) during an electrical storm is a phenomenon most commonly named after what individual, the patron saint of sailors?",
+            "answer": "st. elmo",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "77",
+            "d_percent": "63",
+            "e_percent": "38",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What was the first and is still the only NFL team to appear in four consecutive Super Bowl games? The team did not appear in any Super Bowls before the streak and has not appeared in any since the streak ended.",
+            "answer": "buffalo bills",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "57",
+            "e_percent": "48",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The three-age system of epochs, as established by Danish antiquarian Christian J\u00fcrgensen Thomsen and still common today for the division of prehistory into discrete periods, names these periods based on the materials used for tools and weapons during each time. What are these three materials, in order from earliest to most recent?",
+            "answer": "stone, bronze, iron",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "57",
+            "e_percent": "47",
+            "r_percent": "53"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "During what television series' opening credits does the main character sometimes pratfall over an ottoman and other times step around it with a satisfied grin?",
+            "answer": "the dick van dyke show",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "56",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "27",
+            "r_percent": "33"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The \"Four Asian Tigers\" rose to prominence in the 1960s with high growth economies focused on exportation, rapid industrialization, and high rates of savings, and today remain among the world's most advanced economies. Name any one of these Four Asian Tigers.",
+            "answer": "hong kong, singapore, south korea, taiwan",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "62",
+            "e_percent": "51",
+            "r_percent": "48"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Identify the prolific American writer, dubbed by Booker T. Washington in 1909 as \"the first representative poet of my race\" and his race's \"poet laureate,\" who published numerous books of poetry, short story collections, and novels (including The Sport of the Gods and Lyrics of Lowly Life) before his death from tuberculosis in 1906 at age 33.",
+            "answer": "paul laurence dunbar",
+            "image": null,
+            "a_percent": "26",
+            "b_percent": "13",
+            "c_percent": "8",
+            "d_percent": "5",
+            "e_percent": "2",
+            "r_percent": "7"
+        }
+    ]
+}

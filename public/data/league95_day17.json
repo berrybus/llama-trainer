@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 17,
+    "date": "December 2, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Players start the game with a farming couple living in a simple two-roomed hut. During the course of the game, these families have abundant possibilities to improve their quality of life by building up their home, improving their fields and breeding their animals.\" So begins the official \"Object of the Game\" for what board game, whose name quite appropriately translates to English as \"farmer\"?",
+            "answer": "agricola",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "41",
+            "c_percent": "33",
+            "d_percent": "27",
+            "e_percent": "19",
+            "r_percent": "21"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term used in the US Navy for the rank of students attending the US Naval Academy in Annapolis, before promotion to the rank of Ensign or Second Lieutenant after graduation?",
+            "answer": "midshipman",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "25"
+        },
+        {
+            "category": "ART",
+            "prompt": "American contemporary artist Mickalene Thomas's giant (10 x 24 foot) and bold painting Le d\u00e9jeuner sur l'herbe: les trois femmes noires, which was commissioned by New York's Museum of Modern Art in 2010, is a take on an 1863 piece by what other artist?",
+            "answer": "\u00e9douard manet",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "39",
+            "c_percent": "27",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "19"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "\"From Stettin in the Baltic to Trieste in the Adriatic, an [REDACTED] has descended across the continent.\" What two-word term is redacted in this quote from a speech given at Missouri's Westminster College in 1946?",
+            "answer": "iron curtain",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "86",
+            "d_percent": "75",
+            "e_percent": "51",
+            "r_percent": "62"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "It Ends with Us, published in 2016, is one of the many bestsellers by what American author, who at one point in 2022 held six of the top 10 spots on the New York Times paperback fiction bestseller list and is by far 2022's bestselling novelist in the United States?",
+            "answer": "colleen hoover",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "23",
+            "c_percent": "19",
+            "d_percent": "16",
+            "e_percent": "15",
+            "r_percent": "22"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While Amy Heckerling may be best known for her debut feature Fast Times at Ridgemont High, her many other credits include a film series (she directed the first two and coproduced the third) that began in 1989. What was the first film of that particular series, a film which featured the voice of Bruce Willis?",
+            "answer": "look who's talking",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "54",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "36"
+        }
+    ]
+}

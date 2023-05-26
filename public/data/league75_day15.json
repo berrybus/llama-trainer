@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 15,
+    "date": "December 6, 2017",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Gold Coast, a major tourist destination and Australia's sixth-most populous city, is located about an hour's drive southeast of what state capital city?",
+            "answer": "brisbane",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In North America, edible varieties of rapeseed oil are not known by that name (unsurprisingly), but rather by what other name, which was originally a trademark but is now used generically?",
+            "answer": "canola",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "59",
+            "r_percent": "69"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Perry the Platypus, a government spy and foil to the evil Dr. Heinz Doofenshmirtz, is also the pet of the titular stepbrothers in what animated television series?",
+            "answer": "phineas and ferb",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "47",
+            "c_percent": "42",
+            "d_percent": "35",
+            "e_percent": "30",
+            "r_percent": "41"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What term was used and perhaps introduced into the English language in February 1813, in the name of a London society formed for the promotion of instrumental music? The society still exists today, and the term in question has, over time, become synonymous with a symphony orchestra?",
+            "answer": "philharmonic",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "68",
+            "e_percent": "51",
+            "r_percent": "64"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Betelgeuse, Rigel, and Bellatrix are the Alpha, Beta, and Gamma stars of what constellation?",
+            "answer": "orion",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "76",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What nonprofit cooperative, which still exists today, was formed in May 1846, when five New York City newspapers shared the cost of a pony express route through Alabama to expedite the transmission of news from the Mexican\u2013American War?",
+            "answer": "associated press",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "75",
+            "d_percent": "66",
+            "e_percent": "47",
+            "r_percent": "57"
+        }
+    ]
+}

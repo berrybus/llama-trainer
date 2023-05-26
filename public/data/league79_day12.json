@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 12,
+    "date": "December 4, 2018",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In November 2018, American missionary John Allen Chau traveled to an island within the Andaman Islands in the Bay of Bengal, in violation of Indian law, where he was killed by members of an indigenous Andamanese hunter-gatherer tribe known by what name?",
+            "answer": "sentinelese",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "52",
+            "d_percent": "43",
+            "e_percent": "30",
+            "r_percent": "45"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the card game Hearts, the strategy by which a player attempts to take all the hearts and the queen of spades in one deal, thereby gaining no points while every other player gains 26 (or else having one's score reduced by 26), is best known by what term? ",
+            "answer": "shoot the moon",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "75",
+            "c_percent": "72",
+            "d_percent": "67",
+            "e_percent": "57",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Gateshead Hall, Lowood Institution, Moor House, and Thornfield Hall, all fictional locations in the north of England, are settings for what 1847 novel?",
+            "answer": "jane eyre",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "34",
+            "e_percent": "25",
+            "r_percent": "35"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "During the period of their French mandate between the two world wars, Syria and Lebanon were commonly referred to as what \"States\"? The term in question has been used to refer in general to the eastern shores of the Mediterranean Sea, from western Greece to Egypt.",
+            "answer": "levant (states)",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "55",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "17",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A shallow strait called simply \"The Narrows\" divides the two islands of what tiny independent Caribbean state, the western hemisphere's smallest (in both area and population), which was sighted by Christopher Columbus in 1493?",
+            "answer": "st. kitts and nevis",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "39",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The programmable device designed by computing pioneer Charles Babbage in the 1830s, which was never actually built but introduced many of the concepts of computer science, was known as what \"Engine\"?",
+            "answer": "analytical (engine)",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "18",
+            "c_percent": "16",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "9"
+        }
+    ]
+}

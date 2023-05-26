@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 19,
+    "date": "March 21, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Two of the top 15 films that have opened in 2018 so far (as measured by U.S. gross box office earnings) have titles that include a color. One is Black Panther; what is the other?",
+            "answer": "red sparrow",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "52",
+            "r_percent": "63"
+        },
+        {
+            "category": "MATH",
+            "prompt": "\"No three positive integers a, b, and c satisfy the equation an + bn = cn for any integer value of n greater than 2.\"This mathematical statement is associated with British mathematician and Oxford professor Sir Andrew Wiles, but even moreso with what Frenchman?",
+            "answer": "pierre de fermat",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "24",
+            "r_percent": "25"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The world's best-known inselberg, and perhaps its most spectacular, is located within Australia's Northern Territory. What is its name?",
+            "answer": "uluru/ayers rock",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "68",
+            "d_percent": "54",
+            "e_percent": "34",
+            "r_percent": "48"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What beloved TV detective was first introduced in the 1960 anthology series The Chevy Mystery Show in an episode titled \"Enough Rope\"? This title hints at the sleuth's methods:  appear slow-witted, keep asking questions (\"just one more thing...\"), and give the perp enough rope to hang himself with his own self-incrimination.",
+            "answer": "columbo",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "67",
+            "e_percent": "50",
+            "r_percent": "60"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The conflict known in much of the Arab world as the \"War of 1967\" (\u062d\u0631\u0628 \u06f1\u06f9\u0666\u06f7), which took place between June 5 and June 10 of that year, is best known in the Western world by what name?",
+            "answer": "six-day war",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "69",
+            "e_percent": "50",
+            "r_percent": "61"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Name any one of the nine largest companies headquartered in Europe, as measured by annual revenue.",
+            "answer": "allianz, axa, bp, daimler, exor, glencore, royal dutch shell, total, volkswagen",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "44",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "35"
+        }
+    ]
+}

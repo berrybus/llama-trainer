@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 16,
+    "date": "September 11, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Lomond, Awe, Maree, Morar, and Tay are among the largest of the geographical features that are known in their native Scotland (and native Scottish Gaelic and Scots languages) by what term?",
+            "answer": "lochs",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "81",
+            "e_percent": "63",
+            "r_percent": "75"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics of a hit country music song from 2018 by the duo Dan + Shay, the narrator is reminded of his ex-love when he tastes what liquor, which provides the song's title?",
+            "answer": "tequila",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "42",
+            "c_percent": "37",
+            "d_percent": "33",
+            "e_percent": "32",
+            "r_percent": "36"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "LeBron James is the NBA's #2 all-time career scorer among active players, with 31,038 points. What player is just ahead of him in first, and sixth all-time among all players, with 31,187? The player in question is signed for the 2018-19 season with his current (and only) team, which will set an NBA record for most seasons with the same team.",
+            "answer": "dirk nowitzki",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "46",
+            "c_percent": "39",
+            "d_percent": "34",
+            "e_percent": "32",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Transvaal Republic president Paul Kruger, the German spa town of Ems, President of the Reichstag Hermann G\u00f6ring, and German Foreign Secretary Arthur Zimmermann are all, historically speaking, associated by name with what specific type of dispatch?",
+            "answer": "telegram",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "48",
+            "e_percent": "31",
+            "r_percent": "41"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "From when Kelly Ripa replaced Kathie Lee Gifford in 2001 on the syndicated morning talk show that would be renamed Live with Regis and Kelly, until today, she has had three permanent co-hosts. The first was Regis Philbin\u2014name both of the other two.",
+            "answer": "michael strahan, ryan seacrest",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "55",
+            "c_percent": "51",
+            "d_percent": "44",
+            "e_percent": "42",
+            "r_percent": "45"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A series of letters written by a young African American woman named Celie to God (interspersed with letters to and from other human characters) form the structure of what Pulitzer Prize-winning novel? ",
+            "answer": "the color purple",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "30",
+            "r_percent": "39"
+        }
+    ]
+}

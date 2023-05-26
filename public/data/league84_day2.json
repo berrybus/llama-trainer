@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 2,
+    "date": "February 20, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Identify the object that is a pivotal item in one of the stories from Arabian Nights, central to the occupation of Jack in Mary Poppins Returns, and was a love interest of Brick in Anchorman: The Legend of Ron Burgundy.",
+            "answer": "lamp",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "73",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What 1937 novella begins and ends at a clearing by the Salinas River in California (peaceful at the beginning, tragic at the end)?",
+            "answer": "of mice and men",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "44",
+            "r_percent": "52"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "H. Ross Perot, during his candidacy for U.S. President in 1996, and Jesse Ventura, during his campaign for and election as governor of Minnesota, were members of what political party?",
+            "answer": "reform",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "65",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "19",
+            "r_percent": "28"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The special chili associated with the city of Cincinnati, when served \"three-way\", typically involves the chili served on spaghetti and topped with grated cheese. \"Five-way\" includes the addition of kidney beans and what other topping?",
+            "answer": "diced onions",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "57",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "35",
+            "r_percent": "42"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the common name for members of the United Society of Believers in Christ's Second Appearing, a movement that is all but extinct today but whose prominent legacy in furniture and handcraft design endures?",
+            "answer": "shakers",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "37",
+            "r_percent": "44"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What weasel species, also known as a short-tailed weasel in North America and stoat in Europe, has white winter fur that is highly prized for garments (including, with pearls, by a certain lady/tramp)?",
+            "answer": "ermine",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "27"
+        }
+    ]
+}

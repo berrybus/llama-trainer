@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 20,
+    "date": "September 18, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Despite the musical reputation of its primary instrumentalist, the 1968 album Unfinished Music No. 1. Two Virgins. had a big impact (and is probably best remembered today) due to its cover, which featured its two artists posing fully naked. Name this duo. ",
+            "answer": "john lennon and yoko ono",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "69",
+            "e_percent": "51",
+            "r_percent": "60"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Give any one of the four names that are redacted in this image. ",
+            "answer": "mayo, galway, limerick, cork",
+            "image": "/images/art/85y39nc8.jpg",
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "76",
+            "e_percent": "56",
+            "r_percent": "66"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "While it is botanically a vegetable, the US Customs Court ruled in 1947 that what plant was a fruit on the basis of how its edible stalks are normally eaten?",
+            "answer": "rhubarb",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "55",
+            "c_percent": "51",
+            "d_percent": "45",
+            "e_percent": "36",
+            "r_percent": "42"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Pictured here is the bottom third of the cover of what multigenerational bestseller from 2001?  ",
+            "answer": "the corrections",
+            "image": "/images/art/783u49um09x3u.jpg",
+            "a_percent": "55",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "20",
+            "r_percent": "29"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Total Football,\" a concept that emphasized versatility and team play over a traditional rigid, ball-control style prevalent at the time, was the name given to what national soccer team's play during the 1974 World Cup, where the country would finish as runner-up to West Germany?",
+            "answer": "the netherlands",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "36",
+            "c_percent": "32",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the instrument being used in this photograph? ",
+            "answer": "sextant",
+            "image": "/images/art/93048yt0c9w35y0w93ny39.jpg",
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "66",
+            "e_percent": "51",
+            "r_percent": "61"
+        }
+    ]
+}

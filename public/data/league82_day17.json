@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 17,
+    "date": "September 20, 2019",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What band that formed in 1972 and was inducted into the Rock and Roll Hall of Fame in 2014 took its name from a thoroughfare in the Jersey Shore community of Belmar, the home of keyboardist David Sancious's mother?",
+            "answer": "the e street band",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "77",
+            "d_percent": "65",
+            "e_percent": "46",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Portable electronic machines known as AEDs are used to analyze and treat life-threatening cardiac arrhythmias. They are an automated and external type of a device known as what?",
+            "answer": "defibrillator",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "87",
+            "e_percent": "82",
+            "r_percent": "84"
+        },
+        {
+            "category": "ART",
+            "prompt": "While various binders could be used, traditionally the painting medium known as tempera consisted primarily of pigments ground in water and mixed with what emulsifier?",
+            "answer": "egg (yolk)",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "48",
+            "e_percent": "30",
+            "r_percent": "42"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The act in soccer of kicking, rolling, or otherwise propelling the ball between a defender's legs shares its name with what spice?",
+            "answer": "nutmeg",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "56",
+            "d_percent": "50",
+            "e_percent": "45",
+            "r_percent": "52"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The city of Porvoo, birthplace of Liverpool F.C. defender Sami Hyypi\u00e4 and League of Legends pro jungler Lauri \"Cyanide\" Happonen, is perhaps best known for the 1809 Diet of Porvoo, which is regarded as marking the emergence of what country as a modern state?",
+            "answer": "finland",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "66",
+            "d_percent": "49",
+            "e_percent": "27",
+            "r_percent": "44"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Sergeant is the third and final word in the title of a 1958 British film that launched a series that ended with its 31st movie in 1992. What was the name of this franchise, and the first two words in that 1958 film (and every installment thereafter)?",
+            "answer": "carry on",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "25",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "13"
+        }
+    ]
+}

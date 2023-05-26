@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 25,
+    "date": "September 25, 2017",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The farthest human-made object from the Earth, currently operating in interstellar space just over 13 billion miles from home, is one of the two probes built by the Jet Propulsion Laboratory for a NASA space program whose original mission\u2014to study the planetary systems of Jupiter and Saturn\u2014was completed in 1981. What is the name of that space program?",
+            "answer": "voyager",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "46",
+            "r_percent": "61"
+        },
+        {
+            "category": "ART",
+            "prompt": "Art historians divide the output of Pablo Picasso into periods, and the first two have names that generally reflect the palette Picasso used at those times. What are the two colors used to name these periods?",
+            "answer": "blue, rose",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "49",
+            "c_percent": "41",
+            "d_percent": "25",
+            "e_percent": "14",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "This is a screenshot from the 2014 installment of what fighting video game series? ",
+            "answer": "super smash bros.",
+            "image": "/images/art/35896u09c85m4y.jpg",
+            "a_percent": "67",
+            "b_percent": "61",
+            "c_percent": "61",
+            "d_percent": "58",
+            "e_percent": "61",
+            "r_percent": "62"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What international capital city is photographed here? ",
+            "answer": "seoul",
+            "image": "/images/art/80957c609.jpg",
+            "a_percent": "33",
+            "b_percent": "26",
+            "c_percent": "21",
+            "d_percent": "16",
+            "e_percent": "12",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "While serving a two-year sentence in Reading Gaol for \"gross indecency,\" playwright and novelist Oscar Wilde penned a letter which was both a personal correspondence and a general reflection on the universality of human suffering. Give either the title of this letter, published in 1905, or the name of Wilde's former friend and lover to whom it was addressed.",
+            "answer": "de profundis, lord alfred douglas (bosie)",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "15"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In the 1939 film version of The Wizard of Oz, the wizard agrees to grant the wishes of Dorothy and her companions when they bring back to him what particular item?",
+            "answer": "(the wicked witch of the west's) broomstick",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "39",
+            "r_percent": "48"
+        }
+    ]
+}

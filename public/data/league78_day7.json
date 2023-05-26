@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 7,
+    "date": "August 28, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The outline in this image, which looks vaguely like the United States (maybe?), is actually that of what island republic? ",
+            "answer": "cyprus",
+            "image": "/images/art/8560vm956.jpg",
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What nickname (usually for a male) is also used as a term for the well-marbled primal cut of beef from the neck, shoulder blade, and upper arm? In the 19th century, the word was commonly used as a slang term for any food.",
+            "answer": "chuck",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "60",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Richard Bohringer, Michael Gambon, Helen Mirren, and Alan Howard play the title characters in what 1989 film, one of the last mainstream films before the creation of the NC-17 classification to be assigned an X rating by the MPAA (which was not accepted, as it was released theatrically without a rating) ?",
+            "answer": "the cook, the thief, his wife & her lover",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "36",
+            "c_percent": "24",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "14"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The words \"Goodbye, kids\" were the first words spoken by Clarabell the Clown\u2014and the last words spoken by anyone\u2014on what children's television program?",
+            "answer": "howdy doody",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Ethiopian Empire, which existed in East Africa until Haile Selassie's deposal in 1974, was known by what other name, taken from the Arabic term for the people who occupied it during empire's founding in the 13th century?",
+            "answer": "abyssinia",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "52",
+            "c_percent": "38",
+            "d_percent": "25",
+            "e_percent": "10",
+            "r_percent": "26"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Many profit-sharing and 401(k) plans offer different schedules that determine the percentage of the account balance owned by the employee at different intervals. What is the legal term commonly used\u2014and used officially by the Internal Revenue Service\u2014for \"ownership\" in these scenarios? It derives, ultimately, from a Latin term for \"garment.\"",
+            "answer": "vesting/vestment",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "74",
+            "c_percent": "70",
+            "d_percent": "68",
+            "e_percent": "57",
+            "r_percent": "60"
+        }
+    ]
+}

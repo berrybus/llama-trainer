@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 3,
+    "date": "November 16, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The electrical measuring device that combines a voltmeter, an ammeter, and an ohmmeter (and sometimes other tools) is most commonly known by what name, appropriately so given its various uses?",
+            "answer": "multimeter/multitester",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "63",
+            "d_percent": "59",
+            "e_percent": "50",
+            "r_percent": "60"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the formal term for a chapter of the Quran, of which there are a total of 114?",
+            "answer": "surah",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "42",
+            "c_percent": "32",
+            "d_percent": "21",
+            "e_percent": "10",
+            "r_percent": "25"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The names of Alfred Hitchcock film characters Sam Loomis (Psycho) and Tom Doyle (Rear Window) were later used, as a tribute, for characters in what 1978 film, which also starred the daughter of Psycho star Janet Leigh?",
+            "answer": "halloween",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "36",
+            "r_percent": "44"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "During the 220 years of the unified Achaemenid Empire's existence, the empire had a total of 13 kings. Give the name (regnal number not required) of either the first, who founded the empire, or the last, who was defeated by Alexander the Great in 330 BCE.",
+            "answer": "cyrus, darius",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "47",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "15",
+            "r_percent": "28"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the name of the trigonometric function that is defined as the ratio of the length of an angle's hypotenuse to the length of its opposite side (i.e., the reciprocal of its sine)?",
+            "answer": "cosecant",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "39",
+            "c_percent": "31",
+            "d_percent": "23",
+            "e_percent": "16",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Tigers, Lions, Giants, Hawks, Buffaloes, Fighters, Dragons, Swallows, and Carp are names of professional clubs in a league playing what sport?",
+            "answer": "baseball",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "62",
+            "d_percent": "49",
+            "e_percent": "38",
+            "r_percent": "45"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 1,
+    "date": "May 15, 2017",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "In music notation for stringed instruments that are played with a bow, an abbreviation for what Italian term is typically found above notes that are meant to be plucked with the fingers or thumb instead of bowed?",
+            "answer": "pizzicato",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "While Tr\u014dia was its common Latin name, the ancient Asia Minor city of Troy was also known, especially in a poetic context, by what other Latin name?",
+            "answer": "ilium",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "57",
+            "c_percent": "40",
+            "d_percent": "23",
+            "e_percent": "8",
+            "r_percent": "22"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Pictured here is a regulation ball used in what sport? ",
+            "answer": "handball",
+            "image": "/images/art/98cty350.jpg",
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "63",
+            "e_percent": "53",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "An ambitious and innovative 1941 nonfiction book with text by James Agee and photos by Walker Evans, documenting the daily lives of Depression-era tenant farmers, has an ironic  title which calls to \"Let Us Now Praise\" whom?",
+            "answer": "famous men",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "21",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The water-soluble B-complex vitamin B9, often advised as a supplement for pregnant women to help prevent neural tube defects, is known by what name?",
+            "answer": "folic acid/folate",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On November 17, 1968, the telecast of a game between the New York Jets and the Oakland Raiders was cut short on the east coast, infamously, to broadcast the start of what television film?",
+            "answer": "heidi",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "38",
+            "e_percent": "27",
+            "r_percent": "31"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 14,
+    "date": "September 17, 2019",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The sun goddess Amaterasu, ruler of Takamagahara, is the most important deity in what religion?",
+            "answer": "shinto",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "48",
+            "e_percent": "29",
+            "r_percent": "45"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Queen agrees to prime minister's request to ________ parliament for critical five-week period. This subhead, taken from the front page of the August 29, 2019, edition of the British daily newspaper The Guardian, is missing what eight-letter word, a relatively obscure term that had a massive spike in interest and usage that week?",
+            "answer": "prorogue",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "57",
+            "c_percent": "49",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Klaatu barada nikto,\" perhaps the most famous phrase ever uttered in an extra-terrestrial language in cinematic history, was the command that stopped the robot Gort from destroying the planet in what 1951 film (as well as in the loosely adapted 2008 remake)?",
+            "answer": "the day the earth stood still",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "44",
+            "e_percent": "30",
+            "r_percent": "41"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What word is used for a symbol placed on a music staff that indicates what pitch is represented by each line and space on the staff?",
+            "answer": "clef",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "78",
+            "d_percent": "72",
+            "e_percent": "61",
+            "r_percent": "69"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In 1963, an Institute for Biological Studies opened in San Diego, California, largely through the efforts of what American virologist, after whom the institute is named?",
+            "answer": "jonas salk",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "62",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "46"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Swan Song Records was a label begun in 1974 by what rock band, whose own \"swan song\" on Swan Song was 1982's Coda?",
+            "answer": "led zeppelin",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "41"
+        }
+    ]
+}

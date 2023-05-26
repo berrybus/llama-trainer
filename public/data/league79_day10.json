@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 10,
+    "date": "November 30, 2018",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "David Davis, Dominic Raab, and Stephen Barclay are British politicians who have served as Her Majesty's Principal Secretary of State for what purpose, in a role that was created in July 2016?",
+            "answer": "exiting the european union/brexit",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In 1977, after years of negotiations, President Jimmy Carter received congressional approval to relinquish control of what, which had originally been formulated via the Hay\u2013Bunau-Varilla Treaty in 1903?",
+            "answer": "panama canal zone",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "85",
+            "c_percent": "77",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What common term from Japanese cuisine combines a term for \"gloss\" and one for \"grilling\"?",
+            "answer": "teriyaki",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "56",
+            "c_percent": "49",
+            "d_percent": "40",
+            "e_percent": "31",
+            "r_percent": "39"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In the mid-1980s, Brooklyn-born rappers Cheryl James and Sandra Denton achieved stardom in what R&B group, which, despite its name, was actually a trio (with DJ Spinderella)?",
+            "answer": "salt-n-pepa",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "87",
+            "c_percent": "82",
+            "d_percent": "79",
+            "e_percent": "72",
+            "r_percent": "73"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The television characters Latka Gravas, Cooter Davenport, Kaylee Frye, and David Puddy all held, at one time or another, what occupation?",
+            "answer": "mechanic",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "60",
+            "c_percent": "53",
+            "d_percent": "44",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term is used most often in science and engineering to describe the strength of a material regarding its capacity to be stretched/elongated? The term is used in opposition to compressive strength (the capacity of a material to be compressed), and this type of strength determines a material's ductility.",
+            "answer": "tensile",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "60",
+            "c_percent": "58",
+            "d_percent": "51",
+            "e_percent": "41",
+            "r_percent": "46"
+        }
+    ]
+}

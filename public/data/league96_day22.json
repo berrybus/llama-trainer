@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 22,
+    "date": "March 16, 2023",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "\"Hot spices\" is an English translation of the name for what combination of aromatic spices used in Indian cooking, which may include cumin seeds, coriander seeds, cardamom pods, peppercorns, cinnamon, and cloves?",
+            "answer": "garam masala",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "55",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "32",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Peel My Love like an Onion, Humboldt's Gift, The Time Traveler's Wife, Sister Carrie, Native Son, The Man with the Golden Arm, and The Jungle are all works of literature set in what city?",
+            "answer": "chicago",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "74",
+            "e_percent": "55",
+            "r_percent": "66"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In October 2021, a US Senate commerce subcommittee heard testimony from Frances Haugen, who had leaked thousands of internal documents to the Wall Street Journal and Congress and revealed her identity on CBS's 60 Minutes two days prior to her testimony. Haugen was a former product manager for what company, whose parent company rebranded later in that month?",
+            "answer": "facebook/meta",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "83",
+            "e_percent": "73",
+            "r_percent": "79"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In 1917, three children reported apparitions of Mary, the mother of Jesus, in a city in Central Portugal that itself shares a name with the daughter of the prophet Muhammad. What is that name, which is now (due to these apparitions) a Catholic title for Mary (\"Our Lady of ____\")?",
+            "answer": "fatima",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "60",
+            "d_percent": "44",
+            "e_percent": "27",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While it has been referred to by many exotic names throughout history by its neighbors, including \"Hidden Holy Land\", \"Lotus Garden of the Gods\", and \"The Southern Valley of Medicinal Herbs\", what country has for centuries been known natively as Druk Yul (\"The Kingdom of the Thunder Dragon\")?",
+            "answer": "bhutan",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Identify the town in the district of Cornwall, in Southwest England, that was popular in the 1880s as a tranquil resort destination, contrary to its contemporaneous (and contemporary) association with comic piracy.",
+            "answer": "penzance",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "49",
+            "e_percent": "26",
+            "r_percent": "36"
+        }
+    ]
+}

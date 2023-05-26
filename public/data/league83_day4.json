@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 4,
+    "date": "November 18, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Who is the only basketball head coach to win both an NCAA tournament championship and an NBA championship (in 1988 and 2004, respectively)?",
+            "answer": "larry brown",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "38",
+            "c_percent": "33",
+            "d_percent": "27",
+            "e_percent": "21",
+            "r_percent": "25"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "With its 14th season that premiered in September 2019, what television series tied The Adventures of Ozzie and Harriet as the longest-running live-action sitcom in American TV history (and extended its lead among such series that include the name of a city in their titles)?",
+            "answer": "it's always sunny in philadelphia",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "60",
+            "e_percent": "45",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The term in biology for material inside a cell's nucleus, within the nuclear membrane, is the nucleoplasm. Likewise, what is the term for everything else in the cell\u2014 that is, all the stuff within the cell membrane surrounding the cell's nucleus?",
+            "answer": "cytoplasm",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "64",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "44",
+            "r_percent": "52"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the common name for the oil from the seeds of flax (also known simply as flax oil or flaxseed oil), which is historically the most common medium in oil painting?",
+            "answer": "linseed oil",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name (in English) for the confederation of sovereign nations established following a momentous 1991 summit in the Belorussian oblast of Brest?",
+            "answer": "commonwealth of independent states",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "34",
+            "c_percent": "22",
+            "d_percent": "13",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In a victory (both legal and spiritual) for the indigenous Anangu people, rules are in place as of October 26, 2019, banning the climbing of what, with violators facing fines of up to A$630?",
+            "answer": "uluru (ayers rock)",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "37",
+            "r_percent": "49"
+        }
+    ]
+}

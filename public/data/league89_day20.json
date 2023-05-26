@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 20,
+    "date": "June 14, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "An internal combustion engine in which the air within the cylinder is highly compressed, raising the temperature so that added fuel immediately combusts (\"compression-ignition\", as opposed to the use of a spark), is most commonly referred to as what type of engine?",
+            "answer": "diesel engine",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "46",
+            "c_percent": "39",
+            "d_percent": "31",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What Latin word, which is used as a name (typically male) in English, is the antonym of the Latin word sinister?",
+            "answer": "dexter",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "48",
+            "d_percent": "33",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What ancient name for the lands lying between the Tigris and Euphrates rivers, which were home to various cultures including the Sumerians, Babylonians, and Assyrians, fittingly comes from the Greek for \"between rivers\"?",
+            "answer": "mesopotamia",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "86",
+            "d_percent": "78",
+            "e_percent": "63",
+            "r_percent": "74"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What word, which is also used for certain equipment in the referenced game itself, fills in both blanks in the following statement: \"In 1978, cricketer Ian Botham became the first player to score 100 runs and take eight ________ in a single test match, and in 1982 he achieved the record of 3,000 runs and 250 ________ in test matches.\"",
+            "answer": "wickets",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "79",
+            "d_percent": "71",
+            "e_percent": "53",
+            "r_percent": "65"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "German author Thomas Mann's 1912 novella concerns a middle-aged writer who develops an obsessive attraction toward an adolescent boy while visiting what city\u2014where, at the story's end, the writer dies?",
+            "answer": "venice",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "56",
+            "c_percent": "42",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Paris's Palais Garnier, which opened in 1875, was constructed for what purpose\u2014as referenced in the title of a 1910 novel (and 1986 musical and countless other adaptations) that used the building as its setting?",
+            "answer": "opera",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "46"
+        }
+    ]
+}

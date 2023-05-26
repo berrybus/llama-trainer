@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 4,
+    "date": "May 20, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Banker Charles Hayden, Sears executive Max Adler and his wife Sophie, and entrepreneur Samuel Oschin were philanthropists that share distinction, most notably, as namesakes for what specific type of facility?",
+            "answer": "planetarium",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "61",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Give the name, in English, of any one of the four violin concerti that constituted what composer Antonio Vivaldi named, in his native Italian, Le quattro stagioni.",
+            "answer": "spring, summer, autumn, winter",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "83",
+            "e_percent": "68",
+            "r_percent": "75"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The literary characters Gelert, Argos, Gaspode, and Tock are all what, most distinctively?",
+            "answer": "dogs",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "52",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "17",
+            "r_percent": "25"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What musical group, befitting their name, is reported to have appeared in an FBI document titled \"Rap Music and Its Effects on National Security\" in 1990, the same year they reached #10 on the Billboard chart with their third album, Fear of a Black Planet?",
+            "answer": "public enemy",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The 1988 Pulitzer-winning Alfred Uhry play Driving Miss Daisy was the first in his trilogy (followed by The Last Night of Ballyhoo and the musical Parade) set in what city, after which the trilogy is commonly named and where Uhry himself was born?",
+            "answer": "atlanta",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "46",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "18",
+            "r_percent": "25"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Huang He and Huang Hai are names of geographical features that are associated in English with what color?",
+            "answer": "yellow",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "51"
+        }
+    ]
+}

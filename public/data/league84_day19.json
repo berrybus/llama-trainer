@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 19,
+    "date": "March 16, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "The first iteration of Billboard magazine's Alternative Songs Chart, originally called Modern Rock Tracks, appeared in September 1988 with a song titled \"Peek-a-Boo\" in the #1 slot. What band, which had no actual connection to a Native American tribe and was led by an audacious English musician born Susan Ballion, recorded this song?",
+            "answer": "siouxsie and the banshees",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "23",
+            "r_percent": "32"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Strategic Arms Limitation Talks, agreements from 1972 and 1979 between the US and USSR to limit nuclear weapon proliferation, are known by the acronym SALT. What acronym was used for subsequent nuclear arms reduction talks that began in 1982 and resulted in a July 1991 accord?",
+            "answer": "start",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "46",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "30"
+        },
+        {
+            "category": "FILM",
+            "prompt": "1955's Pather Panchali was the debut of legendary Indian filmmaker Satyajit Ray and the first in his trilogy that tells the coming-of-age story of what young Bengali character, after whom the trilogy is named?",
+            "answer": "apu",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "22",
+            "c_percent": "15",
+            "d_percent": "8",
+            "e_percent": "5",
+            "r_percent": "10"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The Greek polymath Eratosthenes is remembered for various achievements, including his position as chief librarian at the\u00a0Library of Alexandria, his calculation of the earth's circumference, and his mathematical \"sieve\" that is used to identify what?",
+            "answer": "prime numbers",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "57",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While the largest island in the Persian Gulf is Iran's Qeshm Island in the Strait of Hormuz, what is the only independent island nation located in the gulf's waters?",
+            "answer": "bahrain",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "38"
+        },
+        {
+            "category": "ART",
+            "prompt": "Name the woman, the first to mount an exhibition at the National Portrait Gallery in Washington, who was chief photographer for Rolling Stone magazine from 1973 to 1983, and took the iconic photo of John Lennon and Yoko Ono that appeared on the January 22, 1981 issue of the magazine\u2014a photo that was taken just a few hours before Lennon's death the previous month.",
+            "answer": "annie leibovitz",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "77",
+            "d_percent": "69",
+            "e_percent": "56",
+            "r_percent": "60"
+        }
+    ]
+}

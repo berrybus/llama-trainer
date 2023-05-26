@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 10,
+    "date": "November 18, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Two consecutive integers for which the sums of the prime factors of each integer are equal (such as 714 and 715) are a mathematical pair named in 1974 by University of Georgia mathematician Carl Pomerance after what two baseball legends?",
+            "answer": "babe ruth, henry aaron",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "30"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"Spanish 101\", \"Introduction to Film\", \"Home Economics\", and \"English as a Second Language\" are titles of episodes from the first season of what sitcom, which aired on NBC beginning in 2009 (with a final season on Yahoo! Screen in 2015)?",
+            "answer": "community",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "87",
+            "c_percent": "83",
+            "d_percent": "80",
+            "e_percent": "72",
+            "r_percent": "77"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the landlocked country that is bordered, going clockwise, by Sudan to the northeast, South Sudan to the east, DR Congo to the south, the Republic of the Congo to the southwest, Cameroon to the west, and Chad to the north.",
+            "answer": "central african republic",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "49",
+            "d_percent": "35",
+            "e_percent": "20",
+            "r_percent": "35"
+        },
+        {
+            "category": "ART",
+            "prompt": "Arrangement in Gray and Black, No. 2: Portrait of Thomas Carlyle is a famous work (but probably the second-most famous \"arrangement in gray and black\") by what American-born painter?",
+            "answer": "james mcneill whistler",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "62",
+            "c_percent": "46",
+            "d_percent": "30",
+            "e_percent": "14",
+            "r_percent": "24"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"Leatherback\" is often used as the name of the largest living species of what animal, with some specimens weighing in at over 1,000 lbs.?",
+            "answer": "(sea) turtle",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "44",
+            "r_percent": "56"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The period of political and social unrest on the Italian peninsula that began in the 1820s and resulted in the formation of the Kingdom of Italy in 1861 is known by a word in Italian that has been translated to English as \"resurrection\" or \"rebirth\". What is that word? ",
+            "answer": "risorgimento",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "32",
+            "c_percent": "20",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "10"
+        }
+    ]
+}
