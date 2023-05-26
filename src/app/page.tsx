@@ -182,6 +182,8 @@ const Home: NextPage = () => {
     }
   };
 
+  let shouldShowImage = image !== "" && image.endsWith(".jpg")
+  let shouldShowLink = image !== "" && !image.endsWith(".jpg")
   return (
     <div className="container mx-auto">
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
@@ -197,14 +199,20 @@ const Home: NextPage = () => {
                 </h3>
               </div>
               <p>{prompt}</p>
-              <a
-                className="link"
-                href={image}
-                target="_blank"
-                hidden={image == ""}
-              >
-                Click here
-              </a>
+              {
+                shouldShowImage ? <img src={image} alt={image}>
+                </img> : ""
+              }
+              {
+                shouldShowLink ? <a
+                    className="link"
+                    href={image}
+                    target="_blank"
+                    hidden={image == ""}
+                >
+                  Click here
+                </a> : ""
+              }
               <h2
                 className={
                   "font-bold mt-2" + (isShowingAnswer ? "" : " hidden")
@@ -212,7 +220,7 @@ const Home: NextPage = () => {
               >
                 ANSWER - {answer}
               </h2>
-              <div className="flex flex-row gap-4">
+              <div className="flex flex-row gap-4 mt-6">
                 <input
                   type="text"
                   placeholder="Type the answer"
