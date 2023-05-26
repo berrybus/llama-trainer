@@ -230,7 +230,7 @@ const Home: NextPage = () => {
                   readOnly={isShowingAnswer}
                 />
                 <div
-                  className="tooltip tooltip-primary invisible md:visible"
+                  className="tooltip tooltip-primary hidden md:block"
                   data-tip={isShowingAnswer ? "Shortcut: N" : "Shortcut: Enter"}
                 >
                   <button
@@ -241,6 +241,13 @@ const Home: NextPage = () => {
                     {isShowingAnswer ? "Next" : "Check"}
                   </button>
                 </div>
+                <button
+                  className="btn btn-primary block md:hidden"
+                  onClick={HandleNext}
+                  disabled={input == ""}
+                >
+                  {isShowingAnswer ? "Next" : "Check"}
+                </button>
               </div>
             </div>
           </div>
