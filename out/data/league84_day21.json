@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 21,
+    "date": "March 18, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of what 1964 hit song, by California surf rock duo Jan and Dean, references a particularly dangerous stretch of road (allegedly, a portion of Sunset Boulevard in Beverly Hills just west of Whittier Drive)?",
+            "answer": "dead man's curve",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the small country on the western coast of Central Africa that consists of a mainland region, called R\u00edo Muni, and five islands, the largest of which is the site of the country's capital (Malabo)?",
+            "answer": "equatorial guinea",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A 1990 novel by Walter Mosley introduces his factory worker-turned-investigator, Easy Rawlins, searching for the elusive and mysteriously devilish Frenchwoman Daphne Monet, who wears what colorful titular garment?",
+            "answer": "blue dress",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Widely considered one of the greatest video games of all time is a first-person shooter released for the Nintendo 64 in August 1997 that has been lauded for its realistic shooting experience, innovative single-player missions, and revolutionary split-screen head-to-head deathmatch capability. This game was based on what film, released two years prior?",
+            "answer": "goldeneye",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "68",
+            "c_percent": "67",
+            "d_percent": "67",
+            "e_percent": "60",
+            "r_percent": "65"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A formal international collaboration in the Southern Cone of South America included coordinated secret intelligence activities, torture, kidnapping, disappearance, and assassination, and was founded by the regime of Chilean dictator Augusto Pinochet in 1975 (and covertly backed by the US government). It was an \"Operation\" codenamed after what large bird, which is native to the area?",
+            "answer": "condor",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Queen Elizabeth II of the United Kingdom currently has eight great-grandchildren. The youngest, born in May 2019, has a name with the same number of letters as his mother's. What is that child's name?",
+            "answer": "archie",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "48",
+            "e_percent": "40",
+            "r_percent": "45"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "June 2, 2014",
+    "league": 61,
+    "day": 15,
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Vaslav Nijinsky, Léonide Massine, and George Balanchine were among the choreographers who worked with what Sergei Diaghilev-founded ballet company, which performed from 1909 to 1929 in countries throughout Europe and North and South America (with one ironic exception)?",
+            "answer": "ballets russes",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "65",
+            "c_percent": "51",
+            "d_percent": "35",
+            "e_percent": "22",
+            "r_percent": "41"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Known formally (and locally) as a Niezależny Samorządny Związek Zawodowy, this was the first trade union in the Eastern Bloc not controlled by the Communist Party. It is best known in English by what name?",
+            "answer": "solidarity",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "54",
+            "e_percent": "29",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Around 100 million years after its formation 300 million years ago, the supercontinent Pangaea began to break apart, giving rise to two new, smaller supercontinents. Give the name of either of these, which in turn divided into the current continents of the earth.",
+            "answer": "laurasia, gondwana",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "17",
+            "r_percent": "36"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The first foray into late-night programming by the nascent Fox television network occurred in 1986, with a show that would eventually be titled The Late Show and for its first eighteen months was hosted by what comic actress, comedienne, and former Tonight Show \"permanent\" guest host?",
+            "answer": "joan rivers",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "66",
+            "e_percent": "50",
+            "r_percent": "62"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The self-immolation of street vendor Mohamed Bouazizi on December 17, 2010, is widely considered to mark the beginning of what came to be known throughout the world as the Arab Spring. His act took place in Sidi Bouzid, a rural town in what country?",
+            "answer": "tunisia",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "50",
+            "e_percent": "30",
+            "r_percent": "55"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Name the genre of music, a successor to the frottola and the most important secular genre of sixteenth century Italy (with subsequent popularity in England), that is a song for several voices, typically with  vernacular text of an amorous nature.",
+            "answer": "madrigal",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "40",
+            "c_percent": "34",
+            "d_percent": "22",
+            "e_percent": "12",
+            "r_percent": "23"
+        }
+    ]
+}

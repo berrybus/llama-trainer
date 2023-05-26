@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 1,
+    "date": "November 8, 2021",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "What TV sitcom's 1963 episode titled \"Family Scrapbook\", during which the central characters reminisce as the title character prepares to enter Mayfield High while his older brother gets ready for State College, is widely credited as the first primetime sitcom episode explicitly presented as a series finale?",
+            "answer": "leave it to beaver",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "57",
+            "r_percent": "60"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "According to a recorded poem from 1970 by Gil Scott-Heron, what \"will not be brought to you by Xerox in four parts without commercial interruptions\", \"will not make you look five pounds thinner\", \"will not go better with Coke\", and \"will not fight germs that may cause bad breath\" (among many other things)?",
+            "answer": "the revolution",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "72",
+            "d_percent": "57",
+            "e_percent": "39",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"FR Remove Cart\" and \"MF Feed A4\" are among the error codes displayed on older HP LaserJet printers, but the best known and most notorious was what other code, which was central to an iconic scene in the 1999 movie Office Space?",
+            "answer": "pc load letter",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "42",
+            "c_percent": "35",
+            "d_percent": "30",
+            "e_percent": "23",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The name of what European city did not become a common feminine name until it was given to, and popularized by, a woman who first came into prominence during the Crimean War in the 1850s. What is that given name, #12 for baby girls in England in 2020 per the UK's Office for National Statistics?",
+            "answer": "florence",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "28",
+            "r_percent": "42"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Though it is currently owned by the American manufacturer Stanley Black & Decker, the Craftsman brand of tools was originally established by, and for many decades sold at, what retailer? ",
+            "answer": "sears",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "81",
+            "e_percent": "74",
+            "r_percent": "75"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"Houston, [REDACTED] Base here. The Eagle has landed.\" What word is redacted from this quote from July 20, 1969, and is also the name of the \"Sea\" where the lunar module made its landing on that day?",
+            "answer": "tranquility",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "94",
+            "c_percent": "85",
+            "d_percent": "74",
+            "e_percent": "53",
+            "r_percent": "62"
+        }
+    ]
+}

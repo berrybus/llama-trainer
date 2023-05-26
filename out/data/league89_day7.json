@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 7,
+    "date": "May 25, 2021",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While \"Duplicate\" and \"Chicago\" are well-known forms of the game, likely the most prevalent variation of a particular game for its casual players is \"Rubber\", whose namesake achievement is reached when a pair of players wins two games. What is this card game?",
+            "answer": "(contract) bridge",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "51",
+            "r_percent": "63"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "American novelist and critic Mary McCarthy's 1957 autobiography, which details a nomadic childhood from convent schools to Vassar College marked by the tragic death of her parents in the influenza pandemic of 1918, is titled Memories of a ______ Girlhood. (Fill in the blank.)",
+            "answer": "catholic",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "12",
+            "e_percent": "8",
+            "r_percent": "14"
+        },
+        {
+            "category": "ART",
+            "prompt": "Babies tucked between tulip petals, babies displayed as a bed of roses, and babies arranged as potted plants\u2014these are all included in a 1996 collection titled Down In the Garden, by what photographer?",
+            "answer": "anne geddes",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "49",
+            "c_percent": "45",
+            "d_percent": "39",
+            "e_percent": "30",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the specific term, borrowed from German, for the type of frozen precipitation\u2014sometimes referred to as \"snow pellets\" and distinct from snow, sleet, freezing rain, or hail\u2014which consists of soft, small ice pellets created when super-cooled water droplets coat a snowflake?",
+            "answer": "graupel",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "10"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The 1980 concert film Divine Madness centered on a performance the year before at Pasadena's Civic Auditorium by what performer, whose nickname (dating to her early years as a bathhouse diva) is referenced in the title?",
+            "answer": "bette midler",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "E.T. the Extra-Terrestrial is largely credited for the reported increase of 65% in profits for what candy?",
+            "answer": "reese's pieces",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "72",
+            "e_percent": "58",
+            "r_percent": "65"
+        }
+    ]
+}

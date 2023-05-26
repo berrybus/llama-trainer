@@ -1,0 +1,79 @@
+{
+    "date": "December 10, 2015",
+    "league": 67,
+    "day": 20,
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Japanese era that constitutes the first half of the Japanese Empire lasting from 1868 until 1912, whose rapid modernization formed the foundation for contemporary Japan, is commonly named for what emperor who reigned during the period?",
+            "answer": "meiji",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "55",
+            "c_percent": "43",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "33"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Zephir, Isabelle, Pom, Flora, Alexander, and Celeste are among the characters in the series of children's books featuring what fictional benevolent dictator (who is both Celeste's second cousin and husband)?",
+            "answer": "babar",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "45",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What \"forbidden city,\" the birthplace of its namesake dog breed and historically Tibet's religious center, is the home of the Potala Palace, the pre-refugee residence of the Dalai Lama?",
+            "answer": "lhasa",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "84",
+            "d_percent": "68",
+            "e_percent": "42",
+            "r_percent": "62"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name of the bite-sized candy, a variation introduced by the Hershey Company in 1993, which consists of strips of milk chocolate and sweet white cream formed into a familiar flat-bottomed teardrop shape?",
+            "answer": "hugs",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "68",
+            "d_percent": "61",
+            "e_percent": "56",
+            "r_percent": "57"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The theatrical drama Inherit the Wind, which debuted on Broadway in April 1955, is a barely veiled fictionalization of what historical event from thirty years prior?",
+            "answer": "scopes monkey trial",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "79",
+            "d_percent": "65",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In the common elementary mathematical order-of-operations mnemonic PEMDAS, what operation does the letter E stand for?",
+            "answer": "exponents",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "89",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "82",
+            "r_percent": "83"
+        }
+    ]
+}

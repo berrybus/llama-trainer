@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 19,
+    "date": "June 11, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What common leavening agent is a mixture of sodium bicarbonate, a nonreactive filler such as starch, and one or more slightly acidic compounds such as cream of tartar?",
+            "answer": "baking powder",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "59",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Best friends Austin, Pablo, Tasha, Tyrone, and Uniqua were the title characters on what animated series that debuted on Nickelodeon in October 2004?",
+            "answer": "the backyardigans",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "27",
+            "c_percent": "22",
+            "d_percent": "18",
+            "e_percent": "16",
+            "r_percent": "22"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In geometry, a plane figure having four equal sides, with two acute and two obtuse angles, is probably most commonly called a rhombus. It is also sometimes called a diamond, and is occasionally referred to by what other word, which comes from an Old French term for \"diamond shape\" and today has an alternate medical usage?",
+            "answer": "lozenge",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "28",
+            "c_percent": "17",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "13"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What literary term, which translates to English as \"novel with a key\", is used for a work in which some (or all) of the characters represent real individuals?",
+            "answer": "roman \u00e0 clef",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "49",
+            "d_percent": "32",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1892, Jos\u00e9 Mart\u00ed helped to found a revolutionary party that mounted an 1895 armed rebellion (during which he was killed) in what country, where Mart\u00ed is a national hero, and which achieved independence seven years later?",
+            "answer": "cuba",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "52",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "40"
+        },
+        {
+            "category": "FILM",
+            "prompt": "1) Visual sighting of an unidentified flying object. 2) A UFO event in which a physical effect occurs. What 1977 film presents (both in plot and in title) the next item in this list, which was first proposed by ufologist J. Allen Hynek in 1972?",
+            "answer": "close encounters of the third kind",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "96",
+            "c_percent": "90",
+            "d_percent": "83",
+            "e_percent": "63",
+            "r_percent": "71"
+        }
+    ]
+}

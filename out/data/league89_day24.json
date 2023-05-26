@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 24,
+    "date": "June 18, 2021",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "During the 1903 split of the Russian Social Democratic party, two groups emerged that took their respective names from the Russian for \"majority\" (Vladimir Lenin's group) and \"minority\" (Julius Martov's group). Name either group.",
+            "answer": "bolsheviks, mensheviks",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "70",
+            "e_percent": "53",
+            "r_percent": "67"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Due to his fighting spirit on the court, 1920s-era tennis champion Ren\u00e9 Lacoste was given what nickname (with which he remained closely associated until his death in 1996 and beyond)?",
+            "answer": "the crocodile",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "34",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What recently departed actor starred in the 1970s comedies A Touch of Class (with Glenda Jackson), The Owl and the Pussycat (with Barbra Streisand), Blume in Love (with Susan Anspach), and Where's Poppa? (with Ruth Gordon)?",
+            "answer": "george segal",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "28",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The malleus, the largest and outermost of the three small bones (ossicles) of the middle ear, has a shape that is often described using the name of what musical artist and trouser trendsetter?",
+            "answer": "(mc) hammer",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "72",
+            "e_percent": "57",
+            "r_percent": "69"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the southern Egyptian city, and capital of its namesake Governorate, near which an embankment dam (at the time, the world's largest) was built in the 1960s?",
+            "answer": "aswan",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "61",
+            "d_percent": "43",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A 1920 novel by Edith Wharton that famously explores the customs and manners of New Yorkers in the 1870s describes that period as the \"Age\" of what?",
+            "answer": "innocence",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "76",
+            "d_percent": "63",
+            "e_percent": "43",
+            "r_percent": "55"
+        }
+    ]
+}

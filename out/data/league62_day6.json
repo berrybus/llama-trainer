@@ -1,0 +1,79 @@
+{
+    "date": "August 25, 2014",
+    "league": 62,
+    "day": 6,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Identify the company that manufactured the guitars being played in this montage. ",
+            "answer": "fender",
+            "image": "/images/art/774985cn4jc0589.jpg",
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "77",
+            "d_percent": "70",
+            "e_percent": "65",
+            "r_percent": "71"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Although the official count is now closer to 500, this European capital city has retained the nickname \"City of 100 Spires\" based on an 18th century count by local philosopher and mathematician Bernhard Bolzano. Included in both counts are the spires of the Gothic St. Vitus, St. Wenceslas and St. Adalbert Cathedral.",
+            "answer": "prague",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "49",
+            "e_percent": "32",
+            "r_percent": "46"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the architect and engineer most responsible for the design in this edited image. ",
+            "answer": "pierre l'enfant",
+            "image": "/images/art/98405xn98470598.jpg",
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "48",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "37"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Fill in the blank in this ordered list: mega, giga, tera, _________, exa, zetta, yotta.",
+            "answer": "peta",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "44",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Despite having played before the introduction of the three-point line, and before freshmen were eligible to play varsity, this former LSU Tiger remains the all-time leading scorer in NCAA Division I men's basketball history (and it's not even really very close).",
+            "answer": "pete maravich",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "52",
+            "c_percent": "38",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "27"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Actor Tom Hanks has been featured in starring roles in six films with titles that are exactly one word (and one word only). Name any four of these six films.",
+            "answer": "splash, volunteers, dragnet, big, punchline, philadelphia",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "30",
+            "d_percent": "17",
+            "e_percent": "15",
+            "r_percent": "21"
+        }
+    ]
+}

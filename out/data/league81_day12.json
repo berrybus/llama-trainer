@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 12,
+    "date": "June 7, 2019",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Going Home\", \"Silhouette\", and \"Songbird\" are among the songs on the multi-platinum 1989 live album by what artist?",
+            "answer": "kenny g",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "21",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "15"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Ship of Fools, the greatest-selling American novel of 1962, was the only novel by what short story master, whose Collected Stories won her the Pulitzer Prize for Fiction in 1966?",
+            "answer": "katherine anne porter",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "20",
+            "c_percent": "13",
+            "d_percent": "6",
+            "e_percent": "2",
+            "r_percent": "10"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "While the Jersey, Guernsey, Ayrshire, and others are also common, what breed, which originated in the Netherlands and is identifiable by her black-and-white markings, is the most common dairy cow breed in the United States?",
+            "answer": "holstein (friesian)",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "58",
+            "e_percent": "39",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What scientific term was, until recently, defined as the quantity of an element or compound that has the same number of particles as twelve grams of Carbon-12?",
+            "answer": "mole",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "50",
+            "e_percent": "37",
+            "r_percent": "48"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name either of the two teams that finished at the top of the table in the English Premier League for the 2018-19 season, separated by a single point in the standings and 25 points clear of third-place Chelsea.",
+            "answer": "manchester city, liverpool",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "65",
+            "c_percent": "61",
+            "d_percent": "55",
+            "e_percent": "49",
+            "r_percent": "55"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Nelson Mandela was the first (post-apartheid) President of South Africa, and Cyril Ramaphosa is the fifth (and current) holder of the position. Name both the man who succeeded Mandela in 1999, and the man who preceded Ramaphosa, leaving office in 2018. (Note, two answers are required.)",
+            "answer": "thabo mbeki, jacob zuma",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "22",
+            "c_percent": "13",
+            "d_percent": "9",
+            "e_percent": "2",
+            "r_percent": "9"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 20,
+    "date": "December 13, 2019",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "In Latin, plural nouns in the first declension (which are mainly feminine) and in the nominative case (usually the subject of a verb) typically end with what two letters?",
+            "answer": "ae",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "62",
+            "c_percent": "58",
+            "d_percent": "50",
+            "e_percent": "39",
+            "r_percent": "46"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Hormonal Mike, studious Carol, and adorable little Ben were the kids of psychiatrist Jason and Long Island Daily Herald reporter Maggie on what television sitcom that debuted on ABC in September 1985?",
+            "answer": "growing pains",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "39"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "John Melendez, Jackie Martling, Gary Dell'Abate, and Fred Norris\u2014these individuals are closely associated with what other man (and his namesake programs on all media)?",
+            "answer": "howard stern",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the soccer team that has finished at the top of the German Bundesliga table every season since 2012\u20132013, and that has finished no lower than fourth (and that placement only once) since 1995.",
+            "answer": "bayern munich (bayern)",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "68",
+            "c_percent": "62",
+            "d_percent": "53",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Among the possible causes of what medical condition are Meniere's disease, vestibular neuritis, medication side effects, acrophobia, and, nominally, from finding out that Kim Novak was both \"Madeleine\" and \"Judy\"?",
+            "answer": "vertigo",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "56",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Dar as-Salam, an Arabic phrase which translates as \"abode of peace\", is the name of the most populous city and former capital of Tanzania (as Dar es Salaam) and is also included (as Darussalam) in the official name of what small nation in Southeast Asia?",
+            "answer": "brunei",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "60",
+            "c_percent": "48",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "34"
+        }
+    ]
+}

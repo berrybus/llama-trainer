@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 11,
+    "date": "June 14, 2018",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "From April 1983 to July 1985, a tennis duo\u2014who won 20 career doubles Grand Slam titles together\u2014went on a record-setting streak of 109 matches without a defeat. Name either of these women, both members of the International Tennis Hall of Fame.",
+            "answer": "martina navratilova, pam shriver",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "40"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the last name of the fictional persona invented by Washington Irving in 1809 to narrate his satirical A History of New York? This name became a term for Dutch-Americans residing in New York (and later, for any New Yorker).",
+            "answer": "knickerbocker",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "71",
+            "c_percent": "57",
+            "d_percent": "41",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What \"Russian-ized\" version of the current name of Russia's second-largest city was that city's official name from September 1914 to January 1924?",
+            "answer": "petrograd",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "46",
+            "e_percent": "23",
+            "r_percent": "41"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the singer, actress, and \"Goddess of Pop\" who starred in the 1969 film Chastity and co-hosted a variety show on CBS beginning in 1971 before hosting a show of her own (after separating from her co-host) in 1975, all during a recording career that now spans six decades.",
+            "answer": "cher",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "80",
+            "e_percent": "69",
+            "r_percent": "76"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Hegira is the name for Muhammad's secret departure from Mecca in 622, with Abu Bakr, to live among the people of Yathrib, founding the first Muslim community. The city of Yathrib was later renamed what?",
+            "answer": "medina",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What English word, derogatory (and arguably offensive) in modern usage, comes from the name for a secretive gang of murderers and robbers devoted to the Hindu god Kali? The term has been embraced by hip-hop artists such as Tupac Shakur, who formed a group whose name included the word and also had it tattooed on the right side of his abdomen.",
+            "answer": "thug",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "48",
+            "r_percent": "62"
+        }
+    ]
+}

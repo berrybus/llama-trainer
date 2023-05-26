@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 4,
+    "date": "May 19, 2022",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In 2010, Kentucky became the first (and so far the only) US state to declare an official \"state sports car\". What are the make and model of that car, which is assembled at a plant in the state in the city of Bowling Green (which is also the home of a museum dedicated to the vehicle)?",
+            "answer": "chevrolet corvette",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "26",
+            "r_percent": "30"
+        },
+        {
+            "category": "ART",
+            "prompt": "The work of the ancient Roman architect Vitruvius, and the man's name itself, are most remembered today via the work of what other man?",
+            "answer": "leonardo da vinci",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "78",
+            "d_percent": "67",
+            "e_percent": "51",
+            "r_percent": "60"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What word is the first word in the titles of popular songs recorded by Stevie Wonder (1973), Judas Priest (1980), James Brown (1985), and Bon Jovi (1988)?",
+            "answer": "living",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "57",
+            "e_percent": "48",
+            "r_percent": "55"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Riced or mashed potatoes and flour are the main ingredients of what Norwegian flatbread, whose dough is rolled into thin, flat circles before being cooked on a griddle using a long wooden stick?",
+            "answer": "lefse",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "22",
+            "c_percent": "16",
+            "d_percent": "12",
+            "e_percent": "9",
+            "r_percent": "12"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In the famous pangram first mentioned in an 1885 article in The Boston Journal, what, precisely, jumps over the lazy dog?",
+            "answer": "(a/the) quick brown fox",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The corps of royal bodyguards of the British monarch known as Yeomen of the Guard and a garrison of ceremonial guardians of the Tower of London known as the Yeoman Warders are separate groups both sometimes referred to colloquially by what name? A picture of the former is used in a famous English spirit with this name.",
+            "answer": "beefeaters",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "90",
+            "d_percent": "83",
+            "e_percent": "64",
+            "r_percent": "69"
+        }
+    ]
+}

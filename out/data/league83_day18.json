@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 18,
+    "date": "December 11, 2019",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The first American spacecraft capable of carrying astronauts since the retirement of the space shuttle program in 2011 launched in a nonpiloted test flight from Cape Canaveral in March 2019. This vessel, known as Crew Dragon, was designed and manufactured by what private company?",
+            "answer": "spacex (space exploration technologies corp.)",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "86",
+            "d_percent": "82",
+            "e_percent": "74",
+            "r_percent": "77"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What American-born rock star, who primarily sang and played bass guitar on her solo hits from the early 1970s (including \"Can the Can\" and \"Devil Gate Drive\"), also played Leather Tuscadero on the television series Happy Days? Her surname derives from an Italian name meaning \"four eyes\" that was shortened when her paternal grandfather immigrated to the United States.",
+            "answer": "suzi quatro",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the type of tea, traditionally a black tea flavored with bergamot, whose recipe was (according to probably fictional lore) given as a gift from a grateful Chinese official to a future British prime minister in the early 1800s?",
+            "answer": "earl grey",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "81",
+            "e_percent": "69",
+            "r_percent": "76"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What Haruki Murakami novel's title, first published in Japan in 1987 with an English translation released outside Japan in 2000, was taken from the title of a song\u2014a favorite of a character named Naoko\u2014 by The Beatles, off the Rubber Soul LP?",
+            "answer": "norwegian wood",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "56",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "24",
+            "r_percent": "36"
+        },
+        {
+            "category": "ART",
+            "prompt": "Untitled Film Stills, Rear Screen Projections, Disasters, and Fairy Tales are among the series of photographic tableaux staged by, directed by, shot by, and starring (often heavily disguised) what American artist?",
+            "answer": "cindy sherman",
+            "image": null,
+            "a_percent": "24",
+            "b_percent": "20",
+            "c_percent": "14",
+            "d_percent": "10",
+            "e_percent": "6",
+            "r_percent": "9"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Dutch Revolts, which occurred off and on beginning in 1567, were a struggle by the Netherlands to achieve independence from what other nation, with independence finally recognized formally at the Peace of Westphalia in 1648?",
+            "answer": "spain",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "54",
+            "c_percent": "41",
+            "d_percent": "28",
+            "e_percent": "13",
+            "r_percent": "31"
+        }
+    ]
+}

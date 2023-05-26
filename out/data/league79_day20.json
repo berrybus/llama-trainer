@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 20,
+    "date": "December 14, 2018",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "A particular accounting convention, used only in the United States, assumes that a firm uses materials (or sells inventory) in the reverse order they were placed in stock, therefore the inventory that enters its stores most recently is the earliest to leave. What is either the name or the four-letter abbreviation used for this accounting convention?",
+            "answer": "last-in first-out/lifo",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "69",
+            "c_percent": "68",
+            "d_percent": "66",
+            "e_percent": "55",
+            "r_percent": "58"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What unit of mass, now obsolete, is the mass that will have an acceleration of one foot per second squared when a force of one pound in weight is exerted upon it? It is equal to approximately 14.6 kg in SI units, and 32.2 lb in US customary units.",
+            "answer": "slug",
+            "image": null,
+            "a_percent": "23",
+            "b_percent": "14",
+            "c_percent": "11",
+            "d_percent": "7",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The headline \"DEAD UNDER HIS CAB\" appeared in a May 1900 edition of the Memphis, Tennessee newspaper The Commercial Appeal, above a story reporting on an accident on the Illinois Central Railroad in Vaughan, Mississippi. What was the name of the legendary train engineer who died in this accident (heroically, per contemporary reports) and was the only fatality?",
+            "answer": "casey jones",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "56",
+            "d_percent": "44",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The body of water known as the Sargasso Sea has no land boundaries, but rather is located entirely within what other body of water?",
+            "answer": "atlantic ocean",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "23",
+            "r_percent": "41"
+        },
+        {
+            "category": "ART",
+            "prompt": "Architectural examples of what visual art style, which originated in France in the early 20th century and gets its name from an international exposition held in Paris in 1925, include the Empire State Building, Chrysler Building and 30 Rockefeller Center in New York, The Hoover Building and Florin Court in London, the Eastern Columbia Building and Pantages Theatre in Los Angeles, and the Board of Trade and Palmolive Building in Chicago?",
+            "answer": "art deco",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "89",
+            "d_percent": "80",
+            "e_percent": "67",
+            "r_percent": "75"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What influential pop punk band uses as its name the alias of Rod Runtledge, the young ward of billionaire playboy Claude Kane III on The Simpsons?",
+            "answer": "fall out boy",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "38"
+        }
+    ]
+}

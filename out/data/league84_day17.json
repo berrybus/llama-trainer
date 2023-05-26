@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 17,
+    "date": "March 12, 2020",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1831, Louis Philippe I of France reorganized various light infantry regiments in Algeria as a r\u00e9giment \u00e9tranger, which became what is today best known (in English) by what name?",
+            "answer": "(french) foreign legion",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "77",
+            "d_percent": "61",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "An unmarried, newly thirty-five-year-old named Bobby (or Bobbie), portrayed on Broadway over the years by Larry Kert, Boyd Gaines, and Ra\u00fal Esparza, is the central character in what Broadway musical, famous songs from which include \"Getting Married Today\", \"The Ladies Who Lunch\", and \"Being Alive\"? ",
+            "answer": "company",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "36",
+            "c_percent": "30",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "22"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What was the name of the 19th-century spiritual, literary, and philosophical movement, centered in New England (especially Massachusetts), which was a reaction to American materialism and rationalist conformity and was influenced by Unitarianism and the philosophy of Immanuel Kant (among many other things)? The movement valued self-reliance, personal conscience, and an individual's connection to nature.",
+            "answer": "transcendentalism",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "52",
+            "e_percent": "34",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The chemical law (or principle) which states that equal volumes of all (ideal) gases at the same temperature and pressure contain the same number of molecules was first proposed by (and is typically named after) what Italian chemist?",
+            "answer": "amedeo avogadro",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "55",
+            "c_percent": "43",
+            "d_percent": "33",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Tuna served in sushi restaurants is typically one of two different species: maguro (bluefin) and ahi (yellowfin). The leaner meat from the sides of the tuna (normally served as a default) is known as akami; what is the Japanese term common on sushi menus for the fatty part of the fish, found in the belly area?",
+            "answer": "toro",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "47",
+            "c_percent": "41",
+            "d_percent": "35",
+            "e_percent": "28",
+            "r_percent": "35"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What title is shared by a 2012 Taylor Swift album, a comic book-inspired action comedy film from 2010 starring Bruce Willis, and an installment in the Pok\u00e9mon video game series?",
+            "answer": "red",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "61",
+            "e_percent": "52",
+            "r_percent": "62"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 9,
+    "date": "May 26, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What word for a certain type of body of water is a homonym for a pigment made by combining an organic dye with an inorganic, inert binder (typically an oxide, hydroxide, or salt)?",
+            "answer": "lake",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "35",
+            "c_percent": "29",
+            "d_percent": "22",
+            "e_percent": "17",
+            "r_percent": "25"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Dallas's Trevon Diggs, Miami's Xavien Howard, New England's Stephon Gilmore, Kansas City's Marcus Peters, and Seattle's Richard Sherman are among the NFL players who have led the league at season's end over the last nine seasons in what statistical category?",
+            "answer": "interceptions",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "66",
+            "c_percent": "60",
+            "d_percent": "57",
+            "e_percent": "49",
+            "r_percent": "54"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The predominant international organization for the facilitation of financial transactions and payments between banks is known by what acronym, which is also an adjective that (probably not coincidentally) one might use to positively describe the transactions themselves?",
+            "answer": "swift",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "51",
+            "e_percent": "40",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The phrase \"cult of personality\" as it is defined today was coined during a 1956 \"Secret Speech\" denouncing Soviet dictator Joseph Stalin (who had died three years earlier) given by what man?",
+            "answer": "nikita khrushchev",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "62",
+            "d_percent": "44",
+            "e_percent": "24",
+            "r_percent": "35"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The P versus NP problem, the Hodge conjecture, the Poincar\u00e9 conjecture, the Riemann hypothesis, the Yang\u2013Mills existence and mass gap problem, the Navier\u2013Stokes existence and smoothness problem, and the Birch and Swinnerton-Dyer conjecture: when this classic heptad was published by the Clay Mathematics Institute in May 2000, each of the problems was unsolved and each carried a $1 million award for its solution. This set is known collectively as what?",
+            "answer": "millennium (prize) problems",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "38",
+            "c_percent": "27",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "23"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics of a song released in 1999 by TLC, what term can be defined as a guy that thinks he's fly and is also known as a busta?",
+            "answer": "scrub",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "80",
+            "d_percent": "78",
+            "e_percent": "74",
+            "r_percent": "77"
+        }
+    ]
+}

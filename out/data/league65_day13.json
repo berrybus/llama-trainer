@@ -1,0 +1,79 @@
+{
+    "date": "June 4, 2015",
+    "league": 65,
+    "day": 13,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Popular spinoffs of The Oprah Winfrey Show have included programs hosted by psychologist Dr. Phil McGraw, celebrity chef Rachael Ray, cardiothoracic surgeon Dr. Mehmet Oz, and what Chicago-based interior decorator?",
+            "answer": "nate berkus",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "30",
+            "c_percent": "23",
+            "d_percent": "22",
+            "e_percent": "17",
+            "r_percent": "25"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Fasten your seat belts. It's going to be a bumpy night.\" This line, one of the most famous in cinematic history, is uttered at a party by the hostess, Margo Channing, in what film?",
+            "answer": "all about eve",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "59",
+            "c_percent": "43",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "32"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What country, a U.N. member, is a principality ruled by co-princes, currently Joan Enric Vives Sicília and François Hollande (who are also the Bishop of Urgell and the president of France, respectively)?",
+            "answer": "andorra",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "42",
+            "e_percent": "19",
+            "r_percent": "38"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What National Basketball Association franchise has most recently relocated to a new state, having moved to its present home for the 2012-2013 season (returning to the state where it played from 1968 to 1977)?",
+            "answer": "brooklyn nets",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "56",
+            "c_percent": "52",
+            "d_percent": "41",
+            "e_percent": "33",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Secret negotiations in Oslo in 1993 led to a historic agreement signed at a public ceremony in Washington in September of that year, hosted by President Bill Clinton and attended by what two world leaders, representing the two sides of negotiations?",
+            "answer": "yitzhak rabin, yasser arafat",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "29",
+            "r_percent": "44"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term for the electromagnet formed by a cylindrical coil of wire when an electric current is passed through it, creating a magnetic field that magnetizes an iron rod placed on its axis? One example is used to relay energy from a car battery to a starter motor.",
+            "answer": "solenoid",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "36",
+            "c_percent": "25",
+            "d_percent": "23",
+            "e_percent": "18",
+            "r_percent": "25"
+        }
+    ]
+}

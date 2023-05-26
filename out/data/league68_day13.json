@@ -1,0 +1,79 @@
+{
+    "date": "March 9, 2016",
+    "league": 68,
+    "day": 13,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Rosalina, Birdo, King Boo, Daisy, and Petey Piranha are characters in a video game franchise named after whom?",
+            "answer": "mario",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "65",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Prime numbers that can be written in the form 2n − 1 (where n is an integer), such as those being sought in the worldwide volunteer project known as GIMPS, are known by what name, after the French mathematician and theologian who studied them in the early seventeenth century?",
+            "answer": "mersenne primes",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "33",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "14",
+            "r_percent": "20"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "\"And ultimately, we fear that this demand would undermine the very freedoms and liberty our government is meant to protect.\" This is the last line of a letter published on February 16, 2016, and signed by what man?",
+            "answer": "tim cook",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "63",
+            "e_percent": "52",
+            "r_percent": "63"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A four-word phrase from a versicle in the Book of Common Prayer's Morning Prayer was referenced by British Prime Minister Neville Chamberlain, unfortunately and inauspiciously, upon his return from the September 1938 Munich Conference. What was the phrase (either the Morning Prayer original or the slightly altered Chamberlain utterance)?",
+            "answer": "peace in/for our time",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "61",
+            "d_percent": "41",
+            "e_percent": "19",
+            "r_percent": "40"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "An apotheosis of the career of jazz-blues guitar virtuoso John McLaughlin was an \"orchestra\" first active in the early 1970s and named after a sobriquet given to McLaughlin by his Indian guru, Sri Chinmoy. What is that name, which was taken from an aspect of a central god of Hinduism?",
+            "answer": "mahavishnu",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "20",
+            "c_percent": "18",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Hearings of an anticorruption investigative panel convened by New York City mayor John Lindsay, and known informally as the Knapp Commission, are featured prominently near the end of what hit 1973 film?",
+            "answer": "serpico",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "41",
+            "e_percent": "23",
+            "r_percent": "37"
+        }
+    ]
+}

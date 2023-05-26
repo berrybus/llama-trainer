@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 13,
+    "date": "September 7, 2017",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "From 1894 to 1900, Sanford B. Dole served as the first (and in the end, only) president of what republic? ",
+            "answer": "hawaii",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "52",
+            "e_percent": "33",
+            "r_percent": "49"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The name of the ruler (and satrap of the Persian emperor) buried at the Tomb at Halicarnassus, one of the seven ancient wonders of the world, is the source of what word (which is, essentially, what the structure was)?",
+            "answer": "mausoleum",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "47"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The blues and folk legend self-dubbed the \"King of the 12-string Guitar,\" who recorded memorable versions of \"Rock Island Line,\" \"Goodnight Irene,\" and \"Where Did You Sleep Last Night?,\" has a stage name with conflicting origin stories (his physical toughness, extreme tolerance for moonshine, a play on his last name, et al.). What is that stage name?",
+            "answer": "lead belly",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "54",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "31"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Monopoly is the name for a marketplace where only one seller exists. What is the similar term for the situation where only one buyer exists? The terms share the same first five letters, with the latter term ending (coincidentally) with the name of a multinational corporation.",
+            "answer": "monopsony",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "37",
+            "e_percent": "23",
+            "r_percent": "37"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Who replaced Vincent Canby in 1996 as chief theater critic of The New York Times, a role he retains to this day (now as co-chief with Jesse Green)?",
+            "answer": "ben brantley",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "19",
+            "c_percent": "15",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "10"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Alb\u00f3ndigas, keft\u00e9des, k\u00f6ttbullar, Klopse, polpette, and k\u00f6fte are all dishes that are generally referred to in English as what?",
+            "answer": "meatballs",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "43",
+            "r_percent": "51"
+        }
+    ]
+}

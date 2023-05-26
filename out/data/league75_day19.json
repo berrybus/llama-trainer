@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 19,
+    "date": "December 12, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Of all the countries that have won the FIFA Men's World Cup in its history (and still exist, so not including West Germany), a single one did not qualify for the 2018 World Cup in Russia. Identify that country.",
+            "answer": "italy",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "65",
+            "c_percent": "59",
+            "d_percent": "54",
+            "e_percent": "45",
+            "r_percent": "51"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What well-known simile allegedly originated from an occupational nervous disease that affected milliners and certain haberdashers, caused by extended exposure to mercury used in the manufacture of felt?",
+            "answer": "mad as a hatter",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "82",
+            "e_percent": "67",
+            "r_percent": "74"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Identify the woman in this photograph, which appeared on the cover of the October 2017 edition of Vanity Fair magazine. ",
+            "answer": "meghan markle",
+            "image": "/images/art/847ty9c35n645v3.jpg",
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "70",
+            "d_percent": "64",
+            "e_percent": "56",
+            "r_percent": "64"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the Netherlands-chartered organization that was established in 1621 and was responsible for the country's participation in the Atlantic slave trade, commercial operation in the New World, and settlement of New Netherland (now New York)?",
+            "answer": "(dutch) west india company",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "46",
+            "c_percent": "36",
+            "d_percent": "29",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The television drama series Greenleaf, which airs on the Oprah Winfrey Network, tells the story of the titular Memphis-based family and its running of what type of organization?",
+            "answer": "(mega)church",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "26",
+            "c_percent": "21",
+            "d_percent": "15",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "America's largest quick-service seafood restaurant is named after a villainous and charismatic cook from what 1883 novel?",
+            "answer": "treasure island",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "53"
+        }
+    ]
+}

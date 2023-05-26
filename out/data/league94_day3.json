@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 3,
+    "date": "August 31, 2022",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word for a small round ornamental napkin or mat, made of linen or paper with a lace pattern and often placed under a bowl or dish, comes from the surname of a 17th-century London clothier and dry goods dealer? ",
+            "answer": "doily",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "89",
+            "e_percent": "83",
+            "r_percent": "84"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A geographical feature known as Cemetery Ridge runs in a north/south direction for around two miles just south of what Pennsylvania municipality?",
+            "answer": "gettysburg",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "79",
+            "d_percent": "68",
+            "e_percent": "48",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What base unit was, until 2018, formally defined as the amount of substance of a system which contains as many fundamental units as there are atoms in 0.012 kg of carbon-12?",
+            "answer": "mole",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "47"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"The Bare Necessities\" is the signature song of the easy-going, fun-loving, laid-back Baloo in what animated 1967 film?",
+            "answer": "the jungle book",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "98",
+            "d_percent": "96",
+            "e_percent": "93",
+            "r_percent": "95"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What literary term, from Greek and a diminutive of \"picture\" or \"form\", is used for a typically short poem or prose with a pastoral theme that evokes a mood of tranquility and peace, often expressing a scene of country life or rustic charm? This word is arguably more common in English in adjective form.",
+            "answer": "idyll",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Jim: What does a yellow light mean?Bobby: Slow down.Jim: Ok. What\u2026does\u2026a\u2026yellow\u2026light\u2026mean?This sequence (which continues like this for awhile) comes from a September 1979 episode of what classic sitcom?",
+            "answer": "taxi",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "34"
+        }
+    ]
+}

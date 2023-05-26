@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 21,
+    "date": "March 15, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The lead character in the 2016 biographical film The Founder, played by Michael Keaton, represents himself as the founder of what corporation? (He wasn't actually, though\u2014that would be the company's namesake founding brothers, who were bought out in 1961, and were played by Nick Offerman and John Carroll Lynch in the film.)",
+            "answer": "mcdonald's",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "71",
+            "e_percent": "60",
+            "r_percent": "69"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Prince Boun Oum, Prince Souvanna Phouma, and Prince Souphanouvong were the \"Three Princes\" selected to form a government in 1961 by the king of what country, following its independence in 1953? The latter of the three became president (though essentially a puppet) when the kingdom was abolished in December 1975.",
+            "answer": "laos",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "28",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the dress style, dating to the late 18th century, in which the dress gathers at the narrowest part of the torso and drapes out under the bustline, and has a name that refers to a period in French history?",
+            "answer": "empire (waist)",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "48",
+            "c_percent": "43",
+            "d_percent": "35",
+            "e_percent": "28",
+            "r_percent": "34"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the four-word name of the company, arguably the foremost American dance company of the 20th century, that was founded by George Balanchine and Lincoln Kirstein in 1948, and has been resident in the Lincoln Center for the Performing Arts since 1964?",
+            "answer": "new york city ballet",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "53",
+            "c_percent": "41",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "32"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name of the paste originating in the Proven\u00e7al region of France that consists of black olives, capers, and anchovy fillets, and is commonly spread on toasted bread or canap\u00e9s?",
+            "answer": "tapenade",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "67",
+            "e_percent": "54",
+            "r_percent": "65"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The early Teutonic alphabet known as the futhark is so-named from its first six letters (f, u, th, a, r, and k). What word is used generally for the letters in the futhark and other related languages? The word in question is also used (in adjective form) to describe the broad family of languages that use these letters.",
+            "answer": "runes/runic",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "46",
+            "c_percent": "33",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "19"
+        }
+    ]
+}

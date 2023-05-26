@@ -1,0 +1,79 @@
+{
+    "date": "June 22, 2015",
+    "league": 65,
+    "day": 25,
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Pact of Steel, known formally (in English) as the Pact of Friendship and Alliance, was an agreement between what two countries, formalized in May 1939 and canceled effectively in 1943?",
+            "answer": "germany, italy",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A kigo, kireji, and a ternary set of 17 on are among the strictly defined characteristics of what, as mastered by Matsuo Basho?",
+            "answer": "haiku",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "63",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "23",
+            "r_percent": "36"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Most speakers of the Amharic language, the second-most-spoken Semitic language in the world after Arabic, are citizens of (or emigrants from) what country?",
+            "answer": "ethiopia",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "16",
+            "r_percent": "29"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Also called equity light after the stage actors' labor union that mandated its use, what is the most common, superstition-influenced name for the light that is left illuminated on a stage when a theatre is unoccupied?",
+            "answer": "ghost light",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "55",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "34",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The bird species photographed here, Icterus galbula, is associated with (and commonly named after) what city, because of the bird's distinctive coloring? ",
+            "answer": "baltimore",
+            "image": "/images/art/8970948cn05938.jpg",
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "74",
+            "r_percent": "78"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A controversial technique known as gavage is widely used in the production of what food product?",
+            "answer": "foie gras",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "81",
+            "c_percent": "78",
+            "d_percent": "66",
+            "e_percent": "59",
+            "r_percent": "67"
+        }
+    ]
+}

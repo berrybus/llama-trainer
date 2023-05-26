@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 12,
+    "date": "August 24, 2021",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "At 5,525 miles, the longest international land border in the world between two countries separates Canada and the United States. What two countries are separated by the longest land border in South America, at nearly 3,300 miles?",
+            "answer": "argentina, chile",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "69",
+            "r_percent": "76"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "\"Mars, the Bringer of War\" and \"Venus, the Bringer of Peace\" are the names of movements in an orchestral suite completed in 1917 by what English composer?",
+            "answer": "gustav holst",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "47",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "28"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Abalone, Aggravation, Ker-Plunk, and Wahoo are all board games that customarily use what as game pieces?",
+            "answer": "marbles",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "55",
+            "d_percent": "50",
+            "e_percent": "42",
+            "r_percent": "49"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Emily Henry's 2021 rom-com novel People We Meet on Vacation could be described as a certain kind of \"read\" which is, coincidentally, the title of Henry's bestseller from 2020. What is the two-word title of that earlier book\u2014a book which was probably consumed by readers while on vacation?",
+            "answer": "beach read",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "68",
+            "e_percent": "55",
+            "r_percent": "61"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1975 Damiano Damiani film A Genius, Two Partners and a Dupe (Un genio, due compari, un pollo), which stars Terence Hill as a con man scheming against a Monument Valley backdrop, is considered one of the last films in a cinematic subgenre most often referred to by what name?",
+            "answer": "spaghetti western",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "71",
+            "e_percent": "53",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What drug was named by its discoverer, Friedrich Sert\u00fcrner, after the Greek god of dreams, due to its tendency to induce sleep?",
+            "answer": "morphine",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "59",
+            "d_percent": "44",
+            "e_percent": "25",
+            "r_percent": "41"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 21,
+    "date": "March 21, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Whose 1994 memoir, written as a letter to (and named after) her comatose daughter Paula, tells the story of the mother's extraordinary life\u2014a childhood in Peru, Bolivia, Lebanon, and Chile; exile from her Chilean homeland following a 1973 coup; her career as a journalist and writer; and more?",
+            "answer": "isabel allende",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "30",
+            "e_percent": "16",
+            "r_percent": "29"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The films Mickey's Once Upon a Christmas (1999), 50 First Dates (2004), Source Code (2011), and Edge of Tomorrow (2014) all feature a central conceit that was previously used in what enduring comedy film from 1993?",
+            "answer": "groundhog day",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "87",
+            "c_percent": "85",
+            "d_percent": "80",
+            "e_percent": "71",
+            "r_percent": "75"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A method of investigating the behavior of economic processes that are too complex for possible analytical solutions, instead using randomized initial positions to obtain numerical results and a resulting range of outcomes and probabilities, is a simulation named after what European tourist spot?",
+            "answer": "monte carlo",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "56",
+            "c_percent": "51",
+            "d_percent": "45",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the physiological term for the wavelike muscular contractions that pass along tubular organs, such as what propels food through the esophagus into the stomach?",
+            "answer": "peristalsis",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A British chicken dish, consisting of cooked pieces of chicken in a curried mayonnaise sauce, was created for and named after an event that occurred on June 2, 1953. What is the straightforward name of that dish?",
+            "answer": "coronation chicken",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "62",
+            "d_percent": "46",
+            "e_percent": "26",
+            "r_percent": "45"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Florida counties of Escambia, Walton, and Okaloosa; the Oklahoma counties of Beaver, Cimarron, and Texas; and the Texas counties of Potter, Dallam, and Deaf Smith are all within regions of their respective states that are known by what term?",
+            "answer": "panhandle",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "86",
+            "d_percent": "81",
+            "e_percent": "67",
+            "r_percent": "76"
+        }
+    ]
+}

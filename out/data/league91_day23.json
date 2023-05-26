@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 23,
+    "date": "December 13, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "In the \"Markup Language\" abbreviated XML, which provides greater flexibility over languages such as HTML with customized tags for the storage, organization, and presentation of data, what word is represented by the \"X\"?",
+            "answer": "extensible",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "32",
+            "c_percent": "26",
+            "d_percent": "22",
+            "e_percent": "17",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "State College, PA, is home to the campus of Penn State University; College Park, MD, is home to the University of Maryland; and Southern Adventist University is in Collegedale, TN. What American university's home town is named College Station?",
+            "answer": "texas a&m",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "64",
+            "e_percent": "52",
+            "r_percent": "59"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the word used for the type of freestyle skiing competition where competitors ski down a steep and bumpy path, and are scored based on turning, jumping, and speed? The word is also used for the bumps themselves.",
+            "answer": "moguls",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "65",
+            "r_percent": "65"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": " She heaved a sigh and wiped her eye,And over the hillocks she raced;And tried what she could, as a shepherdess should,That each tail be properly placed.Who is the \"shepherdess\" in this nursery rhyme?",
+            "answer": "(little) bo-peep",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "64",
+            "e_percent": "56",
+            "r_percent": "64"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The American military operation conducted in December 2003 that led to the capture of former Iraqi president Saddam Hussein had what name, for some reason after a PG-13-rated 1984 teen heroism action film?",
+            "answer": "operation red dawn",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "45"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the German translation of the Spanish word \u00e1rbol and the Arabic shajara (\u0634\u062c\u0631\u0629)?",
+            "answer": "baum",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "30"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 16,
+    "date": "June 21, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What everyday object, a compound machine consisting of two wedges connected by two levers, appears in the titles of a fantasy film from 1990 and a 2006 cinematic memoir, and was also central to the plot of the 1991 thriller Dead Again?",
+            "answer": "scissors",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "30",
+            "r_percent": "51"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Shockley, Fairchild, Cypress, National, and Lattice are partial names of companies that were (or are) in the business of developing and/or manufacturing what specific product? The product in question is contained in the full name of each corporation.",
+            "answer": "semiconductor",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "33",
+            "c_percent": "28",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Who appeared onstage to perform the opening theme's closing note during regular episodes of the television series The Muppet Show?",
+            "answer": "gonzo (the great)",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "27",
+            "e_percent": "16",
+            "r_percent": "24"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A British dish consisting of savory cheese sauce poured over toast and served hot has what name, a misnomer of sorts as there is nothing evidently leporine about it?",
+            "answer": "welsh rabbit (rarebit)",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "46",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A valuable slab of black basalt was found by a French soldier during Napoleon's occupation of Egypt in 1799 at Fort Julien, which is located on the west bank of the Nile about 3 miles northwest of what small Egyptian port city?",
+            "answer": "rosetta",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "58",
+            "e_percent": "38",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What musician was a member of Buddy Holly's band The Crickets (and gave up his seat to The Big Bopper on the fatal 1959 plane crash that also killed his boss and Ritchie Valens) before becoming a part of the \"Outlaws\" country music clique in the mid-1970s and The Highwaymen supergroup in the 1980s?",
+            "answer": "waylon jennings",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "18",
+            "r_percent": "26"
+        }
+    ]
+}

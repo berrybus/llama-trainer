@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 3,
+    "date": "June 4, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "New York Times culture reporter Dave Itzkoff's current nonfiction best seller details the life and career of what late actor and comedian?",
+            "answer": "robin williams",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "63",
+            "e_percent": "60",
+            "r_percent": "63"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the seven countries on the Central American isthmus between Mexico and Colombia, all but two have coasts on both the Caribbean Sea and the Pacific Ocean. Name both of the countries that have just one coastline.",
+            "answer": "belize, el salvador",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "60",
+            "c_percent": "49",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the term, derived from the Italian for \"smoke\" and associated with da Vinci, Giogione, and Correggio, that is used in painting to describe the gradual, soft transition from one tone or hue to another?",
+            "answer": "sfumato",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "25",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Nineteenth-century French surgeon and anthropologist Pierre Paul Broca is the namesake for a specific area in what organ in humans?",
+            "answer": "brain",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "49",
+            "e_percent": "36",
+            "r_percent": "47"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Soviet General Secretary Mikhail Gorbachev used what Russian term for \"openness\" to name a policy introduced in 1986 that relaxed repression on human rights and increased governmental transparency?",
+            "answer": "glasnost",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "38",
+            "r_percent": "48"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The trade name for a once-popular videotape cassette recorder standard that was introduced in the mid-1970s by JVC/Matsushita is widely known by a three-letter acronym. What do the three letters in that acronym stand for?",
+            "answer": "video home system",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "35"
+        }
+    ]
+}

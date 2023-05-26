@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 21,
+    "date": "December 8, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What 1962 film adaptation of the book Seven Pillars of Wisdom belongs on a list that includes the films The Bridge on the River Kwai, Doctor Zhivago, and A Passage to India?",
+            "answer": "lawrence of arabia",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "68",
+            "c_percent": "54",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What name was shared by the Grand Prince of Moscow\u2014who, after renouncing allegiance to the Tatars in 1480, was the first Russian monarch to call himself \"tsar\"\u2014and his grandson, who became the first \"tsar of all Russia\" in 1547?",
+            "answer": "ivan",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "50",
+            "d_percent": "38",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The state in Southwest India once known as Mysore, which was given its current name of Karnataka in 1973, was formed in 1956, bringing together the populations of five predecessor states whose inhabitants spoke what language, which now has over 50 million speakers? The name of the language looks like it could be\u2014but is not actually\u2014a homophone of the name of an unrelated country.",
+            "answer": "kannada",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "25",
+            "c_percent": "16",
+            "d_percent": "10",
+            "e_percent": "6",
+            "r_percent": "12"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "There are exactly three letters of the alphabet that are the first letter of the name of one (and only one) capital city of a US state. Name any one of those three capital cities.",
+            "answer": "frankfort, indianapolis, nashville",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "65",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the game of chess, the king and rook can move simultaneously along the back rank during a unique and specific move known by what name?",
+            "answer": "castling",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "87",
+            "c_percent": "83",
+            "d_percent": "77",
+            "e_percent": "66",
+            "r_percent": "71"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the woman who, since 2016, has served in a television hosting role previously held by Charles Osgood (from 1994 to 2016) and Charles Kuralt (from 1979 to 1994).",
+            "answer": "jane pauley",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "14",
+            "e_percent": "9",
+            "r_percent": "15"
+        }
+    ]
+}

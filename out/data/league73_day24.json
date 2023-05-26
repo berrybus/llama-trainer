@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 24,
+    "date": "June 16, 2017",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Xavier Becerra, Pam Bondi, Eric Schneiderman, Bill Schuette, Lisa Madigan, Ken Paxton, and Bob Ferguson are among the individuals that currently hold what position?",
+            "answer": "(state) attorney general",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "65",
+            "c_percent": "60",
+            "d_percent": "50",
+            "e_percent": "36",
+            "r_percent": "47"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What film appeared on network television for the first time in November 1976, becoming the highest-rated television program ever (and still today highest rated movie ever), thirty-seven years after becoming the highest-grossing film of all time?",
+            "answer": "gone with the wind",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "62",
+            "e_percent": "47",
+            "r_percent": "56"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Race riots during World War II in Los Angeles that primarily targeted Mexicans and Mexican-Americans are widely known by a term that references what specific apparel item, which was popular among the victimized communities as a symbol of new-found prosperity?",
+            "answer": "zoot suit",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "42",
+            "e_percent": "26",
+            "r_percent": "44"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What northern forest biome, consisting primarily of cone-bearing evergreens with some deciduous trees, is found just south of the tundra biome and constitutes the Earth's largest biome aside from the oceans? The term is borrowed from Russian, as the biome covers much of that country.",
+            "answer": "taiga",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the name of the literary character in this image? ",
+            "answer": "mr. tickle",
+            "image": "/images/art/498y5c03489c5348.jpg",
+            "a_percent": "33",
+            "b_percent": "25",
+            "c_percent": "21",
+            "d_percent": "14",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What American soprano and opera superstar made her Metropolitan Opera debut portraying Countess Almaviva in Le nozze de Figaro in 1991 and, after some 70 performances there over two and a half decades, reportedly gave her final performance at the Met in May 2017 in what is perhaps her best-known role, the Marschallin in Richard Strauss's Der Rosenkavalier (though those reports may prove to be inaccurate)?",
+            "answer": "renee fleming",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "33",
+            "c_percent": "27",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "19"
+        }
+    ]
+}

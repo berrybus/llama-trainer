@@ -1,0 +1,79 @@
+{
+    "date": "December 17, 2015",
+    "league": 67,
+    "day": 25,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Italian children's novelist Carlo Collodi died in 1890 and thus was unable to witness the incredible popularity of his most famous creation—a character whose adventures have been widely adapted in various media, perhaps most famously in a 1940 Disney film. What is the name of this iconic character?",
+            "answer": "pinocchio",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "95",
+            "c_percent": "91",
+            "d_percent": "87",
+            "e_percent": "74",
+            "r_percent": "82"
+        },
+        {
+            "category": "ART",
+            "prompt": "The famous Alfred Eisenstaedt photograph titled V-J Day in Times Square, which shows a sailor smooching a woman in a white dress, was first published in what magazine, in August 1945?",
+            "answer": "life",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "86",
+            "d_percent": "79",
+            "e_percent": "58",
+            "r_percent": "68"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Archduke Franz Ferdinand of Austria and his wife, Sophie, Duchess of Hohenberg, were assassinated on June 28, 1914, by Gavrilo Princip, while visiting what city?",
+            "answer": "sarajevo",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "83",
+            "d_percent": "71",
+            "e_percent": "49",
+            "r_percent": "67"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "One major component of the U.S. government's $700 billion financial bailout plan of 2008 was a significant purchase of equity from financial services firms to stabilize the nation's financial system and restart economic growth. Signed into law by President Bush in October 2008, it is best known as TARP, which stands for what?",
+            "answer": "troubled asset relief program",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Going in order of atomic number, starting with hydrogen at 1, what is the first element of the periodic table whose atomic number is greater than the number of letters in the element's common English name? Incidentally, it's also true of every single element that comes afterwards.",
+            "answer": "oxygen (8)",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "44",
+            "e_percent": "32",
+            "r_percent": "37"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What Gilbert & Sullivan comic opera details the farcical goings-on in the exotic fictional Japanese town of Titipu?",
+            "answer": "the mikado",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "66",
+            "d_percent": "54",
+            "e_percent": "28",
+            "r_percent": "41"
+        }
+    ]
+}

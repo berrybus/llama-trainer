@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 4,
+    "date": "September 1, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The lowest score that a player could shoot if they were to birdie every hole on a par-72 course is, reportedly and in part, the inspiration for the name of what professional golf tour? ",
+            "answer": "liv golf",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "64",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "38",
+            "r_percent": "38"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "For the period from August 2020 to August 2021, the top-selling breakfast cereal in the United States (per one particular market research company) was a General Mills product whose mascot is an anthropomorphic bee, and which is a variation of a classic brand which was itself #3 on this list in that period. What is this #1 seller? ",
+            "answer": "honey nut cheerios",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "89",
+            "e_percent": "84",
+            "r_percent": "86"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "During the period of the German Empire beginning in 1871, the new federated nation consisted of various constituent kingdoms, Grand Duchies, Duchies, Principalities, and an Imperial Territory. Apart from all these were the cities of Bremen, Hamburg, and L\u00fcbeck, which were described officially as \"Free\" and what other adjective (in reference to a medieval confederation to which they belonged)?",
+            "answer": "hanseatic",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "33",
+            "d_percent": "17",
+            "e_percent": "7",
+            "r_percent": "19"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The name of the band who recorded the mid-90s hits \"Don't Speak\", \"Spiderwebs\", and \"I'm Just a Girl\" is an expression synonymous with the title of a song from that same era by the R&B group Blackstreet. What is the name of that Blackstreet song?",
+            "answer": "no diggity",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "55",
+            "d_percent": "48",
+            "e_percent": "41",
+            "r_percent": "43"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Canandaigua, Keuka, Seneca, Cayuga, and Owasco are among a group of eleven that are known collectively by what two-word term? ",
+            "answer": "finger lakes",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "49",
+            "c_percent": "41",
+            "d_percent": "32",
+            "e_percent": "22",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Femur, tibia, fibula, _____. What diminutive form of the Latin term for a broad, shallow dish completes this list?",
+            "answer": "patella",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "55"
+        }
+    ]
+}

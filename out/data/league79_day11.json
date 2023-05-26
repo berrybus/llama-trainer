@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 11,
+    "date": "December 3, 2018",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "The short-lived Fox network drama Gracepoint was an adaptation of what British drama series, which also starred David Tennant and featured Olivia Colman in the role held by Anna Gunn in the American counterpart?",
+            "answer": "broadchurch",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "54",
+            "c_percent": "45",
+            "d_percent": "40",
+            "e_percent": "30",
+            "r_percent": "35"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Janet Gaynor and Fredric March appear, as an aspiring movie actress and an alcoholic whose movie career is waning, in the original 1937 version of what film?",
+            "answer": "a star is born",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "64",
+            "e_percent": "54",
+            "r_percent": "61"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What company, whose current headquarters sit across the river from the Loop in downtown Chicago, was incorporated in 1916 as Pacific Aero Products Co.?",
+            "answer": "boeing",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "54",
+            "d_percent": "48",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Indian Removal Act of 1830 authorized the U.S. government's forced relocation of a set of native tribes that inhabited the southeastern U.S. and were dubbed (ethnocentrically and rather offensively) the Five Civilized Tribes, so named due to their relative adaptation to the European lifestyle. Two of these tribes were the Cherokee and the Creek; name any one of the other three.",
+            "answer": "chickasaw, choctaw, seminole",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While it (like many alloys) contains a certain amount of copper, and though the word itself comes from a term for zinc, the alloy pewter is actually composed mostly (from 85% to 99%) of what other element?",
+            "answer": "tin",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "38"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Give either the current, romanized name of the major port city on the Pearl River in South China where Cantonese is spoken (and in fact was once known as Canton), or the province in which the city is located?",
+            "answer": "guangzhou/guangdong",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "19",
+            "r_percent": "25"
+        }
+    ]
+}

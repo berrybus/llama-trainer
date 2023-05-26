@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 23,
+    "date": "December 18, 2017",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "A 1434 portrait of Giovanni and Giovanna Arnolfini is a magnum opus of what Flemish master of the Northern Renaissance?",
+            "answer": "jan van eyck",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "22"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The mysterious title character of what 1996 film was, as it turned out, a Hungarian aristocrat named L\u00e1szl\u00f3 Alm\u00e1sy?",
+            "answer": "the english patient",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "41",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "29"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The name of what fictional American individual, possibly derived from that of a murderous English chimney sweep, from that of an archangel of death, and/or as a jolly euphemism for the underworld, fills in the blank in the slang expression of the form what in _____ _____ is going on here?",
+            "answer": "sam hill",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "64",
+            "e_percent": "55",
+            "r_percent": "58"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"...[W]hen any act by a player more than one yard beyond the line of scrimmage significantly hinders an eligible player's opportunity to catch the ball.\" Per the 2017 edition of the rulebook of the National Football League, the preceding quote is the definition of what penalty, which can be committed by either the offense or the defense?",
+            "answer": "pass interference",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "73",
+            "c_percent": "72",
+            "d_percent": "69",
+            "e_percent": "66",
+            "r_percent": "66"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "To distinguish it from another city, on the Oder River, the German city and commercial hub of Frankfurt has what official full name?",
+            "answer": "frankfurt am main",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "29"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"On the Motion of Bodies,\" \"The Motion of Bodies in Resisting Media,\" and \"On the System of the World\" are common (though not official) titles of the three sections of a work by Sir Isaac Newton published in 1687. This work is best known by what shortened, one-word title?",
+            "answer": "principia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "23",
+            "r_percent": "39"
+        }
+    ]
+}

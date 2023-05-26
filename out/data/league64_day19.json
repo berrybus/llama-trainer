@@ -1,0 +1,79 @@
+{
+    "date": "March 25, 2015",
+    "league": 64,
+    "day": 19,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Thomas Gradgrind, Nell Trent, Esther Summerson, John Harmon (Rokesmith), and Seth Pecksniff are among the main characters in the works of what author?",
+            "answer": "charles dickens",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "38",
+            "e_percent": "22",
+            "r_percent": "36"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the producer and director, an early pioneer of screen comedy widely credited as the progenitor of slapstick on film, who founded Keystone Studios in 1913 and is also remembered for his \"bathing beauties\" of the era.",
+            "answer": "mack sennett",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "29",
+            "c_percent": "21",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "12"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Twin sons of Ares and Aphrodite, who were the Greek mythological personifications of fear and terror, gave their names (thanks to American astronomer Asaph Hall) to celestial objects that are most closely and uniquely associated with what other celestial object?",
+            "answer": "mars",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "55",
+            "e_percent": "33",
+            "r_percent": "48"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the suburb of Portland, Oregon, that best fits in this list of municipalities: Peachtree City, Georgia; Prairie City, Illinois; Gem, Idaho; Centennial, Colorado; Silver Springs, Nevada; Magnolia, Mississippi; Buckeye Lake, Ohio.",
+            "answer": "beaverton",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "45",
+            "c_percent": "40",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "29"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Battle of Pork Chop Hill, Battle of Heartbreak Ridge, and Battle of the Bowling Alley were engagements fought during what war?",
+            "answer": "korean war",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "For 17 of 18 weeks from late October 2002 to early March 2003, Billboard magazine's \"Modern Rock\" chart was topped by three songs from three different bands that all shared a member (who served as drummer on two songs and guitarist and lead vocalist on the third). The songs were \"You Know You're Right,\" \"No One Knows,\" and \"All My Life.\" Name the musician who was a member of all three bands.",
+            "answer": "dave grohl",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "75",
+            "c_percent": "72",
+            "d_percent": "64",
+            "e_percent": "54",
+            "r_percent": "57"
+        }
+    ]
+}

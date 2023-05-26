@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 10,
+    "date": "May 26, 2017",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What is the title of the three-hour multi-perspective epic film from 1962 that recreates the events of June 6, 1944?",
+            "answer": "the longest day",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "46",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "32"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While polio is its more common abbreviation, what is the full name of the highly communicable (and eradicable) infectious disease caused by the poliovirus of the Enterovirus genus?",
+            "answer": "poliomyelitis",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "47",
+            "c_percent": "35",
+            "d_percent": "23",
+            "e_percent": "11",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Lionel was the first practicing Jewish MP in Britain's House of Commons and loaned his government the money to buy the Suez Canal. His son Nathan was the first Jewish peer and financially backed Cecil Rhodes's British South Africa Company. Nathan's son Walter received the 1917 Balfour Declaration, which stated the British government's support for the establishment in Palestine of a \"national home\" for the Jewish people. These three men shared what last name, as members of a family influential in both political and economic affairs starting in the 18th century?",
+            "answer": "rothschild",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "39",
+            "e_percent": "22",
+            "r_percent": "38"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Along with being titled after the first names of their female main characters, the television series Flo, Gloria, Tabitha, Daria, Phyllis, Rhoda, Maude, and Kendra all share, most prominently, what other particular distinction? 1956's The Adventures of Champion is, arguably, the first series to hold the distinction in question.",
+            "answer": "spin-offs",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "48",
+            "e_percent": "34",
+            "r_percent": "39"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Since 2000, men who have held the number one spot in the Official World Golf Ranking have represented Australia, England, Germany, Northern Ireland, the United States, and what Pacific island nation?",
+            "answer": "fiji",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "63",
+            "c_percent": "55",
+            "d_percent": "48",
+            "e_percent": "37",
+            "r_percent": "44"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"I'm the One\" by DJ Khaled, \"Despacito (Remix)\" by Luis Fonsi and Daddy Yankee, \"Cold Water\" by Major Lazer, and \"Let Me Love You\" by DJ Snake are all recent pop hits with what singer credited as a featured artist?",
+            "answer": "justin bieber",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "45",
+            "c_percent": "42",
+            "d_percent": "37",
+            "e_percent": "34",
+            "r_percent": "43"
+        }
+    ]
+}

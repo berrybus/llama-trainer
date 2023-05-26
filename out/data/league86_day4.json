@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 4,
+    "date": "August 24, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A squidger, a mat, and a pot are among the equipment used in what game, which traditionally begins with a \"squidge-off\" and in which \"squopping\" is common?",
+            "answer": "tiddlywinks",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "33",
+            "c_percent": "24",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 2017 Netflix romantic drama Our Souls at Night is advertised as the fourth screen collaboration of a duo that previously appeared together in The Chase, Barefoot in the Park, and The Electric Horseman. Name both actors that appeared in these films.",
+            "answer": "jane fonda, robert redford",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "24",
+            "e_percent": "16",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the military of the Roman Empire, soldiers (\"legionaries\") were divided into legions commanded by generals and tribunes, then into cohorts of 400 to 500, and then in turn into groups of 80 to 100. These latter groups were commanded by officers known as what (presumably due to the size of their forces)?",
+            "answer": "centurions",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Photographer Carrie Mae Weems' Sea Island Series from the early 1990s focuses on an African American people and culture known by what name (which is also the name of their English-based creole language)?",
+            "answer": "gullah/geechee",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "57",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "22",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term\u2014from the French, and first applied in the following context by Joseph Louis Gay-Lussac\u2014is used in science (and scientific experiments) for a process of volumetric analysis involving the addition of a quantity of one reagent into a known quantity of another reagent, often done slowly via a burette into an Erlenmeyer flask?",
+            "answer": "titration",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "63",
+            "c_percent": "55",
+            "d_percent": "48",
+            "e_percent": "37",
+            "r_percent": "47"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Arms, legs, ears, eyes, and (finally) teeth are points of conversation in what story first recorded by Charles Perrault in 1697?",
+            "answer": "little red riding hood",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "81",
+            "d_percent": "71",
+            "e_percent": "55",
+            "r_percent": "60"
+        }
+    ]
+}

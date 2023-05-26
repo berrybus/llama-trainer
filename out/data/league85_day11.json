@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 11,
+    "date": "June 4, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Though he portrayed various other complicated characters throughout his career, Richard Roundtree is most remembered for his breakout role as what not-widely-understood character, which he introduced in 1971 and reprised in four sequels and a short-lived television series?",
+            "answer": "john shaft",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "73",
+            "c_percent": "60",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "42"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A term for an organic compound formed by a reaction between alcohols and acids is a homophone for a specific book of the Bible. What is that scientific term?",
+            "answer": "ester",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In 2006, Nay Pyi Taw became the new administrative capital of a country whose military government, in 1989, officially changed the name (in English) of the country itself. What was that new country name adopted in 1989?",
+            "answer": "(union of) myanmar",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "77",
+            "e_percent": "59",
+            "r_percent": "70"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A special Christmas Day episode of what British series, written by James Corden and Ruth Jones, was the top-rated television broadcast in Great Britain in 2019, as well as the country's highest viewed non-sports program in over a decade and highest viewed comedy in seventeen years?",
+            "answer": "gavin & stacey",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "19",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "8",
+            "r_percent": "12"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The \"Ohio gang\" was a term used to refer to the associates, cronies, and friends who were placed into high office during the administration of what U.S. president?",
+            "answer": "warren g. harding",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "37",
+            "e_percent": "19",
+            "r_percent": "29"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Legislation in California, supported by various animal rights organizations and signed into law in 2004 by Gov. Arnold Schwarzenegger, sought to prohibit the practice of \"gavage\", which is the traditional method (in France, the only legal method) for producing what product?",
+            "answer": "foie gras",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "63",
+            "r_percent": "69"
+        }
+    ]
+}

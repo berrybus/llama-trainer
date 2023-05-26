@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 25,
+    "date": "June 19, 2017",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Two co-stars of the 2011 film Crazy, Stupid Love and the 2013 film Gangster Squad appeared together for a third time in what 2016 film?",
+            "answer": "la la land",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "64",
+            "c_percent": "60",
+            "d_percent": "54",
+            "e_percent": "47",
+            "r_percent": "53"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The most infamous and widely publicized attack committed by the Palestinian terrorist organization Black September took place in what city?",
+            "answer": "munich",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "55",
+            "e_percent": "34",
+            "r_percent": "51"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In January 1893, to differentiate itself from a similarly named local competitor, what publication began printing on salmon pink paper, a tradition it continues to this day?",
+            "answer": "financial times",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What state in northern India, renamed in 1950 from the post-independence United Provinces, has a population of about 200 million, more than all but five countries of the world?",
+            "answer": "uttar pradesh",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "43",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The golf club sometimes designated as the \"10-iron\" is most often known by what two-word name?",
+            "answer": "pitching wedge",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "53",
+            "c_percent": "47",
+            "d_percent": "44",
+            "e_percent": "40",
+            "r_percent": "46"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The real-life Behavioral Analysis Unit, a department within the FBI's National Center for the Analysis of Violent Crime based in Quantico, Virginia, is the primary setting for what fictional crime drama series, which has run on the CBS network since its debut in September 2005?",
+            "answer": "criminal minds",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "56",
+            "d_percent": "48",
+            "e_percent": "41",
+            "r_percent": "47"
+        }
+    ]
+}

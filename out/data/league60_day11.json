@@ -1,0 +1,79 @@
+{
+    "date": "March 4, 2014",
+    "league": 60,
+    "day": 11,
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "In January of 1906, a U.S. patent was granted for an \"Apparatus for Treating Air\" to what American engineer and businessman, whose name remains prominent in the field via his namesake corporation?",
+            "answer": "willis carrier",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "46",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "31"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Identify the pop music superstar who adopted a stage name using her mother's maiden name, versus her own last name, in order to avoid confusion with a 2000 Academy Award nominee.",
+            "answer": "katy perry",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "56",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Of the four humors, which composed a commonly held view of the human body before the advent of modern medicine, which one corresponded to winter, and the classical element water?",
+            "answer": "phlegm",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "48",
+            "c_percent": "43",
+            "d_percent": "35",
+            "e_percent": "15",
+            "r_percent": "37"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "This photo shows the northern end of an area known (in English) as \"Museum Island\". What is the local name for the taller object at the left, in the distance?  ",
+            "answer": "fernsehturm",
+            "image": "/images/art/5908uc0m35u0.jpg",
+            "a_percent": "25",
+            "b_percent": "18",
+            "c_percent": "13",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "After almost 7,000 one-hour daily episodes, whose television talk show aired its final program in September of 1996, giving it the longest continuous run of any syndicated talk show in U.S. television history (a distinction it still holds today)?",
+            "answer": "phil donahue",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "71",
+            "c_percent": "70",
+            "d_percent": "55",
+            "e_percent": "41",
+            "r_percent": "49"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Apart from the first  Pomp and Circumstance March, the best-known work of English composer Edward Elgar is likely a set of fourteen variations which are formally titled Variations on an Original Theme for Orchestra, but are better known as what?",
+            "answer": "enigma variations",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "40",
+            "c_percent": "41",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "16"
+        }
+    ]
+}

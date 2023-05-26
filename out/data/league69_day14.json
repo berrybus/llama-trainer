@@ -1,0 +1,79 @@
+{
+    "date": "June 14, 2016",
+    "league": 69,
+    "day": 14,
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Roger Corman's The Masque of the Red Death (1964), Woody Allen's Love and Death (1975), John McTiernan's Last Action Hero (1993), and Peter Hewitt's Bill & Ted's Bogus Journey (1991) all contain scenes that reference and/or parody (or at least recall) the imagery of what 1957 film?",
+            "answer": "the seventh seal",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "32",
+            "e_percent": "16",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The Cailletier is a cultivar of what popular culinary item? Grown in the Alpes-Maritimes region of France around Nice, it is extremely common (and perhaps essential) in dishes described as à la niçoise.",
+            "answer": "olive",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Pesticides and other chemicals were produced in a factory built in 1969 and finally closed in the mid-1980s in the Indian city of Bhopal.  Name the chemical company, now a subsidiary of Dow, that operated this facility.",
+            "answer": "union carbide",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "62",
+            "c_percent": "45",
+            "d_percent": "32",
+            "e_percent": "15",
+            "r_percent": "35"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A measure introduced in 1805 to help mariners with handling ships uses numbers zero through seventeen to indicate wind speed both on land and at sea (though often only numbers up to twelve are used). This scale was devised by and named for what British naval Commander and future Rear Admiral?",
+            "answer": "francis beaufort",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "20",
+            "e_percent": "8",
+            "r_percent": "23"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "According to one measure based on median household income, the wealthiest county in the United States, with a median household income hovering around $120,000, is Loudoun County, in what state?",
+            "answer": "virginia",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "46",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Harold Baines, Edgar Martinez, Paul Molitor, Frank Thomas, and Ron Blomberg are all former baseball players closely associated with Major League Baseball Rule 5.11(a), which involves what?",
+            "answer": "designated hitter",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "49",
+            "e_percent": "39",
+            "r_percent": "51"
+        }
+    ]
+}

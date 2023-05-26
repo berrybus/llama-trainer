@@ -1,0 +1,79 @@
+{
+    "date": "November 30, 2016",
+    "league": 71,
+    "day": 10,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "This montage contains photographs by what Danish-born social justice reformer and police reporter for the  New York Tribune? ",
+            "answer": "jacob riis",
+            "image": "/images/art/23984y9n248y5.jpg",
+            "a_percent": "62",
+            "b_percent": "44",
+            "c_percent": "32",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the 1974 film loosely inspired by the real-life story of farmer and handyman Ed Gein (although Gein himself lived his entire life in Wisconsin).",
+            "answer": "the texas chain saw massacre (also deranged)",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "59",
+            "c_percent": "42",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "1990's I'm Your Baby Tonight was what artist's first full-length album not to reach #1 on the Billboard 200 album chart, as well as her first not to be titled eponymously?",
+            "answer": "whitney houston",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "53",
+            "d_percent": "49",
+            "e_percent": "38",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What prefix, which is derived from the Greek for \"deep,\" precedes \"-scaphe\" and \"-sphere\" in terms for vessels used to explore the ocean depths?",
+            "answer": "bathy",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "28",
+            "r_percent": "43"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A particular political movement, formed between 1945 and 1946 and still strong today, and formally labeled justicialismo in 1949, has transformed and modified over the years but is a general amalgam of populist nationalism, social democracy, and economic independence. Perhaps mostly, it can be described as loyalty to what person (and his memory), after whom the movement is also commonly named?",
+            "answer": "juan perón",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "52",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "10",
+            "r_percent": "27"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Which African country has the continent's longest coastline on the Atlantic Ocean, running from the mouth of the Congo River in the north to the Namibian border on the Kunene River in the south (plus an exclave to the north)?",
+            "answer": "angola",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "59",
+            "d_percent": "42",
+            "e_percent": "22",
+            "r_percent": "39"
+        }
+    ]
+}

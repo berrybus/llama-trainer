@@ -1,0 +1,79 @@
+{
+    "date": "December 3, 2015",
+    "league": 67,
+    "day": 15,
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The equation that considers the electron in terms of waves of probability, and specifies how these waves are affected by external forces—the basis for wave mechanics—is named after what Austrian physicist and Nobel Laureate who developed the equation in 1925?",
+            "answer": "erwin schrödinger",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "When it was admitted to the union in 1907, what US state's capital city was Guthrie, before relocating 32 miles south to its present location in 1910? (Note: name the state.)",
+            "answer": "oklahoma",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "56",
+            "d_percent": "37",
+            "e_percent": "23",
+            "r_percent": "41"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Pictured here is a screenshot from what 2015 movie megaflop? ",
+            "answer": "jem and the holograms",
+            "image": "/images/art/78y5987c4ny958.jpg",
+            "a_percent": "75",
+            "b_percent": "66",
+            "c_percent": "60",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "55"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "1914's \"Keep the Home Fires Burning,\" popular in the UK during WWI, is the most famous song from what Welsh composer and actor? His legacy also endures through his namesake awards for composing and songwriting, presented annually by the British Academy of Songwriters, Composers, and Authors?",
+            "answer": "ivor novello",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "19",
+            "c_percent": "10",
+            "d_percent": "6",
+            "e_percent": "2",
+            "r_percent": "6"
+        },
+        {
+            "category": "ART",
+            "prompt": "A certain style of three-quarter length portrait painting, instanced in the work pictured here, is known by what name, based on an early 18th-century English organization of aristocratic Whigs? Members' portraits in this style, painted by fellow member Sir Godfrey Kneller, were hung in the group's meeting place, and are now in the collection of London's National Portrait Gallery. ",
+            "answer": "kit-cat",
+            "image": "/images/art/5896uv0m958.jpg",
+            "a_percent": "19",
+            "b_percent": "10",
+            "c_percent": "5",
+            "d_percent": "2",
+            "e_percent": "1",
+            "r_percent": "3"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Howard Cosell's famous exclamation \"Down goes Frazier! Down goes Frazier! Down goes Frazier!\" occurred less than two minutes into a fight that took place in January 1973 in Kingston, Jamaica, and was billed as \"The Sunshine Showdown.\" Who was Joe Frazier's opponent in that fight?",
+            "answer": "george foreman",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "37"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 19,
+    "date": "December 7, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The four most popular series of casual games developed by the digital entertainment company King have three-word names, and begin with Candy Crush, Bubble Witch, Pet Rescue, and Farm Heroes. What single word concludes the names of all of these series?",
+            "answer": "saga",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "71",
+            "e_percent": "65",
+            "r_percent": "71"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Used commonly to add flavor to potato, stuffing, chicken, and turkey dishes, among many others, what herb has a name derived from the Latin for \"dew of the sea\" (and not from any particular woman, as might be supposed)? ",
+            "answer": "rosemary",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "85",
+            "c_percent": "84",
+            "d_percent": "81",
+            "e_percent": "74",
+            "r_percent": "81"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Aeroporto Internazionale Federico Fellini is the primary airport serving visitors to what country (although it is not located in that country)?",
+            "answer": "san marino",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A sudden forte drumbeat in the piece's second movement gives Franz Joseph Haydn's Symphony in G Major, No. 94, what common nickname in English?",
+            "answer": "surprise symphony",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "50",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Identify the author of the 1849 novel Shirley, whose setting is the Yorkshire wool industry at the end of the Napoleonic Wars and whose titular character is modeled after the author's sister, Emily?",
+            "answer": "charlotte bront\u00eb",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "70",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "51",
+            "r_percent": "57"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Mexico's 2018 presidential election was won in a landslide by a center-left populist who is commonly referred to by what initials?",
+            "answer": "amlo",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "41",
+            "c_percent": "32",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "23"
+        }
+    ]
+}

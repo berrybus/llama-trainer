@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 11,
+    "date": "November 21, 2022",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What Ford Motor Company brand, created originally to offer a premium vehicle to Ford's customers, was in existence for over 70 years before ending production early in the first quarter of 2011?",
+            "answer": "mercury",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "47",
+            "c_percent": "38",
+            "d_percent": "31",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The \"Authorized Version\" of the Bible, which was published in 1611, was an English translation of the Bible produced by a panel of the era's leading scholars and commissioned by whom?",
+            "answer": "king james (vi and i)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "94",
+            "d_percent": "90",
+            "e_percent": "79",
+            "r_percent": "80"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Jeff Corwin Experience; Weird, True & Freaky; Untamed & Uncut; and Crikey! It's the Irwins are all television series that have been broadcast on what network?",
+            "answer": "animal planet",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "64",
+            "d_percent": "58",
+            "e_percent": "50",
+            "r_percent": "52"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name, from the Hindi for \"to lick\", for the array of popular savory street-food snacks sold at roadside stalls and food carts across the Indian subcontinent?",
+            "answer": "chaat",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "27",
+            "c_percent": "25",
+            "d_percent": "18",
+            "e_percent": "12",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A famous commentary by Julius Caesar begins with the statement, \"[REDACTED] est omnis divisa in partes tres, quarum unam incolunt Belgae.\" What region's name is redacted in the quote? (English or the original Latin is acceptable.)",
+            "answer": "gaul/gallia",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "60",
+            "d_percent": "45",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Tom Verlaine, Richard Lloyd, Billy Ficca, and Richard Hell were founding members in 1973 of what cult-favorite punk rock band and CBGB regular that was named after a technology invented a few decades prior?",
+            "answer": "television",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "46",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "16",
+            "r_percent": "27"
+        }
+    ]
+}

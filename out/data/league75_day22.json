@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 22,
+    "date": "December 15, 2017",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A term derived from the Italian for \"beautiful singing\" has been defined as a vocal style, popular in Italy in the 18th and early 19th centuries, which emphasizes technique and tone over dramatic expression. What is this term?",
+            "answer": "bel canto",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "54",
+            "d_percent": "38",
+            "e_percent": "20",
+            "r_percent": "39"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "As a result of a 1993 independence referendum that finished with 99.83% of voters in favor, what nation replaced Uganda as the world's most populous landlocked country?",
+            "answer": "ethiopia",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "31",
+            "c_percent": "21",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "15"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What name is shared by the only daughter of Menelaus and Helen from Greek legend, the saintly wife of Sicilian king Leontes in Shakespeare's Winter's Tale, and (likely) literature's most prominent only child of English dentists?",
+            "answer": "hermione",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "50"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Following the retirement of Larry King from CNN in late 2010, what former newspaper editor hosted his own namesake talk show in King's timeslot until its cancellation due to very low ratings in 2014?",
+            "answer": "piers morgan",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "46",
+            "e_percent": "36",
+            "r_percent": "46"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "First proposed in August 1776 by John Adams, Benjamin Franklin, and Thomas Jefferson, what motto on the seal of the United States was not officially adopted until 1782, and first appeared in an official capacity on a New Jersey coin in 1786? The phrase was a de facto motto of the U.S. until a 1956 act of Congress made \"In God We Trust\" the country's official motto.",
+            "answer": "e pluribus unum",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "93",
+            "d_percent": "89",
+            "e_percent": "74",
+            "r_percent": "81"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The performance of what actress did Walter Kerr, writing for the New York Herald Tribune in a 1959 Broadway review, describe as a \"brassy, brazen witch on a mortgaged broomstick, a steamroller with cleats, the very mastodon of all stage mothers\"?",
+            "answer": "ethel merman",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "31",
+            "d_percent": "23",
+            "e_percent": "11",
+            "r_percent": "22"
+        }
+    ]
+}

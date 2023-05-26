@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 22,
+    "date": "September 20, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A quotation from Act 5 in Shakespeare's Macbeth, uttered by the title character, which begins \"[Life] is a tale, told by an idiot...\" and ends with \"signifying nothing\" informs the title, and forms the very basis, of what 1929 novel?",
+            "answer": "the sound and the fury",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "74",
+            "d_percent": "59",
+            "e_percent": "34",
+            "r_percent": "51"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The simplest and most authentic Italian version of the dish known as spaghetti alla carbonara contains four main ingredients (not including olive oil, salt, and pepper):  spaghetti, cured pork (guanciale/pancetta), grated hard cheese (e.g., Parmigiano-Reggiano), and what fourth ingredient?",
+            "answer": "eggs",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "66",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "43",
+            "r_percent": "51"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What is the name given to the theory, first articulated by President Eisenhower in an April 1954 news conference during the Viet Minh/French battle at Dien Bien Phu, that was used by successive administrations to justify American intervention in global affairs in an effort to prevent the sequential falling of countries under communist influence?",
+            "answer": "domino theory",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "78",
+            "d_percent": "69",
+            "e_percent": "47",
+            "r_percent": "62"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Dolly Parton has had dozens and dozens of hits as a solo artist and in duets with Porter Wagoner, Kenny Rogers, and others. However, among the thousands of songs she has written, her greatest success is due in large part to a recording by another artist, which was an international hit in 1992. Name this other artist, a superstar in her own right.",
+            "answer": "whitney houston",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "61",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Travis Kalanick was, until June 2017, the CEO of what company, which he cofounded in 2009 and led starting in 2010?",
+            "answer": "uber",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "92",
+            "d_percent": "89",
+            "e_percent": "82",
+            "r_percent": "85"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Academy Award-winning 1994 film documentary subtitled A Strong Clear Vision is the story of an American artist and the famous commission she received thirteen years earlier, while still an undergraduate at Yale University. Who is that artist?",
+            "answer": "maya lin",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "47",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "28"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 12,
+    "date": "May 31, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In 1985, former University of Kansas star Lynette Woodard became the first woman to join what team as an official member?",
+            "answer": "harlem globetrotters",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "61",
+            "d_percent": "50",
+            "e_percent": "37",
+            "r_percent": "45"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Melting butter in hot water, adding flour, cooking that mixture until smooth, beating in eggs one by one, and piping through a forcing bag\u2014this is a method for preparing what type of pastry, used for making \u00e9clairs, beignets, churros, and French crullers?",
+            "answer": "choux",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "39",
+            "d_percent": "32",
+            "e_percent": "22",
+            "r_percent": "29"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Vesta is the brightest (from the Earth's perspective) and Ceres\u2014at least until its formal reclassification in 2006\u2014was the largest of the celestial bodies that are known as what?",
+            "answer": "asteroids",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Pisa, Lucca, Arezzo, Livorno, and Siena are among the provinces in what Italian region, which also includes the city of Florence?",
+            "answer": "tuscany",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "71",
+            "e_percent": "55",
+            "r_percent": "66"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the name of the painting technique, similar (and related) to divisionism, which is closely associated with the French post-impressionist Georges Seurat, and perhaps most closely associated with his A Sunday Afternoon on the Island of La Grande Jatte?",
+            "answer": "pointillism",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "89",
+            "d_percent": "82",
+            "e_percent": "62",
+            "r_percent": "72"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The symbol pictured here is used in the field of geometry specifically to denote that two items\u2014such as line segments, circles, triangles, or angles\u2014are what? ",
+            "answer": "congruent",
+            "image": "/images/art/35089cty49t5.jpg",
+            "a_percent": "71",
+            "b_percent": "59",
+            "c_percent": "55",
+            "d_percent": "45",
+            "e_percent": "36",
+            "r_percent": "40"
+        }
+    ]
+}

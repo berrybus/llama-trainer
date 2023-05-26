@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 14,
+    "date": "March 11, 2021",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The bar must be laid horizontally in front of the lifter's feet, gripped with an optional grip in both hands and lifted upward until the lifter is standing erect and with knees locked. This is an excerpt from the International Powerlifting Federation's Rules of Performance for which of the \"Big Three\" powerlifts?",
+            "answer": "deadlift",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "67",
+            "c_percent": "68",
+            "d_percent": "69",
+            "e_percent": "71",
+            "r_percent": "74"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Seo Taiji and Boys were pioneers, in particular with their debut 1992 hit \"Nan Arayo (I Know)\", in the modern form of what musical genre? ",
+            "answer": "k-pop",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "71",
+            "c_percent": "64",
+            "d_percent": "59",
+            "e_percent": "56",
+            "r_percent": "62"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In the famous nursery rhyme's first eight-line stanza, Mary's little lamb whose fleece was white as snow followed her everywhere, including to what specific location?",
+            "answer": "school",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "72",
+            "e_percent": "59",
+            "r_percent": "70"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What dentistry specialty focuses on the treatment of diseases of the gingiva and other dental supporting structures, as well as placement of dental implants?",
+            "answer": "periodontics",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "61",
+            "d_percent": "53",
+            "e_percent": "40",
+            "r_percent": "48"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While it had only two female speaking roles in the entire film, both minor (plus numerous non-speaking women, mostly billed as \"stewardesses\"), this film's most prominent speaking role\u2014a non-human\u2014was reportedly in early drafts named Athena and had a woman's voice. What is this movie?",
+            "answer": "2001: a space odyssey",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "78",
+            "c_percent": "73",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "54"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In the late 1970s, attorneys for Dan White, the former San Francisco Supervisor who assassinated Mayor George Moscone and Supervisor Harvey Milk, blamed their client's actions on depression and diminished mental capacity which were indicated by his overindulgence in sugary food. This claim came to be known as what \"defense\"?",
+            "answer": "twinkie defense",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "61",
+            "d_percent": "47",
+            "e_percent": "30",
+            "r_percent": "41"
+        }
+    ]
+}

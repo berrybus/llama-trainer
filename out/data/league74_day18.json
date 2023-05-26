@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 18,
+    "date": "September 14, 2017",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the medical name of the periodontal disease that is inflammation of the gums, indicated by redness, swelling, and bleeding, and which can lead to the more serious periodontitis?",
+            "answer": "gingivitis",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "97",
+            "d_percent": "95",
+            "e_percent": "93",
+            "r_percent": "93"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Kiribati, Guam, Palau, the Marshall Islands, the Northern Mariana Islands, Nauru, and hundreds of other islands (including the namesake Federated States) comprise a region of Oceania known as what?",
+            "answer": "micronesia",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "83",
+            "c_percent": "81",
+            "d_percent": "64",
+            "e_percent": "42",
+            "r_percent": "56"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "\"Women are like that\" is the rough but common English translation of the title of what Mozart opera?",
+            "answer": "cos\u00ec fan tutte",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "58",
+            "c_percent": "44",
+            "d_percent": "29",
+            "e_percent": "12",
+            "r_percent": "29"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "With the single exception of 1989, when Darrell Waltrip passed the checkered flag on Hoosier tires, every Daytona 500 winner since 1969 has driven on tires from what manufacturer?",
+            "answer": "goodyear",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "69",
+            "c_percent": "66",
+            "d_percent": "63",
+            "e_percent": "61",
+            "r_percent": "64"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In October 1984, Barbara Bush characterized whom as a \"four-million-dollar\u2014I can't say it, but it rhymes with rich,\" following a lively debate the person in question had with Mrs. Bush's husband a few days prior?",
+            "answer": "geraldine ferraro",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "56",
+            "e_percent": "36",
+            "r_percent": "48"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Two locations in New York City's 12th Precinct in Greenwich Village\u2014the detectives' squad room and the titular captain's office\u2014are the only sets for most episodes of what television sitcom that aired from 1974 to 1982? ",
+            "answer": "barney miller",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "55",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "30"
+        }
+    ]
+}

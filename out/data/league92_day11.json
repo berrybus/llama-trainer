@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 11,
+    "date": "March 1, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "An Isaac Bashevis Singer short story subtitled \"The Yeshiva Boy\" was turned into what 1983 movie musical (the directorial debut of the film's star)?",
+            "answer": "yentl",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "62",
+            "d_percent": "47",
+            "e_percent": "30",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name in biochemistry for the pyrimidine base, part of the genetic code of RNA, that pairs with adenine during the process of transcription and is replaced by thymine in DNA?",
+            "answer": "uracil",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "12",
+            "r_percent": "19"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Among the dumb challenges that went viral on TikTok and other social media in 2021, one of the more dangerous emerged in August, in which a brave (or foolish) soul would attempt to traverse an arrangement of what precariously stacked objects, with the clips often ending in group laughter and personal injury?",
+            "answer": "milk crates",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "61",
+            "c_percent": "57",
+            "d_percent": "53",
+            "e_percent": "49",
+            "r_percent": "52"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What colloquial term for a metaphorical dessert, the eating of which means to apologize or be submissive to the point of humiliation, dates from around 1830 and was used for the name of an English rock band in 1969?",
+            "answer": "humble pie",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "74",
+            "e_percent": "61",
+            "r_percent": "65"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A Latinized word for the former European kingdom in which the German cities of Dortmund and M\u00f6nchengladbach were once located lives on in the names of professional football (soccer) clubs in these two cities. What is that Latinized name?",
+            "answer": "borussia",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "40",
+            "c_percent": "33",
+            "d_percent": "25",
+            "e_percent": "18",
+            "r_percent": "24"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Montreal-born jazz legend Oscar Peterson was a virtuoso on what instrument, and was duly voted the best at this instrument by DownBeat magazine every year from 1950 to 1962?",
+            "answer": "piano",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "26",
+            "e_percent": "15",
+            "r_percent": "26"
+        }
+    ]
+}

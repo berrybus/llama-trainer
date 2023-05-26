@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 24,
+    "date": "September 10, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Debby Applegate's 2007 Pulitzer-winning The Most Famous Man in America is a biography of what 19th-century clergyman, abolitionist, and adulterous opportunist? It is possible both that the book's title was once accurate and that he is less remembered today than his sister.",
+            "answer": "henry ward beecher",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "38",
+            "c_percent": "26",
+            "d_percent": "15",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Dyn-o-mite! is a 2012 memoir by an actor and comic who achieved superstar status while appearing on what television series in the 1970s?",
+            "answer": "good times",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "40",
+            "e_percent": "27",
+            "r_percent": "36"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Originally known as water ballet, the sport officially named \"artistic swimming\" by the International Swimming Federation (FINA) was known, until a formal name change in 2017, by what other name (by which it is still widely known today)?",
+            "answer": "synchronized swimming",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "98",
+            "d_percent": "98",
+            "e_percent": "95",
+            "r_percent": "96"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Travelers making the 130-mile trip southbound from Rome to Capua during the 3rd century BCE very likely took what thoroughfare, named after the Roman magistrate who began it in 312 BCE?",
+            "answer": "appian way (via appia)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "67",
+            "d_percent": "50",
+            "e_percent": "27",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In the sciences, the term \"katabatic\", which is derived from the Greek for \"downward\", is most often used to describe what phenomenon?",
+            "answer": "wind",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "28",
+            "c_percent": "20",
+            "d_percent": "13",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In most European nations, the country's most populous city is its capital. Excluding transcontinental countries like Turkey, there are four exceptions: Liechtenstein, Malta, San Marino, and\u2014by far the biggest of the four\u2014what Central European country, whose major global financial center is three times larger than its de facto capital?",
+            "answer": "switzerland",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "67",
+            "e_percent": "52",
+            "r_percent": "60"
+        }
+    ]
+}

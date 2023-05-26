@@ -1,0 +1,79 @@
+{
+    "date": "March 20, 2017",
+    "league": 72,
+    "day": 20,
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the name of the man in this photograph? ",
+            "answer": "rodrigo duterte",
+            "image": "/images/art/3948c5t0m389tc.jpg",
+            "a_percent": "68",
+            "b_percent": "55",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "38"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Grand Island, Fremont, Hastings, Papillion, and Bellevue are among the ten most populous cities in which U.S. state?",
+            "answer": "nebraska",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "12",
+            "r_percent": "20"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Unripe berries of pimenta genus trees of the Caribbean, Honduras, and Mexico, are ground into a powder that is commonly used to season sausages, pickles, desserts, and Cincinnati-style chili. Known as Jamaica pepper, it is sometimes mistaken for a mixture due to its odor (reminiscent of nutmeg, cinnamon, and cloves) and is most often sold and marketed under what other name?",
+            "answer": "allspice",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "57",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 1879 Dual Alliance between the German and Austro-Hungarian empires assured \"benevolent neutrality\" in the case of attack from any power, with the exception of one, an attack from which the alliance guaranteed greater \"reciprocal protection.\" What common foe was that exception?",
+            "answer": "russia",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "60",
+            "d_percent": "52",
+            "e_percent": "46",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In 1348, the year of the Black Death, seven young women and three young men meet in a church in Florence and escape from the city to the hills of Fiesole, telling stories during ten days of the trip. These stories form the collection of tales that make up what masterpiece of classical Italian literature?",
+            "answer": "the decameron",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "32",
+            "e_percent": "13",
+            "r_percent": "30"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The chart-topping 2016 single \"Panda\" was the debut release from Brooklyn-born rap artist Sidney Royel Selby III, who goes by what oddly spelled stage name? (Correct spelling is not required.)",
+            "answer": "desiigner",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "29",
+            "c_percent": "24",
+            "d_percent": "20",
+            "e_percent": "17",
+            "r_percent": "26"
+        }
+    ]
+}

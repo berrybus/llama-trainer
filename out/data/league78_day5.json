@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 5,
+    "date": "August 24, 2018",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "In 1894, \"Favrile\" was registered as a trademark by what American decorative artist, who also patented its production process that same year and remains inextricably linked with its aesthetic?",
+            "answer": "louis comfort tiffany",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Cuba is the largest island in the Caribbean Sea by area, and Jamaica is the third largest. What is the name of the Caribbean's second-largest island?",
+            "answer": "hispaniola",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "57",
+            "r_percent": "55"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What three words fill in the blanks in this quote, Article II Section 4 of the U.S. Constitution? \"The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other _______ _______ and _______.\"",
+            "answer": "high, crimes, misdemeanors",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "71",
+            "e_percent": "50",
+            "r_percent": "62"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The very first website, which was devoted to the World Wide Web project itself, was hosted on a NeXT computer at the site of an international organization known by what acronym?",
+            "answer": "cern",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Give either the Italian or the Japanese 2018 equivalent of the British Silverstone, the French Le Castellet, the German Hockenheim, the Belgian Stavelot, and the United States' Austin.",
+            "answer": "monza, suzuka",
+            "image": null,
+            "a_percent": "25",
+            "b_percent": "13",
+            "c_percent": "11",
+            "d_percent": "8",
+            "e_percent": "6",
+            "r_percent": "7"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"Once upon a midnight dreary, while I pondered, weak and weary...\" So begins the first stanza of what poem?",
+            "answer": "the raven",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "91",
+            "d_percent": "83",
+            "e_percent": "70",
+            "r_percent": "76"
+        }
+    ]
+}

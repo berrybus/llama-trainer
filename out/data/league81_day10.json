@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 10,
+    "date": "June 5, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Give any common name for the first item in an ordered list that is followed by Chhogori, Kanchenjunga, Lhotse, Makalu, Cho Oyu, and Dhaulagiri?",
+            "answer": "mount everest/sagarmatha/chomolungma",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "52",
+            "c_percent": "37",
+            "d_percent": "26",
+            "e_percent": "11",
+            "r_percent": "25"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the rock guitarist who has been called the Space Cowboy, the Gangster of Love, and Maurice (for some odd reason), and has helmed his namesake band since 1966.",
+            "answer": "steve miller",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "71",
+            "e_percent": "60",
+            "r_percent": "69"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Symphonies by Ludwig van Beethoven and Ralph Vaughan Williams were given titles that are also the name for a literary genre which includes Edmund Spenser's The Shepheardes Calender, John Milton's Lycidas, and Percy Bysshe Shelley's Adona\u00efs. What is that title/genre?",
+            "answer": "pastoral",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "28",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Offred, Ofglen (Ofstephen/Ofjoseph), and Ofwarren (Ofdaniel) are names of characters from what current television series? ",
+            "answer": "the handmaid's tale",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "71",
+            "e_percent": "59",
+            "r_percent": "65"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term for the force (or effect) that causes winds to deviate to the right in the Northern Hemisphere and to the left in the Southern Hemisphere? It is named after the French engineer who described the physical phenomenon in 1835.",
+            "answer": "coriolis force",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "41",
+            "r_percent": "50"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The plot of a certain sexually provocative 1973 novel involves its protagonist Isadora Wing's literal and metaphorical fear of what?",
+            "answer": "flying",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "59",
+            "d_percent": "45",
+            "e_percent": "27",
+            "r_percent": "40"
+        }
+    ]
+}

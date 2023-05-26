@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 12,
+    "date": "September 14, 2022",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the American evangelist who was the inspiration and prototype for the character Sharon Falconer in Sinclair Lewis's Elmer Gantry (1927) and Mrs. Melrose Ape in Evelyn Waugh's Vile Bodies (1930), as well as Sister Alice in the 2020 HBO Perry Mason reboot.",
+            "answer": "aimee semple mcpherson",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "25",
+            "c_percent": "16",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "ART",
+            "prompt": "What word, common in nephology (the study of clouds), is also used for the halo that surrounds the heads of sacred individuals in religious artwork?",
+            "answer": "nimbus",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "42",
+            "d_percent": "33",
+            "e_percent": "24",
+            "r_percent": "33"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What literary term, originally used in the Middle Ages for tales of chivalry and adventure before taking on its modern connotation, is derived from the vernacular languages in which these popular tales were written? ",
+            "answer": "romance",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The Castilian ballads, Andalusian fandangos, and Galician panpipes in the 1955 installment of folklorist Alan Lomax's World Library Of Folk And Primitive Music inspired what 1960 jazz masterpiece by Miles Davis, who kicked off the album with the sixteen-minute \"Concierto de Aranjuez\"?",
+            "answer": "sketches of spain",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "17"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The multinational risk advisory and insurance brokerage Willis Group (Willis Towers Watson as of 2016) is famous for, in an edificial sense, supplanting in 2009 what American corporation?",
+            "answer": "sears",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "65",
+            "e_percent": "49",
+            "r_percent": "54"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The port and military station Ceuta, famous as one of the world's territorial exclaves, is located at the eastern end of what strait?",
+            "answer": "strait of gibraltar",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "50",
+            "r_percent": "64"
+        }
+    ]
+}

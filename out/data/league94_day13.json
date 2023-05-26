@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 13,
+    "date": "September 15, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Brumaire, Germinal, Vent\u00f4se, and Thermidor were, for around 12 years beginning in 1793, names used for what? ",
+            "answer": "months (of the french revolutionary calendar)",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "62",
+            "c_percent": "46",
+            "d_percent": "28",
+            "e_percent": "12",
+            "r_percent": "29"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Hair, A Chorus Line, and Hamilton are among the many Broadway shows that got their start off-Broadway at what venue, on New York's Lafayette Street, opened by Joseph Papp in 1967 and so named for its founding principle that \"art and culture belong to everyone\"?",
+            "answer": "public theater",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "32",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A pale face with dark rings around large eyes is among the distinctive features of what primate native to forests of South and Southeast Asia, three types of which are the \"slender\", the \"slow\", and the \"pygmy slow\"?",
+            "answer": "loris",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "46",
+            "c_percent": "38",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "MATH",
+            "prompt": "x2/a2 + y2/b2 = 1 \u2014 This equation produces a curve known typically as what?",
+            "answer": "ellipse",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "36",
+            "c_percent": "30",
+            "d_percent": "25",
+            "e_percent": "20",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A two-word nickname for the witch Nannie in Robert Burns's 1791 poem Tam O'Shanter was used as the name of what famed British clipper ship that first launched in 1869, and then subsequently for the blended Scotch whiskey created in 1923 that uses the ship as its logo? ",
+            "answer": "cutty sark",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "51",
+            "e_percent": "33",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Among the successful series produced by the Canadian animation studio Nelvana is a show based on books by Rosemary Wells that features an energetic and playful 3-year-old bunny in blue overalls named Max, and his responsible and protective older sister named what? ",
+            "answer": "ruby",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "36",
+            "c_percent": "30",
+            "d_percent": "24",
+            "e_percent": "22",
+            "r_percent": "33"
+        }
+    ]
+}

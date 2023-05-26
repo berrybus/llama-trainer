@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 23,
+    "date": "September 21, 2017",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the brand name of the products manufactured by the McIlhenny Company of Avery Island, Louisiana?",
+            "answer": "tabasco",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "77",
+            "d_percent": "66",
+            "e_percent": "49",
+            "r_percent": "63"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What hydrocarbon is commonly added to gasoline to prevent knocking from the uneven burning of fuel in internal combustion engines?",
+            "answer": "(iso-)octane",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "42",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "31"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 2014 film Annabelle and its 2017 prequel Annabelle: Creation are parts of a \"universe\" that began with what 2013 horror film (after which the franchise is named)?",
+            "answer": "the conjuring",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "35",
+            "c_percent": "30",
+            "d_percent": "25",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the river that arises in the northern Burmese Kachin State and runs south through Mandalay before emptying into the Andaman Sea at its delta near Yangon (Rangoon).",
+            "answer": "irrawaddy",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "27",
+            "c_percent": "17",
+            "d_percent": "9",
+            "e_percent": "3",
+            "r_percent": "11"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Gear and items used to ride or use horses, such as saddles, bits, harnesses, stirrups, halters, bridles, etc., are known collectively by what term? This word, probably a shortening of a more general term for \"equipment,\" is also used for the room near the stable where such items are stored.",
+            "answer": "tack",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "63",
+            "c_percent": "55",
+            "d_percent": "49",
+            "e_percent": "39",
+            "r_percent": "49"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Naomi Campbell, Cindy Crawford, Linda Evangelista, Tatjana Patitz, and Christy Turlington were among the lip-synchers who appeared in an iconic David Fincher-directed 1990 music video by what artist?",
+            "answer": "george michael",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "39",
+            "c_percent": "33",
+            "d_percent": "28",
+            "e_percent": "21",
+            "r_percent": "28"
+        }
+    ]
+}

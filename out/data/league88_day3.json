@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 3,
+    "date": "February 24, 2021",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the Italian term for the region known in English as Southern Italy, roughly equivalent geographically with the pre-unification Kingdom of Naples? This term refers to the intensity of the midday sun in the southern portion of the Italian peninsula.",
+            "answer": "mezzogiorno",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "18",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "11"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The title of a critically acclaimed, Oscar-nominated coming-of-age film from 2017, when its two words are combined into one and repeated, becomes the title of a 1994 British film taken directly from the first words of a nursery rhyme. What is the title of either film?",
+            "answer": "lady bird/ladybird, ladybird",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "51",
+            "e_percent": "38",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the history of the Olympic Games, the winners of the gold medals in women's springboard diving (since 1988), women's synchronized platform diving (since 2000), and women's synchronized springboard diving (since 2004) have all hailed from what country?",
+            "answer": "china",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "72",
+            "d_percent": "64",
+            "e_percent": "53",
+            "r_percent": "61"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The gas-operated rifle that served as the standard light machine gun in the U.S. Army until the late 1950s was known by the abbreviation BAR, and was designed in 1917 and named after a man with what last name?",
+            "answer": "browning",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "44",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What word was coined by French mathematician Benoit Mandelbrot to refer to an irregular pattern that's self-similar in scale (i.e., where any section resembles the whole)?",
+            "answer": "fractal",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "55",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What candy is named after (or could plausibly have been named after, at least) a phase in a galaxy's evolution when it is converting gas into luminous celestial objects at an exceptionally high rate?",
+            "answer": "starburst",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "74",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "49",
+            "r_percent": "58"
+        }
+    ]
+}

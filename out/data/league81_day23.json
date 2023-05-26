@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 23,
+    "date": "June 24, 2019",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word, initially an Irish term for an outlaw (and specifically a Catholic outlaw), originated as a political term to refer to a supporter of the heir to the throne of England, Ireland, and Scotland\u2014James II of England? The term endures in Britain to denote an individual who is ideologically conservative and politically center-right.",
+            "answer": "tory",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "71",
+            "c_percent": "69",
+            "d_percent": "68",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the fourteen countries with which China shares an international land border, the longest by a significant margin (measured by either continuous border or total) is the border with what other country?",
+            "answer": "mongolia",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "64",
+            "d_percent": "60",
+            "e_percent": "48",
+            "r_percent": "55"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the Academy Award-winning film that was shot over a period of 36 days in the winter of 1953-1954 among the docks, rooftops, bars, and a historic church in Hoboken, New Jersey?",
+            "answer": "on the waterfront",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "56",
+            "e_percent": "37",
+            "r_percent": "51"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The slogan \"Quality. _______. Squared.\" (redacted here) appears on the North American packaging of the German company Ritter Sport. What is Ritter Sport's main product (which fills in that blank in the slogan)?",
+            "answer": "chocolate",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "65",
+            "c_percent": "59",
+            "d_percent": "52",
+            "e_percent": "45",
+            "r_percent": "52"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the word typically used for a plane figure whose regular version has all sides of equal length (like all regular polygons) and all interior angles of 108\u00b0?",
+            "answer": "pentagon",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "72",
+            "d_percent": "65",
+            "e_percent": "52",
+            "r_percent": "61"
+        },
+        {
+            "category": "ART",
+            "prompt": "The origin for the term for what artistic movement, represented by the works of Robert Rauschenberg, Richard Hamilton, Jasper Johns, Eduardo Paolozzi, and others, is credited separately to British artist John McHale, and critic Lawrence Alloway, both members of what was known as the Independent Group?",
+            "answer": "pop art",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "19"
+        }
+    ]
+}

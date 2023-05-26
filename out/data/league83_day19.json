@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 19,
+    "date": "December 12, 2019",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the member of the U.S. House of Representatives who made news in March 2019 for filing a lawsuit seeking $250 million in damages from Twitter for, in part, its failure to police accounts that included one claiming to be run by an unhappy cow living on the congressman's farm?",
+            "answer": "devin nunes",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What operatic superstar was known simply as \"La Divina\" (or perhaps, in her parents' native language, \"\u03a4\u03bf \u0398\u03b5\u03af\u03bf\")?",
+            "answer": "maria callas",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A drug prescribed to treat anemia is probably better known for its illegal use by athletes in endurance events (especially cyclists, including Lance Armstrong). By what three-letter abbreviation is this drug known?",
+            "answer": "epo",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "41",
+            "c_percent": "32",
+            "d_percent": "25",
+            "e_percent": "19",
+            "r_percent": "29"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 1978 peace agreement reached between President Anwar Sadat of Egypt and Prime Minister Menachem Begin of Israel is best known by what name, after the facility where the settlement was negotiated?",
+            "answer": "camp david accords",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "90",
+            "d_percent": "83",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the poker variation, played with seven cards dealt to each player from a 52-card deck plus one joker, that is based on and named after a Chinese domino game?",
+            "answer": "pai gow poker",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "30",
+            "d_percent": "24",
+            "e_percent": "18",
+            "r_percent": "21"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The names of what two 80s hair metal bands, when combined, phonetically describe most accurately the substance with which Violet (Lily Tomlin) accidentally spiked Mr. Hart's (Dabney Coleman's) coffee in the movie 9 to 5?",
+            "answer": "ratt, poison",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "58",
+            "d_percent": "46",
+            "e_percent": "31",
+            "r_percent": "42"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 15,
+    "date": "December 7, 2018",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "The Boston Port Act, the Massachusetts Government Act, the Administration of Justice Act, and the Quartering Act were laws passed in 1774 by the British parliament as punishment for the Boston Tea Party protest the previous year. These laws were referred to in Britain as the Coercive Acts, but the colonists (combining them with the contemporary Quebec Act) referred to them most often by what other adjective?",
+            "answer": "intolerable",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "72",
+            "c_percent": "59",
+            "d_percent": "42",
+            "e_percent": "23",
+            "r_percent": "43"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Prior to taking the job he occupied on the television series in which he appeared for three seasons, beloved sitcom character Ernie Pantusso held what other occupation?",
+            "answer": "(baseball) coach",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "50",
+            "c_percent": "38",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "ART",
+            "prompt": "In 1994, a 100-year-old painting was stolen from the National Gallery in Oslo. In this painting, recovered a few months later, the subject is captured in the midst of a what (per the work's title)?",
+            "answer": "scream",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "64",
+            "e_percent": "42",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Chinese literary scholarship has generally designated a particular set of works as the \"Four Classic Novels,\" which are considered the most widely read, studied and acclaimed works of pre-modern Chinese fiction. Give the most common English name for any one of these four novels, which are attributed to Luo Guanzhong, Shi Nai'an, Wu Cheng'en, and Cao Xueqin, respectively. ",
+            "answer": "romance of the three kingdoms, water margin, journey to the west/monkey, dream of the red chamber/story of the stone",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "14",
+            "e_percent": "9",
+            "r_percent": "15"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Small-time criminals Dean Keaton, Michael McManus, Fred Fenster, and Todd Hockney are four of the five title characters in what 1995 film?",
+            "answer": "the usual suspects",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "72",
+            "d_percent": "65",
+            "e_percent": "51",
+            "r_percent": "58"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A group of native peoples of the U.S. Pacific Northwest gives its name to different winds in the area and on the east side of the Rocky Mountains, as well as to various geography, flora and fauna in the region, and also to a long-serving military transport helicopter. What is that name? ",
+            "answer": "chinook",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "54",
+            "e_percent": "36",
+            "r_percent": "46"
+        }
+    ]
+}

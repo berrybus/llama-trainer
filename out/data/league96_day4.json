@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 4,
+    "date": "February 16, 2023",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Tysons, a census-designated place and commercial hub in Northern Virginia's Fairfax County, has been known officially by that name since the summer of 2016, after dropping what word from its previous name?",
+            "answer": "corner",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "56",
+            "e_percent": "45",
+            "r_percent": "47"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 794 CE, the emperor of Japan moved his capital to what city, located in present-day Kyoto? The city gave its name to the period of Japanese history from 794 to 1185, which saw (among other advancements) a flourishing of Japanese poetry and literature, including Sei Sh\u014dnagon's Pillow Book and Murasaki Shikibu's The Tale of Genji.",
+            "answer": "heian",
+            "image": null,
+            "a_percent": "23",
+            "b_percent": "12",
+            "c_percent": "7",
+            "d_percent": "4",
+            "e_percent": "1",
+            "r_percent": "6"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Most of the top-billed actors in the 1939 movie The Wizard of Oz played multiple roles in the film. The two exceptions were Judy Garland (Dorothy), and Billie Burke, who played what character in the movie (and no one else)?",
+            "answer": "glinda",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "36"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The first names of the famous entrepreneurial duo with the last names of Gates and Allen are Bill and Paul, the first names of Jobs and Wozniak are both Steve, and the first names of Procter and Gamble were William and James. What are the first names of the entrepreneurial pair with the last names Cohen and Greenfield?",
+            "answer": "ben, jerry",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "79",
+            "c_percent": "67",
+            "d_percent": "49",
+            "e_percent": "29",
+            "r_percent": "34"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "While one could argue that Detroit was the center of American pop/soul music upon the ascent of Motown Records in the early 1960s, what other US city is well represented in the genre, particularly in the 1970s, by groups such as The Stylistics, The O'Jays, Harold Melvin and the Blue Notes, and MFSB?",
+            "answer": "philadelphia",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "44",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In mathematics, while 21 \u00f7 10 equals 2 with a remainder of 1, likewise the expression 21 % 10 would evaluate to 1 (because 1 is the remainder of 21 divided by 10). In this latter expression, the % symbol represents an operation known by what term, which comes from the Latin word for \"a small measure\"?",
+            "answer": "modulo (mod)",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "37",
+            "c_percent": "32",
+            "d_percent": "30",
+            "e_percent": "24",
+            "r_percent": "28"
+        }
+    ]
+}

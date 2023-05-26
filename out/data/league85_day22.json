@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 22,
+    "date": "June 22, 2020",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the name of the archipelago that is separated from the South American mainland by the Strait of Magellan?",
+            "answer": "tierra del fuego",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "55",
+            "d_percent": "39",
+            "e_percent": "19",
+            "r_percent": "37"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Identify the mythological figure, characterized as \"memory personified\", who was the mother of Calliope, Clio, and others.",
+            "answer": "mnemosyne",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "38",
+            "c_percent": "27",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "By far, the most popular tourist attraction located in (and named after) the Chicago suburb of Brookfield is what type of facility?",
+            "answer": "zoo",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "47",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "22",
+            "r_percent": "36"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The two most successful films in the U.S. (by total gross) released in 1984, both comedies, each had at least one main castmember who had previously starred on what long-running television series?",
+            "answer": "saturday night live",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "57",
+            "r_percent": "64"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Tlapalizquixochtzin and Teotlaco were among the wives, and Chimalpopoca and Tlaltecatzin were among the children, of what tlatoani, who died in 1520?",
+            "answer": "montezuma/moctezuma",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "53"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What republic, ruled at various times by Phoenicians, Carthaginians, Romans, Byzantines, Arabs, Spanish, and Turks, is the only country to peacefully transition to democracy following the Arab Spring uprisings of 2011?",
+            "answer": "tunisia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "62",
+            "d_percent": "52",
+            "e_percent": "32",
+            "r_percent": "48"
+        }
+    ]
+}

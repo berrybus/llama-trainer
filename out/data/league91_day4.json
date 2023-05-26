@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 4,
+    "date": "November 11, 2021",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "While he was an accomplished painter, what 17th-century Neapolitan is also widely regarded as the inventor of Baroque sculpture, with numerous monumental works in Rome and the Vatican that include the design of St. Peter's Square?",
+            "answer": "giovanni lorenzo bernini",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A popular puppet show from the early days of television starred singer and comedian Fran Allison interacting with various puppets, two of whom were most prominent. Give the name of either of these two characters.",
+            "answer": "kukla, ollie",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "19"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "George and William Penrose began a business in 1783 producing flint glass in what city on the southeastern coast of Ireland, starting an association of the city with fine glass and crystal which endures to this day?",
+            "answer": "waterford",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "52",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Baku-born Russian maestro Mstislav Rostropovich is considered by many to be the 20th century's greatest virtuoso at what instrument?",
+            "answer": "cello",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "22",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A 1963 spy novel by John Le Carr\u00e9 (and its 1965 film adaptation starring Richard Burton) popularized a phrase describing a spy who seeks to abandon the tricks and dangers of the profession as one who wants to \"come in from the\" what?",
+            "answer": "cold",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "64",
+            "r_percent": "71"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Sternutation is the medical term for a convulsive reflex closely associated, by name, with what secondary Disney character?",
+            "answer": "sneezy",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "43",
+            "r_percent": "58"
+        }
+    ]
+}

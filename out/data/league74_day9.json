@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 9,
+    "date": "August 31, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Cronus, from whom the Olympians were descended, is the youngest of twelve children of Uranus and Gaia who are known collectively by what name?",
+            "answer": "titans",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "76",
+            "e_percent": "58",
+            "r_percent": "71"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What senator from Massachusetts railed against South Carolina's attempt to nullify federal legislation by proclaiming, \"Liberty and Union, now and forever, one and inseparable!\"?",
+            "answer": "daniel webster",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "50",
+            "c_percent": "37",
+            "d_percent": "24",
+            "e_percent": "10",
+            "r_percent": "27"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The most common protocol used on TCP/IP networks governing the transfer of email goes by what four-letter abbreviation? While most mail servers use it to send and receive messages, most client side applications (e.g., Apple Mail, Microsoft Outlook) use it only for sending.",
+            "answer": "smtp",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "42",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "28",
+            "r_percent": "30"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A particular popular Italian duo that is affectionately referred to as \"Cav & Pag\" is scheduled to make an appearance in New York in early 2018, featuring Roberto Alagna. What is the full name of either \"Cav\" or \"Pag\"?",
+            "answer": "cavalleria rusticana, pagliacci",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "24"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What thing severed Dr. Robert \"Rocket\" Romano's arm in a season 9 episode of the medical drama ER? Another one crushed him to death a season later, remarkably. ",
+            "answer": "helicopter",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "43",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "24",
+            "r_percent": "28"
+        },
+        {
+            "category": "ART",
+            "prompt": "\"Maiden\" is a translation of the name of what temple, whose name was also once given to the room in a home in ancient Greece where unmarried, virginal daughters lived?",
+            "answer": "parthenon",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "31",
+            "c_percent": "26",
+            "d_percent": "19",
+            "e_percent": "13",
+            "r_percent": "18"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 24,
+    "date": "June 24, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What neologism that entered widespread use in the late 1970s can be used to describe the films The Good, the Bad and the Ugly (1966), Red Dragon (2002), Monsters University (2013), Minions (2015), Fantastic Beasts and Where to Find Them (2016), and Annabelle (2014)?",
+            "answer": "prequel",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "49",
+            "r_percent": "52"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name given to the rebellion in southern China that lasted from 1850 to 1864 and aimed to overthrow the Qing dynasty and usher in a \"Heavenly Kingdom of Great Peace\"?",
+            "answer": "taiping rebellion",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "19",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "14"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "An annual event in the English town of Epsom, starting in 1780, was the model for what is today the oldest continuously observed event of its type in the U.S., first occurring in May 1875. What is the name of this American event?",
+            "answer": "kentucky derby",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "60",
+            "c_percent": "49",
+            "d_percent": "32",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What indigenous people have a name that translates from their native language to English as \"beside the water\", which makes it seem an ill-fitting name for the driest desert in North America?",
+            "answer": "mojave",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "33",
+            "r_percent": "47"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A situation where two duopolists must set a price without knowing the price the other is setting is an example of a game theory concept that shows the disadvantages of not being able to reach binding agreements. This particular concept is most commonly known by what term, as dubbed by mathematician Albert W. Tucker (referencing the hypothetical individuals in his interpretation)?",
+            "answer": "prisoners' dilemma",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "56",
+            "c_percent": "50",
+            "d_percent": "44",
+            "e_percent": "37",
+            "r_percent": "48"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Anton Bruckner's No. 9, Edward Elgar's Third, Franz Schubert's No. 8, Gustav Mahler's No. 10, and Pyotr Ilyich Tchaikovsky's Symphony in E-flat Major are all symphonies that have what in common, most distinctively?",
+            "answer": "unfinished/incomplete/posthumous",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "13",
+            "r_percent": "24"
+        }
+    ]
+}

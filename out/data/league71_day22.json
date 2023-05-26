@@ -1,0 +1,79 @@
+{
+    "date": "December 16, 2016",
+    "league": 71,
+    "day": 22,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "A mechanical device from the 16th century that uses a series of adjustable mirrors and lenses to project a scene in a darkened space to aid in painting or drawing was known as camera ottica, but is better known as what other \"camera\"?",
+            "answer": "camera obscura",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "78",
+            "e_percent": "58",
+            "r_percent": "70"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In what language is the following sentence written? Mae fy hofrenfad yn llawn llyswennod.",
+            "answer": "welsh (cymraeg)",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "68",
+            "e_percent": "46",
+            "r_percent": "62"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What 1990s television series began with the title character, Cory Matthews, as a sixth-grader who navigates his pre-teen years alongside his best friend, Shawn, and his future wife, Topanga? They all pass through high school and into college during the show's original seven seasons.",
+            "answer": "boy meets world",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "78",
+            "e_percent": "75",
+            "r_percent": "78"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While it may sometimes include small amounts of other metals, brass is primarily an alloy of what two metals—often in roughly a 2-to-1 ratio (though proportions can vary significantly depending on use)?",
+            "answer": "copper, zinc",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "39",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The mathematical notation loge x is accurate but is more often expressed in what other manner?",
+            "answer": "ln x (natural log)",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "54",
+            "c_percent": "49",
+            "d_percent": "45",
+            "e_percent": "40",
+            "r_percent": "42"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Uruguayan urban guerrilla group Tupamaros were named after an 18th-century Peruvian Indian revolutionary, who himself had adopted the name of the last Incan ruler (from whom he claimed descent). What is that full name (first and last)?",
+            "answer": "túpac amaru",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "26",
+            "c_percent": "17",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "10"
+        }
+    ]
+}

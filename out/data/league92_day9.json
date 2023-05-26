@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 9,
+    "date": "February 25, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The fictional small town of Haddonfield, Illinois, is the primary setting for what film series, which kicked off in 1978, and whose convoluted course of sequels continued in 2021 and is scheduled to end in 2022?",
+            "answer": "halloween",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "56",
+            "e_percent": "43",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What early high-level computer programming language, an all-purpose symbolic instruction code aimed at beginners, was developed in 1964 at Dartmouth College by John Kemeny and Thomas Kurtz?",
+            "answer": "basic",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "59",
+            "d_percent": "45",
+            "e_percent": "31",
+            "r_percent": "40"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "American Flo Hyman was considered one of the greatest players in the world in what sport when she was tragically felled by a ruptured aorta caused by Marfan Syndrome, during a match in Japan in January 1986?",
+            "answer": "volleyball",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "38",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "18"
+        },
+        {
+            "category": "ART",
+            "prompt": "An Italian poet born in 1783 with the first name of Gabriele gave his last name to his famous English-born children Dante Gabriel (who helped found the Pre-Raphaelite Brotherhood), Christina Georgina (among the most prominent poets of her day), and William Michael (an acclaimed critic and editor). What was that last name?",
+            "answer": "rossetti",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "38",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "16"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "US airmen pursuing release from active duty during WWII claiming mental instability are deemed ineligible, as such a request demonstrates their mental fitness. This scenario is central to what 1961 novel?",
+            "answer": "catch-22",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "90",
+            "d_percent": "83",
+            "e_percent": "64",
+            "r_percent": "71"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The \"Imperial Cities of Morocco\"\u2014the country's four historical capitals\u2014are Rabat (the current capital), Meknes, Fez, and what fourth, which, in fact, is the name of the country itself in some languages?",
+            "answer": "marrakesh",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "59",
+            "e_percent": "46",
+            "r_percent": "57"
+        }
+    ]
+}

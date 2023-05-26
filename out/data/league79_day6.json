@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 6,
+    "date": "November 26, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The theory that bodily disorders can be caused by abnormalities or imbalances in the musculoskeletal system, and that these disorders can be remedied by various manipulative techniques, forms the basis for what system of medicine founded by Andrew Taylor Still in the 1870s, which has similarities but distinct differences from chiropractic?",
+            "answer": "osteopathy",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "There are three U.S. states with no natural borders, only surveyed borders (i.e., mostly straight lines, with occasional slight kinks). Two are Colorado and Wyoming. What state is the third?",
+            "answer": "utah",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "59",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the name of the band formed by Bob Marley, in 1963, with a group of childhood friends from West Kingston, Jamaica, that included Peter Tosh and Bunny Livingston? The band was so named because, as Marley reportedly stated, \"we started out crying.\"",
+            "answer": "the wailers",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "69",
+            "r_percent": "77"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The traditional recipe for the British dish bubble and squeak, as well as a common version of the Irish dish colcannon, both call for what two primary ingredients?",
+            "answer": "potatoes, cabbage",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "49",
+            "c_percent": "37",
+            "d_percent": "27",
+            "e_percent": "17",
+            "r_percent": "25"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the verb used to describe the action in soccer (association football) where a player covers a specific opponent closely in order to prevent that opponent from receiving the ball? The word is also the first name of the American who became, in 2014, the first to referee a knockout stage match in FIFA World Cup competition.",
+            "answer": "mark",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "47",
+            "c_percent": "41",
+            "d_percent": "37",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Life Among the Lowly is the alternate title of what massively popular 1852 novel?",
+            "answer": "uncle tom's cabin",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "56",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "15",
+            "r_percent": "26"
+        }
+    ]
+}

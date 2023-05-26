@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 13,
+    "date": "March 10, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "A wild goat found in Europe and Asia that lives in high altitudes, often above the snowline, and a long-legged bird with a down-curved bill of the family Threskiornithidae found in environments largely the opposite of the wild goat's (such as the campus of the University of Miami), both have names that begin with what two letters?",
+            "answer": "ib",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "62",
+            "d_percent": "46",
+            "e_percent": "31",
+            "r_percent": "43"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A novel by Katherine Neville titled The Eight, Vladimir Nabokov's The Defense, The L\u00fcneburg Variation by Paolo Maurensig, and The Royal Game by Stefan Zweig are all books of fiction that center on what game?",
+            "answer": "chess",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "96",
+            "d_percent": "95",
+            "e_percent": "89",
+            "r_percent": "93"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A certain chocolate sponge cake (flavored with whipped cream and cherry filling) and a certain smoked ham (strongly seasoned with garlic, coriander, pepper, and other spices) are both named after what sylvan region?",
+            "answer": "black forest",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "63",
+            "r_percent": "72"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Imelda Staunton is scheduled to play the role begun by Claire Foy and continued by Olivia Colman on what drama series? ",
+            "answer": "the crown",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "61",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What ancient term was considered, in its time, to represent the son of Osiris ruling on Earth, acting as an intermediary between gods and men?",
+            "answer": "pharaoh",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "63",
+            "c_percent": "58",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "44"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "One of the most iconic characters created by W.S. Gilbert and Arthur Sullivan was the very model of a modern Major-General, with information vegetable, animal, and what?",
+            "answer": "mineral",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "62",
+            "r_percent": "69"
+        }
+    ]
+}

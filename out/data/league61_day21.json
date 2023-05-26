@@ -1,0 +1,79 @@
+{
+    "date": "June 10, 2014",
+    "league": 61,
+    "day": 21,
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Name the composer, likely the most celebrated musician of the late eighteenth century and often mentioned as the first of the \"great triumvirate\" of Viennese classical composers that includes Mozart and Beethoven, whose work is excerpted here. (42 seconds) ",
+            "answer": "joseph haydn",
+            "image": "/images/art/845y0498y.mp3",
+            "a_percent": "78",
+            "b_percent": "65",
+            "c_percent": "46",
+            "d_percent": "35",
+            "e_percent": "16",
+            "r_percent": "37"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Identify the television program that premiered on the FX network on April 15, 2014, as a direct sequel to a 1996 Academy Award–winning film of the same name.",
+            "answer": "fargo",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "81",
+            "c_percent": "78",
+            "d_percent": "71",
+            "e_percent": "60",
+            "r_percent": "74"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The 2012 song \"Just a Fool\", whose considerable radio airplay and positive critical reception did not result in stellar chart performance, is probably most notable for being a duet by what talent show coaches?",
+            "answer": "christina aguilera, blake shelton",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "22",
+            "c_percent": "19",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The October, 1469 marriage of the teenage Reyes Católicos, Isabella I and Ferdinand II, formalized the unification of what two crowns (monarchies)?",
+            "answer": "castile, aragon",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "27",
+            "e_percent": "12",
+            "r_percent": "30"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name the German-born American actress who is well-known for her relatively infrequent but very highly regarded theatrical performances (which included originating the role of Martha in Who's Afraid of Virginia Woolf? on Broadway) as well as her prominence as a drama teacher, instructing at New York's HB Studios beginning in 1947 and authoring the essential Respect for Acting.",
+            "answer": "uta hagen",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "28",
+            "c_percent": "26",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Also known as semolina, and the preferred choice for commercially manufactured dried pasta, what is the sturdy flour type that is so named by virtue of being ground from the hardest wheat grown (which shares the name)?",
+            "answer": "durum",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "47"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 20,
+    "date": "December 7, 2022",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Both the gospel-trained duo consisting of Izora Armstead and Martha Wash, who recorded \"It's Raining Men\" in 1982, and the jazz ensemble that emerged from the Miles Davis groups of the late 1960s featuring Josef Zawinul and Wayne Shorter and that released the retrospective set Forecast: Tomorrow in 2006 had names that refer to what phenomenon?",
+            "answer": "weather",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "36",
+            "r_percent": "51"
+        },
+        {
+            "category": "MATH",
+            "prompt": "\"Chord\" is a term used for any straight line segment whose ends are on the perimeter of a circle. When a chord's two endpoints (where it meets the circle) are extended out to infinity, it becomes a line known as what?",
+            "answer": "secant",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In the 1960s, Red Bow was a high-end, gourmet brand of a particular food product, named by its cofounders after themselves. In the 1970s, the name was changed to refer to just one of the men, who became the face of the product, and by whose name the market-leading product is still well-known today. What is the food product in question, or its current brand name? (The two possible answers are, respectively, Indiana's official \"state snack\" and a person largely responsible for that accolade)?",
+            "answer": "popcorn, orville redenbacher",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "44",
+            "r_percent": "55"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A confederacy of five Iroquoian groups, known to themselves as Wendat or Wyandotte (\"people of the peninsula\"), was referred to by French explorers beginning in the early 17th century by what other name, which is also used for a certain body of water in the confederacy's native region?",
+            "answer": "huron",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "30",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Elisabeth S\u00f6derstr\u00f6m, Birgit Nilsson, Anna Moffo, Montserrat Caball\u00e9, and Lily Pons were women who, in a professional sense, could all be accurately described by what word from the title of an acclaimed pay cable TV series that debuted in January 1999?",
+            "answer": "sopranos",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "32"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The DC Comics superheroes Kid Flash, Robin, Aqualad, and Wonder Girl were the four original members of what superhero team, which has included countless other members over the years including (recently) Cyborg, Starfire, Raven, and Beast Boy?",
+            "answer": "teen titans",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "56",
+            "c_percent": "52",
+            "d_percent": "47",
+            "e_percent": "40",
+            "r_percent": "51"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 22,
+    "date": "June 16, 2021",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the Southwark, London-born clergyman of colonial America who studied at Emmanuel College, Cambridge (England) and, upon his death in 1638, bequeathed his library and half his estate to a newly established college just a few miles from his final home.",
+            "answer": "john harvard",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "44",
+            "r_percent": "55"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the legendary and symbolic (and probably fictional) Post-Roman locale and capital that historians and writers have placed in various spots around Great Britain, including Wales, Somerset, Winchester, and Cornwall.",
+            "answer": "camelot",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "67",
+            "e_percent": "49",
+            "r_percent": "61"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The club that has won the last two National Women's Soccer League (NWSL) championships (in 2018 and 2019), as well as the last three NWSL Shields (for best regular-season record), plays its home games in what state? This state is also home to the school that is, by far, the most successful program in the history of the NCAA Division I Women's Soccer Championships.",
+            "answer": "north carolina",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "44",
+            "c_percent": "36",
+            "d_percent": "31",
+            "e_percent": "25",
+            "r_percent": "30"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A common nut native to Australia, and also widely cultivated in Hawaii and South Africa, is sometimes known as Queensland nut but was given its more common name by the Director of Melbourne's Royal Botanic Gardens. What is this more common name, honoring a Scottish-born scientist and medical doctor who died in 1865?",
+            "answer": "macadamia nut",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "79",
+            "e_percent": "68",
+            "r_percent": "75"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The name for what elementary particle is also the name of a publishing software company, as well as a soft cheese (or cheese-like dairy product) popular in Germany?",
+            "answer": "quark",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "60",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In an \"English\" auction, the highest bid is announced at each stage, buyers are given a chance to place higher bids, and the last bidder wins. What other nationality commonly describes what is essentially the reverse\u2014the auctioneer announces a decreasing series of prices, with the item awarded to the first bidder?",
+            "answer": "dutch auction",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "57",
+            "c_percent": "48",
+            "d_percent": "40",
+            "e_percent": "27",
+            "r_percent": "37"
+        }
+    ]
+}

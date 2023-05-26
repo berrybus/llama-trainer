@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 12,
+    "date": "March 8, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Oku no Hosomichi (The Narrow Road to the Deep North), a combination of prose and haiku written in the late 17th century, is a masterpiece of Japanese literature by what poet?",
+            "answer": "matsuo bash\u014d",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What New England Patriots wide receiver won the MVP Award at the 2019 Super Bowl, becoming the first player in history to do so in the same season he was suspended four games for violating the NFL's policy on performance-enhancing substances?",
+            "answer": "julian edelman",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "61",
+            "d_percent": "59",
+            "e_percent": "52",
+            "r_percent": "58"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "For numerous good reasons (including a 1992 acoustic version and the song's inspiration), the classic rock and roll song \"Layla\" is associated with Eric Clapton, but the song was originally released not by Clapton as a solo artist, but by what band, for which he sang and played guitar?",
+            "answer": "derek and the dominos",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "50",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A county in northern California (and city and valley) and a state in northwest Mexico have the same name except for one letter. Name both. ",
+            "answer": "sonoma, sonora",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "35"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the military officer who, in 1933, founded the Nasjonal Samling (National Unity) party, becoming the nominal head of his country's government in 1942.",
+            "answer": "vidkun quisling",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "31",
+            "c_percent": "20",
+            "d_percent": "9",
+            "e_percent": "3",
+            "r_percent": "13"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Often referred to by the shorthand \"Moon,\" what is the full title of Eugene O'Neill's sequel to Long Day's Journey into Night, telling the story of the final wandering, self-destructive days of James Tyrone?",
+            "answer": "a moon for the misbegotten",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "25",
+            "c_percent": "15",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "11"
+        }
+    ]
+}

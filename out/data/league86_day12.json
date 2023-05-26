@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 12,
+    "date": "September 3, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The impure form of iron produced by a blast furnace is cast into blocks for later conversion into steel or cast iron. These blocks, and by extension the type of iron itself, share a name with what animal?",
+            "answer": "pig",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "77",
+            "d_percent": "64",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Six Flags amusement corporation originated and is still headquartered in which US state (hence the name)?",
+            "answer": "texas",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "78",
+            "d_percent": "68",
+            "e_percent": "53",
+            "r_percent": "62"
+        },
+        {
+            "category": "MATH",
+            "prompt": "For a given three-dimensional surface, a point that is a minimum in one planar cross-section and a maximum along the crossing axis is known as what type of point, after the shape of the surface at that point?",
+            "answer": "saddle point",
+            "image": null,
+            "a_percent": "25",
+            "b_percent": "21",
+            "c_percent": "17",
+            "d_percent": "14",
+            "e_percent": "10",
+            "r_percent": "13"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A trumpet with a bell that bent upward at a 45-degree angle (instead of pointing straight ahead)\u2014the result of a fortuitous accident\u2014became the preferred design and a trademark (among other distinctive trademarks) of what jazz legend?",
+            "answer": "dizzy gillespie",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Ottoman ruler Mehmed II's conquest of Constantinople in 1453 marked the end of what other empire?",
+            "answer": "byzantine empire/(eastern) roman empire",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "65",
+            "e_percent": "56",
+            "r_percent": "68"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "At the end of a popular theatrical farce that debuted in 1895, Jack responds to an assertion that he seems to be displaying signs of triviality by retorting that, on the contrary, he has now realized the importance of being what?",
+            "answer": "earnest",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "90",
+            "e_percent": "76",
+            "r_percent": "80"
+        }
+    ]
+}

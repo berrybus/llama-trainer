@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 3,
+    "date": "February 16, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The phrase \"\u2026And I took that personally,\" a widely memed line from a 2020 documentary miniseries, is associated with what man? (He doesn't actually use that line at any point in the documentary, though he suggests the sentiment many many times.)",
+            "answer": "michael jordan",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "63",
+            "c_percent": "58",
+            "d_percent": "53",
+            "e_percent": "43",
+            "r_percent": "51"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In chemistry, there are two major types of chemical bonds: one in which atoms are joined by an electrostatic charge, and another in which atoms share a pair of electrons. The former are ionic bonds; the latter are most commonly known as what?",
+            "answer": "covalent bonds",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "76",
+            "e_percent": "66",
+            "r_percent": "74"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Gertrude Stein's modernist novel, completed in 1911 but not published until 1925 (perhaps because it had little commercial interest, approaching 1,000 pages and containing neither plot, nor action, nor dialogue), is titled The Making of what? The missing word describes the characters in the book as well as the members of Stein's family after whom the characters are based.",
+            "answer": "americans",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "11"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Driving for 25 minutes west-northwest from the European city of Malm\u00f6, one would arrive in what other city?",
+            "answer": "copenhagen",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "50",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "16",
+            "r_percent": "22"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Report of the Office of the Secretary of Defense Vietnam Task Force, an official study of US defense policy commissioned in 1967 to examine American involvement in Southeast Asia, is today (and since 1971) more commonly known by what name?",
+            "answer": "the pentagon papers",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "54",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A roasted poblano pepper stuffed with cheese (and also perhaps diced meat, nuts, and/or cinnamon), then dipped in eggs and flour and deep-fried in oil\u2014this is a basic recipe for what delectable dish that originated in the Mexican city of Puebla?",
+            "answer": "chile relleno",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "71",
+            "c_percent": "64",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "52"
+        }
+    ]
+}

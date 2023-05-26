@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 15,
+    "date": "March 10, 2020",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Per the full title of the strip that cartoonist Dale Messick created in 1940 and drew until 1980, what was the occupation of the impossibly glamorous Brenda Starr?",
+            "answer": "reporter",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Zulu, Xhosa, and Shona are among the languages in a family known by what name? The name became associated in South Africa with apartheid policies, including\u2014by name\u2014segregationist acts that established \"homelands\" reserved for self-government and eventual \"independence\" for Black Africans.",
+            "answer": "bantu",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "30",
+            "e_percent": "13",
+            "r_percent": "29"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A forlorn dishwasher from small-town Texas and a petty thief and con man in New York are the main characters in what film, which was rated R for its reissue in 1971?",
+            "answer": "midnight cowboy",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "25",
+            "r_percent": "32"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Forty-five years after its independence, the majority of visitors and foreign aid to the South American country of Suriname still come from what nation?",
+            "answer": "netherlands",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "44",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Among the world's very few cold-blooded mammal species is an animal that lives in the deserts of East Africa and is commonly known by a name that is triply inaccurate (as it does have some hair and is not a member of the Talpidae family, though it is a rodent). What is that name?",
+            "answer": "naked mole-rat",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "52",
+            "e_percent": "45",
+            "r_percent": "54"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "On Wednesday, January 22, 2020, what became the full name (city and team name) of the NFL franchise which, among the four teams currently in the AFC West, has gone the longest without winning a division title (having last done so in the 2002 season)?",
+            "answer": "las vegas raiders",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "56",
+            "c_percent": "51",
+            "d_percent": "45",
+            "e_percent": "37",
+            "r_percent": "41"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 10,
+    "date": "June 3, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "In pharmacology, what is the term used for the amount of toxic substance that causes death in one-half of a tested population? (Either a phrase or four-character abbreviation is acceptable.)",
+            "answer": "median lethal dose/lethal dose 50/ld50",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "23",
+            "e_percent": "17",
+            "r_percent": "22"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The jerseys for the soccer teams AC Milan, Real Madrid, Arsenal, and Paris Saint-Germain, among others, bear (or have recently borne) slogans inviting fans to fly what airline? ",
+            "answer": "emirates",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "73",
+            "e_percent": "66",
+            "r_percent": "73"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The 1980 album British Steel, which included the classics \"Living After Midnight\" and \"Breaking the Law\", was the U.S. breakthrough for what influential heavy metal band?",
+            "answer": "judas priest",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "23",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Celts, as they existed before their brutal conquest at the hands of the Roman Empire prior to the first century BCE, were primarily a tribal people, with tribes led by a chief who was supported by a warrior elite and priestly class. What is the most common name used today for this latter class, who served as religious and ceremonial leaders, judges, and teachers?",
+            "answer": "druids",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "58",
+            "e_percent": "38",
+            "r_percent": "51"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Until its sale in 2018, the New England Confectionery Company (NECCO) was widely considered the oldest continuously operating candy company in the U.S., with roots dating to the mid-19th century. It produced its namesake wafers since the beginning, acquired the Clark Bar in 1999, and was also famous for another of its earliest products, which have what distinctive shape (befitting the holiday with which they're associated)?",
+            "answer": "hearts",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "66",
+            "c_percent": "57",
+            "d_percent": "48",
+            "e_percent": "38",
+            "r_percent": "47"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Of the ten longest-running musicals in Broadway history, two have titles that reference a city. One is the revival of Chicago that opened in 1996. What is the other city, in the name of a revival that ran from 1976 to 1989?",
+            "answer": "calcutta",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "20",
+            "c_percent": "13",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "12"
+        }
+    ]
+}

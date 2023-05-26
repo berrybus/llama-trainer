@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 24,
+    "date": "October 1, 2019",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Chinese rhinoceros horn cups from around 1700, an archive of Boston baseball memorabilia from the 1870s, an 18th-century Qianlong jade collection from Qing Dynasty, and a mid-19th century Navajo Ute First Phase blanket are among the most valuable items ever to appear on what television series?",
+            "answer": "antiques roadshow",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "91",
+            "d_percent": "88",
+            "e_percent": "78",
+            "r_percent": "81"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Of the four major tournaments in professional tennis (a.k.a. \"Grand Slam\" tournaments), name all of those which are currently played on hard court surfaces.",
+            "answer": "australian open, us open",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "53"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The potency of the longbow as a dominant weapon on the battlefields of Western Europe was established in August 1346 during what battle, a thorough and devastating victory for the English army led by King Edward III over King Philip VI's French forces?",
+            "answer": "battle of cr\u00e9cy",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "20",
+            "c_percent": "13",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "FILM",
+            "prompt": "After a three-year film absence, Tatum O'Neal received $350,000 and a percentage of the net profit\u2014becoming the highest-paid child in film history\u2014to play a reluctant tomboy in what 1976 comedy film?",
+            "answer": "the bad news bears",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "24",
+            "r_percent": "32"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A Tony Award-winning play by Terrence McNally from the mid-1990s begins with the exclamation Love! Give either of the other two words in this play's title.",
+            "answer": "valour, compassion",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "26",
+            "c_percent": "18",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "11"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name either the Spanish conquistador who, in 1508, began colonization of Puerto Rico, or the city on the island's southern coast that is named after this explorer's namesake great-grandson.",
+            "answer": "juan ponce de le\u00f3n, ponce",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "36"
+        }
+    ]
+}

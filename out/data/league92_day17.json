@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 17,
+    "date": "March 9, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "San Francisco-born Olympian Eileen Gu won her first gold medal representing China at the 2022 Winter Olympics in Beijing in the women's competition of what freestyle skiing event, which gets its appropriate and evocative two-word name from the fact that its competitors achieve extreme height while performing tricks?",
+            "answer": "big air",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "51"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the fossil-rich ravine in northern Tanzania, at the southeast corner of the Serengeti plain, where an ancient river cut deep through the underlying strata to reveal millennia of early human activity.",
+            "answer": "olduvai gorge",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "36",
+            "c_percent": "24",
+            "d_percent": "12",
+            "e_percent": "5",
+            "r_percent": "13"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In English grammar, what is the term for a word which is a noun formed from a present participle (a verb ending in -ing)? An example would be \"Thinking\" in the sentence Thinking is useful in trivia.",
+            "answer": "gerund",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "86",
+            "d_percent": "77",
+            "e_percent": "60",
+            "r_percent": "65"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A silicone wristband/gel bracelet fad was sparked around 2004 in part by yellow bracelets produced by the Lance Armstrong Foundation that were embossed with what term, a compound word neologism that would eventually be used for the name of the foundation itself (after Armstrong's downfall)?",
+            "answer": "livestrong",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "95",
+            "e_percent": "91",
+            "r_percent": "93"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1958's Memoirs of a Dutiful Daughter (M\u00e9moires d'une jeune fille rang\u00e9e) is the first of a four-volume autobiography by what philosopher, novelist, and feminist?",
+            "answer": "simone de beauvoir",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In response to the massive popularity (and virality) of the country music hit \"Fancy Like\" by Walker Hayes, what restaurant chain in August 2021 brought back its Oreo Cookie Shake, which is mentioned in a famous line in the song along with the restaurant's Bourbon Street Steak?",
+            "answer": "applebee's",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "63",
+            "e_percent": "56",
+            "r_percent": "62"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 12,
+    "date": "June 5, 2020",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What two nations became independent at midnight on August 15, 1947, an event that was accompanied by the tragic deaths of hundreds of thousands of civilians and the migration of millions of religious refugees between the two new countries?",
+            "answer": "india, pakistan",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "79",
+            "d_percent": "66",
+            "e_percent": "46",
+            "r_percent": "65"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What term for a music school referred initially to orphanages in 16th-18th century Italy where music was taught (and in fact comes from the Italian word for \"orphanage\")?",
+            "answer": "conservatory",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "60",
+            "r_percent": "68"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "An Americanized spelling of the German word for \"farmer\" is used for the names of the two highest cards in what trick-taking card game?",
+            "answer": "euchre/500",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "42",
+            "c_percent": "37",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "30"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What television network could figuratively be expressed as C6H2(NO2)3CH3?",
+            "answer": "tnt",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "33",
+            "r_percent": "45"
+        },
+        {
+            "category": "ART",
+            "prompt": "Manet's Le D\u00e9jeuner sur l'herbe, Morisot's The Cradle, and Millet's The Gleaners are among the many famous works in the permanent collection of what museum, which opened in 1986 in a former train station on the Left Bank of the Seine constructed at the end of the 19th century?",
+            "answer": "mus\u00e9e d'orsay",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Identify the cabinet secretary who currently holds the position held in previous presidential administrations by Juli\u00e1n Castro, Mel Mart\u00ednez, Andrew Cuomo, Jack Kemp, and George Romney (among others).",
+            "answer": "ben carson",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "64",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "55"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 13,
+    "date": "March 6, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "1926's \"Blue Skies\", 1938's \"God Bless America\", and 1942's \"White Christmas\" are all works of what Russian-born American composer, who has a total of over 800 songwriting credits to his name?",
+            "answer": "irving berlin",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "88",
+            "c_percent": "79",
+            "d_percent": "62",
+            "e_percent": "39",
+            "r_percent": "53"
+        },
+        {
+            "category": "ART",
+            "prompt": "Likely the most-reproduced work in an artistic genre known as Ukiyo-e is a woodblock from circa 1830 by Katsushika Hokusai that depicts what, per the print's popular title?",
+            "answer": "(great) wave",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "48",
+            "r_percent": "59"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Among a group of six 20th-century English aristocratic socialite sisters were authors Jessica, who wrote Hons and Rebels (1960) and The American Way of Death (1963), and Nancy, who wrote Love in a Cold Climate (1949) and edited Noblesse Oblige: An Enquiry Into the Identifiable Characteristics of the English Aristocracy (1956). What was the sisters' last name?",
+            "answer": "mitford",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "27",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The real name of the main character in what comic/tragic television series is never actually revealed during its critically acclaimed two-season run that concluded in 2019, with the character only known by the audience as the show's title through the end?",
+            "answer": "fleabag",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "46",
+            "c_percent": "42",
+            "d_percent": "36",
+            "e_percent": "30",
+            "r_percent": "33"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A Joseph Haydn equivalent to Mozart's K\u00f6chel, Bach's BWV, and Schubert's Deutsch shares its name with what \"mile square\" city in northern New Jersey?",
+            "answer": "hoboken",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "35",
+            "d_percent": "28",
+            "e_percent": "20",
+            "r_percent": "26"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What game, which was created by William Schaper in 1948 and is today produced and marketed by Hasbro, is without a doubt the most popular game in the genre of plastic bug assembly?",
+            "answer": "cootie",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "48",
+            "c_percent": "39",
+            "d_percent": "32",
+            "e_percent": "23",
+            "r_percent": "30"
+        }
+    ]
+}

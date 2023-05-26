@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 22,
+    "date": "September 8, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "While the bro-country antidote \"Girl in a Country Song\" was the first big hit by the duo Maddie & Tae, they hit the charts with another single from their debut LP that also played on a reversal of roles, imploring the receiver of the song's message to \"Shut Up and\" engage in what outdoor recreational activity?",
+            "answer": "fish",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "31",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The era of Louis XIV, and the 1600s more broadly, often regarded as the pinnacle of France's greatness and the period when it established cultural dominance and supplanted Spain among the European powers, is known en fran\u00e7ais as Le Grand what?",
+            "answer": "si\u00e8cle",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "30",
+            "c_percent": "22",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In horse racing betting terminology, a \"double\" is a wager picking the winners of two consecutive races. What is the term for picking the first- and second-place horses, in order, in a given race?",
+            "answer": "exacta/perfecta",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "51",
+            "c_percent": "41",
+            "d_percent": "30",
+            "e_percent": "22",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A US-based organization whose mission is to foster \"the development of applied mathematical and computational methodologies needed in various application areas\" is widely known by an abbreviation that was also the name of an independent country until 1939 (when it officially adopted its current name). What is that country's former name/organization's abbreviation?",
+            "answer": "siam",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "18",
+            "r_percent": "35"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In 1986, 1987, and 1988, the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series was won by three different women on the same sitcom. What was that sitcom, which also won the Emmy for Outstanding Comedy Series the first two of those years?",
+            "answer": "golden girls",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "62",
+            "d_percent": "57",
+            "e_percent": "49",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In astronomy, it's either of two points on an elliptical orbit's major axis on either side of the center that define the orbital path. In optics, it's the point at which light rays converge, or appear to diverge. In Earth science, it's the origination point of an earthquake in the Earth's crust. What is the word in question?",
+            "answer": "focus",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "48",
+            "c_percent": "42",
+            "d_percent": "35",
+            "e_percent": "27",
+            "r_percent": "36"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 24,
+    "date": "March 25, 2021",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What term for a group of players who are signed to a professional sports team but not on the active roster comes from the NFL's Cleveland franchise in the 1940s and the part-time, for-hire job a handful of players were given by the team's owner to keep them available and at the ready?",
+            "answer": "taxi squad",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "25",
+            "c_percent": "19",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "14"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The erratic and endless agitation of fine particles in suspension is a phenomenon with what name? This name comes from (but is not identical to) the name of the British botanist who observed the effect in 1827 using pollen grains in water.",
+            "answer": "brownian motion/movement",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "27"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What river, which flows from its formation at the junction of two headwaters in Kachin State and flows southward into the Bay of Bengal, is the principal river of Myanmar?",
+            "answer": "irrawaddy",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "31",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "4",
+            "r_percent": "14"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What candy bar, made of chocolate and fluffy nougat, was introduced in 1932 as a set that also included vanilla and strawberry bars?",
+            "answer": "three musketeers",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "72",
+            "d_percent": "67",
+            "e_percent": "56",
+            "r_percent": "64"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What company was a pioneer in the development and manufacture of personal digital assistants not long after its formation in 1992, and particularly after its acquisition by US Robotics in 1995 (and then 3Com in 1997), until its rapid decline in the 2000s and eventual demise as a part of HP in the 2010s?",
+            "answer": "palm inc.",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "61",
+            "e_percent": "52",
+            "r_percent": "56"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Paramount Network cable TV channel was previously known as Spike TV, and before that, was named after what city, where it launched in 1983 (and which presumably was home to such hosts as Ralph Emery, Lorianne Crook, and Charlie Chase)?",
+            "answer": "nashville",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "33"
+        }
+    ]
+}

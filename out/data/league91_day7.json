@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 7,
+    "date": "November 16, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Yogurt diluted with water and flavored (with fruit, cumin, mint, or numerous other options) and sometimes sweetened is a refreshing drink of Punjabi origin best known as what?",
+            "answer": "lassi",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "50",
+            "r_percent": "58"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Identify the university in New Jersey named after the first canonized native-born American and founder of the first order of nuns in the United States (the Sisters of Charity of St. Joseph).",
+            "answer": "seton hall university",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "52",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The mountain range known as the Lion Mountains, whose highest point is Picket Hill at just under 3,000 feet, is located on the Atlantic coast entirely within what nation?",
+            "answer": "sierra leone",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "26",
+            "c_percent": "17",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the two-word term, a phrase from Italian that idiomatically means \"from the beginning\" and is often abbreviated \"D.C.\", which indicates in musical notation that the previous section of music should be repeated?",
+            "answer": "da capo",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "39",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "31"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In 1958, a Swede named Arne Larsson became the first recipient of an implanted artificial device whose natural function is normally provided by a mass of muscle fibers called the sinoatrial node. This device is most commonly and colloquially referred to by what word?",
+            "answer": "pacemaker",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "93",
+            "d_percent": "88",
+            "e_percent": "81",
+            "r_percent": "87"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Which derived unit in the International System of Units would fit best in a particular list that includes a Latin word for \"bird\", the location of Davy Crockett's last stand, a certain fictional spacecraft, and a comic book/cartoon dalmatian-like dog?",
+            "answer": "hertz",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "15",
+            "r_percent": "23"
+        }
+    ]
+}

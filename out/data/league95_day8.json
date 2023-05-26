@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 8,
+    "date": "November 16, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Which of the Seven Wonders of the Ancient World was located farthest to the east, until it was destroyed by the 1st century CE (if in fact the Wonder ever actually existed at all)?",
+            "answer": "hanging gardens of babylon",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "71",
+            "e_percent": "57",
+            "r_percent": "65"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In the first Andrew Lloyd Webber\u2013Tim Rice musical to be produced publicly, the show's eponymous dreamer is, early in the first act, given what as a gift from his father (a gift that provides the remainder of the title)?",
+            "answer": "a coat (amazing technicolor dreamcoat)",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "86",
+            "d_percent": "78",
+            "e_percent": "62",
+            "r_percent": "67"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In the NATO phonetic alphabet (A=Alpha, B=Bravo, C=Charlie, etc.), one letter is represented by a word that is the name of a national capital city. What is that city?",
+            "answer": "lima",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "54"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The title of a 1977 classic rock staple by Eddie Money, when its titular subject matter is halved, could become the title of a Julia Roberts\u2013George Clooney rom-com. What is that movie's title?",
+            "answer": "ticket to paradise",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "65",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "29",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A geological process known as orogeny refers, per the term's Greek root, to the formation of what?",
+            "answer": "mountains",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "35",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "11",
+            "r_percent": "17"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The year 2022 marks the 50th anniversary of the sports history made by the \"Mighty Macs\" of what small college (at that time a women's-only school) in suburban Philadelphia? The team won the first women's college basketball national championship (before defending their title in 1973 and 1974).",
+            "answer": "immaculata",
+            "image": null,
+            "a_percent": "24",
+            "b_percent": "12",
+            "c_percent": "7",
+            "d_percent": "4",
+            "e_percent": "3",
+            "r_percent": "5"
+        }
+    ]
+}

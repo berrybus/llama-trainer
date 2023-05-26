@@ -1,0 +1,79 @@
+{
+    "date": "February 23, 2016",
+    "league": 68,
+    "day": 2,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What material and artistic medium, whose name refers to fired but unglazed clay, was a favorite for architectural ornamentation during the Etruscan era and much later, during the Art Deco era? It was used in one of the most stunning archaeological finds in history, which occurred in 1974.",
+            "answer": "terra cotta",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "41",
+            "r_percent": "54"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the name of the hybrid—cute or horrific depending on one's tastes—that has been used recently to advertise the sparkling caffeinated soda-juice beverage Mountain Dew Kickstart?",
+            "answer": "puppymonkeybaby",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "53",
+            "c_percent": "50",
+            "d_percent": "42",
+            "e_percent": "39",
+            "r_percent": "39"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the Sanskrit word, roughly meaning \"weighty,\" that is associated with the names Nanak, Angad, Amar Das, Ram Das, Arjan, and others?",
+            "answer": "guru",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "45",
+            "c_percent": "33",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "23"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In a historical ranked list that places the names Sandy, Ike, Andrew, Wilma, and Ivan in positions two through six, what name goes in the number-one spot?",
+            "answer": "katrina",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "86",
+            "e_percent": "75",
+            "r_percent": "78"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Swiss alphorn melodies accompany the massive choruses, grandiose sets, and energetic finale of what 1829 Gioachino Rossini opera, his first and last in the French Grand Opera style (and, in fact, his last opera overall, though he would live until 1868)?",
+            "answer": "guillaume tell (william tell)",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "58",
+            "c_percent": "46",
+            "d_percent": "27",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Polish American biochemist Casimir Funk is credited with coining a word, common on food packaging, for a type of chemical compound necessary for life and believed (at the time) always to be derived from ammonia. What is that word?",
+            "answer": "vitamin",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "25"
+        }
+    ]
+}

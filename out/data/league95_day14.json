@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 14,
+    "date": "November 29, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Thames River runs through the campus of the University of Western Ontario, also known as Western University, which is located in what city?",
+            "answer": "london",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "59",
+            "d_percent": "48",
+            "e_percent": "38",
+            "r_percent": "50"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A man peeling a banana, opening a car door, opening a glass door, and drinking a glass of water are among the most-liked videos on the social media service TikTok. What is the name of the man performing these extremely straightforward tasks?",
+            "answer": "khaby lame",
+            "image": null,
+            "a_percent": "20",
+            "b_percent": "14",
+            "c_percent": "12",
+            "d_percent": "10",
+            "e_percent": "7",
+            "r_percent": "12"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Three of the four motorcycle manufacturers in Japan regarded as the \"Big Four\" are Honda, Kawasaki, and Suzuki. What is the fourth?",
+            "answer": "yamaha",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "67",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1996 Spike Lee film Get on the Bus tells the fictional story of a group of 15 who are traveling to a real-life historical event best known by what name?",
+            "answer": "million man march",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "25",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Identify the town in Eastern South Africa, besieged for four months by Boer forces during the Second Boer War, that was named after the noblewoman wife of a one-time British governor of the Cape Colony. The name became internationally familiar due to a popular South African singing group that hailed from (and was partially named after) the town. ",
+            "answer": "ladysmith",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the compound word, taken directly from German and closely identified with the works of Richard Wagner, for a recurring musical theme or phrase associated with an object, person, or emotion in opera and program music? A contemporary example is Darth Vader's \"Imperial March\" in the Star Wars films. ",
+            "answer": "leitmotif",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "61",
+            "d_percent": "45",
+            "e_percent": "25",
+            "r_percent": "38"
+        }
+    ]
+}

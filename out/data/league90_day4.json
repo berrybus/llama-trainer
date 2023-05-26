@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 4,
+    "date": "August 12, 2021",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the name of the 36-mile-long river, flowing between Lakes Erie and Ontario, which forms part of the border between the state of New York and the province of Ontario?",
+            "answer": "niagara",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "46"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Elders appoint a 12-year-old boy named Jonas as the Receiver of Memory near the beginning of what dystopian novel from 1993 by Lois Lowry?",
+            "answer": "the giver",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "69",
+            "c_percent": "67",
+            "d_percent": "66",
+            "e_percent": "60",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1930, Mohandas Gandhi led a 200-plus-mile march of Indian nationalists from his ashram to the coastal city of Dandi, protesting British prohibition of the private manufacture of a particular product. What is this product, which the protestors produced at Dandi, and after which the march is often named?",
+            "answer": "salt",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "50",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "36"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term for the mechanism in an automobile that transmits the engine's power/torque to the wheels, allowing them to spin at unequal speeds? Its function is integrated with those of the transmission and axle in a transaxle.",
+            "answer": "differential",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "43",
+            "c_percent": "36",
+            "d_percent": "31",
+            "e_percent": "25",
+            "r_percent": "30"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The name for what animal comes from the Greek terms for broad and foot, which is apt but perhaps not as distinctive as the fact that the animal lays eggs?",
+            "answer": "platypus",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "95",
+            "d_percent": "93",
+            "e_percent": "84",
+            "r_percent": "87"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Australian actor Chris Hemsworth has portrayed a certain character in eight different feature films. The two main leads of the 2001 comic-book adaptation Ghost World are (1) an individual named after Hemsworth's character (or, at least, the character's namesake), and (2) a costar of Hemsworth in half of those eight films. Name either of these other two performers.",
+            "answer": "thora birch, scarlett johansson",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "40"
+        }
+    ]
+}

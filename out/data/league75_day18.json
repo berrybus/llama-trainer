@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 18,
+    "date": "December 11, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "For the 2017 Major League Baseball season, they both wore jersey number 27, they were both 27 years of age, and they were both named their league's Most Valuable Player. Name either player.",
+            "answer": "jos\u00e9 altuve, giancarlo stanton",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "55",
+            "c_percent": "50",
+            "d_percent": "43",
+            "e_percent": "39",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "The title of the Aldous Huxley short story \"The Gioconda Smile,\" from his Mortal Coils collection, references a work of art best known by what name?",
+            "answer": "mona lisa",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "90",
+            "e_percent": "80",
+            "r_percent": "87"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A recent #1 on the New York Times Hardcover Nonfiction Best Seller list is a book, published on November 7, 2017, which features over 300 photographs of whom?",
+            "answer": "barack obama",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "62",
+            "c_percent": "55",
+            "d_percent": "52",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While investigating drug trafficking on the beaches of Los Angeles, a newspaper reporter is approached by a bigamous airline executive with an offer to kill the executive and relieve him of his terminal cancer in exchange for $50,000. The reporter comes to learn that this is part of a fraud scheme, and also that the executive is involved in the drug trafficking in coordination with the LAPD. This roughly outlines the plot of what film?",
+            "answer": "fletch",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "28",
+            "c_percent": "23",
+            "d_percent": "18",
+            "e_percent": "12",
+            "r_percent": "17"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Triple Alliance, which was created by Otto von Bismarck in 1882 and consisted of Germany, Austria-Hungary, and Italy, evolved into World War I's Central Powers (or Quadruple Alliance). As Italy remained neutral at the war's onset, the Central Powers consisted of Germany, Austria-Hungary, and two new allies. Name either one.",
+            "answer": "bulgaria, ottoman empire",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "52"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name the Broadway lyricist who teamed up with composer John Kander on Flora, the Red Menace, Cabaret, Zorba, and Chicago, among others.",
+            "answer": "fred ebb",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "32",
+            "c_percent": "23",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "17"
+        }
+    ]
+}

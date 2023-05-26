@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 3,
+    "date": "November 15, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What term is used in some card games for a hand dealt face down at the start of play not belonging to any particular player (as a synonym to \"dead hand\" or \"widow\"), and is also used in some games for a pool of money collected from each pot for communal expenses or some other purpose?",
+            "answer": "kitty",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "37",
+            "c_percent": "34",
+            "d_percent": "27",
+            "e_percent": "24",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What was the name of the Austrian physicist who, in 1842, explained the effect of variations in wave frequencies resulting from the relative motion of the source of the wave from the perspective of the observer?",
+            "answer": "christian doppler",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "60",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"He's Guilty,\" \"Baby Merchant,\" \"Let's Be Careful Out There,\" and \"Where Bullets Fly,\" as well as the Randy Newman-penned (and -performed) theme, were some of the songs featured in what 1990s television series?",
+            "answer": "cop rock",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "15"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "When the resolution that eventually became the U.S. Constitution's 19th Amendment (prohibiting citizens from being denied voting rights on the basis of sex) was brought before the House of Representatives in 1919, there was only one woman in Congress able to vote on it. Name that Republican from Montana, who was the first woman to hold federal office in the United States. (She voted Yes to the resolution.) ",
+            "answer": "jeannette rankin",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "38",
+            "c_percent": "24",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "17"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "American author M.F.K. Fisher wrote broadly about various topics, but she is best remembered today for (and the majority of her writing was) works on what subject?",
+            "answer": "food/cooking",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "9",
+            "r_percent": "24"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The distinctive coloring of the animal pictured here is best known by what Spanish-derived term? ",
+            "answer": "palomino",
+            "image": "/images/art/586cn4587ty.gif",
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "39"
+        }
+    ]
+}

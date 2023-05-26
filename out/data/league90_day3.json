@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 3,
+    "date": "August 11, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "List the item(s)\u2014and only the item(s)\u2014missing from this list of standard ingredients that constitute a McDonald's Big Mac: cheese, lettuce, sesame seed bun, special sauce, two all-beef patties.",
+            "answer": "onions, pickles",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "53",
+            "e_percent": "42",
+            "r_percent": "48"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Through its roughly 3,000-mile course, the Mekong River runs along two national capitals. Name either of these two cities.",
+            "answer": "vientiane, phnom penh",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "53",
+            "c_percent": "37",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "23"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Mexican\u2013American War of 1846 was precipitated, in part, by the United States' annexation of what independent republic the year prior?",
+            "answer": "republic of texas",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "90",
+            "e_percent": "83",
+            "r_percent": "85"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term used in interior design for a type of decorative interior wall paneling that covers the lower portion of a wall and was first used to protect the bottom half of a plaster wall and to help to insulate a room? (Gerund and nongerund forms of the word are acceptable.)",
+            "answer": "wainscoting/wainscot",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "64",
+            "c_percent": "59",
+            "d_percent": "50",
+            "e_percent": "40",
+            "r_percent": "45"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A process of reasoning and problem-solving based on ambiguous and imprecise data is known as what type of \"logic\", a term introduced by computer scientist and electrical engineer Lotfi Zadeh in 1965?",
+            "answer": "fuzzy logic",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "56",
+            "d_percent": "47",
+            "e_percent": "35",
+            "r_percent": "39"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Dance musicals based on the music of Billy Joel (Movin' Out), Bob Dylan (The Times They Are a-Changin'), and Frank Sinatra (Come Fly Away) are among the many works of what exalted choreographer of ballet and modern dance?",
+            "answer": "twyla tharp",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "16"
+        }
+    ]
+}

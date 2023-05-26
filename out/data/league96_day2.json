@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 2,
+    "date": "February 14, 2023",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The most notable and newsworthy event that began on November 4, 1979, and ended 444 days later on January 20, 1981, took place in what city?",
+            "answer": "tehran",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "76",
+            "e_percent": "55",
+            "r_percent": "60"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Macaronesia, a collection of volcanic islands in the North Atlantic off the coast of northwest Africa, consists of four archipelagoes: one of which constitutes the independent nation of Cape Verde, two of which are Autonomous Regions of Portugal (the Azores and Madeira), and what fourth, which is an Autonomous Community of Spain?",
+            "answer": "canary islands",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "58",
+            "e_percent": "39",
+            "r_percent": "50"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Mathematically speaking, actor Angus T. Jones portrayed 20% of the titular cast of what popular television sitcom?",
+            "answer": "two and a half men",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "31",
+            "r_percent": "36"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Iron(III) oxide, Fe2O3, occurs naturally as what mineral, which is typically red (hence its Greek-derived name) or reddish-brown, and is mined as a primary ore of iron (along with magnetite)?",
+            "answer": "hematite",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "20"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What word, which is the title of a Best Picture Oscar winner, is also likely the best-known item that fits in a list which includes Appassionata, Waldstein, Path\u00e9tique, Pastoral, Tempest, and Cuckoo?",
+            "answer": "moonlight",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "14",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A Georgian-era village lock-up sometimes referred to as \"Prince Rupert's Tower\", which is located not far from the River Mersey (and very near what was once Mother Noblett's Toffee Shop), is the centerpiece of the crest for what English soccer club? The crest also features the phrase \"nil satis nisi optimum\" (\"nothing but the best is good enough\"), which somewhat belies the recent performance of the club's men's side.",
+            "answer": "everton f.c.",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "32",
+            "c_percent": "24",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "18"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 1,
+    "date": "August 20, 2018",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "1852's Thesaurus of English Words and Phrases is the best-known and most enduring work of what English physician and philologist?",
+            "answer": "peter mark roget",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "78",
+            "d_percent": "63",
+            "e_percent": "41",
+            "r_percent": "45"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What percussion instrument of Central America, associated particularly with Guatemala and also used in Africa (where it originated), is similar in appearance to a xylophone and consists of wooden slabs with gourds or other resonators beneath them for amplification?",
+            "answer": "marimba",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "48",
+            "e_percent": "36",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the last name shared by the French-Italian astronomer who studied the division in Saturn's ring system that now bears his name, and the French-born American fashion designer largely responsible for what became known as the \"Jackie Look\"?",
+            "answer": "cassini",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "60",
+            "c_percent": "46",
+            "d_percent": "32",
+            "e_percent": "15",
+            "r_percent": "28"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Among the many cultivars of the species Brassica oleracea, which cultivar is the most common and popular one that is named after a European capital?",
+            "answer": "brussels sprouts",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "49",
+            "r_percent": "57"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A bridge that was once the longest twin-span suspension bridge in the world is one of dozens of stationary vehicular crossings of its namesake river, but it is the only such crossing between what two U.S. states?",
+            "answer": "new jersey, delaware",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "11",
+            "e_percent": "7",
+            "r_percent": "10"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Wonderboy,\" an inanimate object created as a result of a lightning strike, plays a central role in what 1984 film (and the 1952 novel on which it was based)?",
+            "answer": "the natural",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "25",
+            "r_percent": "32"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "November 19, 2015",
+    "league": 67,
+    "day": 8,
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What slang term for a marine, either in the US Marine Corps or British Corps of Royal Marines, arose (according to one theory) from the lining of the rigid and uncomfortable standing collar that was once part of the full dress uniform?",
+            "answer": "leatherneck",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "37"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The mathematical constant pi, the ratio of a circle's circumference to its diameter, is 3.1 when rounded to the nearest tenth. Likewise, what is the value of the mathematical constant e, the base of the natural logarithm, when rounded to the nearest tenth?",
+            "answer": "2.7",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "56",
+            "c_percent": "44",
+            "d_percent": "38",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "From 1948 to 1974, U Nu, Ba Swe, and Ne Win served as the first prime ministers of what country, in a position that was abolished in a 2008 constitutional referendum approved by 94% of voters (allegedly)?",
+            "answer": "burma/myanmar",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "47",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Before finally winning the 1993 Academy Award for Best Actor, Al Pacino had previously been nominated for the Best Actor Oscar four times. Once was for The Godfather Part II—name any one of the other three films.",
+            "answer": "serpico, dog day afternoon, ...and justice for all",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "34",
+            "r_percent": "45"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1945's A Street in Bronzeville takes its title from a name journalists gave to Chicago's ghetto. It's the first book of what poet, who became the first African American to receive the Pulitzer Prize for poetry with her second book of poems, Annie Allen?",
+            "answer": "gwendolyn brooks",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "29",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "ART",
+            "prompt": "Julia Morgan, a graduate of engineering at UC Berkeley (the only female engineering student in her class) and of the École des Beaux-Arts (the first female architecture student admitted) is most famous today for designing the palatial residence of whom, starting in the late 1910s?",
+            "answer": "william randolph hearst",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "52",
+            "e_percent": "33",
+            "r_percent": "44"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 6,
+    "date": "May 28, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What is the English translation of the Italian il brutto, such as is used in a titular trio from a 1966 film (whose English title, it may be worth noting, is misordered)?",
+            "answer": "the ugly",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "61",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "ART",
+            "prompt": "The last name of a German impressionist and Der Blaue Reiter co-founder, who depicted animals in their natural environments in many of his popular works, was the same as the first name of the Russian-born French artist described by critic Robert Hughes in Time magazine as \"seen by an immense constituency of collectors and museumgoers as the quintessential Jewish artist of the 20th century\". What is that name?",
+            "answer": "marc",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "23",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Despite what was lyrically alleged in a 1982 song, Mt. Kilimanjaro does not rise above\u2014nor is it even visible from\u2014what geographical region, whose namesake national park in Tanzania is nearly 200 miles away?",
+            "answer": "serengeti",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "80",
+            "e_percent": "67",
+            "r_percent": "77"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While free throws are most associated in the world of sports with basketball, they are also a component in handball and in what other Olympic sport, whose rules include various other throws as well (e.g., goal throw, corner throw, neutral throw, penalty throw)?",
+            "answer": "water polo",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "63",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "42",
+            "r_percent": "49"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Eric Barrier, a former mobile DJ for New York radio station WBLS, achieved success as a hip-hop artist after pairing in the mid-1980s with an MC from Long Island named William Griffin, Jr. What was Griffin's stage name?",
+            "answer": "rakim",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "36",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "12",
+            "r_percent": "20"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name commonly given to the first complex society in Mesoamerica, who established farming communities along the gulf coast of modern-day Mexico around 1500 BCE, had established chiefdoms by 1250 BCE, and greatly influenced the cultures that followed (including the Maya, Zapotecs, Toltecs, Aztecs, and others)?",
+            "answer": "olmecs",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "34",
+            "e_percent": "17",
+            "r_percent": "32"
+        }
+    ]
+}

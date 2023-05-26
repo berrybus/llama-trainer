@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 3,
+    "date": "August 21, 2020",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Ruby and tawny are two styles of what after-dinner dessert wine, made exclusively in the western region of the Douro river valley on the Iberian peninsula?",
+            "answer": "port",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "74",
+            "r_percent": "78"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "\"Jumping genes\" (a.k.a. transposons), which move along a chromosome and can alter a cell's genetic identity, were the discovery of what botanist and geneticist, who won the Nobel Prize for Physiology or Medicine in 1983? She became the first woman to win that prize unshared and the first American woman to win any Nobel science Prize unshared.",
+            "answer": "barbara mcclintock",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "16",
+            "c_percent": "9",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The head of the Coptic Church, known commonly as the Coptic Pope, presides from an Orthodox cathedral in what country, in which a plurality of the world's Coptic Christians resides?",
+            "answer": "egypt",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "33",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The television program Football Night in America, which has aired on NBC before the network's Sunday-night NFL broadcasts since 2006, gets its titular inspiration from another, similar program that began on radio in the 1930s. What is that other program, which is still going strong today?",
+            "answer": "hockey night in canada",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "16"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Floating Cloud, Dancing Girl, Snow Country, Naomi, and A Personal Matter are all English titles of novels that were originally written in what language?",
+            "answer": "japanese",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "54",
+            "e_percent": "45",
+            "r_percent": "51"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A 2011 film starring Kate Winslet, Christoph Waltz, Jodie Foster, and John C. Reilly\u2014the adaptation of an English-language version of a play by Yasmina Reza that debuted on Broadway in 2009\u2014has what one-word title? Not only is that word the final word of the play's English title, it's also the final word (following Le Dieu de) of the play's French title. ",
+            "answer": "carnage",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "21"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 15,
+    "date": "March 12, 2021",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What term for an environment of chaos and confusion comes from the name of a still-existing psychiatric hospital founded in the city of London in 1247?",
+            "answer": "bedlam",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "80",
+            "d_percent": "68",
+            "e_percent": "47",
+            "r_percent": "59"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "More than twenty albums and compilations released by musical legend Bill Monroe contain what word, a musical genre that Monroe has been widely regarded as \"the father of\"?",
+            "answer": "bluegrass",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "38",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The European membership in the United Nations increased by one on January 19, 1993, with the unanimous admission of what two countries?",
+            "answer": "czech republic, slovakia",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "37",
+            "r_percent": "46"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Despite no formal high-level scientific training in the field, an American scientist named Carolyn Shoemaker has, over the course of her career, discovered 32 different what? This number is cited by some authorities as the most by any individual in history.",
+            "answer": "comets",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "51",
+            "c_percent": "39",
+            "d_percent": "25",
+            "e_percent": "14",
+            "r_percent": "23"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"For the toughest jobs on planet Earth\" is the advertising tagline for a brand of polyurethane adhesives named after what animal?",
+            "answer": "gorilla",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "90",
+            "e_percent": "87",
+            "r_percent": "89"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What word is missing from the following quote from William Blake's The Marriage of Heaven and Hell, which inspired the title of an Aldous Huxley book from 1954 and the name of a rock group whose self-titled debut was released in 1967: \"If the ______ of perception were cleansed every thing would appear to man as it is, Infinite.\"",
+            "answer": "doors",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "42",
+            "e_percent": "26",
+            "r_percent": "43"
+        }
+    ]
+}

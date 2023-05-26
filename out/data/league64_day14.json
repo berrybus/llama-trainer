@@ -1,0 +1,79 @@
+{
+    "date": "March 18, 2015",
+    "league": 64,
+    "day": 14,
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Though the term was originally associated with medieval French poetry, ballade was first applied to instrumental music in the 1830s/40s by Ballades No. 1 to 4, which are considered today among the most technically (and poetically) challenging pieces of the standard piano repertoire. Who composed these ballades?",
+            "answer": "frédéric chopin",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "67",
+            "c_percent": "63",
+            "d_percent": "55",
+            "e_percent": "38",
+            "r_percent": "49"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A popular card game, whose object is not to hold the one unmatchable card in the deck at the end, is known in various countries as \"Black Peter\" (in native languages). What is this game's best-known English name?",
+            "answer": "old maid",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "69",
+            "c_percent": "64",
+            "d_percent": "55",
+            "e_percent": "47",
+            "r_percent": "54"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Though perhaps associated most with rocker Ted Nugent, the pathogen Bartonella henselae is named after scientist Alberto Barton and lab technologist Diane Hensel. It causes a benign infectious disease which is best known colloquially as what?",
+            "answer": "cat scratch fever (disease)",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "76",
+            "c_percent": "76",
+            "d_percent": "61",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In June, 1974, Wrigley's Juicy Fruit gum was the first product purchased in the United States to feature what innovative  and now widespread technology?",
+            "answer": "bar codes",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "45",
+            "d_percent": "43",
+            "e_percent": "32",
+            "r_percent": "36"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The hip hop artists T.I., Ludacris, Big Boi and André 3000 (of Outkast), B.o.B., Soulja Boy, and Young Jeezy are all most closely associated with what city?",
+            "answer": "atlanta",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "78",
+            "d_percent": "69",
+            "e_percent": "61",
+            "r_percent": "66"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the pseudonym—misunderstood during a failed introduction—of the guileless main character in the 1971 Jerzy Kosinski novel Being There?",
+            "answer": "chauncey gardiner",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "46",
+            "c_percent": "44",
+            "d_percent": "30",
+            "e_percent": "13",
+            "r_percent": "22"
+        }
+    ]
+}

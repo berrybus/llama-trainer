@@ -1,0 +1,79 @@
+{
+    "date": "November 11, 2014",
+    "league": 63,
+    "day": 2,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the only child of the actress (not character) highlighted with the red circle in this cast photograph. ",
+            "answer": "lenny kravitz",
+            "image": "/images/art/89y8n908cy098y405.jpg",
+            "a_percent": "56",
+            "b_percent": "36",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "16",
+            "r_percent": "20"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Franz Liszt's Transcendental compositions and Frédéric Chopin's collections numbered Opus 10 and 25 are among the better known (and more often performed) examples of what musical form, whose name indicates its primary purpose as practice material?",
+            "answer": "étude",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "67",
+            "d_percent": "56",
+            "e_percent": "33",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The period of geological time from 1.64 million years ago to today is known as the Quaternary Period, and is itself divided into two epochs: the Pleistocene (1.64 million to 10,000 years ago), and what other, which continues through to the present?",
+            "answer": "holocene",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "52",
+            "c_percent": "43",
+            "d_percent": "31",
+            "e_percent": "15",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What city is this? ",
+            "answer": "louisville, kentucky",
+            "image": "/images/art/894y50c98nertverr.jpg",
+            "a_percent": "86",
+            "b_percent": "70",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "37"
+        },
+        {
+            "category": "ART",
+            "prompt": "What was the occupation shared by Philadelphians David Hayes Agnew and Samuel D. Gross, while they were subjects of famous 19th century paintings by American artist Thomas Eakins?",
+            "answer": "physician/surgeon",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "34"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What number is the geometric mean of 4 and 9?",
+            "answer": "six",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "36",
+            "r_percent": "42"
+        }
+    ]
+}

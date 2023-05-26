@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 10,
+    "date": "June 13, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "A lunatic hypnotist, his carnival somnambulist, and various asylum inmates (who may not be what they appear) are central to the plot of what 1920 horror film and classic of German Expressionism?",
+            "answer": "the cabinet of dr. caligari",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "From 1975 until 1979, while under the control of the Khmer Rouge, the present-day nation of Cambodia was known by what name?",
+            "answer": "(democratic) kampuchea",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "62",
+            "c_percent": "47",
+            "d_percent": "29",
+            "e_percent": "12",
+            "r_percent": "29"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Devin Booker, TJ Warren, and Josh Jackson were leading scorers for what NBA team during the 2017-2018 season?",
+            "answer": "phoenix suns",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "35",
+            "c_percent": "30",
+            "d_percent": "26",
+            "e_percent": "23",
+            "r_percent": "30"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Quartz, tridymite, cristobalite, coesite, and stishovite are the five crystalline forms, and opal an amorphous form, of a chemical compound best known by what single word?",
+            "answer": "silica",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "44",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "U.S. Army airmen seeking to be excused from WWII bombing missions due to mental derangement, but judged ineligible as the sanity of such a request proves their fitness, are central to the plot of what novel?",
+            "answer": "catch-22",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "90",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "64",
+            "r_percent": "69"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The images in this montage, all with slight edits, are taken from album covers by what musical group? ",
+            "answer": "foo fighters",
+            "image": "/images/art/8509c8y34n986.jpg",
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "50",
+            "d_percent": "44",
+            "e_percent": "37",
+            "r_percent": "41"
+        }
+    ]
+}

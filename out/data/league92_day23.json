@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 23,
+    "date": "March 17, 2022",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "The plot of the BBC drama series Poldark, which has achieved a degree of popularity in the US via its broadcast on PBS's Masterpiece series, centers on the title character and his tribulations upon returning home after serving in the British army during what war?",
+            "answer": "american revolutionary war",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "28",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A small group of advisors who served Charles II of England between 1667 and 1673\u2014The Earl of Arlington, The Lord Ashley, The Duke of Buckingham, The Lord Clifford of Chudleigh, and The Duke of Lauderdale (in alphabetical order)\u2014were referred to by what five-letter word (which did not actually originate with them, though it fit them perfectly)?",
+            "answer": "cabal",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "60",
+            "d_percent": "47",
+            "e_percent": "32",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What rock band, which formed in 1976 and is still active today, has won more Grammys, sold more albums, and grossed more on concert tours than any other band that also shares its name with an actual aircraft?",
+            "answer": "u2",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "43",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "23",
+            "r_percent": "33"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the Mexican equivalent of Indonesia's Pertamina, Malaysia's Petronas, Ukraine's Naftogaz, Venezuela's PDVSA, and Brazil's Petrobras?",
+            "answer": "pemex",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "24",
+            "e_percent": "12",
+            "r_percent": "22"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Identify the celestial object whose mean distance from the Sun is approximately 36 million miles (58 million kilometers, 0.39 AU).",
+            "answer": "mercury",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "56",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A 2002 film begins with the title character floating in the Mediterranean Sea, sixty miles south of Marseilles, where an Italian fishing boat crew rescues him. This film is the first in an action movie franchise named after that main character. What is his name? (Last name is required, and last name alone is acceptable.)",
+            "answer": "jason bourne",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "91",
+            "d_percent": "89",
+            "e_percent": "82",
+            "r_percent": "85"
+        }
+    ]
+}

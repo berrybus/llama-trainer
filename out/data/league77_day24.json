@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 24,
+    "date": "July 3, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Compression of the median nerve that passes through the wrist to supply the thumb side of the hand can produce, most commonly, a medical condition best known as what?",
+            "answer": "carpal tunnel syndrome",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "83",
+            "e_percent": "79",
+            "r_percent": "83"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What Mexican state, which is bordered by New Mexico and Texas to the north, is that country's largest state by land area?",
+            "answer": "chihuahua",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Adam Arkin, Hector Elizondo, Mandy Patinkin, Thomas Gibson, and Christine Lahti were among the stars of what CBS medical drama that aired, during its first season, on the same night and time as its more successful first-season NBC rival ER (and was also set in the same city)?",
+            "answer": "chicago hope",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "63",
+            "e_percent": "45",
+            "r_percent": "53"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What term, used in mathematics to designate a specific value in certain arithmetic operations, is used commonly in finance for a payment of income by a company to its shareholders?",
+            "answer": "dividend",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "92",
+            "e_percent": "89",
+            "r_percent": "88"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The items in this montage (not pictured to scale) were all produced specifically for preparing or serving what vegetable? ",
+            "answer": "asparagus",
+            "image": "/images/art/9u45m549y68v059v.jpg",
+            "a_percent": "43",
+            "b_percent": "43",
+            "c_percent": "37",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "28"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What Serbian nationalist and revolutionary, who died in prison in 1918, is by far history's best-known (and most consequential) individual associated with a terrorist organization known as the Black Hand?",
+            "answer": "gavrilo princip",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "47",
+            "d_percent": "33",
+            "e_percent": "17",
+            "r_percent": "31"
+        }
+    ]
+}

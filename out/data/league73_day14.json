@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 14,
+    "date": "June 2, 2017",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While Haneda Airport serves as the Tokyo base for Japan's main domestic airlines, the city's primary international airport is located in what city in Chiba Prefecture, after which the airport is named?",
+            "answer": "narita",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "27",
+            "r_percent": "39"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The fifth and most recent film in the Pirates of the Caribbean series, released in May 2017, is subtitled Dead Men Tell No Tales, and the first in the series is subtitled The Curse of the Black Pearl. Give the subtitle of any one of the other three installments in the series.",
+            "answer": "dead man's chest, at world's end, on stranger tides",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "67",
+            "e_percent": "57",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Volunteers who supported Giuseppe Garibaldi during the conquest of the Kingdom of the Two Sicilies were known by what sanguine sartorial sobriquet?",
+            "answer": "redshirts",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "59",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "15",
+            "r_percent": "30"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Among the six standard meat/tofu items on the menu at the Chipotle Mexican Grill chain, the slow-cooked, seasoned shredded beef option is listed as what term?",
+            "answer": "barbacoa",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "61",
+            "c_percent": "56",
+            "d_percent": "55",
+            "e_percent": "52",
+            "r_percent": "54"
+        },
+        {
+            "category": "ART",
+            "prompt": "The artistic diversion, born from Surrealism, in which several people contribute to a drawing or text without seeing all of what the others have done is commonly known as \"exquisite\" what? It's named after an early example that allegedly produced \"The exquisite [redacted] shall drink the new wine.\"",
+            "answer": "corpse/cadaver",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "34",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Of the companies whose stocks make up the 30 components of the Dow Jones Industrial Average, twenty-six are listed on the New York Stock Exchange while four are listed on the NASDAQ. Name any one of these latter four, all of which have joined the Dow within the last twenty years. ",
+            "answer": "apple, cisco systems, intel, microsoft",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "65",
+            "c_percent": "55",
+            "d_percent": "52",
+            "e_percent": "44",
+            "r_percent": "49"
+        }
+    ]
+}

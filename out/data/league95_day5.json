@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 5,
+    "date": "November 11, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Avellaneda, Olivos, San Isidro, Tigre, and La Boca are neighborhoods or suburbs of what city, once capital of the Spanish viceroyalty of La Plata?",
+            "answer": "buenos aires",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "54",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What is the one-word job title shared (though not necessarily in the same capacity) by the television characters Dwayne Schneider, Nathan Bookman, and Gary Chalmers?",
+            "answer": "superintendent",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "56",
+            "c_percent": "46",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "30"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The works of Russian dramatist Anton Chekhov include Uncle Vanya, The Three Sisters, The Cherry Orchard, and what 1896 play, his first major work, which, despite its title, is actually set somewhere inland in present-day central Russia or Ukraine?",
+            "answer": "the seagull",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "51",
+            "c_percent": "37",
+            "d_percent": "23",
+            "e_percent": "12",
+            "r_percent": "22"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the common name of the wild, arching, thorny shrub which is the source of dewberries, raspberries, and blackberries (and in some countries is used as a name for the common blackberry itself)?",
+            "answer": "bramble",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "49",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What are the most famous and most remembered four words spoken from the steps of West Germany's Rathaus Sch\u00f6neberg in June 1963?",
+            "answer": "ich bin ein berliner",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "73",
+            "e_percent": "50",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Name the Italian engineer and inventor, born in 1903, whose name lives on today via the hydrotherapeutic pump he developed to alleviate the arthritis pain suffered by his infant son.",
+            "answer": "candido jacuzzi",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "25"
+        }
+    ]
+}

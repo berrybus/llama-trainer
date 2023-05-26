@@ -1,0 +1,79 @@
+{
+    "date": "November 10, 2015",
+    "league": 67,
+    "day": 1,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The dish pictured here appears on menus across the southern United States most commonly as what duo? This includes at an annual Charleston, SC, chefs' competition, and a namesake festival in Jekyll Island, GA. ",
+            "answer": "shrimp and grits",
+            "image": "/images/art/8h8y098y4d0958y3.jpg",
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "87",
+            "d_percent": "88",
+            "e_percent": "85",
+            "r_percent": "84"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Thailand, Laos, and Vietnam are all currently engaged in land border disputes (in varying levels of conflict) with what other country?",
+            "answer": "cambodia",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "61",
+            "e_percent": "47",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What animal enzyme, the first to be discovered (in 1836), breaks down proteins during digestion, and was (allegedly) an original ingredient in what was known as \"Brad's Drink\"?",
+            "answer": "pepsin",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the baseball player who, in a herald of greater things to come, set a Pacific Coast League record at age 18 with a 61-game hitting streak, while playing for his hometown San Francisco Seals in 1933.",
+            "answer": "joe dimaggio",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "46",
+            "e_percent": "34",
+            "r_percent": "38"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Stick on his back a mustard plaster, put him in the scuppers with a hose-pipe on him, scrape the hair off his chest with a hoop-iron razor, and tie him to the taffrail when she's yardarm under—these are some of the responses to the question posed in what sea shanty?",
+            "answer": "(what shall we do with the) drunken sailor?",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "75",
+            "d_percent": "68",
+            "e_percent": "51",
+            "r_percent": "55"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The Murder of Gonzago, retitled as The Mouse-trap, is a play-within-a-play featured in what work?",
+            "answer": "hamlet",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "61",
+            "d_percent": "49",
+            "e_percent": "28",
+            "r_percent": "42"
+        }
+    ]
+}

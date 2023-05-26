@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 25,
+    "date": "March 24, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "High ball, middle (or two), quick (or one), shoot, and red are all sets (or \"plays\") commonly used in what sport?",
+            "answer": "volleyball",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "29",
+            "c_percent": "23",
+            "d_percent": "19",
+            "e_percent": "15",
+            "r_percent": "19"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Treaty of Nanjing, in which the Qing government ceded Hong Kong to Queen Victoria, concluded the first of two wars that are most commonly known by what name?",
+            "answer": "opium wars",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "60",
+            "e_percent": "40",
+            "r_percent": "55"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The president of the Motion Picture Producers and Distributors of America in the 1920s and 30s gave his name to the code of practice adopted in 1930 to control movie content, particularly as it related to sexual morality. What was the name of this code?",
+            "answer": "hays code",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "44",
+            "d_percent": "29",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The bird-of-paradise, of the family Paradisaeidae, is found natively on what major island, which has a shape that is said to resemble the bird's (and thus has bird-related names for its northwestern and southeastern extremities)?",
+            "answer": "new guinea",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "36",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Certain long, thin, sponge cake cookies, which are made with eggs, sugar, and flour and baked until golden, and which are used for trifles, charlottes,  and tiramisu, and sometimes served with ice cream, are often given what anatomical name?",
+            "answer": "ladyfingers/cat's tongues",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "90",
+            "d_percent": "86",
+            "e_percent": "78",
+            "r_percent": "76"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What sort of imaginary creature did James Clerk Maxwell use in an 1867 thought experiment to represent a hypothetical violation of the second law of thermodynamics? The creature's function was to operate a partition between two chambers of gas.",
+            "answer": "(maxwell's) demon",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "35",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "19"
+        }
+    ]
+}

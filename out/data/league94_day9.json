@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 9,
+    "date": "September 9, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Safavid Empire, which existed from the beginning of the 16th century until the 1730s, is widely considered to mark the beginning of the modern history of what present-day nation, over whose area the empire was centered? ",
+            "answer": "iran",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "28",
+            "r_percent": "47"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Simon was the middle name of what American journalist and playwright, from 1917 to 1930 a drama critic at the New York Times, who is celebrated for his successful collaborations of the 1920s and 30s with Marc Connelly, Ira Gershwin, Edna Ferber, Howard Teichmann, and Moss Hart (among others)?",
+            "answer": "george s. kaufman",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "17",
+            "c_percent": "10",
+            "d_percent": "5",
+            "e_percent": "2",
+            "r_percent": "8"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name (or the three-letter abbreviation) for the energy-yielding nucleotide molecule, found in all living cells, that fuels the myriad of biological processes that sustain life? ",
+            "answer": "adenosine triphosphate (atp)",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "53",
+            "c_percent": "47",
+            "d_percent": "40",
+            "e_percent": "32",
+            "r_percent": "40"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In 1969, former Cream members Ginger Baker and Eric Clapton teamed with former Spencer Davis Group/Traffic member Steve Winwood to form what short-lived supergroup, whose one chart-topping self-titled album is famous for songs such as \"Can't Find My Way Home\" and \"Well All Right\"?",
+            "answer": "blind faith",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "38",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The heart of the wise is in the [redacted one word] of mourning; but the heart of fools is in the [redacted three words].The title of a 1905 Edith Wharton novel completes the preceding passage (i.e., is the second redaction) from Ecclesiastes Chapter 7. What is that title?",
+            "answer": "house of mirth",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "35",
+            "c_percent": "24",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "19"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Though sometimes inaccurate and becoming obsolete, the \"Big Four\" gemstones\u2014diamonds, emeralds, rubies, and sapphires\u2014 were traditionally categorized and classified using what adjective, with all other gemstones being \"semi-\" this (based on the word \"valuable\" by the Romans)?",
+            "answer": "precious",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "96",
+            "d_percent": "93",
+            "e_percent": "86",
+            "r_percent": "90"
+        }
+    ]
+}

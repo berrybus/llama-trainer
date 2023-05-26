@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 4,
+    "date": "November 16, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Give the pseudonym of Iowa-born Esther Pauline Friedman Lederer, or that of her twin sister, Pauline Esther Friedman Phillips. ",
+            "answer": "ann landers, abigail van buren (dear abby)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The composite material known as nacre, which forms the hard, smooth layer on the inside of certain oyster and mussel shells, and is often used to make jewelry and buttons, is also known by what three-word term?",
+            "answer": "mother of pearl",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "90",
+            "e_percent": "80",
+            "r_percent": "85"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What name is being exclaimed in this movie screenshot? ",
+            "answer": "kevin",
+            "image": "/images/art/598u6c0496u5.jpg",
+            "a_percent": "85",
+            "b_percent": "81",
+            "c_percent": "78",
+            "d_percent": "78",
+            "e_percent": "75",
+            "r_percent": "76"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The musicals Joseph and the Amazing Technicolor Dreamcoat, Jesus Christ Superstar, Evita, Chess, The Lion King, and Aida are among the works of what lyricist?",
+            "answer": "tim rice",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "65",
+            "c_percent": "53",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "33"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Who was born in Newgate, and during a life of continu'd Variety for Threescore Years, besides her Childhood, was Twelve Years a Whore, five times a Wife (whereof once to her brother) Twelve Years a Thief, Eight Years a Transported Felon in Virginia, at last grew Rich, liv'd Honest and died a Penitent\u2014The preceding is the final 4/5 of the title of what classic novel?",
+            "answer": "moll flanders",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "44",
+            "c_percent": "30",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The largest stock exchange in continental Europe, as measured by market capitalization of its listed companies, was formed in 2000 through the merger of the Amsterdam Stock Exchange, Brussels Stock Exchange, and Paris Bourse, and goes by what name? ",
+            "answer": "euronext",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "22",
+            "c_percent": "15",
+            "d_percent": "11",
+            "e_percent": "7",
+            "r_percent": "15"
+        }
+    ]
+}

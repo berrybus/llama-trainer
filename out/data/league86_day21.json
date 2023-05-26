@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 21,
+    "date": "September 17, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Wisconsin-based sausage company Johnsonville is the primary and title sponsor for the premier American league, founded in 2015, for what game?",
+            "answer": "cornhole",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "47",
+            "c_percent": "42",
+            "d_percent": "38",
+            "e_percent": "30",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The highest mountain on Mars, which rises over 16 miles above the Martian surface and was long believed to be the highest mountain in the solar system, has the same name as what terrestrial mountain (with the Latin Mons replacing \"Mount\")?",
+            "answer": "mount olympus",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "42",
+            "r_percent": "54"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Composer Bill Conti won an Oscar for his score to 1983's The Right Stuff, but his signature work may be the inspirational theme song for what Oscar-winning film from the previous decade?",
+            "answer": "rocky",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "49",
+            "e_percent": "37",
+            "r_percent": "48"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In 1861, Belgian chemist Ernest Solvay developed an industrial process, still in widespread use today, that uses brine (as a source of NaCl) and limestone (as a source of CaCO3) primarily to produce large quantities of what compound?",
+            "answer": "sodium carbonate (washing soda/soda ash/na2co3)",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "18",
+            "c_percent": "12",
+            "d_percent": "8",
+            "e_percent": "5",
+            "r_percent": "13"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Dom Pierre P\u00e9rignon was a Benedictine monk who lived for 47 years at the Abbaye Saint-Pierre d'Hautvillers within what historical French province?",
+            "answer": "champagne",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "72",
+            "r_percent": "72"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Though it was completed in 1937, it wasn't until the 1970s\u2014well after the death of the author, impoverished and largely forgotten, in 1960\u2014that the novel Their Eyes Were Watching God began to be recognized as an American classic. Who is this prolific author?",
+            "answer": "zora neale hurston",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "57",
+            "d_percent": "47",
+            "e_percent": "32",
+            "r_percent": "44"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 13,
+    "date": "March 11, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What fictional character's first appearance was in the 1999 play I Can Do Bad All by Myself and first film appearance was in 2005's Diary of a Mad Black Woman, with most of her subsequent plays and films having titles that included her name?",
+            "answer": "madea",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "87",
+            "d_percent": "79",
+            "e_percent": "74",
+            "r_percent": "77"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Johann Wolfgang von Goethe's Wilhelm Meister's Apprenticeship, Thomas Mann's The Magic Mountain, Charles Dickens' David Copperfield, and Harper Lee's To Kill a Mockingbird are all considered examples of works in what literary genre, the name of which is a German term that translates to English as \"novel of education\")?",
+            "answer": "bildungsroman",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "41",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Maria Ann Smith, who died in 1870 at age 70 outside Sydney, Australia, survived by her husband, five children, and numerous further descendants, is remembered today for bringing into the world what now-popular food item?",
+            "answer": "granny smith apple",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "38",
+            "c_percent": "25",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the name of the militia led by Ethan Allen that captured Fort Ticonderoga on Lake Champlain in 1775 during the American Revolutionary War? The inspiration for the militia's name was the same as that for the present-day state in whose territory the militia was organized.",
+            "answer": "green mountain boys",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "70",
+            "d_percent": "52",
+            "e_percent": "27",
+            "r_percent": "46"
+        },
+        {
+            "category": "ART",
+            "prompt": "Pieter, Jan, Pieter, Jan, Ambrosius, Abraham, and Jan Pieter are among the members of what dynasty of Flemish painters that began in the mid-16th century?",
+            "answer": "brueghel/bruegel",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "36",
+            "c_percent": "27",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The story of which Biblical character, the wife of the Persian king Ahasuerus  (Xerxes I), is read during the Jewish festival of Purim, which commemorates the rescue of the Jews from the king's advisor, Haman (BOO! \u2014HISS!\u2014[rattle])?",
+            "answer": "esther",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "56",
+            "d_percent": "46",
+            "e_percent": "35",
+            "r_percent": "42"
+        }
+    ]
+}

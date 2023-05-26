@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 24,
+    "date": "September 22, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Pictured here are tiles produced for what game? ",
+            "answer": "qwirkle",
+            "image": "/images/art/8845uy0nc89.jpg",
+            "a_percent": "26",
+            "b_percent": "19",
+            "c_percent": "18",
+            "d_percent": "14",
+            "e_percent": "11",
+            "r_percent": "17"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What are the last names of the two individuals who served as Prime Minister of India from independence in 1947 until March 1977, with the exception of a 20-month period beginning in May 1964? (Two answers required.)",
+            "answer": "nehru, gandhi",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "52",
+            "e_percent": "25",
+            "r_percent": "44"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the full name (first and last) of the American financier who served as White House Director of Communications from (officially) July 26, 2017, until July 31, 2017?",
+            "answer": "anthony scaramucci",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "76",
+            "r_percent": "81"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Whereas patricide is the killing of one's father and matricide is the killing of one's mother, and as mariticide is the killing of one's husband, what is the corresponding Latin-derived term for the killing of one's wife?",
+            "answer": "uxoricide",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "32",
+            "c_percent": "22",
+            "d_percent": "13",
+            "e_percent": "5",
+            "r_percent": "19"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The personal computing boom of the 1980s and evolution into online computing and the world wide web in the 90s provide the setting for what television drama series currently airing on the AMC cable network?",
+            "answer": "halt and catch fire",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "51",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "32",
+            "r_percent": "38"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Dymaxion House and the Dymaxion Car, both pictured here, were designed and developed by what American inventor and architect? ",
+            "answer": "buckminster fuller",
+            "image": "/images/art/984yc50n589.jpg",
+            "a_percent": "81",
+            "b_percent": "66",
+            "c_percent": "54",
+            "d_percent": "34",
+            "e_percent": "16",
+            "r_percent": "35"
+        }
+    ]
+}

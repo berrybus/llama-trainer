@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 25,
+    "date": "December 15, 2020",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Issa Rae, Yvonne Orji, Natasha Rothwell, and Amanda Seales star in what current HBO television series, based in part on Rae's acclaimed comedy web series The Mis-Adventures of Awkward Black Girl?",
+            "answer": "insecure",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "57",
+            "c_percent": "51",
+            "d_percent": "46",
+            "e_percent": "38",
+            "r_percent": "46"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Virtually the entirety of the southern shore of the Black Sea is the northern coastline of what country?",
+            "answer": "turkey",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "64"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What company, which proclaims itself the \"largest Hispanic-owned food company in the United States\" and is famous for its Adobo among many other products, was founded in 1936 by Spanish immigrants Carolina and Don Prudencio Unanue?",
+            "answer": "goya",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "86",
+            "d_percent": "83",
+            "e_percent": "73",
+            "r_percent": "77"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Invented by designer Diane von Furstenberg in 1974, the common dress that typically is cut knee-length with long sleeves, crosses at the chest, and cinches at the waist, and is often made of elaborately patterned and colorful jersey material, is most commonly known by what name?",
+            "answer": "wrap dress",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "47",
+            "c_percent": "42",
+            "d_percent": "39",
+            "e_percent": "34",
+            "r_percent": "39"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the Australian tennis star who, since June 2019, has held the #1 spot in the WTA rankings, ahead of current #2 Simona Halep of Romania. ",
+            "answer": "ashleigh barty",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "11",
+            "e_percent": "7",
+            "r_percent": "15"
+        },
+        {
+            "category": "ART",
+            "prompt": "In 1970, college student Gary Anderson won a design contest with a logo that contains three arrows and a one-sided non-orientable surface. This design is still used today internationally as a symbol for what activity?",
+            "answer": "recycling",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "67",
+            "e_percent": "57",
+            "r_percent": "66"
+        }
+    ]
+}

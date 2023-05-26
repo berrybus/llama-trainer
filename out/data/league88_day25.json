@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 25,
+    "date": "March 26, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Most likely the song of the summer of 2020, and the #1 pop song on Billboard's chart for the year, was an 80s-esque smash by The Weeknd whose title could also describe some streetside home exteriors during the Christmas season. What is that title?",
+            "answer": "blinding lights",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "55",
+            "c_percent": "49",
+            "d_percent": "44",
+            "e_percent": "40",
+            "r_percent": "52"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Great Fire of London began on September 2, 1666. Name the other pivotal event that occurred (from start to finish) on a day almost exactly 600 years prior (minus 42 days), and about 50 miles to the southeast.",
+            "answer": "battle of hastings",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "29",
+            "r_percent": "42"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Six-second-long video clips were the content on what social network and video service that was founded in 2012, acquired by Twitter that same year, formally released in 2013, and discontinued by 2017?",
+            "answer": "vine",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "83",
+            "e_percent": "80",
+            "r_percent": "82"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "When a player scores three goals in a game in ice hockey, it's a hat trick. What adjective is commonly used to describe a hat trick when those three goals are scored by the player consecutively, with no other goals scored by any other player on either team in between those three? ",
+            "answer": "natural",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "19",
+            "e_percent": "14",
+            "r_percent": "21"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A trademark of an SLR camera (and the digital DSLR) is the mirror and prism system (hence the R for \"reflex\") that permits the photographer to see through the viewfinder exactly the same image that will be exposed. This system also allows the camera to have what's indicated by the SL, which stands for what two words?",
+            "answer": "single lens",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "63",
+            "e_percent": "51",
+            "r_percent": "62"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the three-letter NYSE ticker symbol for the video game retailer GameStop?",
+            "answer": "gme",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "61",
+            "e_percent": "59",
+            "r_percent": "65"
+        }
+    ]
+}

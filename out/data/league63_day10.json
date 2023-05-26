@@ -1,0 +1,79 @@
+{
+    "date": "November 21, 2014",
+    "league": 63,
+    "day": 10,
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The calamities in a 2014 comedy film include gum in the title character's hair, a dead car battery, a baby at a job interview, a failed driving test, an overdose on cough medicine, and numerous others. What is the name of this film's title character?",
+            "answer": "alexander (and the terrible, horrible, no good, very bad day)",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "52",
+            "c_percent": "53",
+            "d_percent": "45",
+            "e_percent": "35",
+            "r_percent": "41"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What primary ingredient is shared by the dishes aligot, criques, rösti, hachis Parmentier, and gratin dauphinois?",
+            "answer": "potatoes",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "56",
+            "r_percent": "62"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Two rounds of bilateral negotiations between the Soviet Union and the United States regarding armament control, the first of which commenced in Helsinki in 1969 and the latter of which concluded in Vienna in 1979, are each best known today by what abbreviation (with a numerical suffix)?",
+            "answer": "salt",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "61",
+            "e_percent": "35",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In 2014, the adidas Golden Boot, which is given to the top goal scorer in the FIFA World Cup, was awarded to attacking midfielder James Rodríguez. For what national team does James play?",
+            "answer": "colombia",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "51",
+            "c_percent": "42",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In American television history, three series have ended their runs with their final seasons ranked at the top of the Nielsen ratings. This occurred in 1956–57, 1967–68, and 1997–98. Name any one of these three series.",
+            "answer": "i love lucy, the andy griffith show, seinfeld",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "73",
+            "e_percent": "64",
+            "r_percent": "72"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Tappi Tíkarrass; Kukl; and, most successfully, Sykurmolarnir were bands that featured singer-songwriter Björk Guðmundsdóttir as vocalist. What is the English translation of the word Sykurmolarnir?",
+            "answer": "sugarcubes",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "49",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "17",
+            "r_percent": "27"
+        }
+    ]
+}

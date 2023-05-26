@@ -1,0 +1,79 @@
+{
+    "date": "March 18, 2016",
+    "league": 68,
+    "day": 20,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Although Arnold Schwarzenegger is slated to take over the franchise in the 2016—17 television season, to date, every season of all American versions of the NBC reality series The Apprentice (including spinoffs/variations) was hosted by Donald Trump, with one exception. Who hosted this non-Trump Apprentice, which aired in the fall of 2005?",
+            "answer": "martha stewart",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "24",
+            "e_percent": "19",
+            "r_percent": "31"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Methanoic acid (HCOOH), a colorless liquid used in electroplating, dyeing, and tanning, is more commonly known by a name derived from the Latin word for ant, because the acid was first discovered as a secretion from the insect. What is the common name for this acid or the Latin word from which it's derived? Somewhat oddly, the Latin word is also used for a well-known composite laminate.",
+            "answer": "formic acid/formica",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "66",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "27",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Who is, at still just barely 28 years of age, by far the biggest-selling Barbadian artist in the history of pop music?",
+            "answer": "rihanna",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "73",
+            "e_percent": "64",
+            "r_percent": "74"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Southeastern Nigerian states of Abia, Akwa Ibom, Anambra, Bayelsa, Cross River, Delta, Ebonyi, Enugu, Imo, and Rivers cover the area that was, from 1967 to 1970, what republic?",
+            "answer": "biafra",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "45",
+            "c_percent": "32",
+            "d_percent": "19",
+            "e_percent": "7",
+            "r_percent": "20"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "An animal referred to in French as la grenouille is known in English as what?",
+            "answer": "frog",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "60",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "26",
+            "r_percent": "45"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the term in the sport of cricket for the segment of time that a team or an individual batsman has a turn batting at the wicket?",
+            "answer": "innings",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "54",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "36"
+        }
+    ]
+}

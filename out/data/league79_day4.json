@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 4,
+    "date": "November 19, 2018",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The \"Croissan'wich\" is a breakfast sandwich innovation introduced in 1983 by what fast food restaurant chain?",
+            "answer": "burger king",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "58",
+            "r_percent": "60"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A German noble family known as the Princely House of Thurn and Taxis was, in 16th-century Europe, instrumental in the development of what type of service, which is at the center of a popular modern board game named after the family?",
+            "answer": "postal/mail service",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "20"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What term was historically used for an educational institution whose primary function was the training of teachers? The term endures in the name of the Illinois city where that state's main teachers' college was founded in 1857 (and remains today, now called Illinois State University).",
+            "answer": "normal school",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "31"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A wealthy textile industrialist and philanthropist born at sea in 1836, while his parents were en route to the United States from France, has a name that lives on today in the name of an American performing arts conservatory that is widely considered one of the world's premier institutions of its kind. What is that name?",
+            "answer": "juilliard",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "87",
+            "c_percent": "82",
+            "d_percent": "77",
+            "e_percent": "69",
+            "r_percent": "74"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Sabrina Duncan, Jill Munroe, Kelly Garrett, Kris Munroe, Tiffany Welles, and Julie Rogers were television characters who were known collectively, at various times, by what name?",
+            "answer": "charlie's angels",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "53",
+            "e_percent": "44",
+            "r_percent": "56"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What color represents the highest level (\"Hazardous\") on the EPA's Air Quality Index, is included in the name of pop music band whose last five studio albums have reached the top 2 on the Billboard 200 album chart, and is the name of a student newspaper at the University of Chicago?",
+            "answer": "maroon",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "70",
+            "d_percent": "63",
+            "e_percent": "52",
+            "r_percent": "60"
+        }
+    ]
+}

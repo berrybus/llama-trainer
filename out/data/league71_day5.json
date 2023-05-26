@@ -1,0 +1,79 @@
+{
+    "date": "November 18, 2016",
+    "league": 71,
+    "day": 5,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What is the name used for the modernist architectural style, pioneered by Philip Johnson, Ludwig Mies van der Rohe, the Bauhaus school, and others, that is characterized by architecture as volume (vs. mass), emphasis on regularity in the façade (vs. symmetry), and zero applied ornamentation? Dominant in the mid-20th century, the style took its name from a 1932 exhibition curated by Johnson and Henry-Russell Hitchcock at New York's Museum of Modern Art.",
+            "answer": "international style",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "24",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "8"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What Roman Catholic writer from (and of) the rural American South first achieved wide regard as a master of the short story form via her collection published in 1955 as A Good Man is Hard to Find?",
+            "answer": "flannery o'connor",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Jude Law, Philip Seymour Hoffman, and Jack Davenport played characters who were murdered (while Gwyneth Paltrow's and Cate Blanchett's were almost murdered) in what 1999 film?",
+            "answer": "the talented mr. ripley",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "68",
+            "c_percent": "58",
+            "d_percent": "54",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Ariel, Umbriel, Belinda, Titania, Oberon, Puck, Miranda, Caliban, Prospero, Ophelia, Cressida, Desdemona, Portia, and Rosalind, along with exactly thirteen others, are all names of what?",
+            "answer": "moons of uranus",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "49",
+            "c_percent": "35",
+            "d_percent": "17",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "ART",
+            "prompt": "The largest privately owned house in the United States was commissioned by George W. Vanderbilt and erected on a vast estate of 125,000 acres near Asheville, NC. Designed by Richard Morris Hunt and completed in the 1890s, the estate is known by what name?",
+            "answer": "biltmore",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What prolific patron of art, literature, and architecture was installed at Versailles in 1745, and for her final 20 years influenced state policy while assuming virtual control of public affairs during the reign of Louis XV?",
+            "answer": "madame de pompadour (jean antoinette poisson)",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "40",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "7",
+            "r_percent": "18"
+        }
+    ]
+}

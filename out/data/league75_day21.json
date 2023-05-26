@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 21,
+    "date": "December 14, 2017",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The shocking stabbing death of Meredith Hunter, an 18-year-old African American man from Berkeley, California, is central to what 1970 documentary film, which includes footage of the incident?",
+            "answer": "gimme shelter",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "38",
+            "c_percent": "29",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "20"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the city that served as the political center of the Tokugawa Shogunate beginning in the early 1600s? The city, which gives its name to another term for the Tokugawa period, was renamed Tokyo with the restoration of imperial rule under Meiji in 1868.",
+            "answer": "edo",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "78",
+            "c_percent": "67",
+            "d_percent": "50",
+            "e_percent": "27",
+            "r_percent": "48"
+        },
+        {
+            "category": "ART",
+            "prompt": "Figures in a 1908 painting by Gustav Klimt, an 1882 sculpture by Auguste Rodin, a 1969 painting by Pablo Picasso, and a 1945 photograph by Alfred Eisenstaedt are all engaged in what act?",
+            "answer": "kiss",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "39",
+            "r_percent": "54"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Sons and A House Divided, the second and third installments of the House of Earth trilogy, are works by what Pulitzer and Nobel-winning American novelist?",
+            "answer": "pearl s. buck",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "36",
+            "c_percent": "23",
+            "d_percent": "13",
+            "e_percent": "5",
+            "r_percent": "18"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Burning Crusade, Wrath of the Lich King, Cataclysm, Mists of Pandaria, Legion, and Battle for Azeroth are expansion sets released for what game?",
+            "answer": "world of warcraft",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "61",
+            "c_percent": "57",
+            "d_percent": "53",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the most notable distinction shared by the names of the five tallest mountains in New Hampshire's White Mountains?  This distinction is referenced in the name of the range of the White Mountains within which these peaks are located.",
+            "answer": "names of u.s. presidents",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "48",
+            "e_percent": "34",
+            "r_percent": "45"
+        }
+    ]
+}

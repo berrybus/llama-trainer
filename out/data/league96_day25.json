@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 25,
+    "date": "March 21, 2023",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "With a population of over 100,000, what city within the metropolitan area of Houston, Texas, is the most populous of a particular set of US cities that includes Sugartown, Louisiana; Sugar City, Colorado; and Sugar Grove, Arkansas?",
+            "answer": "sugar land",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "57",
+            "e_percent": "44",
+            "r_percent": "51"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the \"ordinary\" (and technically inaccurate) name of the English rock band popular in the 1980s\u2014until and after their acrimonious 1987 break up\u2014whose members' first names were Johnny, Andy, Mike, and Steven (though no one was allowed to call him Steven, and no one refers to him by that name, or any first name, today)?",
+            "answer": "the smiths",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "50",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What was the last name of the Paris-born German engineer whose name lives on today due to his construction of a \"rational heat motor\" in 1897, which demonstrated the first compression-ignition engine?",
+            "answer": "(rudolf) diesel",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Identify the biblical character, presented in Genesis as the nephew of Abraham, who is remembered in association with his wife (unnamed in the Bible), who herself became a pillar of salt.",
+            "answer": "lot/lut",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "74",
+            "e_percent": "52",
+            "r_percent": "63"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Three Crystal Gems\u2014Garnet, Amethyst, and Pearl\u2014live in an ancient temple in the town of Beach City with a quirky, young, half-human, half-Gem boy, as they protect Earth and help the boy learn to control his own powers on what animated TV series?",
+            "answer": "steven universe",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "34",
+            "c_percent": "31",
+            "d_percent": "26",
+            "e_percent": "21",
+            "r_percent": "27"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The slalom, giant slalom, and downhill are among the events in skiing categorized as Alpine skiing. Cross-country races and ski-jumping events, conversely, are typically categorized by what other term?",
+            "answer": "nordic skiing",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "58",
+            "e_percent": "40",
+            "r_percent": "48"
+        }
+    ]
+}

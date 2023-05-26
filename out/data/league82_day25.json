@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 25,
+    "date": "October 2, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the common term for the air currents that generally blow from east to west toward a low pressure zone at the equator, within a region between 30\u00b0 north latitude and 30\u00b0 south?",
+            "answer": "trade winds",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "33",
+            "r_percent": "42"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "While the official term was \"Governor-General\", what term was used in common parlance for the representative of the British Crown (serving \"in place of the king\") during the British Raj in India?",
+            "answer": "viceroy",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "31"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The title of the classic 8th-century Japanese poetry anthology Man'y\u014dsh\u016b is often translated into English as the Collection of 10,000 what? The word in question is used in another, unrelated poetry collection from the 19th century. which translates to Japanese as Kusa no ha (\u8349\u306e\u8449).",
+            "answer": "leaves",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "28",
+            "c_percent": "20",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "13"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Fire, Med, and P.D. complete the titles of currently running television series that all begin with what word?",
+            "answer": "chicago",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "87",
+            "e_percent": "81",
+            "r_percent": "83"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Bumble Bee\", \"Guitar\", \"Magic\", \"Memphis\", and \"Sunnyland\" are all first words of nicknames for various blues artists. What word finishes each nickname? The same word is the nickname of country artists with the last names of Whitman, Dusty, and Wilson.",
+            "answer": "slim",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "32"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Until the US Constitution took effect in 1789, the body known as the Continental Congress was the political voice of the new nation via the authority bestowed in what document, in force as of March 1781 after ratification by all thirteen states?",
+            "answer": "articles of confederation",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "79",
+            "e_percent": "61",
+            "r_percent": "70"
+        }
+    ]
+}

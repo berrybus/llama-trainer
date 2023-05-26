@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 21,
+    "date": "March 15, 2023",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Lasciate ogni Speranza, voi ch'intrate, often translated as \"abandon all hope, ye who enter here\", a phrase that has entered the common dialect, famously originated as an inscription on a gate in what work of literature?",
+            "answer": "inferno/the divine comedy",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "87",
+            "e_percent": "73",
+            "r_percent": "80"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The share index known informally as the \"Footsie\" is operated and maintained by an entity that originated as a joint venture between the London Stock Exchange and what newspaper?",
+            "answer": "financial times",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Some of the vitamins in the vitamin B complex also have names by which they are widely known, including B9 (folate), B7  (biotin), B3  (niacin), B2  (riboflavin), and B1, which has what name?",
+            "answer": "thiamine",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Enver Pasha was the leader of a coalition of nationalist, antigovernment groups that took control of the Ottoman Empire in the early 1900s, adopting liberal democratic reforms but not stopping the rapid reduction in Ottoman territory and influence. This coalition\u2014which actually included individuals of various ages and ethnicities\u2014is nonetheless known best by what name?",
+            "answer": "young turks",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "64",
+            "e_percent": "41",
+            "r_percent": "52"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The islands of the Caribbean known in English as the Windward Islands (e.g., Martinique , Saint Vincent, Saint Lucia) are so named due to their exposure to the northeast trade winds of the Atlantic. What is the corresponding name given to the islands (e.g., Antigua, Barbuda, Montserrat) that are away from the winds and less exposed to the northeasterlies?",
+            "answer": "leeward islands",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "69",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "An odd TV sitcom from the mid-1960s starred Jerry Van Dyke as a small-town lawyer and Ann Sothern as the voice of his mother, who had been reincarnated in what form (per the show's title)?",
+            "answer": "car",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "53",
+            "c_percent": "43",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "23"
+        }
+    ]
+}

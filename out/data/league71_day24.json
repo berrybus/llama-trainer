@@ -1,0 +1,79 @@
+{
+    "date": "December 20, 2016",
+    "league": 71,
+    "day": 24,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The thesis that no human nature precedes human presence in the world encapsulates what 20th-century philosophy, associated principally with Jean-Paul Sartre but also with Heidegger, Jaspers, Camus, de Beauvoir, and others?",
+            "answer": "existentialism",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "70",
+            "e_percent": "49",
+            "r_percent": "66"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Among particle accelerators (or \"atom smashers\"), which are used to create high-energy collisions between atomic particles and nuclei (or other particles), one type is a linear accelerator, which stimulates the particles in a straight line. Another type, which accelerates charged particles in an outwardly spiraling path and was invented in 1931 by Ernest Lawrence at the University of California at Berkeley, is best known by what term?",
+            "answer": "cyclotron",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Traditionally, the term caviar is limited to the roe of three types of sturgeon from the Caspian and Black sea basins. One type is sevruga; name either of the other two.",
+            "answer": "beluga, osetra",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "82",
+            "e_percent": "65",
+            "r_percent": "73"
+        },
+        {
+            "category": "ART",
+            "prompt": "While the term has quite a different (and perhaps negative) modern association, originally this term was used for the decorative technique from the Renaissance where layers of different-colored plasters are applied to a surface, with a design scratched through one layer to reveal a different color beneath. What is this term?",
+            "answer": "graffito/graffiti",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "30",
+            "c_percent": "20",
+            "d_percent": "15",
+            "e_percent": "9",
+            "r_percent": "16"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Thirty-five Southern Democrats stormed out of the 1948 Democratic National Convention to form their own segregationist, white supremacist third party, which would nominate Strom Thurmond as its candidate for president that year, carrying four states and winning 39 electoral votes in the ensuing election. Formally the States' Rights Democratic Party, this short-lived party was best known by what portmanteau?",
+            "answer": "dixiecrats",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "87",
+            "c_percent": "78",
+            "d_percent": "66",
+            "e_percent": "40",
+            "r_percent": "57"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Story of Your Life,\" a 1998 short story by science-fiction author Ted Chiang that involves alien/human contact and a complex interpretation of language and time, was adapted into what 2016 film? ",
+            "answer": "arrival",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "73",
+            "e_percent": "61",
+            "r_percent": "71"
+        }
+    ]
+}

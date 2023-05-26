@@ -1,0 +1,79 @@
+{
+    "date": "September 12, 2016",
+    "league": 70,
+    "day": 12,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the name of this pioneering early handheld game, advertised as \"the electronic wizard\"? (Note: photo has been slightly edited.) ",
+            "answer": "merlin",
+            "image": "/images/art/4879n9v583034.jpg",
+            "a_percent": "59",
+            "b_percent": "44",
+            "c_percent": "36",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "30"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In June 2016, Forbes magazine adjusted its estimate of the net worth of American businessperson Elizabeth Holmes from $4.5 billion to $0, due to the severe legal and regulatory issues around what medical health technology company she founded in 2003, at age 19?",
+            "answer": "theranos",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "42",
+            "e_percent": "31",
+            "r_percent": "44"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Article 50 of the Lisbon Treaty, long ignored, has become newsworthy for its 261 words which lay out the parameters for what?",
+            "answer": "eu exit",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "72",
+            "d_percent": "57",
+            "e_percent": "39",
+            "r_percent": "56"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the current name, from an Arabic backronym that spells out \"victory,\" for the former Palestine National Liberation Movement, created in 1959 and first led by Yasser Arafat?",
+            "answer": "fatah",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "24"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Music for 18 Musicians, a watershed in the history of minimalist music, is the work of what American composer, whose other pieces include Different Trains, City Life, and the polyrhythmic Drumming?",
+            "answer": "steve reich",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "19",
+            "c_percent": "16",
+            "d_percent": "10",
+            "e_percent": "6",
+            "r_percent": "11"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term is used for any cylindrical or conical mineral deposit built up from the floor of a cavern or other cave?",
+            "answer": "stalagmite",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "90",
+            "e_percent": "83",
+            "r_percent": "86"
+        }
+    ]
+}

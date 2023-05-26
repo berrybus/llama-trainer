@@ -1,0 +1,79 @@
+{
+    "date": "March 25, 2016",
+    "league": 68,
+    "day": 25,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "One of today's best-known contemporary American art exhibitions was an annual event until 1973, when it switched to its current every-two-years cycle. What museum hosts this exhibition, which was first held by the museum's namesake founder in 1932? ",
+            "answer": "whitney museum of american art",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "39",
+            "c_percent": "34",
+            "d_percent": "28",
+            "e_percent": "19",
+            "r_percent": "25"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Calcium oxide (CaO) is one type of inorganic material that shares a name with what edible fruit?",
+            "answer": "lime",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "61",
+            "e_percent": "44",
+            "r_percent": "60"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "General Motors, Hewlett-Packard, IBM, PepsiCo, Lockheed Martin, Oracle, Mondelēz International, General Dynamics. These eight companies form a complete set of Fortune 100 members that share, most prominently, what distinction? Currently, a complete set among the Fortune 500 has 21 members, and among the Fortune 1000, over four dozen (including Xerox, Duke Energy, and Yahoo).",
+            "answer": "women ceos",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "69",
+            "c_percent": "64",
+            "d_percent": "60",
+            "e_percent": "56",
+            "r_percent": "55"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the Australian phrase, made famous in the late 19th century by the poet A.B. \"Banjo\" Paterson, that is defined roughly as carrying one's swag over one's back as a tramp does? ",
+            "answer": "waltzing matilda",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "12",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Before Ivan IV (Ivan the Terrible) assumed the title Tsar of All the Russias in 1547, the sovereign rulers of Russia and its predecessor states (including Ivan himself) used what two-word title, followed formally by \"of Moscow\"?",
+            "answer": "grand prince (grand duke)",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "48",
+            "c_percent": "41",
+            "d_percent": "26",
+            "e_percent": "12",
+            "r_percent": "32"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Although there is a small handful of very obscure words in the English language that fit the criteria, the most used six-letter word that begins and ends with the same vowel and has no other vowels in between is the term for a particular chronic disease relatively common in humans. What is that word?",
+            "answer": "asthma",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "75",
+            "e_percent": "64",
+            "r_percent": "72"
+        }
+    ]
+}

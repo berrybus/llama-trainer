@@ -1,0 +1,79 @@
+{
+    "date": "February 23, 2015",
+    "league": 64,
+    "day": 5,
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "OPI, Seche, Sally Hansen, Deborah Lippman, and CND are all fashion brands most associated with what product?",
+            "answer": "nail polish",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "49",
+            "c_percent": "45",
+            "d_percent": "40",
+            "e_percent": "41",
+            "r_percent": "44"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The war which resulted in the U.S. acquiring some 500,000 square miles of new territory is widely regarded as the first U.S. war to be photographed, the first covered by newspaper correspondents, and the first fought primarily on foreign soil. In what country was this war fought?",
+            "answer": "mexico",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "78",
+            "c_percent": "75",
+            "d_percent": "66",
+            "e_percent": "60",
+            "r_percent": "66"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In June 2013, National Security Agency subcontractor Edward Snowden met with journalists Glenn Greenwald and Laura Poitras and revealed details of classified United States government surveillance programs. This meeting took place at the Mira Hotel in what city?",
+            "answer": "hong kong",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A Los Angeles physician awakens, and turns to see a yellow Labrador retriever walking through a thicket of bamboo. So begins what television series?",
+            "answer": "lost",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "65",
+            "c_percent": "65",
+            "d_percent": "61",
+            "e_percent": "57",
+            "r_percent": "56"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Give the full name of the controversial soprano, often falsely reported at the time of her death in 2006 as the aunt of an American military general, who was renowned particularly for her lieder interpretations and signature portrayals of Richard Strauss and Mozart heroines.",
+            "answer": "elisabeth schwarzkopf",
+            "image": null,
+            "a_percent": "20",
+            "b_percent": "13",
+            "c_percent": "8",
+            "d_percent": "6",
+            "e_percent": "1",
+            "r_percent": "5"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In many computer operating systems, notably DOS and Unix, what is the four-letter command used to display a message (a string of text) on the terminal or output to a file? In many computer operating systems, notably DOS and Unix, what is the four-letter command used to display a message (a string of text) on the terminal or output to a file?",
+            "answer": "echo",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "32",
+            "c_percent": "27",
+            "d_percent": "21",
+            "e_percent": "18",
+            "r_percent": "16"
+        }
+    ]
+}

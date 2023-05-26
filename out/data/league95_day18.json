@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 18,
+    "date": "December 5, 2022",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "The first major work of a certain 17th-century French architect, an innovator of a simplified Baroque style, was the north wing of the Ch\u00e2teau Royal de Blois, which featured the double-angled, high-pitched roof style named after him. What is that style?",
+            "answer": "mansard",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "36",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "17"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Scotsman John Boyd Dunlop, the founder of the Dunlop Rubber Company, invented the pneumatic tire in 1888. What other man, namesake of another prominent (and competing) company, discovered the process for the vulcanization of rubber around 50 years prior?",
+            "answer": "charles goodyear",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "43",
+            "r_percent": "52"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The first two releases by the Criterion Collection, which publishes \"important classic and contemporary films from around the world\", were LaserDisc releases in 1984 of legendary American films from 1941 and 1933. Name either of these films, both of which chronicle the downfall of their larger-than-life main characters. ",
+            "answer": "citizen kane, king kong",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "78",
+            "e_percent": "59",
+            "r_percent": "65"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Bandit, Chilli, and Bingo are the parents and younger sister of what colorful puppy, who is the title character of a popular Australian children's television series available in the United States on the Disney Channel, Disney Junior, and Disney+? ",
+            "answer": "bluey",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "57",
+            "c_percent": "54",
+            "d_percent": "49",
+            "e_percent": "44",
+            "r_percent": "47"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While its contemporary German name is Siebenb\u00fcrgen (for the \"seven towns\" that existed at its founding), in medieval times, a historical region in Eastern Europe was known in German as \u00dcberwald. Correspondingly, by what English (and for that matter, Latin) name is this famous geographic and literary region known?",
+            "answer": "transylvania",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "32"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Bitter herbs; a roasted lamb or chicken bone; a roasted egg; a vegetable; and a honey, apple, almond, and wine paste are foods prescribed to be served at a meal known by what name?",
+            "answer": "seder (passover seder)",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "70",
+            "d_percent": "63",
+            "e_percent": "49",
+            "r_percent": "51"
+        }
+    ]
+}

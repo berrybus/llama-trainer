@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 6,
+    "date": "May 22, 2017",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the yellow, lemon-scented essential oil, obtained from the leaves of the tropical grass Cymbopogon nardus, that is commonly used as an insect repellent or in perfume?",
+            "answer": "citronella",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "78",
+            "d_percent": "74",
+            "e_percent": "64",
+            "r_percent": "67"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "\u00bfCu\u00e1l es el nombre, en espa\u00f1ol, del pa\u00eds que limita con M\u00e9xico al norte?",
+            "answer": "(los) estados unidos (de am\u00e9rica)",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "68",
+            "c_percent": "67",
+            "d_percent": "63",
+            "e_percent": "55",
+            "r_percent": "59"
+        },
+        {
+            "category": "MATH",
+            "prompt": "There are two main branches of calculus. One is differential calculus, which is the study of the rate of change of functions through the use of derivatives and differentials. What is the most common term for its inverse, the other main branch?",
+            "answer": "integral",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "44",
+            "r_percent": "52"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Battle of Cannae, which took place in southern Italy in 216 BCE, is remembered for the tactical brilliance that resulted in victory for what legendary military general?",
+            "answer": "hannibal",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "39",
+            "r_percent": "53"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Reggae artists Bob Marley & The Wailers, Toots and the Maytals, Jimmy Cliff, and Burning Spear were all, at one time, signed to what record label, which was sold to PolyGram in 1989 and is today a division of Universal Music Group? This appropriately named label was founded in 1959 in Jamaica.",
+            "answer": "island records",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "54",
+            "c_percent": "41",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The first three lines of the chorus in the song \"The Battle Hymn of the Republic,\" based on Julia Ward Howe's poem, are what three-word line, repeated?",
+            "answer": "glory, glory, hallelujah!",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "91",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "55",
+            "r_percent": "65"
+        }
+    ]
+}

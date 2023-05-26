@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 5,
+    "date": "September 2, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Unlike regular ice, the refrigerant known as \"dry ice\" is not solid water, but rather what other chemical compound? ",
+            "answer": "carbon dioxide",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "77",
+            "d_percent": "67",
+            "e_percent": "54",
+            "r_percent": "63"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Real-life corporate mascots Bibendum (the Michelin Tire Man) and Poppin' Fresh (the Pillsbury Doughboy) were reportedly (and obviously) influences for what other, fictional, and ultimately much more monstrous brand ambassador, who first appeared on film in 1984? ",
+            "answer": "stay-puft marshmallow man",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "74",
+            "e_percent": "59",
+            "r_percent": "65"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The long-branched Ceiba is the national tree of what country, in whose Tikal National Park the Ceiba is abundant, and whose name itself is believed to come from the Nahuatl for \"place of many trees\"? ",
+            "answer": "guatemala",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "46",
+            "c_percent": "33",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "23"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the Pulitzer-winning American poet whose collections include To Bedlam and Part Way Back (1960), All My Pretty Ones (1962), Live or Die (1966), Transformations (1971), and The Death Notebooks (1974), and who struggled with depression much of her life until tragically succumbing to suicide in October 1974 after multiple previous attempts.",
+            "answer": "anne sexton",
+            "image": null,
+            "a_percent": "33",
+            "b_percent": "17",
+            "c_percent": "11",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "10"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Hindu-Buddhist empire that dominated Southeast Asia until the 15th century, ruling what is now Cambodia and parts of Laos, Thailand, and Vietnam, was founded in 802 by a people known by what name?",
+            "answer": "khmer",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "34",
+            "e_percent": "17",
+            "r_percent": "32"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Ballroom dance, German word, \"to revolve\", fittingly.",
+            "answer": "waltz",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "85",
+            "d_percent": "80",
+            "e_percent": "71",
+            "r_percent": "83"
+        }
+    ]
+}

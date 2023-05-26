@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 15,
+    "date": "September 11, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Carlton Ridenhour, William Jonathan Drayton, Jr., Norman Rogers, and Richard Griffin (as the Minister of Information and leader of the Security of the First World) are the real names of the core of what hip-hop group and 2013 Rock and Roll Hall of Fame inductee during its 1980s/90s peak?",
+            "answer": "public enemy",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "27",
+            "r_percent": "39"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "International Stud, Fugue in a Nursery, and Widows and Children First! are the three one-act plays in a bill that goes by what name? The first major success for playwright Harvey Fierstein, the Tony Award-winning collection opened on Broadway in 1982.",
+            "answer": "torch song trilogy",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "32",
+            "c_percent": "20",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "12"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The large, pink pork sausage known in English as Mortadella originated in what city, which gives its name to the authentic sausage's broadly copied (and inferior) imitators?",
+            "answer": "bologna",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "48",
+            "r_percent": "57"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the name of the good-sounding musical instrument pictured here, often confused with a baritone, and considered a kind of saxhorn or tuba with higher-than-normal range? ",
+            "answer": "euphonium",
+            "image": "/images/art/43985u603496mu8.jpg",
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "25"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Severe tropical cyclones with winds of 74 mph (119 km/h) or greater are known as hurricanes when they occur in the Atlantic Ocean, the Gulf of Mexico, and the eastern Pacific Ocean. When they happen in the northwestern Pacific Ocean, they're best known as what?",
+            "answer": "typhoons",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "80",
+            "e_percent": "69",
+            "r_percent": "76"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Laura and Angus, Lydia and Bernard, Carrie and Hamish, Henrietta and Charles (but notably never Carrie and Charles), and Gareth: This is the inventory of the title of what film?",
+            "answer": "four weddings and a funeral",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "78",
+            "d_percent": "68",
+            "e_percent": "50",
+            "r_percent": "58"
+        }
+    ]
+}

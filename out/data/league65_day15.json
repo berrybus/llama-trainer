@@ -1,0 +1,79 @@
+{
+    "date": "June 8, 2015",
+    "league": 65,
+    "day": 15,
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The contents of a box, labeled \"1952\" and found inside the basement of an old animation building at Walt Disney Studios in Burbank, California, served as inspiration (and provided the working title) for what popular 2015 film?",
+            "answer": "tomorrowland",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "51",
+            "r_percent": "60"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Over the course of the 1960s, what was created on the border of Egypt and Sudan, and named after Egypt's second president, causing the resettlement of over 100,000 Nubians?",
+            "answer": "lake nasser",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Similar in preparation to Salisbury steak, the method of cooking a steak by grinding the beef and shaping it into a flat round patty before grilling (or frying) is said to be a style associated with what European port city?",
+            "answer": "hamburg",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "86",
+            "d_percent": "83",
+            "e_percent": "73",
+            "r_percent": "82"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the influential (though largely useless) Geneva-based organization created by the Treaty of Versailles in 1919?",
+            "answer": "league of nations",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "96",
+            "c_percent": "94",
+            "d_percent": "90",
+            "e_percent": "72",
+            "r_percent": "85"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Sgt. Suzanne (or Leanne) \"Pepper\" Anderson of the LAPD's Criminal Conspiracy Unit was the main character in what is generally considered to be the first successful dramatic TV series featuring a female in the title role. What was the name of that series?",
+            "answer": "police woman",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "40",
+            "c_percent": "33",
+            "d_percent": "24",
+            "e_percent": "13",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Silent Spring, by Rachel Carson; In Cold Blood, by Truman Capote; Eichmann in Jerusalem: A Report on the Banality of Evil, by Hannah Arendt; and \"Letter from a Region in My Mind\" (an essay that forms half of The Fire Next Time), by James Baldwin: These works all appeared, wholly or serially, in what publication?",
+            "answer": "the new yorker",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "63",
+            "c_percent": "59",
+            "d_percent": "50",
+            "e_percent": "45",
+            "r_percent": "56"
+        }
+    ]
+}

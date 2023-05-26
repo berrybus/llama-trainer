@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 4,
+    "date": "February 25, 2021",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "2007's My Complement, My Enemy, My Oppressor, My Love, which included its creator's signature room-sized black paper silhouettes, was the first full-scale museum survey for an acclaimed American artist. What name is (coincidentally) both the last name of this prolific artist and the name of the Minneapolis art center where her work was featured?",
+            "answer": "walker",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "29",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "12",
+            "r_percent": "19"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Viktor Chernomyrdin, who served as Prime Minister of Russia under Boris Yeltsin (and 23 hours as Acting President during Yeltsin's heart surgery in 1996), was the leader of the Ministry of Gas Industry in 1989 when it transformed into the country's first state-corporate enterprise, under what name?",
+            "answer": "gazprom",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "27",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Nathan \"Nearest\" Green, the first known African-American master distiller in the United States, was a pioneer of the \"Lincoln County Process\", which produces whiskey using the same process as Kentucky bourbon with an added final step of filtering it through thick chips of sugar maple charcoal before bottling. The resulting whiskey is a type named after (and closely associated with) what other location?",
+            "answer": "tennessee",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "78",
+            "d_percent": "71",
+            "e_percent": "61",
+            "r_percent": "67"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the popular ground cover of the dogbane family, in the genus Vinca and also known as creeping myrtle, that gives its name to the shade of lavender-blue that matches a common color of its flowers?",
+            "answer": "periwinkle",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "55",
+            "c_percent": "48",
+            "d_percent": "38",
+            "e_percent": "27",
+            "r_percent": "38"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What eponymous adjective describes a certain cantus firmus attributed to a man from the 6th/7th century, as well as a modification (introduced by a similar man) that caused, two belated centuries later in England, Wednesday, September 2, 1752, to be followed immediately by Thursday, September 14?",
+            "answer": "gregorian",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "67",
+            "d_percent": "55",
+            "e_percent": "36",
+            "r_percent": "46"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A group of writers in and around New York in the first half of the 19th century took its name from Washington Irving's fictional Dutch historian and \"author\" of A History of New York from the Beginning of the World to the End of the Dutch Dynasty. What was that character's last name (and that writers' group's name, and a current New York group's name)?",
+            "answer": "knickerbocker",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "63",
+            "c_percent": "46",
+            "d_percent": "30",
+            "e_percent": "15",
+            "r_percent": "26"
+        }
+    ]
+}

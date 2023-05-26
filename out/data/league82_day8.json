@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 8,
+    "date": "September 9, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What film became, in August 2019, the highest-grossing film domestically of all time with an MPAA rating of G?",
+            "answer": "toy story 4",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "44",
+            "c_percent": "40",
+            "d_percent": "37",
+            "e_percent": "32",
+            "r_percent": "35"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The rules of a game known alternately as In Between, Acey Ducey, or Between the Sheets provide the fundamental basis\u2014with the addition of Family Feud-style toss-up questions\u2014for what game show?",
+            "answer": "card sharks",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "31",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "12",
+            "r_percent": "14"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "1996's Reasonable Doubt was the debut studio album by what rap artist, as well as the debut release by the artist's independent Roc-A-Fella Records imprint?",
+            "answer": "jay-z (shawn carter)",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "74",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "53",
+            "r_percent": "63"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The process of forcing milk through tiny holes, breaking the milkfat into tiny globules, in order to prevent the cream from rising to the top, is known as what?",
+            "answer": "homogenization",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "51",
+            "e_percent": "37",
+            "r_percent": "43"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A UK \u00a32 coin having an edge inscribed with the phrase \"A Spark of Being\" was issued last year in celebration of the 200th anniversary of the publication of what novel?",
+            "answer": "frankenstein",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "52",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "ART",
+            "prompt": "Harriet Powers, a folk artist born into slavery in rural Georgia, is acclaimed today for using traditional appliqu\u00e9 techniques to record Biblical tales, local legends, and celestial events in her works. What type of work were her pieces? The term in question fills in the blanks in the following, her two works (from 1886 and 1898) that are still extant: Bible _____, Pictorial _____.",
+            "answer": "quilt",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "33"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 16,
+    "date": "June 6, 2017",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "The 1935 lithograph Hand with Reflecting Sphere is the work of what Dutch artist?",
+            "answer": "m.c. escher",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the name used for the accounting convention stipulating that when a firm uses or sells assets, it uses those assets which it has held in inventory the longest\u2014i.e., those it produced or acquired the earliest? (Note: you may provide either the name or its acronym.)",
+            "answer": "first in, first out (fifo)",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "53",
+            "r_percent": "58"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While Crater Lake in Oregon has a maximum depth of 1,949 feet, what other lake, though the fourth-largest natural lake in area completely within the United States (and largest in the southern U.S.), has a maximum depth of just fifteen feet and an average depth of nine feet?",
+            "answer": "lake okeechobee",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "48",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Chicken in Odessa, goose or duck in Poltava, carp in Lviv, and lamb and mushrooms in Kyiv: These are some of the ingredients that accompany the universal main ingredient in regional variations of what soup, widely considered by locals as the national soup of Ukraine?",
+            "answer": "borscht",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "85",
+            "c_percent": "83",
+            "d_percent": "77",
+            "e_percent": "62",
+            "r_percent": "71"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A memorial service for victims of the 1960 explosion of the French freighter La Coubre in the harbor of Havana, Cuba, has been recorded (and duplicated) for posterity thanks to a photograph taken there of what man?",
+            "answer": "che guevara",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "60",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "36"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Jenny, Lucille, Sally, and Molly (and also possibly Teddy) are women referenced in titles (and lyrics) of popular songs from the 1950s originally recorded by what artist?",
+            "answer": "little richard",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "50",
+            "c_percent": "42",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "28"
+        }
+    ]
+}

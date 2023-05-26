@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 24,
+    "date": "June 17, 2022",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "A performance at Motown Records' 25th Anniversary Special in 1983 spawned a concert tour that was billed as \"T'N'T\" and featured two of Detroit's legendary musical groups. One was The Temptations\u2014what was the other, who performed their hits \"It's the Same Old Song\", \"Reach Out I'll Be There\", and \"I Can't Help Myself\"?",
+            "answer": "the four tops",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "67",
+            "d_percent": "55",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Name the Swiss-born mathematician whose Introductio in analysin infinitorum was the preeminent mathematics text of the late 18th century, and who is responsible for the wide usage of much of the mathematical notation that is standard today\u2014including \u03c0, e, i, \u2211, and f(x).",
+            "answer": "leonhard euler",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "52",
+            "c_percent": "40",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "31"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A foundry in the Northern French commune of Fresnoy-le-Grand has been, since its founding in 1925, the manufacturing location for the trademark colorful, high-end, enameled cast iron cookware (including its original \"Volcanique\") produced by what company?",
+            "answer": "le creuset",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "84",
+            "c_percent": "82",
+            "d_percent": "77",
+            "e_percent": "69",
+            "r_percent": "72"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The first recognition of the carcinogenic properties of workplace hazards was identified in 1775 by Englishman Percivall Pott, with his identification of cancer's prevalence among individuals in what occupation, portrayed most famously on screen probably by Dick Van Dyke in 1964?",
+            "answer": "chimney sweeps",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "89",
+            "d_percent": "83",
+            "e_percent": "70",
+            "r_percent": "76"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In ancient Egypt, a cross with a loop for its upper vertical arm was an emblem of life known today by what name?",
+            "answer": "ankh",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "72",
+            "e_percent": "52",
+            "r_percent": "67"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "I have forgot much, Cynara! ____ ____ ____ ____ is the most famous line from Ernest Dowson's poem Non sum qualis eram bonae sub regno Cynarae, not least because the four words redacted from this line form the title of what Pulitzer-winning novel from the 1930s (and its subsequent film adaptation)?",
+            "answer": "gone with the wind",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "31",
+            "e_percent": "22",
+            "r_percent": "35"
+        }
+    ]
+}

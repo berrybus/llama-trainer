@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 23,
+    "date": "March 27, 2018",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "According to an announcement by its publisher, Epic Games, in October 2017, the standalone free-to-play \"battle royale\" version of what hit survival video game tallied 10 million players in its first two weeks?",
+            "answer": "fortnite",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "35",
+            "c_percent": "30",
+            "d_percent": "29",
+            "e_percent": "30",
+            "r_percent": "34"
+        },
+        {
+            "category": "ART",
+            "prompt": "What was the last name of the husband-and-wife team who designed these items? ",
+            "answer": "eames",
+            "image": "/images/art/8y56v5098n6v04956.jpg",
+            "a_percent": "62",
+            "b_percent": "51",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The \"Eastern Question,\" a diplomatic issue that arose in the late 18th century and was ultimately settled after World War I, revolved around the economic and political instability\u2014and seemingly imminent disintegration\u2014of what fading world power? ",
+            "answer": "ottoman empire",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "68",
+            "e_percent": "56",
+            "r_percent": "63"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Kanagawa, Aichi, Saitama, Chiba, and Fukuoka are among the 47 administrative subdivisions of Japan that are known by what term, roughly equivalent to a U.S. state or Canadian province?",
+            "answer": "prefecture",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "66",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the stage name of the artist, now known as Sananda Maitreya, whose audacious self-titled debut album from 1987 included the singles \"If You Let Me Stay,\" \"Wishing Well,\" and \"Sign Your Name\"?",
+            "answer": "terence trent d'arby",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "22",
+            "e_percent": "15",
+            "r_percent": "22"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Terylene and Dacron are trade names for the world's most widely produced synthetic fiber, which, with regard to textiles, is best known by what common name? ",
+            "answer": "polyester",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "66",
+            "c_percent": "63",
+            "d_percent": "60",
+            "e_percent": "55",
+            "r_percent": "65"
+        }
+    ]
+}

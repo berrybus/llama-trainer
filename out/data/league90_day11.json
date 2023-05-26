@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 11,
+    "date": "August 23, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The system of cloud classification used most extensively by meteorologists, consisting of 10 principal forms based on cloud appearance and height, gives each form a name and two-letter abbreviation (e.g.,  Ci for Cirrus, Cc for Cirrocumulus, and Ac for altocumulus). What form is abbreviated Ns?",
+            "answer": "nimbostratus",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "42",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "36"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What is the name of the small but famous stream, a tributary of the Occoquan River in northern Virginia, that forms a boundary between Fairfax County and Prince William County just north of the town of Manassas?",
+            "answer": "bull run",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The cover of the 1982 Van Halen album Diver Down contains, fittingly, a full bleed image of a certain flag. What are the two colors of that flag?",
+            "answer": "red, white",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "67",
+            "c_percent": "63",
+            "d_percent": "57",
+            "e_percent": "49",
+            "r_percent": "58"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The crepe-like pancake of South Indian origin made with fermented rice and lentil (black gram) batter and typically served as a savory dish is widely known by what name? ",
+            "answer": "dosa",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "45",
+            "c_percent": "41",
+            "d_percent": "33",
+            "e_percent": "26",
+            "r_percent": "33"
+        },
+        {
+            "category": "ART",
+            "prompt": "A publicity photo from the 1953 film Niagara has arguably become one of the most reproduced and most iconic images of the 20th century. Identify either the subject of the photo or the other individual most responsible for its popularity.",
+            "answer": "marilyn monroe, andy warhol",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "50",
+            "r_percent": "55"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Book of Odes, Book of Changes, Book of Rites, Book of Documents, and Spring and Autumn Annals are English titles of works widely known as the \"Five Classics\" in the canon of what philosopher and \"sage of sages\"?",
+            "answer": "confucius",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "32"
+        }
+    ]
+}

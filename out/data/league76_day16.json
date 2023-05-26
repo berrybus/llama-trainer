@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 16,
+    "date": "March 16, 2018",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Led by Johann Stamitz, a group of mid-18th-century composers, who played an important role in the development of the modern orchestra and classical symphony form, are associated with a \"school\" based in what southwestern German city? Musically, the city may today be more closely associated with new-age and prog Christmas music.",
+            "answer": "mannheim",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "22",
+            "r_percent": "34"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Working-class Tory supporter and generally rude misogynist Alf Garnett, a fictional character on the British sitcom Till Death Us Do Part, was an inspiration for the creation of what American sitcom character, who appeared on television throughout the 1970s and into the 1980s? ",
+            "answer": "archie bunker",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "77",
+            "e_percent": "61",
+            "r_percent": "67"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Sir Humphrey DavyAbominated gravy.He lived in the odiumOf having discovered Sodium.This verse is an example of a form known as what, after its inventor Edmund C. Bentley (who wrote the above)?",
+            "answer": "clerihew",
+            "image": null,
+            "a_percent": "24",
+            "b_percent": "14",
+            "c_percent": "5",
+            "d_percent": "3",
+            "e_percent": "1",
+            "r_percent": "6"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In September 2017, the United Nations\u2013backed Permanent Peoples' Tribunal found Myanmar guilty of genocide against what people in the country's Rakhine State?",
+            "answer": "rohingya",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "78",
+            "c_percent": "74",
+            "d_percent": "66",
+            "e_percent": "50",
+            "r_percent": "60"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Rock & Roll Hall of Fame in Cleveland, the Bank of China Tower in Hong Kong, and Le Pyramide du Louvre in Paris are iconic works of what architect?",
+            "answer": "i.m. pei",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "70",
+            "e_percent": "46",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A quantity, such as velocity, momentum, or force, that has both magnitude and direction, is known as a vector. What is the accompanying term used for a quantity, such as mass, length, temperature, or speed, whose only property is magnitude (or numerical value)?",
+            "answer": "scalar",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "53",
+            "c_percent": "46",
+            "d_percent": "38",
+            "e_percent": "31",
+            "r_percent": "34"
+        }
+    ]
+}

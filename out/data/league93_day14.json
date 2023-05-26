@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 14,
+    "date": "June 3, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Known affectionately as \"The King\", what driver, in his 1966 Plymouth Belvedere, won (among his 200 career wins) 27 of the 48 races on the NASCAR circuit in 1967, including 10 in a row?",
+            "answer": "richard petty",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "36",
+            "e_percent": "28",
+            "r_percent": "33"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The word \"gumbo\" is widely believed to come from a Central Bantu dialect term for what vegetable, which was brought to America by enslaved Africans and is in fact an essential ingredient in most gumbo recipes?",
+            "answer": "okra",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "89",
+            "d_percent": "83",
+            "e_percent": "72",
+            "r_percent": "75"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The city of Spanish Town, so-named by English conquerors in 1655, is today the third most populous city in what Caribbean island nation (and was, until 1872, that nation's capital)?",
+            "answer": "jamaica",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Herpestidae is a taxonomic family of small, carnivorous mammals that may be best known (and are very likely best known in a literary sense) for their skill at killing snakes. What is the common name for an animal in this family?",
+            "answer": "mongoose",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "86",
+            "d_percent": "78",
+            "e_percent": "62",
+            "r_percent": "72"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Irish architect James Hoban, born in 1755, famously designed (and later supervised the reconstruction of) what 132-room neoclassical mansion?",
+            "answer": "the white house",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "55",
+            "e_percent": "40",
+            "r_percent": "54"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Grab your weapons, citizens!Form your battalions!Let us march! Let us march!May impure bloodWater our fields!This is an English translation of the refrain from a popular (and lyrically rather graphic) song, which was written in 1792 and achieved its current status in 1795 (and again in 1879). What is that song's name?",
+            "answer": "la marseillaise",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "56",
+            "e_percent": "30",
+            "r_percent": "44"
+        }
+    ]
+}

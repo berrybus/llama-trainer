@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 24,
+    "date": "December 14, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What is the two-letter title of the 1927 film starring quintessential \"flapper\" Clara Bow from which she earned her famous nickname?",
+            "answer": "it",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "51",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "37"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "[REDACTED] [REDACTED] is a party game of teamwork and betrayal. Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard.So says indie gaming studio Innersloth about what game, whose two-word name is redacted in the previous quote, and which was released in 2018 but became massively popular in 2020?",
+            "answer": "among us",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "68",
+            "c_percent": "63",
+            "d_percent": "61",
+            "e_percent": "58",
+            "r_percent": "63"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Merriam-Webster reported a spike in searches in its online dictionary on March 17, 2019, for what specific term for a lobster-like freshwater crustacean? They attributed the increase to a televised interview with novelist Delia Owens that was broadcast on that day. (Note, correct spelling is required; singular or plural is acceptable.)",
+            "answer": "crawdad",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "65",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "53"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A commercial enterprise located on Weihenstephan Hill in the Bavarian town of Freising claims to be the oldest business in the world of what type?",
+            "answer": "brewery",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "77",
+            "c_percent": "72",
+            "d_percent": "65",
+            "e_percent": "56",
+            "r_percent": "63"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What Yiddish slang term is used in English for the fee or percentage taken by a bookmaker for accepting a gambler's wager?",
+            "answer": "vigorish/vig",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "31",
+            "r_percent": "37"
+        },
+        {
+            "category": "ART",
+            "prompt": "What term in art for a particular type of drawing stick, made with ground pigments, chalk, and a binder such as gum arabic, is also a general term for a soft, subdued color?",
+            "answer": "pastel",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "83",
+            "e_percent": "74",
+            "r_percent": "81"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 20,
+    "date": "June 18, 2020",
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "War Requiem, which was commissioned to mark the consecration of the rebuilt Coventry Cathedral (after the original was destroyed in the Blitz) and was completed in 1962, is the work of what English composer? ",
+            "answer": "benjamin britten",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "An 1808 revolt in Australia involved the overthrow of Governor William Bligh by colonists and officers of the New South Wales Corps. This \"Rebellion\" is known by what alliterative name, which it was given years later by English writer, Bligh sympathizer, and teetotaler William Howitt?",
+            "answer": "rum rebellion",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "16",
+            "r_percent": "31"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "According to an honor-winning children's book released 2003 by Mo Willems, whom must we not let drive the bus (despite the fact that their cousin Herb drives a bus almost every day, true story)?",
+            "answer": "the pigeon",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "44",
+            "c_percent": "40",
+            "d_percent": "33",
+            "e_percent": "25",
+            "r_percent": "31"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In theater, what four-letter word\u2014an abbreviated form of a longer word\u2014is used for the period, prior to dress rehearsals and the opening, when a show is rehearsed for the first time in the venue with lighting, scenery, sound, etc.?",
+            "answer": "tech",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "56",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "31",
+            "r_percent": "44"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The statement that, for all integers n > 2, the equation xn + yn = zn has no positive integer solutions was proven in 1994 by Andrew Wiles, but is most often associated with (and named after) what other mathematician?",
+            "answer": "pierre de fermat",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "22",
+            "r_percent": "29"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In February 2020, the final episode of the third season of a variety show and \"Potluck Party Challenge\" aired on VH1 hosted by what odd couple\u2014one a star of the culinary and lifestyle worlds, the other a hip hop icon?",
+            "answer": "martha stewart, snoop dogg",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "77",
+            "c_percent": "71",
+            "d_percent": "68",
+            "e_percent": "59",
+            "r_percent": "66"
+        }
+    ]
+}

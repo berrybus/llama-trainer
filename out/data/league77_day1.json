@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 1,
+    "date": "May 31, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "When dissolved in water, the chemical compound sodium hypochlorite (NaOCl) forms a solution commonly known as what?",
+            "answer": "(liquid/household) bleach",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "29",
+            "e_percent": "21",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A popular children's book by P.D. Eastman details the activities of a set of anthropomorphic canines\u2014big, little, red, blue, yellow, etc.\u2014who operate various means of transport, some while wearing hats, as they go about the day, ultimately ending up at a big party. What is the title of this book?",
+            "answer": "go, dog. go!",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "35",
+            "e_percent": "26",
+            "r_percent": "32"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A predecessor to what still-active rock band was formed by its pre-teen founders as \"The Broken Combs\" way back in 1964? Coincidentally, this is the same year that Roy Orbison's \"Oh, Pretty Woman\" and The Kinks' \"You Really Got Me\" were released as singles.",
+            "answer": "van halen",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "17",
+            "r_percent": "18"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "There are three NCAA Division I hockey teams whose universities are located in Michigan's Upper Peninsula. One is Northern Michigan; name either of the other two.",
+            "answer": "lake superior state, michigan tech",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "29",
+            "c_percent": "22",
+            "d_percent": "19",
+            "e_percent": "13",
+            "r_percent": "16"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Supporters of the Parliament during the English Civil War of the mid-17th century were known by what derogatory name, so called due to their close-cropped hair (contrasting with the long hair of the Royalists/Cavaliers)?",
+            "answer": "roundheads",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "34",
+            "e_percent": "16",
+            "r_percent": "30"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Darrell Hammond, Norm Macdonald, Rob Riggle, George Hamilton, Rob Lowe, and Reba McEntire are among the actors who have appeared in television ads portraying what corporate mascot?",
+            "answer": "colonel sanders",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "73",
+            "e_percent": "65",
+            "r_percent": "64"
+        }
+    ]
+}

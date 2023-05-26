@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 12,
+    "date": "March 5, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "In a popular children's book from 1958, the Brown family finds an abandoned bear who has just arrived from \"Darkest Peru\" with a note that says, \"Please look after this bear. Thank you.\" Where did the family find this bear, naming him after this location?",
+            "answer": "paddington station",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "88",
+            "e_percent": "80",
+            "r_percent": "81"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What 1952 film depicts, in real time, the events of a late morning in a small New Mexico Territory town, beginning at 10:40 AM, with the pending retirement of Marshall Will Kane?",
+            "answer": "high noon",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "64",
+            "d_percent": "47",
+            "e_percent": "27",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the popular video game, a sequel to a 2008 game officially abbreviated as SARP Battle-Cars, that according to its developer Psyonix is \"a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.\"",
+            "answer": "rocket league",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "35",
+            "c_percent": "35",
+            "d_percent": "34",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the term in music and acoustics for a series of frequencies that are integer multiples of a single frequency (termed the fundamental)? They can also be known as partials, and those above the fundamental are sometimes called overtones.",
+            "answer": "harmonics",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "45",
+            "e_percent": "37",
+            "r_percent": "44"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The hourglass-shaped bar tool that is used on one end to measure 1.5 oz. (a \"shot\") and on the other end to measure 1 oz. (a \"pony shot\") is most commonly known in the service industry by what term? (Sometimes, the term is preceded by \"double\" when used for the tool described here.)",
+            "answer": "jigger",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "50",
+            "r_percent": "57"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Great Triumvirate was a term applied to American legislators who, at various times, all served in the U.S. House of Representatives, the Senate, and as Secretary of State between the end of the War of 1812 and the early 1850s. Give the last names of these three men, in the correct order, who represented in the U.S. Senate the states of South Carolina, Kentucky, and Massachusetts, respectively.",
+            "answer": "calhoun, clay, webster",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "15",
+            "e_percent": "6",
+            "r_percent": "13"
+        }
+    ]
+}

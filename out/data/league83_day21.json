@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 21,
+    "date": "December 16, 2019",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What kind of \"ham\" is a sandwich spread made with ground cooked ham, salt, sugar, and spices, and sold in small round cans featuring the oldest food trademark still in use in the United States?",
+            "answer": "deviled ham",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "35",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "13",
+            "r_percent": "19"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name of the largely indigenous rebel group that revolted against the NAFTA treaty beginning in 1994, capturing several towns in the southern Mexico state of Chiapas that it controls to this day?",
+            "answer": "zapatistas (ezln)",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "24",
+            "e_percent": "11",
+            "r_percent": "26"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What American rock band released the album In Time in 2003, a compilation that includes tracks spanning the group's move to Warner Bros. in 1988 (and the Green LP) through 2001 (Reveal)\u2014the period of the band's greatest commercial success?",
+            "answer": "r.e.m.",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "66",
+            "c_percent": "54",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In statistics, a series of random events in which the probability of a given event is determined only by its predecessor is known as a \"chain\" named after what Russian mathematician?",
+            "answer": "andrei markov",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "43",
+            "c_percent": "37",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "31"
+        },
+        {
+            "category": "ART",
+            "prompt": "One of the most famous works by French painter Jacques-Louis David features the limp, bloodied body of what fellow revolutionary?",
+            "answer": "jean-paul marat",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "45",
+            "d_percent": "28",
+            "e_percent": "12",
+            "r_percent": "26"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Salvation, Genisys, and Dark Fate are partial titles of the three most recent installments of what film franchise?",
+            "answer": "terminator",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "78",
+            "d_percent": "71",
+            "e_percent": "61",
+            "r_percent": "68"
+        }
+    ]
+}

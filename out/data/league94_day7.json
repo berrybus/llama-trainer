@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 7,
+    "date": "September 7, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Houston Oilers, Dallas Texans, and New York Jets were among the teams that won championships in the 1960s in what professional sports league? ",
+            "answer": "american football league (afl)",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "79",
+            "d_percent": "71",
+            "e_percent": "57",
+            "r_percent": "55"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Denpasar is the capital of what Indonesian island province, east of Java and west of Lombok, which produces significant agricultural output but is likely best known internationally as a tourist mecca? ",
+            "answer": "bali",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "70",
+            "e_percent": "56",
+            "r_percent": "69"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "One custom in ancient universities was to present to graduates in poetry and rhetoric a wreath made of a certain plant, which carries forth today etymologically in a particular term of distinction. What is that plant?",
+            "answer": "laurel",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "77",
+            "e_percent": "57",
+            "r_percent": "69"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The \"Penny Farthing\", created in Coventry, England, in 1870 and suitably named for two coins that differed in size, was a type of machine that is best known today as what?",
+            "answer": "bicycle",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "71",
+            "d_percent": "59",
+            "e_percent": "41",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What short story, published in the 1819 collection The Sketch Book of Geoffrey Crayon, Gent., is likely the most famous literary work in the \"Colonial Layabout\" microgenre, if there is such a thing?",
+            "answer": "rip van winkle",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "48",
+            "c_percent": "34",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What is the title of the hit song from Nicki Minaj that reached #1 on the Billboard Hot 100 in August 2022, and which samples a similarly titled song by Rick James from 1981?",
+            "answer": "super freaky girl",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "19",
+            "e_percent": "14",
+            "r_percent": "26"
+        }
+    ]
+}

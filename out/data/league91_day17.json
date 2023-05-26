@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 17,
+    "date": "December 3, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What was the last name of the Scottish botanist who introduced the popular Pseudotsuga menziesii into cultivation in 1827, and thus after whom the tree is commonly named (or mis-named, as it is actually a conifer in the pine family)?",
+            "answer": "douglas",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "37",
+            "r_percent": "48"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The House of Hashim (a.k.a. Hashemites) is the ruling royal family of what country (as reflected in the country's full official name)?",
+            "answer": "jordan",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "60",
+            "d_percent": "45",
+            "e_percent": "27",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the country artist who released the 1987 album Always and Forever, which spent 40 weeks at #1 on the Billboard Country album chart and saw four of its songs (including \"Forever and Ever, Amen\") reach #1 on the Country Singles chart.",
+            "answer": "randy travis",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "18",
+            "e_percent": "14",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "American businesswoman Marissa Mayer, who was an executive at Google for many years (where she was employee #20), served as president and CEO of what other company from July 2012 until its acquisition by Verizon in 2017?",
+            "answer": "yahoo!",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "72",
+            "d_percent": "65",
+            "e_percent": "54",
+            "r_percent": "63"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the building, made of prefabricated glass and iron, that was constructed in Hyde Park, London, to accommodate the Great Exhibition of 1851? It was the birthplace (after its move to South London) and namesake of a still-extant English Premiership side.",
+            "answer": "crystal palace",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "48"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A best-selling series of young adult mysteries by British author Holly Jackson begins with the 2019 novel (and is collectively known as) A Good Girl's Guide to what?",
+            "answer": "murder",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "43",
+            "e_percent": "34",
+            "r_percent": "45"
+        }
+    ]
+}

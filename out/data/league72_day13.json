@@ -1,0 +1,79 @@
+{
+    "date": "March 9, 2017",
+    "league": 72,
+    "day": 13,
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "What Swedish-based producer of cargo carriers and transport equipment takes its name from a classical term for a location in the extreme north, beyond the boundaries of the known world? It's also the former name of the northern Greenland town of Qaanaaq.",
+            "answer": "thule",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A pagan community's alleged abduction of a young girl on a surreal and remote Scottish island, and its investigation by a devout (and, as it turns out, virgin) police sergeant, propel the plot of what 1973 British horror film, widely considered a classic of the genre?",
+            "answer": "the wicker man",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "57",
+            "c_percent": "47",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term for the curved shape of a liquid's surface in a thin tube, caused by the cohesive and adhesive effects of surface tension? With most liquids, it is concave (curving downward from the sides), but with highly viscous liquids such as mercury, it is convex.",
+            "answer": "meniscus",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "65",
+            "d_percent": "59",
+            "e_percent": "50",
+            "r_percent": "58"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the term commonly used for the modernizing reformers in the early 20th-century Ottoman Empire who, with the support of Enver Pasha and other army officers, rebelled against and ultimately deposed Sultan Abdulhamid II in 1908, reviving the brief experiment in constitutional government the sultan had implemented and quickly suspended three decades earlier?",
+            "answer": "young turks",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "52",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "36"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A cornerstone of French cuisine is what thickening agent for basic sauces, first made by cooking flour and butter together until a brownish tint was obtained? The recipe remains the same today, though the desired color can vary.",
+            "answer": "roux",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "74",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What title completes the following unordered set: Götterdämmerung, Die Walküre, Das Rheingold,  ____________.",
+            "answer": "siegfried",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "53",
+            "c_percent": "34",
+            "d_percent": "20",
+            "e_percent": "7",
+            "r_percent": "20"
+        }
+    ]
+}

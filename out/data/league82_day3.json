@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 3,
+    "date": "August 30, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What word did Edward Lear coin in an 1870 poem to describe the spoon the Owl and the Pussycat used to dine on mince and slices of quince?",
+            "answer": "runcible",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "36",
+            "c_percent": "25",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "All four songs by the band Air Supply to peak in the top three of the Billboard Hot 100 chart have included what word in their titles?",
+            "answer": "love",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "50",
+            "r_percent": "58"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "CH2O2, which is the simplest organic compound with a carboxyl group (COOH) and is present in the stings of some bees, stinging nettles, and ants, is commonly known by what name?",
+            "answer": "formic acid/methanoic acid",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "42",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Ahmed Shah Massoud, who was assassinated two days before the attacks of September 11, 2001, was a military and political commander of the United Islamic Front for the Salvation of Afghanistan, an anti-Taliban association better known by what name?",
+            "answer": "northern alliance",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What 1997 film, featuring the actors who starred in the TV series Kenan & Kel, was based on a recurring skit from the Nickelodeon variety show All That?",
+            "answer": "good burger",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "65",
+            "c_percent": "63",
+            "d_percent": "60",
+            "e_percent": "57",
+            "r_percent": "59"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Stipulating that Armenia is in Asia, there are currently two European countries that share a land border and also begin with the same letter (in English). What are those two countries?",
+            "answer": "latvia, lithuania",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "31",
+            "r_percent": "45"
+        }
+    ]
+}

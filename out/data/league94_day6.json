@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 6,
+    "date": "September 6, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Films from 1968 (starring Henry Fonda), 1984 (starring Robert De Niro), 1991 (starring Jet Li), and 2019 (starring Leonardo DiCaprio) all have titles that begin with what phrase?",
+            "answer": "once upon a time",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "53",
+            "e_percent": "40",
+            "r_percent": "54"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What word for the internal diameter of a bore or pipe can also be defined as the degree of an individual or entity's quality or importance? ",
+            "answer": "caliber",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "35",
+            "c_percent": "28",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the primary occupation shared by Mexican revolutionaries and national heroes Miguel Hidalgo y Costilla and Jos\u00e9 Mar\u00eda Morelos, who were executed by royalist authorities in 1811 and 1815, respectively?",
+            "answer": "(catholic) priest",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "36",
+            "c_percent": "22",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "ART",
+            "prompt": "Columns, high-relief decoration, wall projections, and elaborate rooftops are among the trademarks of what architectural style, exemplified by the Boston Public Library and New York's Grand Central Terminal? The name comes from the \u00e9cole in Paris where the style's classical forms were taught. ",
+            "answer": "beaux-arts",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "39",
+            "d_percent": "24",
+            "e_percent": "11",
+            "r_percent": "25"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What musical instrument, a portable reed organ, is similar to the accordion (and has largely been superseded by it), but typically has a hexagonal cross-section and no keyboard?",
+            "answer": "concertina",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "50",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the trademarked portmanteau for the Starbucks line of blended frozen coffee drinks introduced by the chain in 1995? ",
+            "answer": "frappuccino",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "92",
+            "e_percent": "85",
+            "r_percent": "89"
+        }
+    ]
+}

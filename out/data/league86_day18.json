@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 18,
+    "date": "September 14, 2020",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The melody of the American patriotic song \"My Country, 'tis of Thee\" is much better known in the United Kingdom by what other name?",
+            "answer": "god save the queen (king)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "88",
+            "e_percent": "75",
+            "r_percent": "80"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The #1 top-grossing film of 2020 (by both worldwide and domestic box office) is Bad Boys for Life. #2 (by the same measures) is a film named after what character?",
+            "answer": "sonic the hedgehog",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "32",
+            "c_percent": "26",
+            "d_percent": "20",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The WPA standard (known as \"American style\") prescribes angular pockets that funnel inward, with side pockets being slightly larger. The WEPF standard (\"British style\"), by contrast, dictates smaller, narrower pockets with nearly parallel sides, with all pockets being the same size. The WPA and the WEPF are governing bodies for what (as indicated by their respective names)?",
+            "answer": "pool (pocket billiards)",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "58",
+            "r_percent": "65"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The \"Cry of Dolores\" was a call to arms that occurred on September 16, 1810, and is celebrated annually on that day as what country's Independence Day?",
+            "answer": "mexico",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "47",
+            "e_percent": "34",
+            "r_percent": "50"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Christopher Isherwood's novel Goodbye to Berlin became the basis for John Van Druten's play I Am a Camera, which was subsequently adapted into what Broadway musical?",
+            "answer": "cabaret",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "57",
+            "d_percent": "45",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A triangular array of numbers in which each number is the sum of two numbers above it (starting with 1 at the top) is one of the many entities from mathematics and physics named after what Frenchman?",
+            "answer": "blaise pascal",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "57",
+            "c_percent": "47",
+            "d_percent": "38",
+            "e_percent": "28",
+            "r_percent": "38"
+        }
+    ]
+}

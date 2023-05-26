@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 4,
+    "date": "February 17, 2022",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "The legendary Cypriot king who carved a statue of a woman so beautiful that he fell in love with it (and eventually married her, after Aphrodite turned it into an actual woman) gives his name to what 1913 play?",
+            "answer": "pygmalion",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "80",
+            "c_percent": "64",
+            "d_percent": "44",
+            "e_percent": "24",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What was the title of author Vikram Seth's 1986 novel, written entirely in metered, rhyming 14-line stanzas, about the popular culture and activities of a group of \"Yuppies\" in San Francisco (hence the name)?",
+            "answer": "the golden gate",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "18",
+            "c_percent": "11",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What is the common name (in English) for the head of government of a Canadian province that is roughly equivalent to a US state's \"governor\"?",
+            "answer": "premier",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The word for the part of a pistil in a flower that receives pollen grains during pollination can also be defined as a mark of shame or disgrace. What is that word?",
+            "answer": "stigma",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "60",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "43"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Detroit-born brothers Brian and Eddie Holland played a sizeable role in defining the Motown sound in popular music, most famously in close collaboration with what third songwriter and producer?",
+            "answer": "lamont dozier",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "22",
+            "c_percent": "14",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "8"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What Chevrolet model, named after a bovid and first introduced in 1958 (and re-introduced in 1994 and re-re-introduced in 2000), was the best-selling automobile in the United States during the 1960s?",
+            "answer": "impala",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "49"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 9,
+    "date": "November 28, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Guru Granth Sahib is regarded as the central scripture and supreme spiritual authority of what religion?",
+            "answer": "sikhism",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "52",
+            "e_percent": "37",
+            "r_percent": "45"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the last name of the only brother-and-sister duo to be enshrined in the Naismith Memorial Basketball Hall of Fame?",
+            "answer": "miller",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "44",
+            "c_percent": "38",
+            "d_percent": "31",
+            "e_percent": "28",
+            "r_percent": "29"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The Rodeo, Amigo, Ascender, and Trooper were automobile models marketed and sold in North America by what carmaker?",
+            "answer": "isuzu",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "66",
+            "c_percent": "61",
+            "d_percent": "50",
+            "e_percent": "42",
+            "r_percent": "50"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1510, an abbot named Philotheus wrote to Basil III, passionately arguing that as Rome has fallen to heresy and Constantinople to Islam, there is to be a Third Rome, a dominion centered in what city?",
+            "answer": "moscow",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "35",
+            "c_percent": "25",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "18"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What artist's 1982 album Age to Age became the first Christian album to be certified platinum, while her contemporary pop album from 1991, Heart in Motion, was an even bigger success, thanks in part to the #1 hit single \"Baby Baby\"?",
+            "answer": "amy grant",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "42",
+            "r_percent": "49"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "JPEG and MPEG are the names of standards committees that defined and standardized their namesake digital image and motion picture formats, and a similar VCEG has standardized other video compression formats. For all three organizations, what does the \"EG\" in their abbreviations stand for?",
+            "answer": "experts group",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "34",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "22"
+        }
+    ]
+}

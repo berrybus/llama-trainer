@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 3,
+    "date": "February 22, 2018",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the most common term for a type of jet engine that does not require atmospheric oxygen for combustion, as all fuel is stored within the engine itself? The term is also used for a vehicle propelled by this type of engine.",
+            "answer": "rocket",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "44",
+            "c_percent": "41",
+            "d_percent": "35",
+            "e_percent": "26",
+            "r_percent": "35"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The actor pictured here, who appears on the HBO series Westworld, is the older brother of two fellow actors. What last name do the three men share? ",
+            "answer": "hemsworth",
+            "image": "/images/art/89560jf4856n0v60.jpg",
+            "a_percent": "76",
+            "b_percent": "68",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "55",
+            "r_percent": "59"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Bougainville, Guadalcanal, and New Georgia\u2014locations of battles in the Pacific theater during WWII\u2014are all islands within what archipelago?",
+            "answer": "solomon islands",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "46",
+            "c_percent": "34",
+            "d_percent": "21",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the colorful term used by Jesse Jackson for the alliance of liberal and minority groups he constructed during his 1984 campaign for the Democratic presidential nomination?",
+            "answer": "rainbow coalition",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "81",
+            "e_percent": "60",
+            "r_percent": "70"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "With the help of Trey Rogers, a professor of crop and soil sciences at Michigan State University, the Pontiac Silverdome became, on June 18, 1994, the first indoor facility to host a match for what tournament?",
+            "answer": "fifa world cup",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "52",
+            "e_percent": "42",
+            "r_percent": "46"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the chef and fiery television personality whose namesake restaurant in London's Chelsea neighborhood is one of only five Michelin three-starred restaurants in the United Kingdom.",
+            "answer": "gordon ramsay",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "89",
+            "d_percent": "88",
+            "e_percent": "84",
+            "r_percent": "86"
+        }
+    ]
+}

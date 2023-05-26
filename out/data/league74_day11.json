@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 11,
+    "date": "September 5, 2017",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Archetypal \"Swiss\" cheese, with its large holes, that is produced outside of Switzerland is an imitation of what authentic Swiss cheese, which takes its name from the valley near Bern where it originated?",
+            "answer": "emmental",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "27",
+            "r_percent": "35"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the technical name for the slow-moving, stubby, and incredibly hardy minuscule invertebrates that are known affectionately as \"water bears\"?",
+            "answer": "tardigrades",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "29"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The vice president of the Confederate States of America adopted his middle name during his youth, taking it from that of a Presbyterian minister and childhood mentor, and not so that his first and middle name would match the first and last of a founding father (which would have been rather incongruous, considering). What was that middle name?",
+            "answer": "hamilton",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "50",
+            "c_percent": "38",
+            "d_percent": "25",
+            "e_percent": "13",
+            "r_percent": "27"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In many Asian religions, the doctrine of reincarnation generally posits that the soul becomes incarnate in a succession of bodies until the necessary purification, or until the exhaustion of one's what? The term in question comes from the Sanskrit for \"deed\" or \"action\" (\u0915\u0930\u094d\u092e).",
+            "answer": "karma",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "53",
+            "e_percent": "43",
+            "r_percent": "56"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Martin Scorsese has two equivalents to Fran\u00e7ois Truffaut's Metro, Peter Bogdanovich's Picture Show, John Dahl's Seduction, Wes Craven's House on the Left, Tony Scott's Boy Scout, and Edward Zwick's Samurai. Name either one.",
+            "answer": "waltz, temptation of christ",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "37",
+            "c_percent": "25",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "15"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The product provocatively named Sex Wax, manufactured by a company called Mr. Zog's, was not originally developed for intimate purposes, but rather for use on what objects?",
+            "answer": "surfboards",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "70",
+            "c_percent": "64",
+            "d_percent": "59",
+            "e_percent": "53",
+            "r_percent": "57"
+        }
+    ]
+}

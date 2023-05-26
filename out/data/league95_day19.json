@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 19,
+    "date": "December 6, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "England defeated Pakistan on November 13 at the Grand Final of the 2022 ICC Men's T20 World Cup, held at a cricket ground known locally as \"the 'G\". In what country (which was also that tournament's defending champion) is this iconic and enormous cricket ground located?",
+            "answer": "australia",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "47",
+            "c_percent": "38",
+            "d_percent": "30",
+            "e_percent": "21",
+            "r_percent": "31"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What words are missing from the title of the acclaimed 1989 Oscar Hijuelos novel [BLANK] Play Songs of Love, a rich and rhythmic immigrant story reflecting on the lives of two Cuban brothers and musicians? The missing words are the name of the brothers' band in the story and were used for the book's 1992 film and 2005 musical adaptations.",
+            "answer": "the mambo kings",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "31",
+            "c_percent": "21",
+            "d_percent": "12",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Approximately 500,000 people were killed during a war between two countries that began in September 1980 and ended in a stalemate after a UN-brokered ceasefire in August 1988. Name either of the two countries that were the primary combatants in this war.",
+            "answer": "iran, iraq",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "While most of the attention around vaccines in 2021 pertained to COVID-19, in October of that year the World Health Organization approved the first vaccine for the prevention of what other disease, which kills nearly half a million people each year, including over a quarter million under the age of five?",
+            "answer": "malaria",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "57",
+            "c_percent": "51",
+            "d_percent": "47",
+            "e_percent": "36",
+            "r_percent": "43"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What roughly 3,000-kilometer-long river passes through or borders 10 different countries (including four capital cities), more than any other river in the world?",
+            "answer": "danube",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The distance between two marks on a platinum-iridium bar; 1/10,000,000th of the length of the quadrant of the Earth's meridian through Paris; the length of the path traveled by light in a vacuum in 1/299,792,458th of a second: all of these have historically been used to define what unit?",
+            "answer": "meter",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "60",
+            "d_percent": "50",
+            "e_percent": "36",
+            "r_percent": "45"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 24,
+    "date": "September 21, 2018",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "The limit of (1 + 1/n)n as n approaches infinity is a number that is known as Napier's constant, but is more commonly named (and represented symbolically) after what other individual?",
+            "answer": "leonhard euler",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "48",
+            "c_percent": "42",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "31"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Blue Period, Blue Moods, Blue Haze, and Kind of Blue are all albums by what musical artist?",
+            "answer": "miles davis",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "62",
+            "d_percent": "50",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the 1920s and 1930s, a revolutionary and guerrilla leader named Augusto C\u00e9sar Sandino directed a rebellion against United States military occupation of what country, where he remains a national hero?",
+            "answer": "nicaragua",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "43"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The company founded in 1910 on New York's Fifth Avenue as Red Door salon, which retains a red door as its corporate logo (and name of its signature fragrance), is today named after its founder, a Canadian businesswoman born Florence Nightingale Graham. What is that name, shared by the company and the woman?",
+            "answer": "elizabeth arden",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "37",
+            "c_percent": "31",
+            "d_percent": "29",
+            "e_percent": "23",
+            "r_percent": "30"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In what language is the following sentence written? T\u00e4m\u00e4 kieli kuuluu uralilaisten kielten it\u00e4merensuomalaiseen kieliryhm\u00e4\u00e4n.  \u00c4idinkielen\u00e4\u00e4n sit\u00e4 puhuu 4,9 miljoonaa ja toisena kielen\u00e4\u00e4n 0,5 miljoonaa ihmist\u00e4.",
+            "answer": "finnish",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "36"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"The Blind Banker,\" \"The Reichenbach Fall,\" \"The Empty Hearse,\" and \"The Final Problem\" are names of episodes from a crime drama series that debuted on the BBC in July 2010. What is the title of that series?",
+            "answer": "sherlock",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "72",
+            "e_percent": "62",
+            "r_percent": "64"
+        }
+    ]
+}

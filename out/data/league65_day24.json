@@ -1,0 +1,79 @@
+{
+    "date": "June 19, 2015",
+    "league": 65,
+    "day": 24,
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The aggressive, condescending, and arrogant Yankees are the victors at the end of what rowdy and vulgar 1976 film comedy?",
+            "answer": "the bad news bears",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "68",
+            "c_percent": "65",
+            "d_percent": "50",
+            "e_percent": "35",
+            "r_percent": "47"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The jihadist group in northeastern Nigeria known officially as Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (People Committed to the Propagation of the Prophet's Teachings and Jihad) is better known internationally by what name, which translates loosely into English as \"Western education is forbidden\"?",
+            "answer": "boko haram",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "91",
+            "d_percent": "81",
+            "e_percent": "66",
+            "r_percent": "76"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "El Grito de Dolores, the anniversary of which is celebrated as Mexican Independence Day, was a famous speech calling on the Mexican people to rebel against peninsulares and the Spanish colonial government. Name the Roman Catholic priest and revolutionary who gave this speech on September 16, 1810. ",
+            "answer": "don miguel hidalgo",
+            "image": null,
+            "a_percent": "33",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "14"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics of Billboard magazine's No. 1 country song for 2013, \"In this brand new Chevy with a lift kit, would look a hell of a lot better with you up in it, so baby you a song, you make me wanna roll my windows down and…\" what?",
+            "answer": "cruise",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "30",
+            "c_percent": "29",
+            "d_percent": "23",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The MacArthur, Julia Tuttle, John F. Kennedy, Broad, and Rickenbacker Causeways all span what bay?",
+            "answer": "biscayne bay",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "32",
+            "c_percent": "19",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Jack Sock, Sam Querrey, Donald Young, Steve Johnson, and Tim Smyczek are among the highest-ranked Americans internationally in what sport?",
+            "answer": "tennis",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "31",
+            "r_percent": "41"
+        }
+    ]
+}

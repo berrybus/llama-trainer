@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 23,
+    "date": "September 20, 2018",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "In its history, the United States Mint has issued for general circulation two different one-dollar coins\u2014both since the retirement of the \"Eisenhower dollar\" in 1978\u2014that depict on the obverse (\"heads\" side) women who existed in real life. Name both of these historical figures.",
+            "answer": "susan b. anthony, sacagawea",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "89",
+            "d_percent": "83",
+            "e_percent": "69",
+            "r_percent": "74"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Two African national capitals are among the closest in the world, separated by a river and with about five miles between their respective town centers. Name either of these capital cities.",
+            "answer": "brazzaville, kinshasa",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "53",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The term from computer graphics for an image that is stored in memory by using a map to record data (e.g., intensity, color) for every pixel that comprises the image is known as \"bitmap,\" and also by what other term? Unlike vector graphics, it becomes ragged and loses resolution when resized. The word in question has the same origin as the term for the implement used to draw musical staff lines.",
+            "answer": "raster",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "36",
+            "c_percent": "31",
+            "d_percent": "25",
+            "e_percent": "19",
+            "r_percent": "25"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "According to a line in the show's theme song (the fifth line, to be exact), where precisely was the title character born and raised on the TV series The Fresh Prince of Bel-Air? ",
+            "answer": "west philadelphia",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "74",
+            "d_percent": "73",
+            "e_percent": "71",
+            "r_percent": "72"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "\"Mars, the Bringer of War\" and \"Neptune, the Mystic\" are the first and last movements of a work by what English composer?",
+            "answer": "gustav holst",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "33"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the common term for the simple device used in casinos, for games such as blackjack, where the cards are placed after shuffling, and whose purpose is to hold multiple decks of cards and facilitate dealing? In some European casinos it is also known as \"sabot.\"",
+            "answer": "shoe",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "61",
+            "d_percent": "51",
+            "e_percent": "37",
+            "r_percent": "47"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 16,
+    "date": "December 2, 2020",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "The first US president to travel outside of the United States on official business during his term in office did so for the purpose of inspecting a major construction project. Identify either the president or the project.",
+            "answer": "theodore roosevelt, panama canal",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "88",
+            "e_percent": "80",
+            "r_percent": "81"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Berkeley Breathed comic strip Outland was a spin-off of his Pulitzer Prize-winning Bloom County and featured many of the same characters, including a penguin named Opus and a cat named what?",
+            "answer": "bill",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "27",
+            "e_percent": "13",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The administrative headquarters of the nine-member Commonwealth of Independent States (created following the dissolution of the Soviet Union) are not located in Moscow, nor any other city in Russia, but rather in what other national capital city, a roughly 450-mile drive west-southwest from Moscow?",
+            "answer": "minsk",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "44",
+            "c_percent": "36",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1928 Buster Keaton film Steamboat Bill, Jr. was named after a song that was also featured (along with \"Turkey in the Straw\") in another film that same year, starring what character?",
+            "answer": "mickey mouse",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "80",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The oldest surviving of a certain type of hole still in use in the United States is widely believed to be in the West Virginia town of White Sulphur Springs, and dates from 1884. What type of hole is it?",
+            "answer": "golf hole",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "16",
+            "c_percent": "10",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "7"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What English word, borrowed directly from Latin and very common in physics and particularly in its namesake branch of physics, can be defined as a discrete, indivisible manifestation of a physical property?",
+            "answer": "quantum",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "65",
+            "c_percent": "59",
+            "d_percent": "52",
+            "e_percent": "42",
+            "r_percent": "52"
+        }
+    ]
+}

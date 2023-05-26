@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 2,
+    "date": "May 21, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Likely the most famous literary character to have suffered from kyphosis was named after a Latin term by which the first Sunday after Easter is sometimes known. What is his name?",
+            "answer": "quasimodo",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The National Czech & Slovak Museum & Library, Effigy Mounds National Monument, Amana Colonies, and American Gothic House are all tourist attractions in what U.S. state?",
+            "answer": "iowa",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "57",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "30"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What ballet, based on a fairy tale by Charles Perrault, premiered at the Mariinsky Theatre in St. Petersburg in January 1890, with Carlotta Brianza in the role of Aurora?",
+            "answer": "the sleeping beauty",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "53",
+            "e_percent": "47",
+            "r_percent": "50"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The actor born Roy Scherer, Jr., who was nominated for an Oscar for his performance in Giant and later appeared in three films with Doris Day, achieved his success under what earthier stage name?",
+            "answer": "rock hudson",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "While the first four days of August 1914 saw declarations of war among Germany and Russia, France, Belgium, and Great Britain, the first declaration of war in World War I, on July 28, involved two other countries. Identify those two combatants.",
+            "answer": "austria-hungary, serbia",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "31",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The most abundant greenhouse gases in the atmosphere are water vapor, carbon dioxide, nitrous oxides, low-level ozone, CFCs, and what other chemical compound, for which the belching and flatulence of livestock are blamed as a significant cause?",
+            "answer": "methane (ch4)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "93",
+            "e_percent": "87",
+            "r_percent": "88"
+        }
+    ]
+}

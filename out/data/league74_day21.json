@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 21,
+    "date": "September 19, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In a game played on October 18, 1924, a University of Illinois halfback scored four touchdowns in the game's first twelve minutes, against a University of Michigan side that had only surrendered three  touchdowns over the previous two seasons. The Wolverines would give up 54 total points that season, with 39 coming that day at the hands of the Illini (led by the player in question, who would later be named by ESPN as the best college football player of all time). Who was this player?",
+            "answer": "harold \"red\" grange",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The ancient Central Asian cities of Samarkand and Tashkent, which flourished with centuries of Silk Road trade, remain today among the largest cities in what present-day republic?",
+            "answer": "uzbekistan",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "63",
+            "c_percent": "55",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "37"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Among the voluminous bounty of historical inaccuracies in what film is the title itself, which in fact was actually a nickname given to Robert the Bruce?",
+            "answer": "braveheart",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "81",
+            "e_percent": "63",
+            "r_percent": "73"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name given to the class of drugs that inhibit an enzyme involved in the production of cholesterol and promote binding of LDL cholesterol receptors, reducing cardiovascular disease? Brand names include Lipitor, Crestor, Zocor, and Pravachol.",
+            "answer": "statins",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "48"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "By the end of It's the Great Pumpkin, Charlie Brown, after a full evening of trick-or-treating, Charlie ends up with a bag full of what?",
+            "answer": "rocks",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "43",
+            "e_percent": "34",
+            "r_percent": "43"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The 2008 Broadway production of A Tale of Two Cities closed after 60 performances, keeping what other musical as, by far, the most successful musical theatre adaptation of a work by Charles Dickens?",
+            "answer": "oliver! (also acc. drood based on tonys)",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "56",
+            "r_percent": "62"
+        }
+    ]
+}

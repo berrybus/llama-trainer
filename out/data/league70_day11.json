@@ -1,0 +1,79 @@
+{
+    "date": "September 9, 2016",
+    "league": 70,
+    "day": 11,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "D'Ardennes, ibérico, di Parma, Westfälischer, and Yunnan all form common phrases with the accompaniment of one word—the same word, albeit in the corresponding language. What is that word translated into English?",
+            "answer": "ham",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "71",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "44",
+            "r_percent": "50"
+        },
+        {
+            "category": "ART",
+            "prompt": "It is generally believed that Vincent van Gogh slashed his left earlobe following an altercation with what friend and fellow Post-Impressionist?",
+            "answer": "paul gauguin",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "63",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "39"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Shore Fast Line, which is sometimes indirectly referred to today by a slightly altered name, was an electric interurban that ran for much of the first half of the twentieth century. What city is the most prominent among those served by this line?",
+            "answer": "atlantic city, new jersey",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "31",
+            "e_percent": "21",
+            "r_percent": "29"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While they called themselves the Haudenosaunee, French colonists of the seventeenth century referred to the association of the Mohawk, Oneida, Onondaga, Cayuga, and Seneca peoples by what name, which remains today in common use for this league of tribes?",
+            "answer": "iroquois",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "77",
+            "d_percent": "65",
+            "e_percent": "40",
+            "r_percent": "62"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The national epic of Finland, compiled by Elias Lönnrot from old ballads, lyrical songs, and incantations from oral tradition, is known by what name?",
+            "answer": "kalevala",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "21",
+            "c_percent": "15",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "10"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The square root of two, which is an irrational number (and likely the first number determined to be irrational), is often referred to as a constant named after what mathematician and philosopher, followers of whom made the determination of the number's irrationality?",
+            "answer": "pythagoras",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "47",
+            "c_percent": "37",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "35"
+        }
+    ]
+}

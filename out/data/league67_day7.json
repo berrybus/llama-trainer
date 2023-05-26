@@ -1,0 +1,79 @@
+{
+    "date": "November 18, 2015",
+    "league": 67,
+    "day": 7,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In standard versions of the card game euchre, if the suit of clubs is made the trump suit, then the jack of clubs and the jack of spades are, respectively, the \"right\" and \"left\" what?",
+            "answer": "bower",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "24",
+            "e_percent": "21",
+            "r_percent": "25"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the 118 islands of French Polynesia, the largest and most important is which island, which has more than 68% of the overseas collectivity's population and is its political and cultural center?",
+            "answer": "tahiti",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "69",
+            "d_percent": "55",
+            "e_percent": "30",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Viper, Jester, Cougar, Wolfman, Merlin, Sundown, Hollywood, Iceman, Charlie, and Goose is a list of characters (not including the main character) from what blockbuster film?",
+            "answer": "top gun",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "91",
+            "e_percent": "85",
+            "r_percent": "89"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Lake Ronkonkoma, the largest lake on Long Island, and Boston's Jamaica Pond are examples of a specific type of body of water that goes by what name? Formed when an ice block melts after being isolated and buried by the sediment of a receding glacier (as pictured), such bodies of water are named after hole's typical shape, resembling a kitchen item. ",
+            "answer": "kettle/pothole",
+            "image": "/images/art/457y9c8479837cny95387.jpg",
+            "a_percent": "57",
+            "b_percent": "35",
+            "c_percent": "27",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "21"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Taylor Swift has released a total of five studio albums, starting with her self-titled debut in 2006. Give the title of any two of her four subsequent releases.",
+            "answer": "fearless, speak now, red, 1989",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "44",
+            "e_percent": "37",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Kuomintang of China (KMT), the Chinese Nationalist Party led for nearly 40 years by Chiang Kai-shek, was founded (more precisely, re-founded) in 1919 and led initially by what revolutionary?",
+            "answer": "sun yat-sen",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "56",
+            "c_percent": "43",
+            "d_percent": "26",
+            "e_percent": "12",
+            "r_percent": "23"
+        }
+    ]
+}

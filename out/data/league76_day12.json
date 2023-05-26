@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 12,
+    "date": "March 12, 2018",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The gentleman pictured here is a citizen of\u2014and is representing\u2014what nation? ",
+            "answer": "tonga",
+            "image": "/images/art/98656tiorgtuioh.jpg",
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "83",
+            "d_percent": "73",
+            "e_percent": "64",
+            "r_percent": "67"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the botanical term\u2014often used as a synonym of \"stone fruit\"\u2014for a one-seeded fruit with a hardened innermost layer (endocarp or \"pit,\" \"stone,\" etc.), a fleshy middle layer (mesocarp), and thin skin (exocarp)? Examples include peaches, plums, cherries, mangoes, olives, and almonds.",
+            "answer": "drupe",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "32",
+            "c_percent": "20",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Naval Criminal Investigative Service has a dozen primary Field Offices in the United States, but not one in either of the cities that provide the primary settings for spinoffs of the TV series NCIS (though the cities are served by the Southwest and Southeast Field Offices, respectively). What are those two cities?",
+            "answer": "los angeles, new orleans",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "49",
+            "d_percent": "41",
+            "e_percent": "30",
+            "r_percent": "38"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A trick-taking card game played by four people with a deck from which the 8s, 9s, and 10s have been removed, whose peak popularity sits chronologically between Ombre and Whist in the 18th and 19th centuries, shares a name with a ballroom dance  of roughly the same era performed by four couples in a square formation. What is that name?",
+            "answer": "quadrille",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "24",
+            "c_percent": "18",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "9"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the man who served for the longest period as prime minister of Israel between Benjamin Netanyahu's first term of office (which ended in 1999) and his second (and current) term?",
+            "answer": "ariel sharon",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "55",
+            "c_percent": "47",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A gastronomic society for the promotion of a particular dish, a cornmeal preparation that is a basic dish of northern Italy, has a motto that exclaims, \"Per Patria Prima Per [this] Poi!\" (\"First for homeland, then for [this]!\") What is this dish?",
+            "answer": "polenta",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "59",
+            "r_percent": "68"
+        }
+    ]
+}

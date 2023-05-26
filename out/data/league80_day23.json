@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 23,
+    "date": "March 25, 2019",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "In economics, seigniorage is defined as the profits made by a ruler or government from the production of what?",
+            "answer": "currency/money/coinage",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "40",
+            "e_percent": "28",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Most traditional water softeners remove hardness from water by replacing harmful calcium and magnesium ions with ions from what alkali metal element? ",
+            "answer": "sodium",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "48",
+            "e_percent": "38",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Following the cancellation of the sitcom Roseanne in May 2018, ABC ordered what spinoff series, featuring the same cast of characters (sans Roseanne) who are left to deal with the character Roseanne's death due to a drug overdose?",
+            "answer": "the conners",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "56",
+            "r_percent": "62"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Events that occurred in the evening of October 20, 1973, involving Elliot Richardson, William Ruckelshaus, Robert Bork, Archibald Cox, and others, quickly thereafter became known by what three-word phrase?",
+            "answer": "saturday night massacre",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "50",
+            "e_percent": "31",
+            "r_percent": "47"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "German butcher Johann Georg Lahner produced the all-pork sausages named after his hometown of Frankfurt before moving, in 1798, to a new city, where he began to make similar sausages made from a mixture of beef and pork (which quickly became popular in their own right). To what city did he move?",
+            "answer": "vienna",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "44",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "A conflict began in early 2015 and is still ongoing between an armed insurgency movement known as Houthi and the government of what country, led by President Abdrabbuh Mansur Hadi?",
+            "answer": "yemen",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "38",
+            "r_percent": "54"
+        }
+    ]
+}

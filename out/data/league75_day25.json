@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 25,
+    "date": "December 20, 2017",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "A parabola is defined as a set of points on a plane equidistant from a given line and a given fixed point. The line is called the directrix; what is the term most commonly used for the fixed point?",
+            "answer": "focus",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Access, Calico, CapitalG, DeepMind, GV, Jigsaw, Nest, Sidewalk, Verily, and Waymo are some (but not all) of the divisions of what corporate conglomerate founded in 2015?",
+            "answer": "alphabet inc.",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "75",
+            "c_percent": "71",
+            "d_percent": "66",
+            "e_percent": "56",
+            "r_percent": "60"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The only occasion during which an Oscar was awarded for the portrayal of another Oscar winner happened at the 77th Academy Awards ceremony in February 2005. Name either Oscar winner (the 2005 recipient or the film's character). ",
+            "answer": "cate blanchett, katharine hepburn",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The salient in the German front lines that appeared on news maps is the source for the common name of what WWII battle, Germany's final major offensive on the Western Front?",
+            "answer": "battle of the bulge",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "58",
+            "r_percent": "70"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What took place in London, England, beginning in April 1908 (and concluding later that year), in large part because of the catastrophic eruption of Mount Vesuvius in Italy two years prior?",
+            "answer": "(1908 summer) olympics",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "28",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What word fills in the blank in this first quatrain from a famous poem by Emily Dickinson?\"Hope\" is the thing with ___________ -That perches in the soul -And sings the tune without the words -And never stops - at all -",
+            "answer": "feathers",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "41",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "12",
+            "r_percent": "27"
+        }
+    ]
+}

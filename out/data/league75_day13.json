@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 13,
+    "date": "December 4, 2017",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The term for what philosophical doctrine, which is defined as a disillusioned rejection of conventional morals and institutions with the belief that life is without objective value or meaning, was first popularized by Ivan Turgenev through his character Bazarov in Fathers and Sons and later applied to others in the radical Russian intelligentsia?",
+            "answer": "nihilism",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "85",
+            "d_percent": "79",
+            "e_percent": "66",
+            "r_percent": "73"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "On November 5, 2017, Shalane Flanagan became the first American woman in 40 years to win what?",
+            "answer": "new york city marathon",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "53",
+            "r_percent": "60"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A conductive electrical wire surrounded by a layer of insulating material, surrounded by a layer of shielding material, surrounded by another layer of insulating material\u2014this assembly is best known as what, after the alignment of the conductive wire and the outer shield?",
+            "answer": "coaxial cable",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "41",
+            "c_percent": "37",
+            "d_percent": "32",
+            "e_percent": "25",
+            "r_percent": "28"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A Spanish inquiry concluded that an explosion in the forward magazine caused the sinking of what battleship in Cuba's Havana harbor, whereas a US naval inquiry blamed a submarine mine?",
+            "answer": "uss maine",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "59",
+            "e_percent": "33",
+            "r_percent": "53"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The same name, in different languages, has been redacted multiple times from this image.  How is that name rendered in English? ",
+            "answer": "catalonia",
+            "image": "/images/art/358n7v605987vn60.jpg",
+            "a_percent": "93",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "71",
+            "r_percent": "77"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Jodie Dallas, widely regarded as the first openly gay regular character on American primetime television, was portrayed by Billy Crystal on what comedy series?",
+            "answer": "soap",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "39",
+            "e_percent": "25",
+            "r_percent": "35"
+        }
+    ]
+}

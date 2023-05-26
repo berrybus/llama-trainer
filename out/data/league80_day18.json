@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 18,
+    "date": "March 18, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Deneb is a name for the brightest star of what large, northern hemisphere constellation, which is represented as a swan?",
+            "answer": "cygnus",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "60",
+            "d_percent": "44",
+            "e_percent": "23",
+            "r_percent": "40"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term, from the Arabic for \"beacon,\" for the tall, slender tower (typically part of or adjacent to a mosque) with a balcony from which Muslims are summoned to prayer five times each day by a religious official known as a muezzin?",
+            "answer": "minaret",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "68",
+            "e_percent": "44",
+            "r_percent": "62"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "As of February 2019, the Balkan country formerly known provisionally as the Former Yugoslav Republic of Macedonia is now officially named the Republic of what?",
+            "answer": "north macedonia",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "21",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the usual name for the sauce/condiment that is, in its traditional French (and most common) version, effectively a garlic mayonnaise? Its name is a Proven\u00e7al portmanteau for its two main ingredients. (Note: diaeresis is not required.)",
+            "answer": "aioli",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "82",
+            "d_percent": "76",
+            "e_percent": "72",
+            "r_percent": "75"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "British Anglican priest John Wesley, with his brother Charles, is widely considered responsible in part for the religious revival known as the Great Awakening (a.k.a. Evangelical Revival), and the founder of what Protestant movement (related to his namesake Wesleyan theology)?",
+            "answer": "methodism",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "60",
+            "d_percent": "47",
+            "e_percent": "30",
+            "r_percent": "44"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of the 1990 album Songs for Drella, by Lou Reed and John Cale, references an individual who mentored the pair during their time in Velvet Underground. Who is \"Drella\"?",
+            "answer": "andy warhol",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "38",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "29"
+        }
+    ]
+}

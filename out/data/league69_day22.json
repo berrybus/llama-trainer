@@ -1,0 +1,79 @@
+{
+    "date": "June 24, 2016",
+    "league": 69,
+    "day": 22,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Canadian entertainer Aubrey Graham is known for his portrayal of Jimmy Brooks on Degrassi: The Next Generation, and perhaps for his antics courtside during Toronto Raptors home games, but most of all for his success as a rap artist under what name?",
+            "answer": "drake",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "72",
+            "e_percent": "66",
+            "r_percent": "76"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Snake in the Grass, Helicopter, Wind the Clock, Rock the Cradle, School, Chase the Fox, and Baking Bread are all names of informal games, some of which date to the early 1800s, that ordinarily require what item?",
+            "answer": "jump rope",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "39",
+            "c_percent": "32",
+            "d_percent": "31",
+            "e_percent": "27",
+            "r_percent": "30"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What Broadway musical went through several early titles, including A Very Special Person, My Man, and The Luckiest People, before (soon-to-be ex-)producer David Merrick settled on its ultimate name, highlighting its subject comedienne?",
+            "answer": "funny girl",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "51",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Igbo village of Umuofia, on the east bank of the Niger River, is the setting for what 1958 novel, whose title comes from a line in W. B. Yeats's poem \"The Second Coming\" and which is considered the most widely read book in modern African literature?",
+            "answer": "things fall apart",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "33",
+            "r_percent": "48"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In accounting, what is the term used most often (such as on a company's balance sheet) for the intangible asset that arises resulting from the acquisition of one company by another for an amount over the target's book value (or in some cases below, producing a negative asset)? It's a term also used as the name of a major American nonprofit organization.",
+            "answer": "goodwill",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "44",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Although the Maxim gun was the world's first true automatic weapon, the earliest rapid- and continuous-fire gun that achieved widespread usage was invented in 1861, and was used by Union forces in the U.S. Civil War and various other conflicts during the nineteenth century. Who was the namesake inventor of this weapon?",
+            "answer": "richard gatling",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "69",
+            "e_percent": "52",
+            "r_percent": "65"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 20,
+    "date": "March 14, 2022",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In auto mechanics, the abbreviation TDC refers to the position of an engine's piston on the compression stroke in which it is farthest from the crankshaft below. What do the letters in TDC stand for?",
+            "answer": "top dead center",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "13",
+            "e_percent": "10",
+            "r_percent": "15"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What language, widely cited as the only spoken language ever to be revived from extinction, is now one nation's official language and is spoken by over nine million people worldwide?",
+            "answer": "hebrew",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "39"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Bridgestone, Canon, Trend Micro, Rakuten, Softbank, ANA Holdings, Sharp, and Olympus are among the 225 components of what stock market index, named for the economics newspaper that has calculated it since 1950?",
+            "answer": "nikkei",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "50",
+            "c_percent": "39",
+            "d_percent": "29",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A new wave album named Trans, which prominently features electronic sound and use of a Sennheiser Vocoder VSM201, and whose current availability on streaming services is limited, was a polarizing 1982 release by what Canadian-born rock music artist?",
+            "answer": "neil young",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "26",
+            "r_percent": "35"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The most exceptional thing about a set of feminine singular Spanish nouns that includes agua (\"water\"), alma (\"soul\"), \u00e1guila (\"eagle\"), and hambre (\"hunger\") can be definitely articulated using what two letters?",
+            "answer": "el",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "70",
+            "c_percent": "67",
+            "d_percent": "59",
+            "e_percent": "48",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While no longer used, floating barrels and paddles were equipment integral to the gameplay of what sport when it originated in Great Britain in the 1870s?",
+            "answer": "water polo",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "81",
+            "e_percent": "74",
+            "r_percent": "77"
+        }
+    ]
+}

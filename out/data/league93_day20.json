@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 20,
+    "date": "June 13, 2022",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What cocktail\u2014consisting of gin, jus de citron, and sirop simple, shaken and poured into a fl\u00fbte and then topped with champagne\u2014is named after a roughly three-inch bore diameter field artillery gun used during World War I?",
+            "answer": "french 75 (soixante quinze)",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "38"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Yasser Arafat was the first head of the Palestinian National Authority. Who is the second, having been elected to the position in January 2005, after Arafat's death the previous November?",
+            "answer": "mahmoud abbas/abu mazen",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "18",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The biceps are an example of what type of muscle, which causes a limb or other body part to bend by bringing its two parts together (working antagonistically with extensors)?",
+            "answer": "flexor",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "45",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The actor who played the title character in director Tim Burton's first box-office hit (from 1985) and the Flemish Baroque artist who painted Elevation of the Cross and The Descent from the Cross very nearly share a last name, and the artist's middle name is the actor's first name. Give the last name of either of these individuals.",
+            "answer": "reubens/rubens",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "60",
+            "c_percent": "43",
+            "d_percent": "25",
+            "e_percent": "11",
+            "r_percent": "28"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What television series ended its 11-season run in 2001\u2014mostly in syndication, with its first season on NBC in the US\u2014having never won an Emmy award (or even been nominated for one, unsurprisingly)? Entertainment Weekly magazine proclaimed in a 1993 cover story that the show was \"The Most Popular Television Series in the History of the Planet\" while also calling it the show \"everyone (else) is watching\"?",
+            "answer": "baywatch",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "28",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Before starting their own companies, modern dancers Merce Cunningham, Erick Hawkins, and Paul Taylor all trained with, and danced in the company of, what American modern dance pioneer? The founder of her own school in 1926 (still in existence), she was the first dancer and choreographer to receive the Presidential Medal of Freedom and was in the inaugural group of recipients for the National Medal of Arts in 1985.",
+            "answer": "martha graham",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "24",
+            "e_percent": "13",
+            "r_percent": "22"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 17,
+    "date": "June 14, 2019",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What type of institution is named for the nine daughters of Zeus and Mnemosyne from Greek mythology?",
+            "answer": "museum",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "67",
+            "d_percent": "52",
+            "e_percent": "31",
+            "r_percent": "46"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "\"Meat Lover's\" is a federal trademark registered with the U.S. Patent and Trademark Office in 1989 by what restaurant chain?",
+            "answer": "pizza hut",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "74",
+            "c_percent": "71",
+            "d_percent": "67",
+            "e_percent": "62",
+            "r_percent": "65"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The acronym radar is formed from the word \"radio\" with what other two words (plus \"and\")?",
+            "answer": "detection/direction, ranging",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "14",
+            "r_percent": "31"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the northern India city, of great cultural and religious significance and the holiest of the Hindu Sapta Puri (seven holy pilgrimage sites), which is also famous internationally for its 88 sets of steps (known as \"ghats\") leading to the banks of the River Ganges.",
+            "answer": "varanasi (benares)",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "21",
+            "c_percent": "15",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "15"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In December 2004, guitarist \"Dimebag\" Darrell Abbott was shot and killed while performing for the group Damageplan in Columbus, Ohio, and his brother Vinnie Paul (Abbott) died of natural causes in June 2018 at age 54, at the time the drummer for the band Hellyeah. They both achieved their first and greatest level of success while playing together for what other heavy metal group?",
+            "answer": "pantera",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "29",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Though many individuals left sooner (and are celebrated today for doing so), a bugle call from the U.S. Fifth Cavalry at noon on April 22, 1889, formally began an event commonly named after the location where the event transpired. What is that location?",
+            "answer": "oklahoma",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "41",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "20"
+        }
+    ]
+}

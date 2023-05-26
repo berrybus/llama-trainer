@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 9,
+    "date": "March 4, 2021",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In 2021, two competing election technology companies have filed suit against former New York mayor Rudy Giuliani and others related to their promotion of theories around election fraud. Name either company.",
+            "answer": "smartmatic, dominion voting systems",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "63",
+            "r_percent": "70"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Give the last name of either of the public figures prominent during the 1980s who had nicknames that referenced the synthetic fluoropolymer polytetrafluoroethylene.",
+            "answer": "(ronald) reagan, (john) gotti",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "49",
+            "e_percent": "32",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A leading role in the most profitable movie musical ever (at the time) and the release of her provocative album Totally Hot (both in 1978) announced a shift in the career of what artist, whose early US success was in country music (including a Grammy for Best Country Vocal and, somewhat controversially, the CMA's Female Vocalist of the Year)?",
+            "answer": "olivia newton-john",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "48"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The 1930 mystery novel The Door by Mary Roberts Rinehart was one of the first instances of a murder committed by what now-clich\u00e9d perpetrator?",
+            "answer": "butler",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "68",
+            "e_percent": "52",
+            "r_percent": "58"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Identify the system for visual communication whose name comes from the Greek words for \"signal\" and \"bearer\", and fittingly so.",
+            "answer": "semaphore",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "55",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "CMG is, in a particular and specific context, an abbreviation for an entity that shares what name with a smoke-dried ripe Capsicum annuum?",
+            "answer": "chipotle",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "46",
+            "e_percent": "30",
+            "r_percent": "40"
+        }
+    ]
+}

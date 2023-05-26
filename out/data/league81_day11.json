@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 11,
+    "date": "June 6, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "According to the title of a 2011 film, who was the first Avenger?",
+            "answer": "captain america (steve rogers)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "81",
+            "d_percent": "77",
+            "e_percent": "73",
+            "r_percent": "77"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "NH3 is the chemical formula of what colorless, pungent-smelling gas?",
+            "answer": "ammonia",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "62",
+            "d_percent": "51",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1973's Across Asia on the Cheap was the first book by travel writers Maureen and Tony Wheeler, who founded what travel guidebook publisher? Once owned by the BBC, it inspired the television series Globe Trekker.",
+            "answer": "lonely planet",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "59",
+            "e_percent": "47",
+            "r_percent": "57"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Identify either of the individuals whose names fill in the blanks in the title of the 1964 play first published in German under the title Die Verfolgung und Ermordung _________ dargestellt durch die Schauspielgruppe des Hospizes zu Charenton unter Anleitung des _________.",
+            "answer": "jean-paul marat, marquis de sade",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "18",
+            "c_percent": "10",
+            "d_percent": "4",
+            "e_percent": "2",
+            "r_percent": "7"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Rice, saffron, and olive oil are the three basic ingredients of what traditional Spanish (and specifically Valencian) dish, whose name is derived from that of the cookware in which it is prepared?",
+            "answer": "paella",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "89",
+            "e_percent": "82",
+            "r_percent": "87"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The majority of the area of the African region known as Yorubaland (approximately 75%) lies within what present-day nation, where the Yoruba people today make up about one-fifth of the population?",
+            "answer": "nigeria",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "41"
+        }
+    ]
+}

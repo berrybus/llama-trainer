@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 11,
+    "date": "May 30, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What answer fills in the blank in the title of a Brian Eno-produced new wave album from the late 1970s? Q: Are We Not Men? A: _______!",
+            "answer": "we are devo",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "30"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "An activist campaign by the Irish National Land League in 1880 forbade the Irish from supplying provisions to an unpopular local British land agent in County Mayo. From this event originated what word used to describe the tactic, after the name of this ostracized land agent?",
+            "answer": "boycott",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "52",
+            "e_percent": "34",
+            "r_percent": "47"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A 1909 expedition to Africa sponsored by the Smithsonian Institution, which resulted in thousands of specimens (including dozens of big game animals) collected for American natural history museums, was led by what man, who arranged the expedition in part to give room to new U.S. President W.H. Taft?",
+            "answer": "theodore roosevelt",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "93",
+            "d_percent": "89",
+            "e_percent": "76",
+            "r_percent": "82"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Mexoryl SX, AvoTriplex, and Helioplex are tradenames of chemical formulations developed for use in what type of consumer product?",
+            "answer": "sunscreens",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "30",
+            "r_percent": "43"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What critically acclaimed 1994 film was a box-office bomb on its initial release but has gone on to extreme popularity (and a #1 all-time ranking on imdb.com), thanks in part to frequent airings on the TNT cable network in the late 1990s and subsequent widespread accolades?",
+            "answer": "the shawshank redemption",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "50",
+            "e_percent": "42",
+            "r_percent": "47"
+        },
+        {
+            "category": "ART",
+            "prompt": "Las Meninas by Diego Vel\u00e1zquez; Saturn Devouring His Son and The Third of May 1808 by Francisco Goya; The Knight with His Hand on His Breast by El Greco; Jacob's Dream by Jos\u00e9 de Ribera; Children on the Beach by Joaqu\u00edn Sorolla; and Still Life with Game, Vegetables and Fruit by Juan Sanchez Cotan are works housed in what art museum?",
+            "answer": "museo del prado",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "49",
+            "e_percent": "29",
+            "r_percent": "45"
+        }
+    ]
+}

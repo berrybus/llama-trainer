@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 9,
+    "date": "September 10, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What New York Yankees catcher holds the record for having played in the most World Series (and thus also, perhaps, experiencing the most d\u00e9j\u00e0 vu all over again in the World Series), with fourteen?",
+            "answer": "yogi berra",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "73",
+            "e_percent": "58",
+            "r_percent": "61"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A new branch of chemistry known as electrochemistry was facilitated by Alessandro Volta's 1800 invention of the voltaic pile, which is today better known as a what?",
+            "answer": "(electric) battery",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "80",
+            "d_percent": "72",
+            "e_percent": "56",
+            "r_percent": "67"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Anzac Cove (Anzak Koyu) is the current name of the site where Allied forces landed, in 1915, in a campaign against the Turks on what peninsula?",
+            "answer": "gallipoli",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "51",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The children's magazine published since 1967 by the National Wildlife Federation has what name, after the raccoon character who works to preserve the environment in the magazine's stories with his friends Boomer Badger and Scarlett Fox?",
+            "answer": "ranger rick",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "36"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "German composer Paul Hindemith's comic opera Neues vom Tage caused controversy in 1929 for a scene that featured what everyday household item, which remains relatively rare in opera (but not in singing as a whole, defined broadly)?",
+            "answer": "bathtub/shower",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "40",
+            "c_percent": "31",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "22"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While the wording of the declaration is attributed mostly to Secretary of State John Quincy Adams, the Doctrine that asserted \"the American continents...are henceforth not to be considered as subjects for future colonization by any European powers\" is most associated with, and named after, what other man?",
+            "answer": "james monroe",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "91",
+            "d_percent": "82",
+            "e_percent": "61",
+            "r_percent": "68"
+        }
+    ]
+}

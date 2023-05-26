@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 16,
+    "date": "March 14, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What term, which today refers to meaningless speech, has historically referred to a West African god, and originates etymologically from a Mandinka word for a ceremonial masked dancer? It provides the title for author Ishmael Reed's enduring 1972 novel, in which the author himself defines the term\u2014quoting the American Heritage Dictionary\u2014as a \"magician who makes the troubled spirits of ancestors go away.\"",
+            "answer": "mumbo jumbo",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "49",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A Bank in New Jersey, a Deer in Alberta, a Lion in Pennsylvania, a Bluff in California, and a Wing in Minnesota: each of the aforementioned shares what characteristic, per the names of cities in the respective states/provinces?",
+            "answer": "red",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "65",
+            "e_percent": "50",
+            "r_percent": "60"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The recording industry abbreviation \"b/w,\" which often appeared on (or referred to) specific 45 rpm singles, stands for what phrase?",
+            "answer": "backed with",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Max Schreck portrays the title character in what 1922 German film, subtitled \"A Symphony of Horror\" (eine Symphonie des Grauens) and one of the first cinematic representations of Count Dracula in all but name?",
+            "answer": "nosferatu",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "78",
+            "d_percent": "66",
+            "e_percent": "48",
+            "r_percent": "60"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Japan withdrew its membership in the League of Nations in 1933 after it was deemed the aggressor in its 1931 invasion of a region of China. What is either the name of this Chinese region, or the name of the state Japan established there upon occupation?",
+            "answer": "manchuria/manchukuo",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "52",
+            "e_percent": "34",
+            "r_percent": "51"
+        },
+        {
+            "category": "ART",
+            "prompt": "The use of what term to denote a certain period in European history was not actually in common usage until 1855, when it was first prominently used by French historian Jules Michelet?",
+            "answer": "renaissance",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "51",
+            "e_percent": "44",
+            "r_percent": "54"
+        }
+    ]
+}

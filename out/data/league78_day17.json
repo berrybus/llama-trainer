@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 17,
+    "date": "September 12, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "An Anglicized Muscogee Creek word for \"town\" begins the names of cities in Florida and Alabama. What is that word, whose five letters also begin the name of a river in Mississippi (a river whose name means \"river of the rock\" in Choctaw)?",
+            "answer": "talla",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "58",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Name the 19th-century musician and composer who is the conventional image of the quintessential Romantic artist\u2014a fastidiously accoutered dandy who was exquisitely mannered, abandoned by his mistress, and died of consumption, after being exiled as a young man from the homeland that now considers him a national hero.",
+            "answer": "fr\u00e9d\u00e9ric chopin",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "47",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Rhonda Britton (\"The Rabbit Lady\"), Steve Wilson (\"The Tourism Chief\"), Ronald Reagan, Pat Boone, Anita Bryant, and Bob Eubanks all appeared in what 1989 film?",
+            "answer": "roger & me",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "32",
+            "c_percent": "21",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of a Muddy Waters tune from 1950, itself a cover of an old Delta blues song called \"Catfish Blues\" recorded by Robert Petway in 1941, inspired the name of what rock and roll band?",
+            "answer": "the rolling stones",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "65",
+            "d_percent": "58",
+            "e_percent": "45",
+            "r_percent": "55"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name the theatre star who originated (on Broadway) the roles of Precious in Steel Pier, Sally in You're a Good Man, Charlie Brown, and Glinda in Wicked?",
+            "answer": "kristin chenoweth",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "49",
+            "e_percent": "42",
+            "r_percent": "44"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the Italian dish, literally \"bone (with a) hole,\" which is a stew of veal shanks in white wine with tomatoes and onions, usually served with pasta or rice.",
+            "answer": "osso buco",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "75",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "57"
+        }
+    ]
+}

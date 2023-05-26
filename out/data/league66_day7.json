@@ -1,0 +1,79 @@
+{
+    "date": "August 25, 2015",
+    "league": 66,
+    "day": 7,
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "It's believed that Cyrus the Great chose the site, and that it was built by Darius the Great, and it's certain that Alexander the Great took and plundered it. Today, this city, whose ruins are located near the Iranian city of Shiraz, is commonly known by what name?",
+            "answer": "persepolis",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "25",
+            "e_percent": "11",
+            "r_percent": "29"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A 1950 film starring Ingrid Bergman and set on (and named after) an island in the Tyrrhenian Sea gives its name to a food item which is, essentially, a pizza turnover. What is that name?",
+            "answer": "stromboli",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "52",
+            "c_percent": "44",
+            "d_percent": "32",
+            "e_percent": "19",
+            "r_percent": "34"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Give the titles, in German, of any two of the four epic operas that constitute Richard Wagner's Der Ring des Nibelungen.",
+            "answer": "das rheingold, die walküre, siegfried, götterdämmerung ",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "39",
+            "d_percent": "26",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "An organization known as the Arab Maghreb Union is mostly inactive, due in large part to a dispute over the territory known as Western Sahara. Name either of the Union's member countries who are the main parties to this dispute.",
+            "answer": "algeria, morocco",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "81",
+            "c_percent": "70",
+            "d_percent": "56",
+            "e_percent": "41",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Due to its role as an ingredient used to manufacture methamphetamine, what product has been replaced in many over-the-counter decongestant medicines with the less effective (and possibly ineffective) phenylephrine?",
+            "answer": "pseudoephedrine",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "56",
+            "d_percent": "50",
+            "e_percent": "45",
+            "r_percent": "48"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In card games of the Rummy family (such as Gin, Canasta, Conquian, and Vatican), a valid combination of matching cards which are played from one's hand in order to make a score or go out is known by what term, derived from the German for \"register\"?",
+            "answer": "meld",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "44",
+            "c_percent": "35",
+            "d_percent": "25",
+            "e_percent": "17",
+            "r_percent": "23"
+        }
+    ]
+}

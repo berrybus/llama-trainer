@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 24,
+    "date": "March 28, 2018",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Panaji is the capital of what Indian state, a center of international tourism and a former Portuguese territory that is both India's smallest state and its wealthiest (by per capita GDP)?",
+            "answer": "goa",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "38"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "On Herbie Hancock's landmark 1964 LP Empyrean Isles is a track called \"Oliloqui Valley,\" but no such valley appears on any map. Likewise, another track on the album refers to a nonexistent island named after what fruit?",
+            "answer": "cantaloupe",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "21",
+            "c_percent": "14",
+            "d_percent": "9",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Facing the growing nuclear threat from North Korea, President Trump stated in August 2017 that \"They will be met with ________ like the world has never seen.\"  What three words fill in the blank, which are also the title of a book published in January 2018?",
+            "answer": "fire and fury",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "91",
+            "d_percent": "87",
+            "e_percent": "81",
+            "r_percent": "87"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Collectively, the semitendinosus, semimembranosus, and biceps femoris muscles are commonly referred to as what plural noun?",
+            "answer": "hamstrings",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "39",
+            "c_percent": "31",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "27"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The card pictured here was printed for use in what game? ",
+            "answer": "sorry!",
+            "image": "/images/art/9786jghu48jt58t8.jpg",
+            "a_percent": "62",
+            "b_percent": "54",
+            "c_percent": "51",
+            "d_percent": "45",
+            "e_percent": "41",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Jerry Lewis and Tim Meadows both portrayed the lead characters in films\u2014from 1961 and 2000, respectively\u2014that, though very different in plot and style (and reception), shared what title?",
+            "answer": "the ladies man",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "47",
+            "e_percent": "38",
+            "r_percent": "44"
+        }
+    ]
+}

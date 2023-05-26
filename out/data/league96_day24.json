@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 24,
+    "date": "March 20, 2023",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Texas-born novelist Patricia Highsmith's debut novel, Strangers on a Train, was published in 1950 and adapted to film by Alfred Hitchcock the next year, but she's likely even better remembered for her series of novels that feature what antiheroic, amoral psychopath?",
+            "answer": "tom ripley",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "13",
+            "r_percent": "24"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The inconclusive First Northern War of 1655\u20131660 saw a coalition of Russia, Denmark, Brandenburg, and Austria unite against what military power, which reached its zenith by 1660, before ceding Baltic dominance to Russia at the end of the Great Northern War in 1721?",
+            "answer": "sweden",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "31"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The entertainment pioneer born Luther Robinson in Richmond, Virginia, in (or around) 1878 adopted his brother's first name at a young age and was also closely associated with what nickname, which endures to this day?",
+            "answer": "bojangles",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "33",
+            "c_percent": "25",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "15"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Hot Pursuit, High Stakes, Porsche Unleashed, Underground, Most Wanted, Payback, and Unbound are subtitles or partial titles of installments from what racing video game franchise, whose initial namesake debut installment was released for the 3DO console in 1994 and MS-DOS in 1995? The title evokes a famous line from 1986's Top Gun.",
+            "answer": "need for speed",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "77",
+            "e_percent": "68",
+            "r_percent": "75"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The first four numbers that are equal to the sum of their positive divisors (excluding the number itself) are 6, 28, 496, and 8128 (e.g., the divisors of 6 are 1, 2, and 3; 1+2+3=6). Numbers with this property, which was first defined in Euclid's Elements, are known as what type of numbers?",
+            "answer": "perfect numbers",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "38"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The $100 bill is one of only two currently issued US bills that does not feature a president of the United States (it features Benjamin Franklin, and the $10 bill features Alexander Hamilton), and the $100 is the only denomination printed today that features, on its reverse side, the exterior of a building outside of Washington, DC. What is the name of that building?",
+            "answer": "independence hall",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "35",
+            "r_percent": "51"
+        }
+    ]
+}

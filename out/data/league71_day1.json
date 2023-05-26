@@ -1,0 +1,79 @@
+{
+    "date": "November 14, 2016",
+    "league": 71,
+    "day": 1,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The culinary term \"affogato\" normally refers to a dessert topped (or \"drowned\") with what?",
+            "answer": "espresso/coffee",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "47",
+            "e_percent": "37",
+            "r_percent": "43"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the real name of the FBI Special Agent and one-time Deputy Director of the Bureau who was revealed in 2005 to be the secret Watergate informant \"Deep Throat\"?",
+            "answer": "w. mark felt",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "66",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "16",
+            "r_percent": "29"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Thiamine, riboflavin, niacin, pantothenic acid, pyridoxine, biotin, folic acid, and cobalamin form a dietary group of eight that is known collectively as what?",
+            "answer": "vitamin b complex",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "38",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Badaro, Raouché, Gemmayzeh, Saifi Village, Centre Ville (The Central District) and Wadi Abu Jamil are all neighborhoods or districts within what city on the eastern coast of the Mediterranean Sea?",
+            "answer": "beirut",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "45",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What New Orleans-born (and jazz and blues-influenced) singer and civil rights activist, who died in 1972, was dubbed the \"Queen of Gospel\"? In fact, her 1955 album was titled The World's Greatest Gospel Singer.",
+            "answer": "mahalia jackson",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "35",
+            "d_percent": "24",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What was the nickname of the fictional literary character David Wilson, a young lawyer in pre-Civil War Dawson's Landing, Missouri, whose eccentric hobby of collecting fingerprints eventually helps him solve his novel's central murder?",
+            "answer": "pudd'nhead",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "42",
+            "c_percent": "26",
+            "d_percent": "15",
+            "e_percent": "5",
+            "r_percent": "12"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 22,
+    "date": "March 22, 2019",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Harlem-born musical artist Teddy Riley, through his work as a songwriter and producer and as a founding member of the groups Guy and Blackstreet, is considered the father of a contemporary strain of R&B that is known by what three-word name?",
+            "answer": "new jack swing",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "37",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Among cattle, generally speaking, a non-castrated adult male is a bull, a castrated male raised for beef is a steer, a castrated male trained as a draft or riding animal is an ox, an adult female that has given birth is a cow, and a young unweaned bovine of either sex is a calf. What is the most common term for a young female who has not borne a calf of her own?",
+            "answer": "heifer",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "64",
+            "e_percent": "51",
+            "r_percent": "62"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the term for the mathematical property, applicable to addition and multiplication (but not subtraction or division), that states that a given operation's result is independent of the order of the numbers/objects in the operation? For example, 3 + 5 = 5 + 3 and 2 x 6 = 6 x 2.",
+            "answer": "commutative",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Enosis (Greek for \"union\") was the name given in the 1950s to a campaign for the union of Greece with what other country?",
+            "answer": "cyprus",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "62",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "48"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The most important commercial crab of the Pacific Northwest (and Oregon's \"state crustacean\") is named after a community on the Strait of Juan de Fuca in Washington State. What is that name?",
+            "answer": "dungeness",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "30",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Sisters with the first names of Lana and Lilly are a filmmaking partnership whose first major (and still highest profile) Hollywood success is what film trilogy?",
+            "answer": "matrix",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "57",
+            "e_percent": "46",
+            "r_percent": "55"
+        }
+    ]
+}

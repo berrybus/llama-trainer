@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 14,
+    "date": "March 14, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Among the most famous works of English poet John Keats are a set of six odes composed in 1819. They are odes on a Grecian Urn, on Indolence, on Melancholy, to Psyche, to Autumn, and to what bird?",
+            "answer": "nightingale",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "55",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "40"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A term in operations management for a methodology that uses statistical analysis and a data-based approach to improve business processes takes its name from a rating used to report the percentage of defects in a manufacturing process. The term is also used for certification (with high levels earning \"black belts\"). What is this term?",
+            "answer": "six sigma",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "58",
+            "c_percent": "55",
+            "d_percent": "51",
+            "e_percent": "44",
+            "r_percent": "46"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The irregularity of spelling in English and need for orthographic reform have been famously demonstrated in a mischievous re-spelling of \"fish\" incorrectly attributed to George Bernard Shaw. What is the correct spelling of that novel five-letter word?",
+            "answer": "ghoti",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "38",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "ART",
+            "prompt": "Pictured here is a canvas from the Ocean Park series by what Californian abstract expressionist painter? ",
+            "answer": "richard diebenkorn",
+            "image": "/images/art/984m5093yv5m093.jpg",
+            "a_percent": "13",
+            "b_percent": "9",
+            "c_percent": "5",
+            "d_percent": "4",
+            "e_percent": "2",
+            "r_percent": "5"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The electronic musician and DJ born Richard Melville Hall was named in part after his famous author great-great-great-granduncle, and his nickname also references that ancestor. What is Hall's nickname (and stage name)?",
+            "answer": "moby",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "79",
+            "e_percent": "60",
+            "r_percent": "72"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Abu Dhabi, UAE; Suzhou, China; Delft, The Netherlands; Nevyansk, Russia; Suurhusen, Germany; Bad Frankenhausen, Germany; and Bologna, Italy, all have structures with a characteristic most famously associated with a structure in what other Italian city?",
+            "answer": "pisa",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "79",
+            "e_percent": "70",
+            "r_percent": "70"
+        }
+    ]
+}

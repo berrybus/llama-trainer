@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 10,
+    "date": "August 20, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Due to the difficult-to-chew nature of a popular delicacy, Japanese authorities issue warnings about its consumption each year leading up to New Year's festivities. What is the name of this delicacy, sweet buns made with glutinous rice milled into flour and then shaped and cooked into soft and chewy rice cakes?",
+            "answer": "mochi",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "60",
+            "c_percent": "57",
+            "d_percent": "53",
+            "e_percent": "47",
+            "r_percent": "56"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Over the twelve seasons of what drama TV series did the characters John Kelly, Bobby Simone, Danny Sorenson, and John Clark, Jr. each form, in turn, one half of the main duo?",
+            "answer": "nypd blue",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "46",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Some of the better-known anadromes (words derived by reversing the spelling of another word) include Oprah Winfrey's media company (Harpo), a particular unit of electrical conductance (mho), and what jazz standard composed in 1954 by Sonny Rollins? It was recorded separately by Miles Davis and Wes Montgomery and is named after a country in Africa.",
+            "answer": "airegin",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "26",
+            "c_percent": "18",
+            "d_percent": "13",
+            "e_percent": "9",
+            "r_percent": "15"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "An individual named Naftali Bennett ascended to his current position on June 13, 2021, succeeding whom?",
+            "answer": "benjamin netanyahu",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "63",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The computer programming language officially named ECMAScript is more commonly known by another name, which replaces the first four letters of that formal name with what other word? This other word is itself the name of a completely distinct programming language.",
+            "answer": "java",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "93",
+            "d_percent": "90",
+            "e_percent": "86",
+            "r_percent": "90"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A popular English periodical, published from 1731 until the early 20th century and the first general periodical in England, was named The Gentleman's what? The missing word, novel at the time of its usage in this case, is now common in the genre.",
+            "answer": "magazine",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "35",
+            "c_percent": "27",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "19"
+        }
+    ]
+}

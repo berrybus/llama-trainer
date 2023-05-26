@@ -1,0 +1,79 @@
+{
+    "date": "August 17, 2015",
+    "league": 66,
+    "day": 1,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Between the years 1971 and 1975, a duo had five consecutive #1 hits on the Billboard Country charts, (including \"After the Fire Is Gone\" and \"Louisiana Woman, Mississippi Man\"), and was named the CMA's Vocal Duo of the Year annually from 1972 to 1975 while becoming the most awarded and most successful male/female duo in country music history. Name either artist, who both had very successful solo careers in their own rights.",
+            "answer": "loretta lynn, conway twitty",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the sport—played exclusively right-handed, by rule—which is played in four to eight seven-minute chukkas, with a continuous clock during each chukka stopped only for penalties, equipment malfunction, or injury (player or non-player).",
+            "answer": "polo",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "66",
+            "c_percent": "52",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "36"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Dan Brown novel The Da Vinci Code both begins (with the prologue) and ends (with the epilogue) with scenes in the proximity of what building?",
+            "answer": "the louvre",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "66",
+            "e_percent": "62",
+            "r_percent": "63"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "P. camemberti and P. roqueforti are used in making cheese, P. expansum is a post-harvest plant pathogen, and P. chrysogenum (formerly P. notatum) is most famously the source of what antibiotic? ",
+            "answer": "penicillin",
+            "image": null,
+            "a_percent": "100",
+            "b_percent": "97",
+            "c_percent": "99",
+            "d_percent": "97",
+            "e_percent": "94",
+            "r_percent": "96"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Provide the two names that fill in the blanks in the following quote, which ended most broadcasts of the Huntley-Brinkley Report from 1956 to 1970: \"Good night, _____. Good night, _____. And good night, for NBC News.\"",
+            "answer": "chet, david",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "50",
+            "c_percent": "36",
+            "d_percent": "25",
+            "e_percent": "11",
+            "r_percent": "23"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name either of the first two items Maria lists among her favorite things in the Broadway musical The Sound of Music?",
+            "answer": "raindrops on roses, whiskers on kittens",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "74",
+            "r_percent": "74"
+        }
+    ]
+}

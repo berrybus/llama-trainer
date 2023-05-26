@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 15,
+    "date": "September 9, 2020",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the man who was elected in April 2020 to succeed Jeremy Corbyn as head of the United Kingdom's Labour Party.",
+            "answer": "keir starmer",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "29",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The two players who won the NBA's Most Valuable Player awards in 1979, 1982, 1983, 1997, and 1999 share what last name? The players are also the only two players on the NBA's 50th Anniversary All-Time Team (announced in 1996) to share a last name.",
+            "answer": "malone",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "44",
+            "d_percent": "34",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Jane, Mary, Catherine (Kitty), and Lydia are the names of four of the five Bennet sisters from a classic 1813 novel. What is the name of the fifth?",
+            "answer": "elizabeth",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "64",
+            "d_percent": "56",
+            "e_percent": "45",
+            "r_percent": "55"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While Morocco occupies 80% of its land, no other UN member state has officially recognized that country's sovereignty over what territory, which is the most populous and largest in area (by far) among those on the UN's list of Non-Self-Governing Territories?",
+            "answer": "western sahara",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the Greek town, in actuality about 18 miles from the city of Athens, that is located in eastern Attica and was etched in history in 490 BCE (thanks in part to a Greek hemerodrome named Pheidippides).",
+            "answer": "marathon",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "74",
+            "e_percent": "52",
+            "r_percent": "63"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Tobacco, potato, eggplant, and tomato are among the agricultural crops that belong to the family Solanaceae, which is most commonly known in English by what name?",
+            "answer": "nightshades",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "68",
+            "d_percent": "59",
+            "e_percent": "46",
+            "r_percent": "54"
+        }
+    ]
+}

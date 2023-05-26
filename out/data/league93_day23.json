@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 23,
+    "date": "June 16, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What flowering plant, popular in gardens and landscapes, possessing sweetly scented purple, blue, or white blossoms, and toxic to some animals, takes its name from the notion that it turns its flowers to face the sun?",
+            "answer": "heliotrope",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "12"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "De Gouden Kooi (The Golden Cage) was the working title of a Dutch television series that premiered in 1999 and was inspired by the Biosphere 2 research facility in Arizona and the works of George Orwell. This series is now known by what name, which is also used for its US and UK versions (and many of the 60+ other versions across the globe)?",
+            "answer": "big brother",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "44",
+            "r_percent": "55"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The 1993 album Stone Free, which featured Eric Clapton, Jeff Beck, Buddy Guy, Slash, Pat Metheny, and many others, was a tribute album celebrating what rock musician? This musician wrote a song with that album's name and recorded it with his namesake band in 1966.",
+            "answer": "jimi hendrix",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "57",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "1697's Treaty of Rijswijk formalized the transition from Spain to France of a possession that the French renamed Saint-Domingue, located on what island?",
+            "answer": "hispaniola",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "55",
+            "e_percent": "30",
+            "r_percent": "43"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Ajman, Fujairah, Ras Al Khaimah, Sharjah, and Umm Al Quwain are five members of a certain set of seven. Give the name of either of the other two members of this particular set.",
+            "answer": "abu dhabi, dubai",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Architect Howard Roark, a resolute individualist struggling against collectivist standards and mediocrity, is the protagonist of what 1943 bestseller?",
+            "answer": "the fountainhead",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "48",
+            "e_percent": "31",
+            "r_percent": "44"
+        }
+    ]
+}

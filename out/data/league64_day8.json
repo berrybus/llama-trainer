@@ -1,0 +1,79 @@
+{
+    "date": "February 26, 2015",
+    "league": 64,
+    "day": 8,
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "\"Dear King Philip Came Over For Good Soup.\" In this mnemonic, the word \"soup\" stands in for what other word?",
+            "answer": "species",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "69",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Radiant Child, a crawling baby in a halo of light, was the personal logo of what American artist?",
+            "answer": "keith haring",
+            "image": null,
+            "a_percent": "26",
+            "b_percent": "24",
+            "c_percent": "22",
+            "d_percent": "15",
+            "e_percent": "10",
+            "r_percent": "12"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the Academy Award-winning director who was screenwriter (but not director) of the films Midnight Express, Conan the Barbarian, Scarface, and Evita.",
+            "answer": "oliver stone",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "43",
+            "c_percent": "38",
+            "d_percent": "24",
+            "e_percent": "12",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What expression, popular from the early days of WWII, is used to describe enemy sympathizers who may provide active assistance to invading forces? The term originates from the Spanish Civil War, when sympathizers supported a quartet of rebel battalions advancing on Madrid.",
+            "answer": "fifth column",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "59",
+            "c_percent": "50",
+            "d_percent": "31",
+            "e_percent": "11",
+            "r_percent": "29"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Massachusetts-born 19th c. publisher Samuel French first achieved success publishing works of what literary form? The namesake company he founded in the 1850s continues to dominate the particular market to this day.",
+            "answer": "plays",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "36",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "There are two rivers in Africa which each has two different countries named after it. Please name both rivers.",
+            "answer": "congo, niger",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "44",
+            "r_percent": "55"
+        }
+    ]
+}

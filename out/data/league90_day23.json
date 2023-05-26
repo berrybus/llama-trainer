@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 23,
+    "date": "September 9, 2021",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the common name for the object that covers and seals the valve in a toilet tank responsible for draining water from the tank into the bowl during a flush? \"Seat disk\", \"tank ball\", and \"rubber\" are three main types.",
+            "answer": "flapper",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "62",
+            "c_percent": "58",
+            "d_percent": "50",
+            "e_percent": "45",
+            "r_percent": "50"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Each year from 1927 to 1929, the Wimbledon Ladies' Singles Championship was won by Helen Wills. She won the title five more times between 1930 and 1938 while playing officially under what name? ",
+            "answer": "helen (wills) moody",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "22",
+            "c_percent": "14",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "9"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The exponent power to which a base must be raised to produce a given number is represented by a quantity known by what term?",
+            "answer": "logarithm (log)",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "35",
+            "e_percent": "29",
+            "r_percent": "34"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "By earning nearly 19% of the popular vote in the 1992 election, H. Ross Perot became the most successful independent candidate for the US presidency by that measure since what other candidate, who ran 80 years earlier?",
+            "answer": "theodore roosevelt",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "65",
+            "e_percent": "48",
+            "r_percent": "53"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A 1978 comedy starring Mark Hamill, a 2008 drama directed by and starring Clint Eastwood, a 2019 drama starring Christian Bale and Matt Damon, and a 1990 comedy starring Andrew Dice Clay: the titles of these films have what in common, most distinctively?",
+            "answer": "names of cars",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "49",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "ART",
+            "prompt": "An early 1800s woodblock print titled Gy\u014dzui, by Kitagawa Utamaro, has been credited as an inspiration for a similarly themed painting from 1893 by Mary Cassatt. Per their titles, what maternal activity is the subject of both works?",
+            "answer": "bathing (a child)",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "35",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "18"
+        }
+    ]
+}

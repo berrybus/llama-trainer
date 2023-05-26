@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 21,
+    "date": "June 20, 2019",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What Ni\u00e7oise dish, whose name is related to the French verb meaning \"to stir up\", was once defined formally as a rago\u00fbt of aubergine with tomatoes, courgettes, and sweet peppers, though today it is often applied to any similar stew made with vegetables?",
+            "answer": "ratatouille",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "83",
+            "c_percent": "80",
+            "d_percent": "74",
+            "e_percent": "66",
+            "r_percent": "74"
+        },
+        {
+            "category": "ART",
+            "prompt": "Twenty-five acres of aluminized polypropylene material and nearly ten miles of cord (of the same material) were used, for fourteen days beginning in June 1995, to hide what building from public view?",
+            "answer": "reichstag",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "29",
+            "c_percent": "20",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the term, from Latin for \"shield\", used in medieval England for the payment made by a knight to the king in exchange for military service? It was cause for a revolt in the early 13th century and was addressed in the Magna Carta.",
+            "answer": "scutage (escutage)",
+            "image": null,
+            "a_percent": "26",
+            "b_percent": "13",
+            "c_percent": "6",
+            "d_percent": "4",
+            "e_percent": "1",
+            "r_percent": "7"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What is the three-word title of the Broadway musical that is based on the story of the Temptations and features the group's music and lyrics (and is named after one of their most iconic hits)?",
+            "answer": "ain't too proud",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "31"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "In the gritty drama television series Wentworth, which is award-winning and critically acclaimed in its homeland of Australia and has grown in popularity globally (including in the United States via Netflix and Prime Video), the titular facility \"Wentworth\" is a what?",
+            "answer": "prison",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "77",
+            "c_percent": "72",
+            "d_percent": "69",
+            "e_percent": "60",
+            "r_percent": "68"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What Eastern Michigan city is named after a Greek nationalist who served as an officer in the Russian army and as a leader in the movement seeking Greek independence from the Ottoman Empire in the 1820s? ",
+            "answer": "ypsilanti",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "22"
+        }
+    ]
+}

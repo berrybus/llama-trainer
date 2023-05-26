@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 8,
+    "date": "March 4, 2019",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Alan Shore, Bobby Donnell, Denny Crane, and Ally McBeal are all fictional attorneys who practiced in what city?",
+            "answer": "boston",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "85",
+            "c_percent": "76",
+            "d_percent": "68",
+            "e_percent": "55",
+            "r_percent": "63"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Name the killer in Halloween,\" \"Name the killer in Friday the 13th,\" and \"What door am I at?\" These are all statements/questions posed to a character named Casey Becker during the intense, ten-minute prologue of what 1996 film?",
+            "answer": "scream",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "84",
+            "c_percent": "77",
+            "d_percent": "72",
+            "e_percent": "64",
+            "r_percent": "68"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the most common term in finance for the market, also known as \"cash market\" or \"physical market,\" where goods, securities, or currencies are available for immediate delivery? It is distinguished from \"forward\" or \"futures\" markets, where delivery is due at an agreed-upon future date.",
+            "answer": "spot market",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "28",
+            "c_percent": "19",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "An Athens-based organization known by the French acronym FIDE, founded in Paris in 1924, formally governs and oversees championships in what competitive activity?",
+            "answer": "chess",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "45",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What former U.S. President served as Chief Justice of the Supreme Court from July 1921 to February 1930?",
+            "answer": "william howard taft",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "68",
+            "e_percent": "46",
+            "r_percent": "58"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "In the 1980s, composers Julia Wolfe, Michael Gordon, and David Lang founded a new music collective in New York in an effort to provide community and opportunity for contemporary classical music creators. Perhaps appropriately (given its post-minimalist aesthetic), the group was named ____ on a ____ . Provide either of the words that fill in the blanks.",
+            "answer": "bang, can",
+            "image": null,
+            "a_percent": "20",
+            "b_percent": "14",
+            "c_percent": "10",
+            "d_percent": "5",
+            "e_percent": "3",
+            "r_percent": "7"
+        }
+    ]
+}

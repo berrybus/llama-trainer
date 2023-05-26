@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 5,
+    "date": "November 12, 2021",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What city, founded in its present location in 1519 by Spanish conquistador Diego Vel\u00e1zquez, was originally located on its country's south coast, and was the site of a disputed event that triggered a war in 1898?",
+            "answer": "havana, cuba",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "63",
+            "d_percent": "50",
+            "e_percent": "29",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Players may choose from 1 to 10 numbers between 1 and 80, in hopes that some or all will be randomly selected by the centralized computer.\" This is a quote from the Rhode Island Lottery for what game, which is also popular in casinos (especially to the casinos themselves, given the game's huge house edge)?",
+            "answer": "keno",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "69",
+            "d_percent": "60",
+            "e_percent": "51",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Various versions of a certain African American spiritual include lines such as \"Gonna lay down my sword and shield\", \"Gonna put on my golden shoes\", and \"Gonna meet my dear old mother\". What line, sung three times, follows each of these preceding lines, is a common title of the spiritual, and is the location where these activities will take place?",
+            "answer": "down by the riverside",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "17",
+            "r_percent": "25"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What type of dog, whose three breeds are \"Standard\", \"Miniature\", and \"Giant\", has a German name which colloquially means \"mustache\"\u2014rather appropriate, given the dog's distinctive facial appearance?",
+            "answer": "schnauzer",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "73",
+            "r_percent": "81"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the fifteen current sovereign states that were republics of the Soviet Union, identify the one whose national flag has three equal horizontal stripes of white, blue, and red (from top to bottom).",
+            "answer": "russia",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "ART",
+            "prompt": "Five-year-old Margarita, the daughter of King Phillip IV of Spain, is surrounded by her ladies-in-waiting as they visit the atelier of the Spanish Court painter Diego Vel\u00e1zquez. This is the scene for a complex, influential, and variously interpreted painting from 1656 with what name (which translates to \"The Maids-of-Honor\")?",
+            "answer": "las meninas",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "41",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "19"
+        }
+    ]
+}

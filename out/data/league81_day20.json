@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 20,
+    "date": "June 19, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Paran\u00e1 River provides Atlantic Ocean access to what landlocked country?",
+            "answer": "paraguay",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "53",
+            "e_percent": "36",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Declan Hannon, Cillian Buckley, Cian Dillon, Kevin Moran, Colin Fennelly, and Eoin Larkin are among the captains of recent championship teams in the world's largest league playing what sport?",
+            "answer": "hurling",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Fill in the blanks, in order, in these last lines from a Shakespeare play: For never was a story of more woe / Than this of ______ and her ______.",
+            "answer": "juliet, romeo",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "72",
+            "r_percent": "80"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What TV series, which centered on the Glenoak, California, family of Protestant Reverend Eric Camden and his wife Annie, was the last network broadcast series produced by the Aaron Spelling's Spelling Television Inc. before his death in June 2006?",
+            "answer": "7th heaven",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "66",
+            "c_percent": "62",
+            "d_percent": "57",
+            "e_percent": "50",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What distributed document search and retrieval internet protocol, a predecessor to the World Wide Web ultimately overtaken by HTTP, has a name that references the Midwestern university where a team led by Mark McCahill developed the program in 1991? ",
+            "answer": "gopher",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "34",
+            "c_percent": "25",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the Spanish translation of the Italian word cane?",
+            "answer": "perro",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "46",
+            "e_percent": "28",
+            "r_percent": "42"
+        }
+    ]
+}

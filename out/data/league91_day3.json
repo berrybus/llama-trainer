@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 3,
+    "date": "November 10, 2021",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Following the outbreak of the \"Troubles\" in the late 1960s, the Irish Republican Army split into two wings: the \"Official\" IRA, and what other, which staged numerous assassinations and bombings in Britain and Northern Ireland over the subsequent three decades?",
+            "answer": "provisional",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "42",
+            "c_percent": "32",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "22"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The American Book Award-winning The Testing of Luther Albright was the debut novel from 2005 of an author who, according to Bloomberg, is the 23rd-wealthiest individual in the world in 2021. What is her name?",
+            "answer": "mackenzie scott",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "30",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "13"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Reindeer is a familiar term in North America\u2014thanks in no small part to a certain red-nosed fellow\u2014but the species (Rangifer tarandus) is more often referred to in Canada and the US by what other common name?",
+            "answer": "caribou",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In 2020, Rolling Stone magazine named a 1998 song by what artist as the greatest debut single of all time\u2014a song which, it could easily be argued, is also the most successful single of all time whose title begins with an ellipsis? Note, name the artist.",
+            "answer": "britney spears",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "51"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Among the many notable elements in Edgar Allan Poe's The Raven is its internal rhyme, which starts in its first line. The 16-syllable line fittingly begins \"Once upon\" and rhymes what two words?",
+            "answer": "dreary, weary",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "58",
+            "e_percent": "42",
+            "r_percent": "51"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "To have more points than your opponent(s) once numbers 15 through 20 and the bullseye have been \"closed out\" is the object of a darts game known by many names, but probably most commonly by one it shares with what orthopteran?",
+            "answer": "cricket",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "52",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "34",
+            "r_percent": "38"
+        }
+    ]
+}

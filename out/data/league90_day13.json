@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 13,
+    "date": "August 25, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "\"To strive, to seek, to find, and not to yield.\" This line, a quintessential example of iambic pentameter, is the 70th and final line in a poem written in 1833 by Alfred, Lord Tennyson, on the subject of what restless hero?",
+            "answer": "ulysses (odysseus)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "44",
+            "e_percent": "31",
+            "r_percent": "44"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What language, an isolate not related to any other existing spoken language, is, with roughly 750,000 native speakers, the only surviving Pre-Indo-European language in Western Europe?",
+            "answer": "basque",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "37",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Donald \"DeVant\u00e9 Swing\" DeGrate, Dalvin \"Mr. Dalvin\" DeGrate, Cedric \"K-Ci\" Hailey, and Joel \"JoJo\" Hailey were the four members of what eponymous R&B quartet popular in the early 1990s?",
+            "answer": "jodeci",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "28",
+            "c_percent": "21",
+            "d_percent": "15",
+            "e_percent": "9",
+            "r_percent": "16"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the nine-letter word often used for the lowest classification of female singing voice in operatic and classical singing, with a range from F below middle C to the second F above middle C?",
+            "answer": "contralto",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "76",
+            "c_percent": "62",
+            "d_percent": "49",
+            "e_percent": "30",
+            "r_percent": "42"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What is the title of the subversive 1987 graphic novel by Alan Moore that was the basis of a television series of the same name that premiered on HBO in 2019?",
+            "answer": "watchmen",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "75",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "\"You don't have [REDACTED] to kick around anymore. Because, gentlemen, this is my last press conference.\" This fantastically false statement was made in Beverly Hills, California, in November 1962, by whom?",
+            "answer": "richard nixon",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "79",
+            "d_percent": "67",
+            "e_percent": "48",
+            "r_percent": "60"
+        }
+    ]
+}

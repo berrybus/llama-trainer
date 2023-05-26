@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 8,
+    "date": "November 22, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Ocean waves, electromagnetic waves, and stadium crowd waves are all most often referred to as what type of wave, so-named because the waves' periodic disturbances are at right angles to the direction of propagation?",
+            "answer": "transverse",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "25",
+            "c_percent": "17",
+            "d_percent": "13",
+            "e_percent": "9",
+            "r_percent": "15"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A small bowl, classically circular and white with a fluted exterior, which is often used to serve condiments and garnishes alongside an entr\u00e9e, souffl\u00e9s, or single-serve portions of larger dishes, takes its name from a similarly spelled French dish baked and served in such a container. What is that name?",
+            "answer": "ramekin",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "64",
+            "c_percent": "59",
+            "d_percent": "54",
+            "e_percent": "45",
+            "r_percent": "49"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The country of Ecuador is named after its location straddling the equator. Through what other two South American countries does the equator pass?",
+            "answer": "colombia, brazil",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "49",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "20",
+            "r_percent": "33"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What U.S. President, born in West Branch, Iowa, to parents Jesse and Hulda in August 1874, was the first president born west of the Mississippi River?",
+            "answer": "herbert hoover",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "46",
+            "e_percent": "31",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Winnipeg Jets' Rick Dudley, the Toronto Maple Leafs' Wilf Paiement, and Montreal Canadiens' Joe Lamb, Desse Roche, and Leo Bourgeault are among the very few players in the history of the National Hockey League to wear jersey number 99. Name one other.",
+            "answer": "wayne gretzky",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "74",
+            "e_percent": "70",
+            "r_percent": "69"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What Sirius XM Satellite Radio station, focused on 90s Alternative and Grunge, is named after a song by Nirvana (and not an element of the periodic table)?",
+            "answer": "lithium",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "88",
+            "c_percent": "80",
+            "d_percent": "74",
+            "e_percent": "60",
+            "r_percent": "65"
+        }
+    ]
+}

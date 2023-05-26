@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 12,
+    "date": "June 2, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A 1974 book by Robert Pirsig, which is reported to be the greatest-selling philosophy book of all time, has an expository framework built in part around maintenance of what object?",
+            "answer": "motorcycle",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "73",
+            "e_percent": "54",
+            "r_percent": "63"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Santa Cruz, San Crist\u00f3bal, Isabela, Santiago, and Darwin are among the islands of an archipelago best known by what name?",
+            "answer": "gal\u00e1pagos islands",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "86",
+            "e_percent": "76",
+            "r_percent": "84"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What term referencing ornamental Moorish design is borrowed in ballet terminology for the body position where the dancer stands on one straight leg, with the other leg extended behind the dancer's body and also straight?",
+            "answer": "arabesque",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "36"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Give the first name of either of the teenage daughters of Marc and Heidi D'Amelio, until recently of Norwalk, Connecticut.",
+            "answer": "dixie, charli",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "30",
+            "c_percent": "28",
+            "d_percent": "25",
+            "e_percent": "22",
+            "r_percent": "28"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "At the end of an absurdist drama from 1959 by Eugene Ionesco, the main character is the only human remaining as all of his associates have metamorphosed into what animal?",
+            "answer": "rhinoceros",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "43",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The most preeminent Venetian artist (and artistic family) of the 15th century is the namesake for what Prosecco-based cocktail?",
+            "answer": "bellini",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "33",
+            "r_percent": "41"
+        }
+    ]
+}

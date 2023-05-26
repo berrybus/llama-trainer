@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 9,
+    "date": "August 31, 2020",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the term, which originated in a 1938 article in Variety magazine and is associated historically with disc jockeys, for a secret or indirect transfer of funds for a commercial favor (such as the promotion of a particular record)?",
+            "answer": "payola",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "67",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Good Fight, Star Trek: Picard, Why Women Kill, and Tooning Out the News are all original television series created for what subscription-based streaming video service?",
+            "answer": "cbs all access",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "60",
+            "d_percent": "53",
+            "e_percent": "42",
+            "r_percent": "49"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "English fashion designer Sarah Burton, who was the CFDA's International Designer of the Year in 2019 and designed Catherine Middleton's dress for her 2011 wedding, is currently the creative director for what fashion brand, whose namesake \"hooligan of English fashion\" died in 2010 at age 40?",
+            "answer": "alexander mcqueen",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "51",
+            "c_percent": "43",
+            "d_percent": "35",
+            "e_percent": "27",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "While there is now an official SI unit for luminous intensity, that photometric quantity was formerly expressed in terms of the \"power\" of what type of object?",
+            "answer": "candle",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "41",
+            "r_percent": "49"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In finance, an accounting measure sometimes used as an alternative to net income, to show a company's overall profitability, reports earnings before interest expenses, amortization, depreciation, and taxes are subtracted out. By what six-letter acronym is this measure most commonly known?",
+            "answer": "ebitda",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "45",
+            "c_percent": "42",
+            "d_percent": "38",
+            "e_percent": "34",
+            "r_percent": "39"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While New Caledonia is a group of islands in the South Pacific administered by France, the original Caledonia was a land, just beyond the Roman Empire's frontier, that is roughly coterminous with what in the modern day?",
+            "answer": "scotland",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "62",
+            "d_percent": "43",
+            "e_percent": "23",
+            "r_percent": "40"
+        }
+    ]
+}

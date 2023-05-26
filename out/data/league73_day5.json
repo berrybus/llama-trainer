@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 5,
+    "date": "May 19, 2017",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Earlier this month, five activists were detained in Moscow as they attempted to deliver a petition to Russia's prosecutor general that called for an investigation into the status and treatment of gay people in what Russian republic?",
+            "answer": "chechnya",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "90",
+            "c_percent": "83",
+            "d_percent": "76",
+            "e_percent": "63",
+            "r_percent": "68"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the actor who, before hitting it big, played a young EMT named Ace on the television series E/R, a carpenter on The Facts of Life, a plastics plant foreman on Roseanne, and a detective (and husband to Sela Ward's \"Teddy\") on Sisters? ",
+            "answer": "george clooney",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "65",
+            "d_percent": "59",
+            "e_percent": "55",
+            "r_percent": "58"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "An 1846 treaty between the British and US governments established an international boundary along the 49th parallel west of the Rocky Mountains, separating British North America and an American region that gave its name to the treaty. What was this name that the region was known by at the time?",
+            "answer": "oregon (country)",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Created by Scotsman John Arbuthnot in 1712 and later popularized via the periodical Punch in the middle and late 19th century, what was the name of the personification of England and English character represented usually as a stout and jovial figure with a Union Jack waistcoat?",
+            "answer": "john bull",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "61",
+            "c_percent": "43",
+            "d_percent": "28",
+            "e_percent": "8",
+            "r_percent": "26"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is, by far, the most populous country on the continent of Africa?",
+            "answer": "nigeria",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "41",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Methanol (methyl alcohol, CH3OH) is a natural byproduct of the distillation of what organic material, which gives the alcohol another name by which it is widely known?",
+            "answer": "wood",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "50",
+            "c_percent": "38",
+            "d_percent": "27",
+            "e_percent": "13",
+            "r_percent": "27"
+        }
+    ]
+}

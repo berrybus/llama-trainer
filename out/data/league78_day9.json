@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 9,
+    "date": "August 30, 2018",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Viewers of the 2007 NBC reality series subtitled You're the One That I Want! chose Max Crumm and Laura Osnes to play the main characters in what Broadway revival that opened later that year?",
+            "answer": "grease",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "77",
+            "r_percent": "79"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the word used to categorize birds, colloquially known as \"perching birds,\" that belong to the avian order that makes up more than half of all living birds, including all songbirds (swallows, larks, cardinals, crows, wrens, finches, orioles, etc.)? The term is derived from the Latin word for \"sparrow.\"",
+            "answer": "passerine (passeriformes)",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "19",
+            "c_percent": "13",
+            "d_percent": "8",
+            "e_percent": "3",
+            "r_percent": "9"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The character Jules Maigret, who appeared in over 80 novels by author Georges Simenon, held what profession?",
+            "answer": "inspector/detective/police commissioner",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "72",
+            "d_percent": "67",
+            "e_percent": "55",
+            "r_percent": "67"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A member of a preeminent British comedy group, a notorious murderer from the 1980s, a prolific American fruit-planter, and the only player to have died from an injury received during a major league baseball game all share what last name?",
+            "answer": "chapman",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "76",
+            "c_percent": "61",
+            "d_percent": "41",
+            "e_percent": "21",
+            "r_percent": "37"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A hypercube is an object resembling a cube but having an arbitrary number of dimensions (ordinarily, more than three). What is the most common term used for a four-dimensional hypercube, having sixteen corners (or vertices)?",
+            "answer": "tesseract",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "47",
+            "c_percent": "39",
+            "d_percent": "31",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What term for a particular type of house originated as a house for a European in India, usually one story surrounded by a veranda and with a thatched roof to protect from the sun?",
+            "answer": "bungalow",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "50",
+            "e_percent": "35",
+            "r_percent": "47"
+        }
+    ]
+}

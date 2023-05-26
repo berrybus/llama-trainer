@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 9,
+    "date": "May 25, 2017",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What fictional amateur detective, a shrewdly intelligent elderly busybody of independent means with an unsentimental understanding of human nature, lived in the cozy English village of St. Mary Mead?",
+            "answer": "jane marple",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "37",
+            "r_percent": "50"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "\"Thank you for all your continued patience and understanding. We apologize for what all of our guests and staff went through over the last 24 hours and will work tirelessly to make this right. Please check our official social media channels ([redacted]) for further important updates.\"This quote concludes a statement that appeared on April 29, 2017, on the home page for what fledgling (to put it charitably) music festival?",
+            "answer": "fyre festival",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "77",
+            "d_percent": "73",
+            "e_percent": "65",
+            "r_percent": "67"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The principle that the volume of a gas times its pressure is constant at a fixed temperature is named after what chemist, who first published the discovery in 1662?",
+            "answer": "robert boyle",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "54",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "40"
+        },
+        {
+            "category": "ART",
+            "prompt": "This self-portrait is the work of what French painter of the Ancien R\u00e9gime, who served for a time as the official portraitist of Marie Antoinette? ",
+            "answer": "\u00e9lisabeth vig\u00e9e le brun",
+            "image": "/images/art/98yf4c5y698y09.jpg",
+            "a_percent": "20",
+            "b_percent": "9",
+            "c_percent": "6",
+            "d_percent": "3",
+            "e_percent": "2",
+            "r_percent": "5"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A 2017 animated film subtitled The Lost Village is a reboot not connected to two previous films from this decade that also feature what characters?",
+            "answer": "the smurfs",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "51",
+            "e_percent": "41",
+            "r_percent": "51"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A reconditioned 1985 Broadway revival of what 1965 Neil Simon play featured Sally Struthers and Rita Moreno in the play's title roles?",
+            "answer": "the odd couple",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "41",
+            "e_percent": "24",
+            "r_percent": "36"
+        }
+    ]
+}

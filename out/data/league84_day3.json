@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 3,
+    "date": "February 21, 2020",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What Chinese word for \"path\"  or \"way\" is closely associated with a book ascribed to the philosopher Laozi?",
+            "answer": "tao (dao)",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "72",
+            "e_percent": "54",
+            "r_percent": "68"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Fluorescence is luminescence (emission of light by a substance not due to temperature increase) that ceases once the source of light is removed. Luminescence that persists after the source is removed is known generally by what accompanying term, which\u2014like fluorescence\u2014is rooted etymologically in the name of a chemical element?",
+            "answer": "phosphorescence",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "44",
+            "e_percent": "31",
+            "r_percent": "39"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In 1965, a conservative alliance was built in Israel around the Liberal party and the right-wing nationalist Herut. The alliance initially took the name Gahal, but in 1973 evolved into a new alliance under what name, by which it is still known today?",
+            "answer": "likud",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "30",
+            "r_percent": "43"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Cincinnati Reds, Cleveland Indians, and Texas Rangers are all major league baseball franchises that play home games in stadiums named after (and by) corporations in what industry?",
+            "answer": "insurance ",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "44",
+            "e_percent": "32",
+            "r_percent": "39"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Name the coloratura soprano who, after her retirement from singing, moved on to roles as general director of the New York City Opera, chairwoman of Lincoln Center, and chairwoman of the Metropolitan Opera.",
+            "answer": "beverly sills",
+            "image": null,
+            "a_percent": "33",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "9"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The interregnum period in Russia between the death of Feodor I in 1598 and the start of the Romanov dynasty with Michael I in 1613, and a period that began in Northern Ireland in the late 1960s and ended (nominally) in April 1998 are both timeframes commonly referred to by terms that include what word?",
+            "answer": "troubles",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "72",
+            "e_percent": "48",
+            "r_percent": "56"
+        }
+    ]
+}

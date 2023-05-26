@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 1,
+    "date": "February 14, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In the town of Dawson City, in Canada's Yukon Territory, the Yukon River is met by what other river, which gives the broader geographic region its historically famous name?",
+            "answer": "klondike river",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "68",
+            "c_percent": "52",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "27"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "There are various plausible etymologies for why two regions of the globe\u2014at about 30 degrees north and south of the equator, where winds are generally calm and the weather is sunny, hot, and dry\u2014are known as \"latitudes\" named after what animal?",
+            "answer": "horse",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "While others were available\u2014including Scribble, Mother Nature, Hoverbot, and Rocky\u2014the default and most common Office Assistant introduced in Microsoft Office 97 was an anthropomorphic character with what name?",
+            "answer": "clippy (clippit)",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "88",
+            "e_percent": "81",
+            "r_percent": "81"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In August 2021, the account for the Australian musical trio Pnau tweeted, \"We've just written a song with the biggest pop star of yesterday and the biggest pop star of today.\" The song's title is \"Cold Heart\"\u2014name either of the pop stars subtweeted.",
+            "answer": "elton john, dua lipa",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "40",
+            "c_percent": "32",
+            "d_percent": "28",
+            "e_percent": "25",
+            "r_percent": "28"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The French diplomat Ferdinand Marie, Vicomte de Lesseps, is remembered today in large part for his role in the successful 1859\u201369 construction of what?",
+            "answer": "suez canal",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "55",
+            "c_percent": "37",
+            "d_percent": "24",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Bezukhovs, Bolkonskys, Rostovs, Kuragins, and Drubetskoys are central characters in what work of literature published in 1869?",
+            "answer": "war and peace",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "74",
+            "e_percent": "58",
+            "r_percent": "63"
+        }
+    ]
+}

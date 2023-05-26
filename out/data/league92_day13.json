@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 13,
+    "date": "March 3, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What dynasty, whose name is now a common surname worldwide among individuals of Indian descent, existed on the subcontinent from the 300s CE until the late 500s, during what is widely regarded as the Golden Age of India?",
+            "answer": "gupta",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics to Alanis Morissette's \"You Learn\", what titular three-word object does she say to \"swallow it down\", as it \"feels so good swimming in your stomach\"?",
+            "answer": "jagged little pill",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "74",
+            "e_percent": "61",
+            "r_percent": "64"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The majority of the ocean floor is made up of what dark, finely grained, igneous rock, which consists mostly of pyroxene and plagioclase feldspar, and is also the most common type of lava?",
+            "answer": "basalt",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "33",
+            "e_percent": "21",
+            "r_percent": "30"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Television shows based off of TV commercials include the 2007 ABC series Cavemen (from the Geico ads), the 2002 CBS sitcom Baby Bob (based on a talking six-month-old in ads for FreeInternet.com), and what Apple TV+ series, based on a series of 2013 promos for NBC Sports?",
+            "answer": "ted lasso",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "77",
+            "e_percent": "72",
+            "r_percent": "74"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The wedding dress worn by Meghan Markle at her wedding in May 2018 was designed by Clare Waight Keller, who was serving at the time as Artistic Director of what French luxury house? She was the first woman to hold the position at the company, which was founded by its namesake designer in 1952.",
+            "answer": "givenchy",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "30",
+            "c_percent": "23",
+            "d_percent": "17",
+            "e_percent": "11",
+            "r_percent": "17"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word, from the Latin for \"not any\", is defined in a legal sense as having no binding force, and in mathematics is associated with the value or concept of zero?",
+            "answer": "null",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "72",
+            "e_percent": "61",
+            "r_percent": "67"
+        }
+    ]
+}

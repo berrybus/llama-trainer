@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 8,
+    "date": "November 27, 2017",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "A famous embroidered cloth produced to record and commemorate the victory of William the Conqueror and justify his claim to the English throne was commissioned by William's half-brother, Odo, who was the bishop of what Catholic diocese?",
+            "answer": "bayeux",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "62",
+            "c_percent": "48",
+            "d_percent": "30",
+            "e_percent": "13",
+            "r_percent": "29"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Epinephrine, norepinephrine, aldosterone, and cortisol, as well as certain male sex hormones (androgens), are all hormones produced in the human body by what glands?",
+            "answer": "adrenal glands",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "73",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "47",
+            "r_percent": "57"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In the food montage pictured, based on the clues provided by the names of items A-C, what is the full name (including geographic reference) of the item in the section labeled \"D\"? ",
+            "answer": "boston cream pie",
+            "image": "/images/art/948y5c0n95y.jpg",
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "81",
+            "d_percent": "76",
+            "e_percent": "66",
+            "r_percent": "69"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In Jean-Paul Sartre's No Exit, a man and two women have died and are escorted into a drawing room where, unable to leave, they learn that (per the English translation) \"hell is\" what?",
+            "answer": "others/other people",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "62",
+            "e_percent": "41",
+            "r_percent": "55"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The five burglars arrested on June 17, 1972, at the offices of the Democratic National Committee in the Watergate Hotel, were indicted by a federal grand jury on September 15 of that year, as were two other operatives. Name either of those two other men, both of whom served time in prison.",
+            "answer": "g. gordon liddy, e. howard hunt",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "30",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The southern slopes of Mount Hermon, which is home to the Mount Hermon ski resort, are located in what hilly region that sits on the disputed and unresolved border between Israel and Syria?",
+            "answer": "golan heights",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "34",
+            "r_percent": "51"
+        }
+    ]
+}

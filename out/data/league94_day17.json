@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 17,
+    "date": "September 21, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1992, twelve members of the European Economic Community signed a treaty to form the European Union in what Dutch city, by whose name the treaty is commonly known?",
+            "answer": "maastricht",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "43",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "22"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"In space no one can hear you scream\" was the tagline for what singular 1979 sci-fi horror movie, which won an Academy Award for Best Visual Effects? ",
+            "answer": "alien",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "82",
+            "e_percent": "69",
+            "r_percent": "78"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The stock market index known as the Dow Jones Composite Average is composed of 65 companies: the 30 that constitute the main Dow Jones Industrial Average, and the remaining 35 from two other Dow Jones indices that gauge specific sectors of the US economy. Identify either of these two sectors, as named in these other respective stock indices.",
+            "answer": "transportation, utilities",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "26",
+            "c_percent": "18",
+            "d_percent": "12",
+            "e_percent": "7",
+            "r_percent": "14"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A widely exported deepwater commercial fish that is sometimes known as \"deep sea perch\" or \"slimehead\" is most commonly known by what other name, referring to the color and the texture of its skin?",
+            "answer": "orange roughy",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "47",
+            "c_percent": "39",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "27"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Penhold, shakehand, Seemiller, and v-grip are different grips used (with varying frequency) in what competitive sport?",
+            "answer": "table tennis/ping-pong",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "40",
+            "d_percent": "34",
+            "e_percent": "26",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Lemurs, fossas, vangas, tomato frogs, and two-thirds of the world's chameleon species are among the thousands of creatures endemic to what nation?",
+            "answer": "madagascar",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "85",
+            "c_percent": "78",
+            "d_percent": "69",
+            "e_percent": "54",
+            "r_percent": "65"
+        }
+    ]
+}

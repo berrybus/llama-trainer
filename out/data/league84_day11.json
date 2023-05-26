@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 11,
+    "date": "March 4, 2020",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Natalie Merchant was the long-time vocalist and lyricist for what successful alternative rock band, which was perhaps misnamed as the group has never included more than twelve members?",
+            "answer": "10,000 maniacs",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "59",
+            "e_percent": "45",
+            "r_percent": "50"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Fill in the blank in this long-running advertising tagline: \"The _________'s not Korbel.\" The tagline's wording is always correct in a certain technical sense, as Korbel has been produced in California since its founding in 1882.",
+            "answer": "champagne",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "68",
+            "e_percent": "52",
+            "r_percent": "58"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Biographies of Napoleon Bonaparte, Abraham Lincoln, and Owen D. Young are among the works of what investigative journalist and muckraker, who is probably best remembered for her expos\u00e9s in McClure's magazine and 1904's The History of the Standard Oil Company?",
+            "answer": "ida tarbell",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "30",
+            "c_percent": "22",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the school established by Plato near Athens around 387 BCE? Named after a legendary hero, its name is now a generic term for a learning institution.",
+            "answer": "academy",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "58",
+            "e_percent": "43",
+            "r_percent": "56"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The World Economic Forum, a not-for-profit foundation that bills itself as \"the International Organization for Public-Private Cooperation\", holds an annual meeting every January in what European municipality?",
+            "answer": "davos (switzerland)",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "48",
+            "r_percent": "54"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term, which was used as a television brand from 1967 until 2005, is a celestial object defined as a high-luminosity core of an active galaxy?",
+            "answer": "quasar",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "50",
+            "c_percent": "37",
+            "d_percent": "27",
+            "e_percent": "15",
+            "r_percent": "25"
+        }
+    ]
+}

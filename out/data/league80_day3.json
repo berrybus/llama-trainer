@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 3,
+    "date": "February 22, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What country, due to its shape, could accurately be described as having its northern coast on the Gulf of Aden and its southeastern coast on the Indian Ocean? ",
+            "answer": "somalia",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "47",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "35"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Dimbleby family of England, in particular brothers David and Jonathan, are most closely associated with what company, headquartered in London's Marylebone district?",
+            "answer": "british broadcasting corporation (bbc)",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "22",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "6",
+            "r_percent": "12"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "From the group's founding in 1955 as The Chimes, through its debut Motown release in 1963, and until his departure in 1972, the legendary R&B band The Miracles was led by what vocalist?",
+            "answer": "smokey robinson",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "54",
+            "e_percent": "38",
+            "r_percent": "47"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A classic version of what dessert consists of a sponge cake soaked in liqueur with ice cream on top, all of which is covered in meringue and served immediately after cooking in a hot oven to caramelize the meringue?",
+            "answer": "baked alaska",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "71",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Miu Miu is a fashion brand started by\u2014and still today a subsidiary of\u2014what luxury house? The brand's name is taken from the nickname of the house's head designer (who is also Miu Miu's founder).",
+            "answer": "prada",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "23",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the battleship whose crew mutinied in 1905 during the Russian Revolution, subsequently bombarding Odessa before retreating to Romania, where the surviving crewmembers were granted asylum?",
+            "answer": "potemkin",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "66",
+            "d_percent": "47",
+            "e_percent": "25",
+            "r_percent": "39"
+        }
+    ]
+}

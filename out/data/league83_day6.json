@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 6,
+    "date": "November 20, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What word appears in the titles of a 1972 Charles Grodin film and a 2007 Ben Stiller remake (they're each the titular Kid) and in the title of a 1986 Clint Eastwood film (he fought on the Ridge)?",
+            "answer": "heartbreak",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "67",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "32",
+            "r_percent": "45"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "On the shore, dimly seen through the mists of the deep, / And where is that band who so vauntingly swore / Oh! thus be it ever, when freemen shall stand. These are the first lines of the second, third, and fourth (and final) verses, respectively, of the song that has what name?",
+            "answer": "the star-spangled banner",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "48",
+            "e_percent": "32",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Emmanuel Macron and Archbishop Joan Enric Vives i Sic\u00edlia are the current ex officio co-heads of what European diarchic principality?",
+            "answer": "andorra",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "55",
+            "c_percent": "42",
+            "d_percent": "27",
+            "e_percent": "13",
+            "r_percent": "24"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The first in a series of highly anticipated 90-minute programs that aired over four consecutive weeks in May 1977 became the highest-rated news interview program in television history at the time. Name either the interviewer or the interviewee in this historic series.",
+            "answer": "david frost, richard nixon",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "79",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "MATH",
+            "prompt": "It is as yet an unproven conjecture that there exist infinitely many pairs of primes that differ by two. These special prime numbers (e.g., 17 and 19, or 1019 and 1021) are sometimes known as \"prime pairs\" but are best known as what?",
+            "answer": "twin primes",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "35",
+            "c_percent": "27",
+            "d_percent": "21",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was music legend Patsy Cline's first #1 song on Billboard magazine's country music singles chart, the title of which describes what she does \"each time I see you again\"?",
+            "answer": "i fall to pieces",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "24"
+        }
+    ]
+}

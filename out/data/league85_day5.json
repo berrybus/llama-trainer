@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 5,
+    "date": "May 27, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The titles of the Chinua Achebe novel Things Fall Apart, the Robert B. Parker novel The Widening Gyre, Elyn Saks's autobiography The Center Cannot Hold, Woody Allen's anthology Mere Anarchy, and Joan Didion's essay collection Slouching Towards Bethlehem are all taken from lines in a 1919 poem by whom?",
+            "answer": "william butler yeats",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "27"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A TV series from the mid-1970s starring Danny Thomas as an elderly New York physician and a dramatic series that debuted in the late 1990s with Dylan McDermott as a brooding Boston lawyer share what title?",
+            "answer": "the practice",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "28",
+            "r_percent": "38"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Different types of substances known as colloids include aerosols (dispersions of liquid or solid particles in a gas), foams (dispersions of gases in liquids or solids), sols (solid particles in a liquid), and a colloidal system in which the dispersed and continuous phases are both liquids. This latter type is most commonly known as what?",
+            "answer": "emulsions",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "23",
+            "e_percent": "16",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The war fought in late 1956 between Egypt and a coalition of the United Kingdom, France, and Israel, which is known in the Arab world as the tripartite aggression and in Israel as the Sinai War, was instigated in part by Egypt president Abdel Nasser's nationalization earlier that summer of what?",
+            "answer": "suez canal",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "41",
+            "r_percent": "55"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The standardized system of product barcoding developed by IBM in 1971 was the basis for the UPC, adopted by a consortium of grocery companies in 1973 and still in use today. What does the \"U\" in UPC stand for?",
+            "answer": "universal",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "87",
+            "d_percent": "82",
+            "e_percent": "76",
+            "r_percent": "76"
+        },
+        {
+            "category": "MATH",
+            "prompt": "It can be shown from first principles that d(sin x)/dx = ___ x (fill in the blank). Put another way, the derivative of sin x = ____ x.",
+            "answer": "cos (cosine)",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "66",
+            "c_percent": "64",
+            "d_percent": "63",
+            "e_percent": "60",
+            "r_percent": "62"
+        }
+    ]
+}

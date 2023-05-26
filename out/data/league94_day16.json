@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 16,
+    "date": "September 20, 2022",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "A peace agreement was signed in South Sudan in August 2020 aiming to end 17 years of conflict between the government of Sudan and a coalition of rebel groups from what region in western Sudan?",
+            "answer": "darfur",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "SETI, which originated in an organized manner in the 1960s, collectively includes an experiment in 1960 called Project Ozma, later studies and efforts by NASA and Soviet scientists, and a vast distributed campaign using CPU downtime. These activities all involve the search for what, exactly, per the precise phrase abbreviated by this acronym? ",
+            "answer": "extra-terrestrial intelligence",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the individuals involved in what is perhaps the most famous event in history referred to as a \"bed-in\", which occurred in Amsterdam in 1969.",
+            "answer": "john lennon, yoko ono",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "72",
+            "e_percent": "53",
+            "r_percent": "61"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In a well-known heroic legend, the feasting hall of King Hrothgar of the Danes, Heorot, is under nightly attack by a monster who kills the kingsmen as they sleep, until the Prince of the Geats comes to defend Heorot and slay the monster. What is this prince's name?",
+            "answer": "beowulf",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "76",
+            "d_percent": "64",
+            "e_percent": "46",
+            "r_percent": "60"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What term, Hindi for \"teacher\" and from the Sanskrit for \"heavy\", is applied in Sikhism to any of the first ten leaders of that religion?",
+            "answer": "guru",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "27",
+            "r_percent": "45"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In the US Model Penal Code, larceny is the unlawful taking of someone else's property without their consent and with intent to permanently deprive the owner of the property. Larceny becomes what more serious crime when, per that Code, it involves the taking of property by force or threat of imminent force?",
+            "answer": "robbery",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "73",
+            "c_percent": "67",
+            "d_percent": "60",
+            "e_percent": "47",
+            "r_percent": "54"
+        }
+    ]
+}

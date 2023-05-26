@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 23,
+    "date": "December 11, 2020",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the man who has served since 1998 as the general president of the International Brotherhood of Teamsters labor union?",
+            "answer": "james p. hoffa",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "33",
+            "r_percent": "44"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In an effort to increase the quality of landings and also reduce distance (which was becoming problematic), in 1986 the International Amateur Athletic Federation's Technical Committee implemented rules to change the design of what sports implement?",
+            "answer": "javelin",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "39",
+            "c_percent": "35",
+            "d_percent": "28",
+            "e_percent": "22",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The successful 1984 debut novel by Sandra Cisneros tells the story of one year in the life of pre-teen Esperanza Cordero, beginning with her family's arrival at their house in Chicago on a street named after what fruit (as referenced in the book's title)?",
+            "answer": "mango",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "49",
+            "c_percent": "44",
+            "d_percent": "39",
+            "e_percent": "31",
+            "r_percent": "41"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Spanish musician Andr\u00e9s Segovia was world-renowned during his lifetime as a virtuoso on what instrument?",
+            "answer": "guitar",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "71",
+            "e_percent": "58",
+            "r_percent": "68"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Mandarin name for China, Zhongguo, translates to English as what \"Kingdom\" or \"States\"? The name derives from the Zhou dynasty's belief, around 1000 BCE, of where their empire was physically situated in relation to surrounding tribes.",
+            "answer": "middle/central",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "65",
+            "d_percent": "56",
+            "e_percent": "48",
+            "r_percent": "58"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The fourth single from Bob Seger & the Silver Bullet Band's album Stranger in Town reached the 28th spot on the Billboard Hot 100 in 1979, and then re-entered the chart four years later due to its use in what movie?",
+            "answer": "risky business",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "20",
+            "r_percent": "31"
+        }
+    ]
+}

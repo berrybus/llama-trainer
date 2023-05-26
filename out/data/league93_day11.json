@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 11,
+    "date": "May 31, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "In physics it's the oscillation of a system at its natural frequency. In particle physics, it's a particular, very-short-lived state of a subatomic particle. In chemistry, it's the representation of a molecule's structure by multiple conventional formulas. In acoustics, it's a phenomenon in which a system amplifies sound waves with a frequency matching that system's natural frequency. What is the word in question?",
+            "answer": "resonance",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "52",
+            "c_percent": "43",
+            "d_percent": "37",
+            "e_percent": "29",
+            "r_percent": "37"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "California University was a fictional school attended by characters from the TV series Beverly Hills, 90210, but the real California University exists (until July 2022) in what other US state?",
+            "answer": "pennsylvania",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "15",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The grizzly bear species no longer exists in California despite its presence on the state flag and despite the name of what park and valley, which was mistakenly believed by its namer, L.H. Bunnell, to mean \"grizzly bear\" in the Miwok language?",
+            "answer": "yosemite",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "59",
+            "r_percent": "68"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On April 25, 2022, President Joe Biden nominated Bridget Brink to serve as ambassador to what country, in a position that had been unfilled since the departure of Marie Yovanovitch in 2019?",
+            "answer": "ukraine",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "90",
+            "d_percent": "84",
+            "e_percent": "73",
+            "r_percent": "73"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The sets of numbers {3,4,5}, {5,12,13}, {8,15,17}, and {7,24,25} are all associated most commonly with whom?",
+            "answer": "pythagoras",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "48",
+            "e_percent": "39",
+            "r_percent": "48"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Many of the experiences of a Polish-born author and mariner's 1890 appointment to a traumatic four-month command of a Congo River steamboat were recorded in what enigmatic and influential 1902 novella?",
+            "answer": "heart of darkness",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "74",
+            "e_percent": "55",
+            "r_percent": "61"
+        }
+    ]
+}

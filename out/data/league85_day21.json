@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 21,
+    "date": "June 19, 2020",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The two words in the name of what cocktail, a combination of peach schnapps and orange juice served over ice, refer (obliquely) to its two ingredients?",
+            "answer": "fuzzy navel",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "59",
+            "e_percent": "47",
+            "r_percent": "60"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While the population of Fiji includes small minorities of Chinese, Europeans, and other Pacific islanders, the majority are from one of two groups: native Fijians, and Fiji citizens descended from immigrants from what other country?",
+            "answer": "india",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The geological term sial refers to the rocks that lie in the uppermost layer of the earth's crust, beneath landmasses, whose most abundant minerals contain what two elements that are adjacent on the periodic table?",
+            "answer": "silicon, aluminum",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is Golding's equivalent to Scott's Isles, Flatley's Dance, and Tolkien's Rings?",
+            "answer": "flies",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "84",
+            "e_percent": "69",
+            "r_percent": "75"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "As named in Article I, Section 9 of the U.S. Constitution, what is the legal writ that orders law officers to release a detainee from custody absent a justification for arrest?",
+            "answer": "habeas corpus",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "66",
+            "r_percent": "75"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the skateboarding trick, reportedly named after the skateboarder who pioneered it in the late 1970s, where both the rider and the board jump into the air without the rider using their hands.",
+            "answer": "ollie",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "75",
+            "c_percent": "75",
+            "d_percent": "72",
+            "e_percent": "69",
+            "r_percent": "69"
+        }
+    ]
+}

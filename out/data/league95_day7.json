@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 7,
+    "date": "November 15, 2022",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "While colloquially it has come to mean any needless repetition in speech or text, in philosophy it is a term for a statement that is true solely by virtue of its form, not its content. What is the word in question, in part from the Greek for \"same\"?",
+            "answer": "tautology",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "38",
+            "c_percent": "29",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "17"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The alloy of iron known as stainless steel, so-called for its resistance to corrosion, discoloration, and rusting, is produced through the addition of what other element, which must be introduced at a concentration of at least 11%?",
+            "answer": "chromium",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The phrase \"ma m\u00e8re l'Oye\" in the titles of the 1911 Maurice Ravel piano suite Ma m\u00e8re l'Oye and the 1697 Charles Perrault collection Contes de ma m\u00e8re l'Oye is most typically translated into English as what two-word phrase?",
+            "answer": "mother goose",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "54",
+            "c_percent": "37",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "21"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"At Last\", \"I'd Rather Go Blind\", \"A Sunday Kind of Love\", and \"Something's Got a Hold on Me\" (the latter of which was heavily sampled on Avicii's \"Levels\" and Flo Rida's \"Good Feeling\") are popular songs from what soul and R&B legend, whose real last name was Hawkins and whose stage name (first and last) was her given first name reversed?",
+            "answer": "etta james",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "60",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Network radio began in the United States in earnest in September 1926 with the formation of what company, led by chairman David Sarnoff, and jointly owned by RCA (50%), GE (30%), and Westinghouse (20%)?",
+            "answer": "national broadcasting company (nbc)",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "42",
+            "e_percent": "32",
+            "r_percent": "39"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "It's broadly agreed that the peak of Indo-Islamic architecture occurred during the 17th-century reign of Mughal emperor Shah Jahan, marked by his buildings in the capital city of Delhi and the shrine to his wife in what other Northern Indian city?",
+            "answer": "agra",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "79",
+            "c_percent": "65",
+            "d_percent": "51",
+            "e_percent": "30",
+            "r_percent": "42"
+        }
+    ]
+}

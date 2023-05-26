@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 25,
+    "date": "October 3, 2022",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A 10-dollar note used in the 19th century by a bank in New Orleans's French Quarter is considered a possible source for what geographical name?",
+            "answer": "dixie",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "39",
+            "c_percent": "28",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The song \"Love and Marriage\" was first introduced in a 1955 television production of what 1938 play? This TV production starred Frank Sinatra as the Stage Manager, Eva Marie Saint as Emily, and Paul Newman as George. ",
+            "answer": "our town",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "56",
+            "c_percent": "43",
+            "d_percent": "30",
+            "e_percent": "17",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Owing to the fact that it can create sparks when struck against a metal, the chemical substance FeS2 is sometimes known by what name?",
+            "answer": "pyrite/firestone",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "35",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The fictional tire brand used by the protagonist of the movie Cars (voiced by Owen Wilson) has the name of what other Pixar character?",
+            "answer": "(buzz) lightyear",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "65",
+            "e_percent": "51",
+            "r_percent": "62"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Castello, Cheshire, Cashel, Devon, Maytag, Shropshire: these names all become names of cheeses when accompanied by what other word?",
+            "answer": "blue",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "55",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the metaphorical title character of the 1983 Maya Angelou poem who \"sings with a fearful trill of things unknown but longed for still\"?",
+            "answer": "caged bird",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "74",
+            "e_percent": "57",
+            "r_percent": "65"
+        }
+    ]
+}

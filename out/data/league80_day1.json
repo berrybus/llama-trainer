@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 1,
+    "date": "February 20, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Harry Bailly, the host of the Tabard Inn in the English town of Southwark, serves as a sort of master of ceremonies for a contest that frames what work of literature?",
+            "answer": "the canterbury tales",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "68",
+            "c_percent": "57",
+            "d_percent": "45",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the infection, shared with its namesake virus, that was first identified as a disease distinct from other disorders such as scarlet fever in 1814 by George de Maton, a German physician?",
+            "answer": "rubella",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "47",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "22"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In what European country is the name of its capital and largest city also its sixth-most popular name for baby girls (per 2017 data)? The name and its cognates are also very popular elsewhere, including Russia, Germany, Italy, and the United States. Note: Name the country.",
+            "answer": "bulgaria",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Dozens if not hundreds of squealing British youths are among the cast (though they were probably not acting) in what lively 1964 musical comedy directed by Richard Lester?",
+            "answer": "a hard day's night",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "48",
+            "e_percent": "34",
+            "r_percent": "41"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Of the two chief belligerents in the Peloponnesian War, which was primarily a maritime power?",
+            "answer": "athens",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Former MLB pitcher Randy Moffitt, who played for the Giants, Astros, and Blue Jays during his 12-year career that began in 1972, is the younger brother of what trailblazing sports legend (full name required)?",
+            "answer": "billie jean king",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "39",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "19"
+        }
+    ]
+}

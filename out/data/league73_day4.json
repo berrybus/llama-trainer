@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 4,
+    "date": "May 18, 2017",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The modern system of binomial nomenclature of organisms (e.g., Homo sapiens, Lama glama, Pandion haliaetus) was introduced in 1735 by what Swedish naturalist?",
+            "answer": "carl linnaeus",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "80",
+            "c_percent": "68",
+            "d_percent": "50",
+            "e_percent": "26",
+            "r_percent": "45"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Out of the Buddha's fundamental teachings arose two different main forms of Buddhism. Give the name of either, which translate roughly as \"Teachings of the Elders\" and \"The Great Vehicle.\"",
+            "answer": "theravada, mahayana",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "ART",
+            "prompt": "What U.S. state's Academy of the Fine Arts, founded in 1805 and led by Thomas Eakins in the 1880s, is the first and oldest art museum in the United States?",
+            "answer": "pennsylvania",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "35",
+            "e_percent": "28",
+            "r_percent": "35"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Nauvoo Expositor was a newspaper published in Illinois whose single issue, printed in early June 1844, led ultimately to the killing of what man by a mob later that month?",
+            "answer": "joseph smith",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "64",
+            "c_percent": "48",
+            "d_percent": "38",
+            "e_percent": "17",
+            "r_percent": "32"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Entering the 2017 Formula One motor racing season, what European automaker's team is the three-time defending champion of the Constructors' Championship?",
+            "answer": "mercedes-benz",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "29",
+            "c_percent": "23",
+            "d_percent": "20",
+            "e_percent": "17",
+            "r_percent": "23"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A 1917 recording by a New Orleans ensemble consisting of Nick LaRocca, Eddie Edwards, Larry Shields, Henry Ragas, and Tony Sbarbaro is widely considered the first jazz record. This group of musicians dubbed themselves the \"Original ____ Jazz Band\" with what word filling in the blank?",
+            "answer": "dixieland",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "8",
+            "r_percent": "20"
+        }
+    ]
+}

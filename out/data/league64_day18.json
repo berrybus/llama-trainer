@@ -1,0 +1,79 @@
+{
+    "date": "March 24, 2015",
+    "league": 64,
+    "day": 18,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "The actor Fred Rerun Berry achieved fame primarily as the character \"Rerun\" (which he subsequently adopted as his legal middle name) on what ABC television sitcom, which aired original episodes in the late 1970s, with a syndicated sequel series airing a decade later?",
+            "answer": "what's happening!!",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "43",
+            "e_percent": "31",
+            "r_percent": "38"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In the late 1980s and early 1990s, the U.S. Senators Alan Cranston, Dennis DeConcini, John Glenn, John McCain, and Donald Riegle were, as a complete set, closely associated with what criminal?",
+            "answer": "charles keating",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "32",
+            "e_percent": "15",
+            "r_percent": "29"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A law known as the Reinheitsgebot, which originated in the Holy Roman Empire in 1487 and was endorsed more broadly in 1516, famously regulated practices associated with what type of business?",
+            "answer": "beer brewing",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "62",
+            "d_percent": "47",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Pacific island nations of Fiji, Vanuatu, Solomon Islands, and Papua New Guinea are within a region of Oceania known by what term, derived from the Greek term for \"black islands\"?",
+            "answer": "melanesia",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "62",
+            "c_percent": "49",
+            "d_percent": "32",
+            "e_percent": "11",
+            "r_percent": "27"
+        },
+        {
+            "category": "ART",
+            "prompt": "Among the famous works of Renaissance painter El Greco are \"views\" of what Spanish city, which was the artist's home from 1577 until his death in 1614?",
+            "answer": "toledo",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "59",
+            "d_percent": "42",
+            "e_percent": "21",
+            "r_percent": "37"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What term for \"Hungarian\" (as an ethnic group) is also the name of the country's official language, which is the most widely spoken non-Indo-European language in Europe?",
+            "answer": "magyar",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "52",
+            "e_percent": "28",
+            "r_percent": "45"
+        }
+    ]
+}

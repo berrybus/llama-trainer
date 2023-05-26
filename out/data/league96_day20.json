@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 20,
+    "date": "March 14, 2023",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What rhyming term, similar in purpose to hockey's penalty box, is defined in the World Rugby Laws of Rugby Union as \"the designated place outside the playing area within which a temporarily suspended player must remain\"?",
+            "answer": "sin bin",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "49",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What verb, meaning to soften by steeping in a liquid (from Latin for \"to soften\"), is often used in a culinary context when fruit is softened by steeping it in spirits or syrup (or sugar, which combines with the moisture from the fruit to create a syrup)?",
+            "answer": "macerate",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "43",
+            "d_percent": "34",
+            "e_percent": "23",
+            "r_percent": "32"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1993 film Heaven & Earth, which starred Tommy Lee Jones, Joan Chen, Haing S. Ngor, and Hiep Thi Le, was its director's third (and by far least successful) in a thematic series that began in 1986, with the second in 1989. Name either of the previous two films in this set of three.",
+            "answer": "platoon, born on the fourth of july",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "42",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The last 12 symphonies of Joseph Haydn are collectively named after what city, which is also the name of Vaughan Williams's second symphony? Sir Simon Rattle is the music director of this city's Symphony Orchestra, and Edward Gardner is the principal conductor of its Philharmonic Orchestra. ",
+            "answer": "london",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "45"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The Grumman Aerospace Corporation, founded in 1929 as Grumman Aircraft Engineering Corporation, existed as an independent entity until 1994, when it merged with what other aircraft manufacturer?",
+            "answer": "northrop corporation",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "74",
+            "c_percent": "68",
+            "d_percent": "62",
+            "e_percent": "48",
+            "r_percent": "53"
+        },
+        {
+            "category": "ART",
+            "prompt": "What style of architecture and art, which succeeded Romanesque and flourished in Northern Europe from the mid-12th to 16th centuries, was condemned by many Italian Renaissance artists as barbaric?",
+            "answer": "gothic",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "48",
+            "r_percent": "63"
+        }
+    ]
+}

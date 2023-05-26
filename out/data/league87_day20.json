@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 20,
+    "date": "December 8, 2020",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word, well-known in the west (since the 1950s, at least), means \"fellow traveler\" or \"traveling companion\" in Russian?",
+            "answer": "sputnik",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "40",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What phrase is most commonly used in economics and finance for the purchase of the equity of a given firm using funds acquired in large part via borrowing? (Either the phrase or its standard three-letter abbreviation is acceptable.)",
+            "answer": "leveraged buy-out (lbo)",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "60",
+            "c_percent": "54",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "41"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the Canadian actor who voiced Canadian daredevil action figure Duke Caboom in the 2019 film Toy Story 4.",
+            "answer": "keanu reeves",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "40",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the name of Malaysia's national oil and gas company, whose headquarters are located on Jalan Ampang within the Kuala Lumpur City Centre?",
+            "answer": "petronas",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "43",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of a post-apocalyptic 1968 novel by Richard Brautigan inspired a hit single of the summer of 2020 by Harry Styles, both of which feature what kind of \"sugar\"?",
+            "answer": "watermelon sugar",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "51",
+            "c_percent": "44",
+            "d_percent": "43",
+            "e_percent": "43",
+            "r_percent": "50"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Muggins, Bergen, Block, and Mexican Train are all names of games that use what as game pieces?",
+            "answer": "dominoes",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "67",
+            "c_percent": "59",
+            "d_percent": "54",
+            "e_percent": "47",
+            "r_percent": "55"
+        }
+    ]
+}

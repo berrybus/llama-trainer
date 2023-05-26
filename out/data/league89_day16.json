@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 16,
+    "date": "June 8, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The cooking of corn kernels and lima beans separately, and then mixing them with butter, is one recipe for an American dish with what name (which to some may be more associated with a cartoon cat)?",
+            "answer": "succotash",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "85",
+            "d_percent": "77",
+            "e_percent": "61",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What historically significant sea vessel was named after the ancient Roman province located in modern-day Portugal and western Spain?",
+            "answer": "lusitania",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "65",
+            "c_percent": "54",
+            "d_percent": "39",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Alec Baldwin (17), Steve Martin (15), John Goodman (13), and Tom Hanks (10). The numbers associated with the names in this list relate to their superlative accomplishments on what television show?",
+            "answer": "saturday night live",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "96",
+            "d_percent": "95",
+            "e_percent": "93",
+            "r_percent": "92"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What two-word term, evoking a chivalrous rescue, is used in business for a purchaser of a company who saves it from undesired takeover by another buyer (or from insolvency)? An example is JPMorgan Chase's acquisition of a collapsing Bear Stearns during the 2008 financial crisis.",
+            "answer": "white knight",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Yukio Mishima's self-reflective 1949 novel was of a Mask, William Styron's 1967 Pulitzer winner was of Nat Turner, and Thomas DeQuincey's 1821 essay was of an English Opium-Eater. What word connects these works, and is also associated with autobiographies by Jean-Jacques Rousseau and Saint Augustine?",
+            "answer": "confessions",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "62",
+            "d_percent": "47",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What German currently serves as the President of the European Commission (the head of the executive branch of the EU)? She was the first woman elected to the position, replacing Jean-Claude Juncker of Luxembourg in December 2019.",
+            "answer": "ursula von der leyen",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "19",
+            "c_percent": "15",
+            "d_percent": "10",
+            "e_percent": "6",
+            "r_percent": "13"
+        }
+    ]
+}

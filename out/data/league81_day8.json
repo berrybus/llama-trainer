@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 8,
+    "date": "June 3, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In many role-playing games, the gamemaster controls entities commonly referred to as NPCs. What do the letters in NPC stand for, most often?",
+            "answer": "non-player character/non-playable character",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "81",
+            "e_percent": "71",
+            "r_percent": "78"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Sir Isaac Newton's First Law of Motion is commonly known as the Law of what? The term was first used in this context by Johannes Kepler earlier in the 17th century.",
+            "answer": "inertia",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "52",
+            "e_percent": "40",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Actor Joe Rosario's hairy hands and arms\u2014but not face\u2014appeared on the cover of a best-selling collection of autobiographical essays from 2011 by what comedian?",
+            "answer": "tina fey",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "58",
+            "c_percent": "54",
+            "d_percent": "47",
+            "e_percent": "40",
+            "r_percent": "46"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What word is missing from this true mathematical statement: Twelve is congruent to 60 ______ 8 because both 12 and 60 have 4 as a remainder when divided by 8.",
+            "answer": "modulo",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "32",
+            "c_percent": "30",
+            "d_percent": "26",
+            "e_percent": "22",
+            "r_percent": "23"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "At 26 years of age, South Carolina delegate Edward Rutledge was the youngest person to sign the Declaration of Independence in the summer of 1776. What 70-year-old was the oldest?",
+            "answer": "benjamin franklin",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "63",
+            "r_percent": "73"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Charlie Townsend in Charlie's Angels, Mrs. Wolowitz from The Big Bang Theory,  Vera Peterson in Cheers, and Maris Crane in Frasier\u2014all of these characters are distinctive in a particular manner that is also shared by what character in Magnum P.I.?",
+            "answer": "robin masters",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "28",
+            "c_percent": "20",
+            "d_percent": "13",
+            "e_percent": "8",
+            "r_percent": "14"
+        }
+    ]
+}

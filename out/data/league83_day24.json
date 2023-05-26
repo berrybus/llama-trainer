@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 24,
+    "date": "December 19, 2019",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Hungarian playwright Ferenc Moln\u00e1r's 1909 play Liliom, whose title character is a barker who participates in a robbery gone wrong, forms the basis for what 1945 Rodgers and Hammerstein musical?",
+            "answer": "carousel",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What baseball player finished his MLB career with 3,089 hits, ranking him 24th all-time despite making his major league debut in 2001 at the age of 27 (by which age future teammate Alex Rodriguez had already boasted nearly 1,300 hits)?",
+            "answer": "ichiro suzuki",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "39",
+            "e_percent": "31",
+            "r_percent": "35"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Beginning in 1508, Martin Luther taught theology at the namesake university of what German city, whose name today is also that of a Lutheran-affiliated college in Ohio?",
+            "answer": "wittenberg",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "46",
+            "c_percent": "35",
+            "d_percent": "22",
+            "e_percent": "12",
+            "r_percent": "24"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Ralph Macchio, William Zabka, and Martin Kove reprise the roles they originated on the big screen in 1984 in an episodic series currently available on YouTube Premium. What is the name of this present-day series?",
+            "answer": "cobra kai",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "58",
+            "c_percent": "52",
+            "d_percent": "44",
+            "e_percent": "35",
+            "r_percent": "41"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Castries is the capital and largest city of what Caribbean nation, which sits in the Windward Islands between Martinique and St. Vincent and the Grenadines, and is the only sovereign nation in the world named after a historical woman?",
+            "answer": "saint lucia",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "47",
+            "e_percent": "34",
+            "r_percent": "50"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Joseph Haydn's Symphony No. 101 in D Major, composed in 1794, has what nickname, after the rhythmic two-note sequence that repeats throughout the second movement?",
+            "answer": "clock symphony",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "23",
+            "c_percent": "15",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "13"
+        }
+    ]
+}

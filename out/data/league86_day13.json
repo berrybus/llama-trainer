@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 13,
+    "date": "September 4, 2020",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Actor and mime Don McLeod's first show business success was his portrayal of an animal in a 1980 television advertisement for American Tourister luggage (replacing the actual animal that appeared in the print ads). That performance earned him a role as the same animal in the 1983 film Trading Places. What type of animal was it?",
+            "answer": "gorilla",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "45",
+            "e_percent": "32",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The chain of thirty-two Caribbean islands known collectively as the Grenadines runs on a roughly northeast-to-southwest line between two larger islands\u2014Grenada, at the southern end, and what other island to the north?",
+            "answer": "st. vincent",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "54",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "An invasion of the island of Sakhalin that occurred in July 1905 was the final land engagement in a war between what two empires?",
+            "answer": "russia, japan",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "64",
+            "d_percent": "46",
+            "e_percent": "25",
+            "r_percent": "45"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Though he composed more than forty operas, four oratorios, and an abundance of church music, a composer from the 18th and 19th centuries is perhaps most remembered today for his association with (and hostility toward) a fellow composer (though it is unlikely that he poisoned his rival as legend suggests). Who is this Italian composer?",
+            "answer": "antonio salieri",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "58",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Sometimes referred to as Ishmael's Well, the sacred well known as Zamzam, which receives millions of visitors every year, is located in what city?",
+            "answer": "mecca",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the common name for the rotating component of hardened steel or cast iron that runs the length of an automobile engine, transforming the reciprocating linear force of the moving pistons into rotational motion?",
+            "answer": "crankshaft",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "34",
+            "c_percent": "28",
+            "d_percent": "23",
+            "e_percent": "17",
+            "r_percent": "24"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "September 17, 2014",
+    "league": 62,
+    "day": 22,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Who painted this? ",
+            "answer": "edward hopper",
+            "image": "/images/art/945uc0mc.jpg",
+            "a_percent": "69",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What English word, whose first usage is believed to be in the early 18th century (and definitely cannot be before 1605), is an adjective defined as \"extravagantly chivalrous or romantic, and foolishly impractical\"? ",
+            "answer": "quixotic",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "77",
+            "c_percent": "78",
+            "d_percent": "62",
+            "e_percent": "43",
+            "r_percent": "57"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The Jacquard system, devised by and named after French engineer Joseph Jacquard, is the use of a series of punched cards to direct the operation of what type of machine?",
+            "answer": "loom",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "54",
+            "c_percent": "45",
+            "d_percent": "38",
+            "e_percent": "28",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The first major land battle of the 1904 Russo-Japanese War was fought near (and is named after) the Yalu River, which today forms part of the border between what two nations?",
+            "answer": "china, north korea",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "63",
+            "d_percent": "47",
+            "e_percent": "29",
+            "r_percent": "46"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In this Shakespeare play, only Albany, Edgar, and Kent walk off the stage at the end of the long and relentlessly depressing final scene (with Kent predicting his imminent demise). Everyone else is dead.",
+            "answer": "king lear",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "43",
+            "e_percent": "31",
+            "r_percent": "48"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On the A&E network, this television series's fourth season premiere, which aired on August 14, 2013, drew 11.8 million viewers, making it the most-watched nonfiction cable series episode in television history.",
+            "answer": "duck dynasty",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "59"
+        }
+    ]
+}

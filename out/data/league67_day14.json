@@ -1,0 +1,79 @@
+{
+    "date": "December 2, 2015",
+    "league": 67,
+    "day": 14,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "What man, since January 2012 (and from September 2002 to January 2010), serves as host of the ABC Sunday morning political affairs news program This Week?",
+            "answer": "george stephanopoulos",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "65",
+            "e_percent": "48",
+            "r_percent": "61"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"All I need are some tasty waves, a cool buzz, and I'm fine.\" This quote, uttered by a future Oscar-winner (over 20 years later), is among the many memorable lines from what film?",
+            "answer": "fast times at ridgemont high",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "58",
+            "d_percent": "51",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The symbol in this image is used in mathematics to represent a specific set of numbers. What is the sum of the first three numbers in the set referenced by this symbol? ",
+            "answer": "3",
+            "image": "/images/art/874y598cn4y0.jpg",
+            "a_percent": "53",
+            "b_percent": "49",
+            "c_percent": "42",
+            "d_percent": "38",
+            "e_percent": "32",
+            "r_percent": "37"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Some blame for the 2007-10 global financial crisis has been levied at what are known as the \"Big Three\" credit agencies, which hold a total of over 90% of global market share for assignment of credit ratings for businesses and governments. Name any two of the three agencies.",
+            "answer": "fitch group, moody's, standard & poor's",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "49",
+            "c_percent": "43",
+            "d_percent": "37",
+            "e_percent": "30",
+            "r_percent": "36"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the man singing in this clip. (5 seconds) ",
+            "answer": "don meredith",
+            "image": "/images/art/5986nyv03958.mp3",
+            "a_percent": "33",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "8",
+            "r_percent": "13"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What is the title of the song being sung in this photo, which also describes what the character is doing at the moment? ",
+            "answer": "defying gravity",
+            "image": "/images/art/895nc09485y0849y.jpg",
+            "a_percent": "69",
+            "b_percent": "57",
+            "c_percent": "47",
+            "d_percent": "45",
+            "e_percent": "39",
+            "r_percent": "45"
+        }
+    ]
+}

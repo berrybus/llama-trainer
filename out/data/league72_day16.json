@@ -1,0 +1,79 @@
+{
+    "date": "March 14, 2017",
+    "league": 72,
+    "day": 16,
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Name the woman who wrote the newspaper column \"My Day\" six days a week from 1935 until 1962 (the year she died) in addition to serving as the Office of Civilian Defense co-chair from 1941-42, a delegate to the UN General Assembly beginning in 1945, and the inaugural chair of the UN Commission on Human Rights, as well as many other roles.",
+            "answer": "eleanor roosevelt",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "83",
+            "c_percent": "76",
+            "d_percent": "66",
+            "e_percent": "50",
+            "r_percent": "63"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In finance, what is the most common term for the fixed, pre-arranged price—also known as exercise price—at which an option to buy or sell the underlying security can be exercised by the option's owner?",
+            "answer": "strike price",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "37",
+            "c_percent": "31",
+            "d_percent": "28",
+            "e_percent": "26",
+            "r_percent": "29"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"I Get Around,\" \"Keep Ya Head Up,\" \"Dear Mama,\" and \"California Love\"/\"How Do U Want It\" were among the hit singles released in the 1990s by what hip-hop legend?",
+            "answer": "2pac (tupac shakur)",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "72",
+            "d_percent": "68",
+            "e_percent": "64",
+            "r_percent": "71"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the mathematical limit of the expression in this image? (Note, the first decimal place is sufficient if expressing the answer as a number.) ",
+            "answer": "e/2.7/euler's number",
+            "image": "/images/art/85y093vy9nvy0598vy6098.jpg",
+            "a_percent": "38",
+            "b_percent": "34",
+            "c_percent": "27",
+            "d_percent": "26",
+            "e_percent": "22",
+            "r_percent": "22"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Kowloon, which comprises the Kowloon Peninsula and a district called New Kowloon, is within the metropolitan area of what major world city?",
+            "answer": "hong kong",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "56"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word, used recently in New York Times articles to describe the singing and dancing skills of the stars in La La Land, the recent performance of investment management company BlackRock's stock funds, and the play of Houston Texans quarterback Brock Osweiler, is derived originally from a Latin word meaning \"halfway up a mountain\"?",
+            "answer": "mediocre",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "47",
+            "e_percent": "33",
+            "r_percent": "47"
+        }
+    ]
+}

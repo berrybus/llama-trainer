@@ -1,0 +1,79 @@
+{
+    "date": "June 28, 2016",
+    "league": 69,
+    "day": 24,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The \"Venus Rosewater Dish\" is a platter nearly always referenced in indirect association with what London district, where it resides on a permanent basis?",
+            "answer": "wimbledon",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "50",
+            "c_percent": "37",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "29"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "This is a promotional photo featuring characters from what TV drama series? ",
+            "answer": "blindspot",
+            "image": "/images/art/94850y93c4nyy.jpg",
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "42",
+            "d_percent": "33",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "With what musical instrument, related to the trumpet (and resembling it, but producing a mellower and darker sound with a more conical bore), is the artist Chuck Mangione most closely associated? ",
+            "answer": "flugelhorn",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "24",
+            "e_percent": "16",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Although a number of elements of the periodic table are named after countries of the world, two are named after the same country (in different languages). What is that country?",
+            "answer": "france",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "40"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The \"Golden Spike\" event in Promontory Summit, Utah, in 1869, completed the United States' First Transcontinental Railroad, bringing face-to-face locomotives from two railroad companies. Name either of these companies—the two enterprises federally chartered to construct the eastward and westward lines.",
+            "answer": "union pacific, central pacific",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "42",
+            "r_percent": "58"
+        },
+        {
+            "category": "ART",
+            "prompt": "The provocative cancan dancer Jane Avril, \"La Mélinite,\" was a frequent subject (and companion) of what French Post-Impressionist?",
+            "answer": "henri de toulouse-lautrec",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "43",
+            "e_percent": "26",
+            "r_percent": "44"
+        }
+    ]
+}

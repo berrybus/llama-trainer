@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 17,
+    "date": "June 8, 2022",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "The region of ocean depth that ends where rays from the sun cannot reach is sometimes known as the \"middle pelagic\" and is also known by a name it shares with what unrelated television series?",
+            "answer": "the twilight zone",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "28",
+            "r_percent": "46"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The grim middle play of Irish playwright Se\u00e1n O'Casey's Dublin Trilogy, first produced in 1924, centers on the Boyle family, headed by the parents Juno and her husband Jack, whom Juno has nicknamed after what bird (hence the play's title)?",
+            "answer": "paycock (peacock)",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "20",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "9"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the straightforward name, in German, given to the policy initiated in the 1960s in West Germany that sought to normalize relations with communist countries and reduce hostility between the country and its neighbors to the east?",
+            "answer": "ostpolitik",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "22",
+            "c_percent": "14",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "10"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Belinda Carlisle's self-titled mainstream pop album from 1986, which featured the hit song \"Mad about You\", was her solo debut after her band's (first) breakup in May of the previous year. What was the name of that band?",
+            "answer": "the go-go's",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A gelding is a male horse that has been castrated, and a stallion is an uncastrated male horse over four years old. What is the word most commonly used for an uncastrated male horse aged one to four years?",
+            "answer": "colt",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "62",
+            "d_percent": "48",
+            "e_percent": "34",
+            "r_percent": "50"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The name of what game, which was launched in the early 1980s and remains popular today, is derived from a Swahili word meaning \"to build\", although the gameplay is essentially the opposite of that?",
+            "answer": "jenga",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "88",
+            "e_percent": "82",
+            "r_percent": "85"
+        }
+    ]
+}

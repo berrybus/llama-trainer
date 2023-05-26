@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 10,
+    "date": "September 11, 2019",
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The world's largest national park, and largest officially protected area that is predominantly land, takes up 45% of the island it is on and is larger than all but 30 countries of the world. Established in 1974, the park is one of six under the domain of what country?",
+            "answer": "denmark",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "56",
+            "c_percent": "48",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "31"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Around the time Robert Noyce of Fairchild Semiconductor was developing a monolithic integrated circuit, electrical engineer Jack Kilby developed a hybrid integrated circuit (and patented miniaturized electronic circuits ) in 1959 while employed by what Dallas-based technology firm?",
+            "answer": "texas instruments",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "66",
+            "e_percent": "53",
+            "r_percent": "60"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A stock trade order, typically used for a large quantity, which is to be withdrawn if not executed immediately and completely, is commonly known by what rhyming phrase?",
+            "answer": "fill or kill/fill it or kill it",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "20",
+            "c_percent": "16",
+            "d_percent": "11",
+            "e_percent": "9",
+            "r_percent": "11"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Teenaged identical twins Tamera and Tia Mowry played teenaged identical twins Tamera Campbell and Tia Landry on what sitcom that aired from 1994 to 1999 (first on ABC, and later on The WB)?",
+            "answer": "sister, sister",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "70",
+            "c_percent": "66",
+            "d_percent": "64",
+            "e_percent": "60",
+            "r_percent": "63"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In 1968 and 1969, two now-legendary country music live albums were released, by the same artist, with titles preceded by the artist's name and starting with the preposition At. Give a location where either of these albums were recorded, per their titles.",
+            "answer": "folsom prison, san quentin",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "82",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What was the last name of the technician who pioneered the activity of adding everyday sound effects to film during post-production, while working for Universal Studios during the transition from the silent cinema era to sound? ",
+            "answer": "foley",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "63",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "30",
+            "r_percent": "36"
+        }
+    ]
+}

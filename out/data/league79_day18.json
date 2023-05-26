@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 18,
+    "date": "December 12, 2018",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "A 43-foot tall topiary sculpted by American artist Jeff Koons in 1992, as well as a series of five large and colorful balloon sculptures by the same artist (one of which sold for $58.4 million in 2013), are all of what type of animal?",
+            "answer": "puppy/dog",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "61",
+            "c_percent": "53",
+            "d_percent": "46",
+            "e_percent": "37",
+            "r_percent": "49"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In botany, for leaves that are divided into many small leaflets arranged in rows along either side of a common mid-rib (like many ferns), an individual leaflet is known by what term? The term is also used for the external part of an ear in mammals.",
+            "answer": "pinna",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "16",
+            "c_percent": "12",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "10"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the trailblazing director and Academy Award nominee who, in 2010, created the independent film distribution and resource collective African-American Film Festival Releasing Movement (known originally as AFFRM and now branded as ARRAY), after her debut full-length feature film I Will Follow was unable to acquire distribution for wide release via traditional means?",
+            "answer": "ava duvernay",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "54",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "29",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What do the novels The Trial, A Confederacy of Dunces, The Mystery of Edwin Drood, The Last Tycoon, The Man with the Golden Gun, A Moveable Feast, and The Pale King have in common, most notably?",
+            "answer": "published posthumously",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "56",
+            "c_percent": "43",
+            "d_percent": "31",
+            "e_percent": "17",
+            "r_percent": "29"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What 1994 song has appeared on a Billboard songs chart every year it's been eligible, including 2018, though it is not (yet) one of its artist's 18 number-one singles on the Hot 100 singles chart (the most by any solo artist in history)? Note: Name the song, not the artist.",
+            "answer": "all i want for christmas is you",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "75",
+            "c_percent": "68",
+            "d_percent": "65",
+            "e_percent": "55",
+            "r_percent": "56"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Ships entering the Strait of Gibraltar from the Atlantic Ocean toward the Mediterranean Sea first pass, on their starboard side, what city, famous for its diversity, espionage activities, tourism, and citrus?",
+            "answer": "tangier",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "43",
+            "d_percent": "31",
+            "e_percent": "17",
+            "r_percent": "32"
+        }
+    ]
+}

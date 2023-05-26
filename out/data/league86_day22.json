@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 22,
+    "date": "September 18, 2020",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the term used in competitive swimming events, whether \"individual\" or \"relay\", where all four strokes are required?",
+            "answer": "medley",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "71",
+            "r_percent": "77"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "A US law enacted in 1981 and abbreviated OBRA was a Budget Reconciliation Act that implemented massive reductions in government spending (except for defense, which was greatly increased) and made significant alterations to the congressional budget process. What does the \"O\" in OBRA stand for?",
+            "answer": "omnibus",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "44",
+            "e_percent": "28",
+            "r_percent": "41"
+        },
+        {
+            "category": "ART",
+            "prompt": "The Dinner Party,  Cloud Gate, and A Sunday Afternoon on the Island of La Grande Jatte are names of works of art that all\u2014for different reasons\u2014have a close association with what city?",
+            "answer": "chicago",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "31"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The \"Freestyle\" is a shoe whose popularity has been attributed to the aerobics fitness craze of the 1980s, and is widely credited as the first sneaker designed and marketed for women. What company launched the Freestyle in 1982 (and still produces the shoe today)?",
+            "answer": "reebok",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "54",
+            "c_percent": "49",
+            "d_percent": "43",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Three of the Native American women from Oklahoma who were known collectively as the \"Five Moons\" were Yvonne Choteau, Rosella Hightower, and Moscelyne Larkin. What is the last name shared by the other two, who were sisters and members of the Osage Nation?",
+            "answer": "tallchief",
+            "image": null,
+            "a_percent": "19",
+            "b_percent": "8",
+            "c_percent": "4",
+            "d_percent": "3",
+            "e_percent": "1",
+            "r_percent": "4"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "An abbreviation of a Latin word, which translates to \"in the same place\", often appears frequently in reading lists, bibliographies, footnotes, endnotes, and the like. What is that word (or its abbreviation)?",
+            "answer": "ibidem/ibid.",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "63",
+            "e_percent": "41",
+            "r_percent": "54"
+        }
+    ]
+}

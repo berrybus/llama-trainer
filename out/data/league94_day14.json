@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 14,
+    "date": "September 16, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "In a 2017 film, Matt Damon's character undergoes a procedure that could be described by a word in the title of a 1957 science fiction classic starring Grant Williams. What is that word\u2014a procedure that the man played by Williams also undergoes, incredibly? ",
+            "answer": "shrinking",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "39",
+            "e_percent": "24",
+            "r_percent": "35"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "When Emmanuel Macron defeated Marine Le Pen in the French presidential election of 2022, he became the first incumbent to win re-election as the country's head of state since what other man did so twenty years prior?",
+            "answer": "jacques chirac",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What piquant, golden Italian liqueur made from herbs and spices is familiar as an ingredient in a Harvey Wallbanger, and distinctive for its very tall, Roman-column-shaped bottle?",
+            "answer": "galliano",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The most successful and decorated partnership in the history of professional beach volleyball is that of two American women, whose many championships include gold medals at the 2004, 2008, and 2012 Summer Olympics. Name either of these two women. ",
+            "answer": "misty may-treanor, kerri walsh jennings",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "55",
+            "d_percent": "48",
+            "e_percent": "40",
+            "r_percent": "43"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Kathak, Bharatnatyam, Kuchipudi, Odissi, and Manipuri are classical Indian forms of what?",
+            "answer": "dance",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "59",
+            "c_percent": "54",
+            "d_percent": "48",
+            "e_percent": "43",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name, derived from Latin and originating from a Greek word for \"to throw\", for the scientific study, within mechanics, of the motion and impact of projectiles such as missiles, rockets, and bullets? The word, as an adjective, has also come to be used as a synonym for \"extremely excited and angry\". ",
+            "answer": "ballistic(s)",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "86",
+            "d_percent": "80",
+            "e_percent": "64",
+            "r_percent": "73"
+        }
+    ]
+}

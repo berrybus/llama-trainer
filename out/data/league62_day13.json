@@ -1,0 +1,79 @@
+{
+    "date": "September 4, 2014",
+    "league": 62,
+    "day": 13,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "This American rock band's greatest hits compilation album from 1976 was the first to receive official platinum recognition from the RIAA for one million shipments in the United States (the award was introduced that year). Today, with Michael Jackson's Thriller, it is considered the all-time top-selling album in the United States (and third worldwide). Name the band.",
+            "answer": "eagles",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "41",
+            "r_percent": "51"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In mathematics, vectors are quantities that express both magnitude and direction, such as velocity and force. What is the parallel term, from Latin for ladder, for quantities of only one dimension (magnitude), such as speed or mass?",
+            "answer": "scalar",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "58",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "33",
+            "r_percent": "45"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Published in 1902, The Little White Bird; Or, Adventures in Kensington Gardens introduced the mythology of what reckless and boastful juvenile character?",
+            "answer": "peter pan",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "50",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "19",
+            "r_percent": "34"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The musical instrument known as the concertina is most similar to what other, much better known instrument, in both operation and appearance, even though there are distinct differences between the two instruments?",
+            "answer": "accordion",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "63",
+            "d_percent": "46",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the technical, Greek-derived name for the device in this photograph? ",
+            "answer": "sphygmomanometer",
+            "image": "/images/art/847n0987cn098we57.jpg",
+            "a_percent": "78",
+            "b_percent": "60",
+            "c_percent": "52",
+            "d_percent": "41",
+            "e_percent": "28",
+            "r_percent": "40"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "As indicated in its logo, the Ohio Art Company, based in the small city of Bryan, is best known for its development and marketing of what well-known toy?",
+            "answer": "etch a sketch",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "67",
+            "c_percent": "53",
+            "d_percent": "55",
+            "e_percent": "35",
+            "r_percent": "49"
+        }
+    ]
+}

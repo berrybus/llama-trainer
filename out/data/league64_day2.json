@@ -1,0 +1,79 @@
+{
+    "date": "February 18, 2015",
+    "league": 64,
+    "day": 2,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Pictured here is an assortment of real-life items which relate to the standard version of a particular board game, with one item missing. What is the missing item? ",
+            "answer": "rope",
+            "image": "/images/art/83y409n8y098.jpg",
+            "a_percent": "96",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "90",
+            "e_percent": "86",
+            "r_percent": "85"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Episode plots in what acclaimed, technology-savvy CBS drama series have involved the internet search company \"Chumhum\", the social and news website \"Scabbit\", legal issues surrounding the invention of Bitcoin, and a ransomware attack?",
+            "answer": "the good wife",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "34",
+            "c_percent": "30",
+            "d_percent": "22",
+            "e_percent": "19",
+            "r_percent": "20"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the man who seized control of the Pakistan government via a military coup d'état in October of 1999, and served as the country's President from 2001 until his resignation under threat of impeachment in August, 2008.",
+            "answer": "pervez musharraf",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "57",
+            "e_percent": "36",
+            "r_percent": "52"
+        },
+        {
+            "category": "ART",
+            "prompt": "A controversial and massive work of post-minimalist public art titled Tilted Arc, which was erected in Manhattan's Federal Plaza in 1981 and removed in 1989 after years of debate and legal action, was conceived by what American sculptor?",
+            "answer": "richard serra",
+            "image": null,
+            "a_percent": "30",
+            "b_percent": "19",
+            "c_percent": "18",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "10"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "There are exactly two elements represented in the periodic table by single letters whose standard names (in English) do not begin with those letters. What are those elements' names? (As a counterexample, Oxygen begins with its symbol, O.)",
+            "answer": "potassium, tungsten",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "34",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The principality of Monaco is traditionally divided into four Quartiers: Monaco-Ville, La Condamine, Fontvielle, and what fourth?",
+            "answer": "monte carlo",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "47",
+            "e_percent": "28",
+            "r_percent": "38"
+        }
+    ]
+}

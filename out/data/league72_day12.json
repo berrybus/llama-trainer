@@ -1,0 +1,79 @@
+{
+    "date": "March 8, 2017",
+    "league": 72,
+    "day": 12,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Giovanni's Room, Tell Me How Long the Train's Been Gone, and If Beale Street Could Talk are among the novels written by what American author during his decades-long residence in France, where he moved at age 24 in protest against inhumane conditions and racial discrimination in America? ",
+            "answer": "james baldwin",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "23",
+            "r_percent": "38"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The pungent odor and hot taste of what condiment, an essential ingredient in cocktail sauce and a Bloody Mary, is due to a substance called sinigrin that, when broken down by enzymes, liberates a volatile oil containing sulfur? The condiment is prepared from its namesake root vegetable, a member of the crucifer family (which also includes wasabi, turnip, cabbage, and mustard).",
+            "answer": "horseradish",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "69",
+            "r_percent": "76"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the 4th century, the Goths split into two groups, one becoming bound by treaty to the Roman Empire, the other joining the Huns. These two branches—one of which was led by Alaric in the sacking of Rome in 410, and the other of which conquered the Italian peninsula under Theodoric the Great in 493—are most commonly known today by what two names?",
+            "answer": "visigoths, ostrogoths",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "61",
+            "c_percent": "46",
+            "d_percent": "31",
+            "e_percent": "14",
+            "r_percent": "30"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Better Git It in Your Soul\" and \"Goodbye Pork Pie Hat\" are among the better-known compositions of what tempestuous and legendary bandleader, who is widely considered the greatest double bassist in the history of jazz music?",
+            "answer": "charles mingus",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "35",
+            "c_percent": "24",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "17"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "While the board game Reversi was invented in the 1880s, a slightly modified modern version was patented in Japan in 1971 and is marketed and sold under what trademarked name?",
+            "answer": "othello",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "71",
+            "c_percent": "59",
+            "d_percent": "49",
+            "e_percent": "36",
+            "r_percent": "46"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the seven nations on the isthmus of Central America (thus not including Mexico), Belize is, by far, the least populous. Which of the seven is, by far, the most populous, with more than twice as many residents as the country in second place?",
+            "answer": "guatemala",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "27",
+            "r_percent": "38"
+        }
+    ]
+}

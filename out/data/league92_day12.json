@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 12,
+    "date": "March 2, 2022",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "The Preamble to the Declaration of Independence contains an uncommon adjective, which the Oxford English Dictionary defines (with a slightly different prefix) as \"\u2026cannot be\u2026transferred from its present ownership or relation.\" What is that word\u2014either as it appears in the Declaration, or as it is defined in the OED?",
+            "answer": "unalienable/inalienable",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "59",
+            "r_percent": "68"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The autonomous region in Northwest China with the short name of Xinjiang is home to numerous ethnic groups, but the two most populous are the Han people (who make up over 90% of the total population of China) and what Turkic ethnic group, after whom the region is formally named?",
+            "answer": "uyghur",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "70",
+            "e_percent": "55",
+            "r_percent": "61"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What slang term is used most often for the bar, pub, or clubhouse at a golf course (in many cases, the literal name of the business itself)? The phrase was used in a similar sense in the title of a documentary on the making of the movie Caddyshack.",
+            "answer": "the 19th hole",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "78",
+            "d_percent": "67",
+            "e_percent": "53",
+            "r_percent": "59"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the name of the roughly 300,000-square-mile fertile grassland that is essentially the South American equivalent to the South African veldt? (The singular or the more common plural are both acceptable.)",
+            "answer": "pampa(s)",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "60",
+            "d_percent": "40",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Confessions, Love, Romance, Lies\u2014what modifier do these words share, with respect to films released in 1981, 1989, 1993, and 1994 respectively?",
+            "answer": "true",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "93",
+            "e_percent": "85",
+            "r_percent": "86"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the term in photography for the aesthetic effect of out-of-focus points of light or background in an image, coming from the Japanese for \"blur\"?",
+            "answer": "bokeh",
+            "image": null,
+            "a_percent": "36",
+            "b_percent": "28",
+            "c_percent": "24",
+            "d_percent": "20",
+            "e_percent": "18",
+            "r_percent": "23"
+        }
+    ]
+}

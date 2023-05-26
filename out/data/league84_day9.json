@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 9,
+    "date": "March 2, 2020",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What Mandinka word, which translates to \"sultan\" or \"king\", was used during the Mali Empire of the 13th to 17th centuries as a title for leaders of the Keita Dynasty such as Musa I, who ruled for a quarter-century in the 1300s? ",
+            "answer": "mansa",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "35",
+            "c_percent": "28",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Mizell, Simmons, and McDaniels were the last names of the members of what hip hop trio, whose self-titled debut was the first rap album to be certified gold by the RIAA?",
+            "answer": "run d.m.c.",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "49",
+            "r_percent": "57"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Who is, surely, classic literature's best-known short, pot-bellied, rustic, witty, commonsensical, spirituality-free, donkey-riding squire?",
+            "answer": "sancho panza",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "68",
+            "d_percent": "51",
+            "e_percent": "32",
+            "r_percent": "44"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "An audio-visual cable and accessories manufacturing company received a bit of bad news on February 11, 2020, due to an official announcement made that day by World Health Organization chief Tedros Ghebreyesus regarding disease terminology. What is the name of that company? ",
+            "answer": "covid",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "79",
+            "c_percent": "76",
+            "d_percent": "71",
+            "e_percent": "57",
+            "r_percent": "59"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In a game during the 2006 NCAA Men's Basketball Tournament between schools from the Missouri Valley Conference and Big East Conference respectively, the abbreviations of the teams on the on-screen score bug spelled out the name of what actor? (First and last name required.)",
+            "answer": "brad pitt",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "47",
+            "c_percent": "42",
+            "d_percent": "36",
+            "e_percent": "26",
+            "r_percent": "36"
+        },
+        {
+            "category": "ART",
+            "prompt": "The building where Michelangelo's The Creation of Adam is located is named after what pope? Note, the number is not required (it was IV), but correct English spelling of the pope's name is required.",
+            "answer": "sixtus",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "51",
+            "c_percent": "33",
+            "d_percent": "18",
+            "e_percent": "7",
+            "r_percent": "20"
+        }
+    ]
+}

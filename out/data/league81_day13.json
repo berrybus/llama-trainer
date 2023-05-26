@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 13,
+    "date": "June 10, 2019",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "In 2000, who became the first (and remains today the only) non-citizen of the United States to win the Academy of Country Music Award for Entertainer of the Year?",
+            "answer": "shania twain",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "50",
+            "c_percent": "44",
+            "d_percent": "39",
+            "e_percent": "30",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In computing, a control total of the correct digits in a particular set of data, which can be used in future comparisons to detect errors, is usually referred to by what compound word?",
+            "answer": "checksum",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "35",
+            "c_percent": "28",
+            "d_percent": "24",
+            "e_percent": "19",
+            "r_percent": "22"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Bob Falfa, Colonel Lucas, John Book, Capt. Alexei Vostrikov, Linus Larrabee, and President James Marshall are among the film characters (but certainly not the most famous film characters) portrayed by what Hollywood acting legend?",
+            "answer": "harrison ford",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What group, initially formed by a committee that included Roger Baldwin, Helen Keller, and Jane Addams to assist U.S. citizens prosecuted for opposing World War I, has argued more cases before the U.S. Supreme Court than any other private organization?",
+            "answer": "american civil liberties union (aclu)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "94",
+            "d_percent": "92",
+            "e_percent": "82",
+            "r_percent": "85"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Walla Walla, Washington; southern California's Imperial Valley; Lake Mattamuskeet in North Carolina; and the Hawaiian island of Maui: These locations share a link, culinarily and agriculturally, that is also shared most prominently by what Georgia city?",
+            "answer": "vidalia",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "41",
+            "c_percent": "31",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "20"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Signature Challenge, Technical Challenge, and Showstopper Challenge are the three individual competitions within each episode of what reality television series? (Note, either the series' original title or the title under which it has aired in the United States is acceptable).",
+            "answer": "the great british bake off/the great british baking show",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "62",
+            "c_percent": "57",
+            "d_percent": "53",
+            "e_percent": "44",
+            "r_percent": "50"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 5,
+    "date": "February 18, 2022",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Who was hired away from NBC's Today show in 1976 to serve as co-anchor, with Harry Reasoner, on ABC's flagship nightly news program, becoming the first woman to serve in such a role in American television history?",
+            "answer": "barbara walters",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "51",
+            "r_percent": "56"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What World War II battle, part of the Allied effort to retake the Philippines, is widely considered the largest naval engagement in history and recorded the first planned use of Japanese kamikaze attacks?",
+            "answer": "battle of leyte gulf",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "With the exception of its first year during the 2014 season (when Ohio State defeated Oregon), every instance of the College Football Playoff National Championship Game has featured one of two teams (and on three occasions, both of these teams). Identify these two teams (only school names are required).",
+            "answer": "alabama, clemson",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "52",
+            "c_percent": "46",
+            "d_percent": "40",
+            "e_percent": "33",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What pop group, who had hits in 2009 with \"1901\" and \"Lisztomania\", has a name that would fit in a list with the names of the bands who recorded \"More than a Feeling\" and \"Feelin' Stronger Every Day\"?",
+            "answer": "phoenix",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "56",
+            "c_percent": "50",
+            "d_percent": "45",
+            "e_percent": "36",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "CBC is the abbreviation for a standard diagnostic laboratory test used to detect anemia, infections, and various other medical disorders. What do the letters in CBC stand for?",
+            "answer": "complete blood count",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "44",
+            "c_percent": "34",
+            "d_percent": "28",
+            "e_percent": "22",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Eighteen largely barren volcanic isles (along with hundreds of islets and skerries) situated in the North Atlantic between the Shetland Islands and Iceland make up, since 1948, what self-governing region of Denmark?",
+            "answer": "faroe islands",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "41",
+            "e_percent": "22",
+            "r_percent": "38"
+        }
+    ]
+}

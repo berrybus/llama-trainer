@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 8,
+    "date": "May 24, 2017",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "What George Bernard Shaw play, a comic spoof of militarism first produced in 1894, takes its four-word title from the first line of Virgil's Aeneid?",
+            "answer": "arms and the man",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "39",
+            "c_percent": "25",
+            "d_percent": "15",
+            "e_percent": "6",
+            "r_percent": "17"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A February 28, 1994, air battle near Banja Luka, Bosnia and Herzegovina, where four Serb fighter planes were shot down within a designated no-fly zone, marked the first-ever military combat engagement in the 45-year history of what?",
+            "answer": "nato",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "42",
+            "r_percent": "50"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In March 2008, Pope Benedict XVI approved a decree declaring Father Michael McGivney a Venerable Servant of God, placing the American priest on the path toward sainthood (he would be the first US-born priest canonized, if successful). Fr. McGivney founded what Catholic fraternal service organization, now the world's largest?",
+            "answer": "knights of columbus",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "46",
+            "e_percent": "32",
+            "r_percent": "42"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Of the twelve horses who have won thoroughbred racing's triple crown, two had names that included the names of major American cities. One horse was \"Omaha\" in 1935\u2014who was the other?",
+            "answer": "seattle slew",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "60",
+            "c_percent": "55",
+            "d_percent": "38",
+            "e_percent": "25",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Mount Everest is the highest mountain above sea level on Earth. What is the highest mountain in the world outside Asia?",
+            "answer": "aconcagua",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "13",
+            "e_percent": "5",
+            "r_percent": "18"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term used for the pollen-producing organ of a plant, usually consisting of a saclike anther on the tip of a flower filament?",
+            "answer": "stamen",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "68",
+            "e_percent": "57",
+            "r_percent": "63"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 10,
+    "date": "February 28, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the common name for the weedy herb of the genus Solidago, with small yellow flowers that grow along a narrow stem? Its name is often used for a color, a strong shade of yellow, notably in paper and in a particular Crayola crayon.",
+            "answer": "goldenrod",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "57",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "32"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Identify the last name missing from this list of individuals, who first appeared as a complete set of five in 1994: Chisholm, Bunton, Adams, Halliwell, ________.",
+            "answer": "brown",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "22"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Barad-d\u00fbr and Orthanc are names that could plausibly be the titular pair  in what 2002 blockbuster film?",
+            "answer": "the lord of the rings: the two towers",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "45"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Jason Robards, James Earl Jones, Brian Dennehy, Kevin Spacey, Nathan Lane, and Denzel Washington are among the actors who have performed the role of salesman Theodore \"Hickey\" Hickman in acclaimed productions of what tragic play?",
+            "answer": "the iceman cometh",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "31",
+            "c_percent": "21",
+            "d_percent": "12",
+            "e_percent": "5",
+            "r_percent": "12"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "18th-century British politician John Montagu is often credited as the inventor of an innovation known as what? He allegedly developed it while playing around the clock at a gaming table, and it takes its name from his noble title, which is itself associated with a town in the county of Kent.",
+            "answer": "sandwich",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "76",
+            "d_percent": "61",
+            "e_percent": "36",
+            "r_percent": "52"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "One could reasonably argue that American mathematician Marion Tinsley was better at what board game than any other person has ever been at any game? He lost only a handful of official games to humans from 1950 to 1995, never lost a championship match (in either two-move-ballot or three-move-ballot schemes), and in 1990 defeated the Chinook computer program (which would ultimately \"solve\" the game) 4 wins to 2, with 33 draws. Note, the game's familiar name in either the US or the UK is acceptable.",
+            "answer": "checkers/draughts",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "32",
+            "r_percent": "42"
+        }
+    ]
+}

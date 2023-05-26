@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 7,
+    "date": "November 27, 2018",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "While governor of the Indiana Territory, future U.S. President William Henry Harrison defeated Shawnee chief Tecumseh's forces in 1811 at what battle, whose name would serve as a nickname for Harrison during his presidential campaign?",
+            "answer": "battle of tippecanoe",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "84",
+            "d_percent": "70",
+            "e_percent": "45",
+            "r_percent": "57"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the mountain range that runs from the Golfe de Gascogne in the west to the Golf del Lle\u00f3 in the east.",
+            "answer": "pyrenees",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "80",
+            "d_percent": "69",
+            "e_percent": "48",
+            "r_percent": "57"
+        },
+        {
+            "category": "ART",
+            "prompt": "A photo of seven-year-old twin girls from Roselle, New Jersey, was among the works featured in 1972's Venice Biennale by what photographer (the first such artist to be featured at the exhibition), who committed suicide the previous year?",
+            "answer": "diane arbus",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "32",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Jamie Starr, Alexander Nevermind, and Christopher Tracy, who are all credited as songwriters of hit pop music singles, are among the pronounceable pseudonyms of what prolific music legend?",
+            "answer": "prince",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "85",
+            "d_percent": "75",
+            "e_percent": "62",
+            "r_percent": "70"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "1968's Something to Answer For, by English novelist P.H. Newby, and 2018's Milkman, by Northern Irish author Anna Burns, are respectively the first and the most recent winners of what prestigious literary prize, which today comes with an award of \u00a350,000?",
+            "answer": "(man) booker prize",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "36",
+            "r_percent": "50"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In geometry, what type of curve can be defined as the set of all points on a plane whose distance from two fixed points (often denoted as F1 and F2) add up to a constant?",
+            "answer": "ellipse",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "47",
+            "c_percent": "41",
+            "d_percent": "35",
+            "e_percent": "26",
+            "r_percent": "32"
+        }
+    ]
+}

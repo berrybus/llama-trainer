@@ -1,0 +1,79 @@
+{
+    "date": "June 18, 2015",
+    "league": 65,
+    "day": 23,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "What is the term from art and printmaking for the process of transferring an image, in paint or ink, from the surface on which it is drawn or painted (e.g. metal or glass) to a sheet of paper (or other surface), creating one unique copy — as the name implies?",
+            "answer": "monotype/monoprint",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "21",
+            "c_percent": "21",
+            "d_percent": "12",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The stories collected in Arabian Nights, which include the tales of Aladdin, Ali Baba and the Forty Thieves, and Sinbad, are framed by a story in which a Persian king's wife delays her execution by telling these tales over the course of 1,001 nights. What was her name? ",
+            "answer": "scheherazade",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "68",
+            "e_percent": "49",
+            "r_percent": "62"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Chloroquine, mefloquine, quinidine, and atovaquone-proguanil are all drugs indicated for the treatment of what disease?",
+            "answer": "malaria",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "87",
+            "c_percent": "86",
+            "d_percent": "75",
+            "e_percent": "57",
+            "r_percent": "72"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Cabinet of the President of the United States includes the Vice President and the heads of 15 executive departments. Fourteen are listed here. Name the one that is missing: Attorney General and the Secretaries of the Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, Interior, Labor, State, Transportation, Treasury, and Veterans Affairs.",
+            "answer": "secretary of homeland security",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "69",
+            "e_percent": "51",
+            "r_percent": "66"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Tangiers, Rampart, Eclipse, Mediterranean, Whiskey Town, and Pike's Gambling Hall are all casinos that appear in what TV series that premiered in 2000?",
+            "answer": "csi: crime scene investigation",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "34",
+            "e_percent": "29",
+            "r_percent": "32"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Identify this man. ",
+            "answer": "tim cook",
+            "image": "/images/art/8934709n8x3098n.jpg",
+            "a_percent": "88",
+            "b_percent": "77",
+            "c_percent": "78",
+            "d_percent": "72",
+            "e_percent": "65",
+            "r_percent": "69"
+        }
+    ]
+}

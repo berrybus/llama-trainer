@@ -1,0 +1,79 @@
+{
+    "date": "September 11, 2014",
+    "league": 62,
+    "day": 18,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the notable distinction shared by Africa's Lake Volta, Lake Kariba, and Lake Nasser? They are three of the four largest in the world, by volume, among those that share this distinction.",
+            "answer": "man-made",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "In history, there is exactly one person who has been referred to in an official manner as Bundeskanzlerin. Name that person.",
+            "answer": "angela merkel",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "48",
+            "c_percent": "41",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "29"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In botany, abscission is the process through which a plant loses all its leaves for a part of the year. What is the botanical term, from Latin for \"fall off,\" for the type of plant that goes through abscission?",
+            "answer": "deciduous",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "71",
+            "r_percent": "78"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What the fuck is the name of the fucking successful playwright whose early off-Broadway plays include The Duck Variations, Sexual Perversity in Chicago, and American fucking Buffalo?",
+            "answer": "david fucking mamet",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "37",
+            "r_percent": "47"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Tenochtitlan was the largest and most important altepetl of what Mesoamerican people?",
+            "answer": "aztec",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "87",
+            "c_percent": "85",
+            "d_percent": "77",
+            "e_percent": "61",
+            "r_percent": "77"
+        },
+        {
+            "category": "FILM",
+            "prompt": "1989's City of Sadness was the first internationally acclaimed feature film from what country after its lifting of martial law two years prior? Shortly thereafter, the \"Father Knows Best\" trilogy, which consisted of Pushing Hands, The Wedding Banquet, and Eat Drink Man Woman, brought greater attention to the nation's cinema.",
+            "answer": "republic of china/taiwan",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "40",
+            "c_percent": "35",
+            "d_percent": "24",
+            "e_percent": "13",
+            "r_percent": "23"
+        }
+    ]
+}

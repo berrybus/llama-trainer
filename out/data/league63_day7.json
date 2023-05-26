@@ -1,0 +1,79 @@
+{
+    "date": "November 18, 2014",
+    "league": 63,
+    "day": 7,
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Known in its original Italian as a battachio, the English name for this prop used in Commedia dell'Arte has endured in modern times as a term for a popular style of physical comedy. What is that term?",
+            "answer": "slapstick",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "93",
+            "d_percent": "90",
+            "e_percent": "81",
+            "r_percent": "91"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "With approximately 300 million native speakers, what language is the world's most widely spoken among those that are customarily written from right to left?",
+            "answer": "arabic",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "75",
+            "c_percent": "75",
+            "d_percent": "65",
+            "e_percent": "50",
+            "r_percent": "65"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the politician who, since September 2010, has held the position of Leader of Her Majesty's Most Loyal Opposition in the United Kingdom.",
+            "answer": "ed miliband",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "32",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Pictured here is a screenshot from what movie series? ",
+            "answer": "sharknado",
+            "image": "/images/art/88509867c05678n.jpg",
+            "a_percent": "55",
+            "b_percent": "39",
+            "c_percent": "36",
+            "d_percent": "30",
+            "e_percent": "29",
+            "r_percent": "26"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"Two fathoms\" is the literal meaning of what riverboat slang term and famous pseudonym?",
+            "answer": "mark twain",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "91",
+            "d_percent": "88",
+            "e_percent": "67",
+            "r_percent": "82"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A common symbol that is known in mathematics formally as a lemniscate and is associated with (among other things) the ancient symbol ouroboros and acid-free paper is most often used to represent what concept?",
+            "answer": "infinity",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "78",
+            "d_percent": "68",
+            "e_percent": "54",
+            "r_percent": "67"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "February 27, 2014",
+    "league": 60,
+    "day": 8,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the most significant distinction shared by Cahawba, Alabama; Bodie, California; Dogtown, Massachusetts; and Pripyat, Ukraine?",
+            "answer": "ghost towns",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "51",
+            "c_percent": "44",
+            "d_percent": "31",
+            "e_percent": "16",
+            "r_percent": "35"
+        },
+        {
+            "category": "FILM",
+            "prompt": "This action film series' hyper-violent 2008 installment, which is named simply after the title character despite being the fourth in the franchise, is currently banned in Burma (to the surprise of no one who has seen the film).",
+            "answer": "rambo",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "52",
+            "e_percent": "37",
+            "r_percent": "60"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "While they're better known locally as the Intifadat-al-Istiqlal, the 2005 demonstrations in Lebanon, triggered by the assassination of Prime Minister Rafik Hariri, are known internationally as what -- a term coined by a U.S. State Department official in reference to Lebanon's national emblem?",
+            "answer": "cedar revolution",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "15",
+            "r_percent": "32"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In the history of the Grammy awards, three songs have won Record of the Year or Song of the Year whose titles reference an American city (New Orleans, San Francisco, Philadelphia). What is the only song to do so whose title references a Brazilian neighborhood?",
+            "answer": "the girl from ipanema",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "72",
+            "d_percent": "54",
+            "e_percent": "29",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "This term, first introduced in the early 20th c. by English archaeologist and palace of Knossos excavator Arthur Evans, is defined primarily as relating to the culture and civilization that existed during the Bronze Age on the island of Crete. What is the term?",
+            "answer": "minoan",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "68",
+            "d_percent": "47",
+            "e_percent": "23",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the former NBA star and basketball Hall of Famer in this image. ",
+            "answer": "jerry west",
+            "image": "/images/art/84508un0c58934u09.jpg",
+            "a_percent": "79",
+            "b_percent": "63",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "30",
+            "r_percent": "42"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "August 21, 2015",
+    "league": 66,
+    "day": 5,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "While Algeria's and Tunisia's are close, which is the only African capital city whose name is exactly the same as the country it's in?",
+            "answer": "djibouti",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "40"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The language known in Afghanistan as Dari and in Tajikistan as Tajiki is mostly identical to the language which is known in the rest of the world by one of two other names. What is either of these names?",
+            "answer": "farsi/persian",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "64",
+            "c_percent": "60",
+            "d_percent": "52",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "There are fifteen elements of the periodic table whose symbols are also US state postal codes. Of these, which element (and its symbol) comes first alphabetically?",
+            "answer": "aluminum",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "78",
+            "e_percent": "72",
+            "r_percent": "77"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Canadian Football League (CFL) currenly has nine active teams, four of which are in the league's East Division. Identify any one of these teams (both city and nickname required) the CFL's East Division.",
+            "answer": "hamilton tiger-cats, montreal alouettes, ottawa redblacks, toronto argonauts",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "48",
+            "e_percent": "38",
+            "r_percent": "45"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The fictional Rosie's Bar, which was inspired by a similar establishment that existed in Seoul, was featured prominently in what television series?",
+            "answer": "m*a*s*h",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "76",
+            "e_percent": "65",
+            "r_percent": "75"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Identify this song. ",
+            "answer": "my bonnie lies over the ocean",
+            "image": "/images/art/3948y50cn98yn509.jpg",
+            "a_percent": "56",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "46",
+            "e_percent": "37",
+            "r_percent": "40"
+        }
+    ]
+}

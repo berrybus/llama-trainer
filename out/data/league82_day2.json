@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 2,
+    "date": "August 29, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "HD 114762 b, which is over 125 light-years from Earth in the constellation Coma Berenices and was discovered in 1989, is believed to be one of the first (if not the very first) celestial body of its type to be detected. Since then, over 4,000 more have been discovered, mostly via NASA's Kepler space telescope. What is the common name for this type of celestial body?",
+            "answer": "exoplanet/extrasolar planet",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "35",
+            "c_percent": "26",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "16"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "One (in 1948-58), 57 (1954-58), 5-B (1989), and 60 (2006-07)\u2014per titles of different television series, these are all numbers of what?",
+            "answer": "studios",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "27"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the term, which translates to \"holding truth\", that was coined by Mahatma Gandhi for his philosophy of nonviolent resistance?",
+            "answer": "satyagraha",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "14"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A flirtatious young innocent from Schenectady who dies young in Rome of malaria and a wealthy young woman from Louisville who perpetrates a vehicular hit-and-run are two separate literary characters that go by what name?",
+            "answer": "daisy",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "55",
+            "c_percent": "47",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "33"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What American businessman co-founded, with Henry Wells and others, the company that would eventually form American Express? He later served as the Civil War-era Mayor of Buffalo (and namesake of a city 920 miles to the west).",
+            "answer": "william fargo",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "65",
+            "e_percent": "49",
+            "r_percent": "63"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the portmanteau term, allegedly coined in 2000 during a game of Carcassonne, for a human-shaped piece used in that game and others such as Agricola, Pillars of the Earth, and Stone Age?",
+            "answer": "meeple",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "35",
+            "c_percent": "29",
+            "d_percent": "25",
+            "e_percent": "20",
+            "r_percent": "21"
+        }
+    ]
+}

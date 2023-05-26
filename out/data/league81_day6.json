@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 6,
+    "date": "May 30, 2019",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Raisins, candied lemon peel, and orange, all contained within raised dough enriched with egg yolks, make up what Italian cake, a specialty of Milan that is traditionally served during the Christmas season?",
+            "answer": "panettone",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "58",
+            "c_percent": "51",
+            "d_percent": "44",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "In the mid-1800s, William Holman Hunt, Dante Gabriel Rossetti, and John Everett Millais founded an artistic \"Brotherhood\" named after what other painter, who had died nearly 330 years prior?",
+            "answer": "raphael",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "39",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "During his career, Pyotr Ilyich Tchaikovsky composed three ballets. Two are The Nutcracker and Swan Lake. What is the third, also based on a fairy tale?",
+            "answer": "the sleeping beauty",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "56",
+            "c_percent": "45",
+            "d_percent": "35",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term best fills in the blank in this series: Animalia, Chordata, Mammalia, __________, Hominidae, Homo,  H. sapiens?",
+            "answer": "primates",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "68",
+            "d_percent": "56",
+            "e_percent": "38",
+            "r_percent": "51"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"Sock it to me\", \"The Joke-Wall\", \"The Party\", and \"The Flying Fickle Finger of Fate Award\" were among the recurring sketches that appeared on what comedy television series?",
+            "answer": "(rowan & martin's) laugh-in",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "47",
+            "e_percent": "33",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "An iconic line from the movie Jaws, #35 on the American Film Institute's list of 100 Years...100 Movie Quotes, was reportedly ad-libbed by Roy Scheider and not in the original screenplay. It begins with \"You're\"\u2014how does the line end?",
+            "answer": "gonna need a bigger boat",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "86",
+            "d_percent": "79",
+            "e_percent": "67",
+            "r_percent": "73"
+        }
+    ]
+}

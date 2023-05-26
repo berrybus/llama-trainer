@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 17,
+    "date": "June 7, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What country star's 2016 album Gunslinger has sold a little over 100,000 copies on its own so far, which is respectable but about 1/230th the total of his 1990 album and 1/180th that of his 1991 release?",
+            "answer": "garth brooks",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "80",
+            "e_percent": "71",
+            "r_percent": "74"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The concept from economics and game theory addressing dynamics of a non-cooperative game, referring to a situation in which players in a game pursue the optimal strategy while knowing the other players' strategies, is commonly named after what mathematician and Nobel laureate?",
+            "answer": "john forbes nash jr.",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "51",
+            "e_percent": "37",
+            "r_percent": "47"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Some historians argue that the outbreak of WWII should be dated to a 1937 event known in English as the Marco Polo Bridge Incident, which sparked the conflagration between what two ancient (and present) rivals?",
+            "answer": "china, japan",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "54",
+            "e_percent": "32",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The drug mifepristone, usually taken with another drug called misoprostol to terminate pregnancy, is best known by what generic name, derived from the sequence of its development by French pharmaceutical company Roussel-Uclaf in 1980?",
+            "answer": "ru486",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "46",
+            "c_percent": "38",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "24"
+        },
+        {
+            "category": "MATH",
+            "prompt": "A posthumous paper by mathematician August Ferdinand M\u00f6bius explores the properties of one-sided surfaces via a strip, connected at the ends with a half-twist in the middle. Fellow German mathematician Felix Klein pursued a similar illustration using a theoretical surface that is today, perhaps due to a mistranslation of the original German, most commonly referred to as what type of object? ",
+            "answer": "bottle",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "42",
+            "c_percent": "33",
+            "d_percent": "25",
+            "e_percent": "16",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Which of its seven emirates constitutes more than 85% of the total land area of the United Arab Emirates?",
+            "answer": "abu dhabi",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "49",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "36"
+        }
+    ]
+}

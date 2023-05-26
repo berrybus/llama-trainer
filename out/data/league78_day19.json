@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 19,
+    "date": "September 14, 2018",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Most of the works of the late 18th-, early 19th-century English painter George Stubbs, as well as many of the significant works in the career of American painter Susan Rothenberg, feature what as their subject, which is also featured in numerous works (and their titles) of German painter Franz Marc?",
+            "answer": "horses",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "32",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "13",
+            "r_percent": "22"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The first credited acting role for Henry Golding, a Kuala Lumpur-based correspondent for the BBC program The Travel Show, was as a leading character in what feature film?",
+            "answer": "crazy rich asians",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "30",
+            "e_percent": "20",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the title character of the ribald satire by Aristophanes who, outraged by the destruction of the Peloponnesian War, convinces her fellow Athenian women to seize the city-state's treasury, occupy the Acropolis, and withhold carnal relations from their spouses until the war ends.",
+            "answer": "lysistrata",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "59",
+            "c_percent": "50",
+            "d_percent": "35",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Who was British Prime Minister for most of the duration of the American Revolutionary War? He shared a name, in a sense (perhaps a straining sense), with one of the belligerents in another war that would begin roughly eight decades later.",
+            "answer": "frederick north, lord north",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "32",
+            "c_percent": "19",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "16"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the common term for the thick, dark brown, uncrystallized residue, similar to black treacle, obtained from cane or beet sugar during the refining process?",
+            "answer": "molasses",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "71",
+            "r_percent": "76"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Miami-based record producers Mike Triay and Carlos de Yarza, working collectively as the Bayside Boys, are largely responsible for Billboard magazine's #1 single for 1996, their remixed version of what song?",
+            "answer": "macarena",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "46"
+        }
+    ]
+}

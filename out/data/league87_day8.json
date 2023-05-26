@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 8,
+    "date": "November 13, 2020",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "According to its advertising and packaging, many of what company's products are produced in a hollow tree in a location called Sylvan Glen?",
+            "answer": "keebler",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "88",
+            "d_percent": "85",
+            "e_percent": "75",
+            "r_percent": "78"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The cuneiform system of writing, and by some historians, modern human civilization itself, is credited to what people, who lived in southern Mesopotamia in the 4th and 3rd millennia BCE, in city-states such as Ur, Eridu, and Uruk?",
+            "answer": "sumerians",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "61",
+            "d_percent": "47",
+            "e_percent": "32",
+            "r_percent": "43"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Among the earliest known instances of a particular cinematic gag are in 1913's The Ragtime Band (with Mabel Normand as the victim) and in A Noise from the Deep that same year (and also a Keystone Studios film), with Fatty Arbuckle the victim and Normand the perpetrator. What is the device used in this gag, at least 3,000 of which were used in Laurel & Hardy's The Battle of the Century and maybe a similar number throughout Soupy Sales's career?",
+            "answer": "(custard) pie",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "63",
+            "d_percent": "50",
+            "e_percent": "34",
+            "r_percent": "43"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Twenty20 is the name of a novel format that was developed in 2003, and since then has become by some measures the most popular format, for what sport?",
+            "answer": "cricket",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "42",
+            "c_percent": "35",
+            "d_percent": "27",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A famous short story from 1922 by Katherine Mansfield centers around what type of \"party\", and the protagonist Laura Sheridan's desire to cancel the party due to the death of a neighborhood workman (which leads her to ponder the meaning of life and death)?",
+            "answer": "garden party",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "36",
+            "c_percent": "27",
+            "d_percent": "21",
+            "e_percent": "13",
+            "r_percent": "16"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify both of the countries on the South American continent that do not border Brazil.",
+            "answer": "chile, ecuador",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "40"
+        }
+    ]
+}

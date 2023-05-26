@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 25,
+    "date": "December 15, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "The legendary New Orleans jazz pianist who recorded with his group the Red Hot Peppers in the 1920s and claimed (dubiously) to have invented jazz in 1902 was known by what sweet-seeming stage name? (Full name required.)",
+            "answer": "jelly roll morton",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "54",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is famous for, among many other things, lasting from 1337 to 1453?",
+            "answer": "hundred years' war",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "81",
+            "d_percent": "70",
+            "e_percent": "52",
+            "r_percent": "63"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The French d\u00e9partements of Corr\u00e8ze, Creuse, and Haute-Vienne constituted, until 2016, a former administrative r\u00e9gion in southwest France that gave its name to a certain type of automobile (though the etymological link is long unknown). What is that vehicle?",
+            "answer": "limousine",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "36",
+            "c_percent": "24",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "16"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The Scranton branch of the Dunder-Mifflin Paper Company was managed for many years by Michael Scott. Who is his English equivalent, the long-time manager of the Slough branch of Wernham Hogg Paper Merchants? (First and last name required.)",
+            "answer": "david brent",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "60",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the term most used in common law in the US for the physical written document conveying ownership of real property? It is the legal document that transfers property ownership (or \"title\") from one party to another.",
+            "answer": "deed",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "93",
+            "d_percent": "91",
+            "e_percent": "87",
+            "r_percent": "89"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "There are three main forms of the sport of fencing, based on the weapon used. One is foil while another is sabre. What is the third?",
+            "answer": "\u00e9p\u00e9e",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "78",
+            "e_percent": "57",
+            "r_percent": "67"
+        }
+    ]
+}

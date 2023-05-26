@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 21,
+    "date": "March 23, 2018",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the cocktail that gets its name simply from its appearance and ingredients, and is not related to supporters of the Tsarist regime who fought against the Soviet Red Army during the late 1910s and early 1920s (as one might reasonably suppose).",
+            "answer": "white russian",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "74",
+            "r_percent": "81"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A Negro League baseball star who is actually an alien; an EMT who can regenerate body parts and subsists on cancerous tumors; eugenically developed identical girls created as supersoldiers by the U.S. military: These are among the storylines from what TV series?",
+            "answer": "the x-files",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "63",
+            "c_percent": "60",
+            "d_percent": "55",
+            "e_percent": "47",
+            "r_percent": "57"
+        },
+        {
+            "category": "ART",
+            "prompt": "Any statuette of the Late Stone Age period depicting a woman\u2014such as those found in Willendorf, Austria; the Hohle Fels cave in Germany; Brassempouy, France; Lespugue, France; and Moravany nad V\u00e1hom, Slovakia, has typically been given what name upon its discovery?",
+            "answer": "venus",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "45",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "33"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The \"slave narrative\" was a popular form of literature in the 18th and 19th centuries, and probably the most widely read work of the form was Narrative of the Life of what man, who wrote it in 1845 (while technically still a fugitive) and subsequently founded the abolitionist journal the North Star?",
+            "answer": "frederick douglass",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "62",
+            "r_percent": "74"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Whereas placental mammals have separate digestive and urogenital openings, the majority of vertebrates\u2014including most reptiles, amphibians, and birds\u2014have a single posterior chamber into which the digestive, urinary, and reproductive tracts all enter. What is the term for this orifice?",
+            "answer": "cloaca",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What pop music group scored hits in the United States during the 1970s with \"Saturday Night,\" \"Money Honey,\" and \"You Made Me Believe in Magic\"? They were \"tartan teen sensations from Edinburgh\" and not from a place like San Francisco, Tampa, Norfolk, Monterey, Mobile, or the like (though they were named after a small city in Michigan\u2014apparently randomly).",
+            "answer": "bay city rollers",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "68",
+            "c_percent": "58",
+            "d_percent": "45",
+            "e_percent": "27",
+            "r_percent": "42"
+        }
+    ]
+}

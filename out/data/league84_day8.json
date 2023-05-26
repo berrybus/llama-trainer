@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 8,
+    "date": "February 28, 2020",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "In Toni Morrison's 1970 debut novel, a tragic young character named Pecola Breedlove believes that she would be loved if only she had what characteristic, which is referenced in the novel's title?",
+            "answer": "blue eyes (the bluest eye)",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "62",
+            "c_percent": "57",
+            "d_percent": "45",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name (specifically, the cognomen) shared by the Roman patricians and generals who defeated Hannibal in 202 BCE (\"Africanus Major\") and who captured and destroyed Carthage in 146 BCE (\"Africanus Minor\")?",
+            "answer": "scipio",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "41",
+            "c_percent": "31",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "20"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What is the title of Bobby Darin's cover of the song from Bertolt Brecht and Kurt Weill's The Threepenny Opera, which became the crooner's trademark, reaching #1 in the US and earning Record of the Year at the second annual Grammy Awards?",
+            "answer": "mack the knife",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "54",
+            "d_percent": "39",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the interest of player safety, the National Football League in 2019 banned a certain high-energy, full-contact practice drill whose development is credited to legendary college coach Bud Wilkinson, and thus is best known by what geographic name?",
+            "answer": "oklahoma drill",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "40",
+            "c_percent": "33",
+            "d_percent": "28",
+            "e_percent": "20",
+            "r_percent": "28"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the fifty U.S. state capital cities, which city has by far the largest percentage population designated by the 2010 U.S. Census in the category \"Black or African American, alone\" (82%)? Montgomery and Baton Rouge are the next two highest (61% and 55% respectively), while comparative data for Harlem and Hollywood are not available (as they are not independent cities).",
+            "answer": "jackson, ms",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "65",
+            "c_percent": "58",
+            "d_percent": "49",
+            "e_percent": "35",
+            "r_percent": "46"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What German physicist has numerous extreme measurement units named after him, including a length (equal to 1.616\u00d710-35m), a mass (2.18\u00d710-8kg), and a time (5.39\u00d710-44 seconds), all of which are used principally in quantum theory?",
+            "answer": "max planck",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "64",
+            "c_percent": "58",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "45"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 24,
+    "date": "March 23, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The most widely used active ingredients in antiperspirants are compounds\u2014usually a chlorohydrate or a zirconium tetrachlorohydrex gly\u2014of what metallic element?",
+            "answer": "aluminum",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "79",
+            "c_percent": "76",
+            "d_percent": "72",
+            "e_percent": "65",
+            "r_percent": "69"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Of the debt instruments issued within the United States by the U.S. Treasury, the securities issued for maturity in the intermediate time frame\u2014offered in 2-, 3-, 5-, 7-, and 10-year maturities\u2014are most typically known by what name? The closely watched 10-year version is used as a benchmark for calculating mortgage rates.",
+            "answer": "treasury note (t-note)",
+            "image": null,
+            "a_percent": "33",
+            "b_percent": "26",
+            "c_percent": "23",
+            "d_percent": "20",
+            "e_percent": "13",
+            "r_percent": "17"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "[Redacted]Way down in EgyptlandTell old PharaohTo let my people go. What three words complete the redacted first line in this African American spiritual?",
+            "answer": "go down, moses",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "40"
+        },
+        {
+            "category": "ART",
+            "prompt": "The _______ of Louise Nevelson: Constructing a Legend was the title of a 2007 exhibition at The Jewish Museum in New York City, as well as a subsequently published book celebrating the artist's work. In what branch of visual arts, which fills in the blank in the title, did Nevelson achieve the majority of her success?",
+            "answer": "sculpture",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "44",
+            "c_percent": "37",
+            "d_percent": "34",
+            "e_percent": "28",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Though it is attributed to him, there is actually no historical evidence that what long-serving monarch actually made the declaration which translates to English as \"I am the state\"?",
+            "answer": "louis xiv",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "53",
+            "e_percent": "33",
+            "r_percent": "47"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What \"roared\" in the title of a British comedy film from 1959 that starred Peter Sellers as a clumsy field marshal, an opulent grand duchess, and the prime minister of the European Duchy of Grand Fenwick?",
+            "answer": "the mouse (that roared)",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "32"
+        }
+    ]
+}

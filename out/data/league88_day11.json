@@ -1,0 +1,79 @@
+{
+    "league": 88,
+    "day": 11,
+    "date": "March 8, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the military hero of the Qing dynasty who gives his name (though he has no apparent connection) to a dish consisting of bite-sized fried chicken pieces tossed in a sweet, tangy, spicy sauce.",
+            "answer": "general tso (zuo)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "95",
+            "e_percent": "92",
+            "r_percent": "93"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The controversial Ponte della Costituzione, also known locally as the Ponte di Calatrava (\"Calatrava Bridge\"), spans the primary waterway of what city? ",
+            "answer": "venice",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "65",
+            "c_percent": "59",
+            "d_percent": "53",
+            "e_percent": "51",
+            "r_percent": "53"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A humorous instructional book published in November 1991 by IDG Books\u2014an elementary and accessible introduction to the operating system DOS\u2014was the first in a successful series specifically aimed, per the formulaic (and good-natured) titles of the series' books, at what type of people?",
+            "answer": "dummies",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "92",
+            "c_percent": "91",
+            "d_percent": "91",
+            "e_percent": "88",
+            "r_percent": "88"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "In the opera by Ludwig Van Beethoven, a Spanish nobleman named Florestan has been thrown into prison. Hoping to rescue him, his faithful wife, Leonore, follows him disguised as a boy with what name?  ",
+            "answer": "fidelio",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "44",
+            "c_percent": "28",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "17"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In his State of the Union address in January 2002, President George W. Bush first used what three-word phrase, in reference specifically to the countries of Iran, Iraq, and North Korea?",
+            "answer": "axis of evil",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "94",
+            "d_percent": "88",
+            "e_percent": "73",
+            "r_percent": "79"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"The Little Rascals\" was a title used on TV for a series of movie shorts produced from the 1920s into the 1940s that featured a group of characters known by what name? This other name was also used for the series itself during its original airing in theaters.",
+            "answer": "our gang",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "62",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "31"
+        }
+    ]
+}

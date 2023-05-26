@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 12,
+    "date": "June 1, 2022",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What dish, consisting of deep-fried wontons filled with the meat of a crustacean (or quite likely an imitation thereof) and cream cheese, has a name (referring to its dubious Burmese provenance) whose first recorded use was at a Trader Vic's restaurant in 1956?",
+            "answer": "crab rangoon",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "78",
+            "e_percent": "67",
+            "r_percent": "73"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The small port of Gravelines, located in what is now the extreme north of France between Calais and Dunkirk, gave its name to a late-16th-century battle that saw the defeat of a famous force best known by what name?",
+            "answer": "spanish armada",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "62",
+            "d_percent": "46",
+            "e_percent": "26",
+            "r_percent": "40"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Charles Francis Adams, James E. Norris, Lester Patrick, Conn Smythe, Clarence Campbell, and Edward, Prince of Wales, are all individuals with a related association (perhaps more accurately, a related former association) with what sport?",
+            "answer": "ice hockey",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "47",
+            "d_percent": "38",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A study from July 2020 concluded that a formation by the name of P\u016bh\u0101honu is now believed to be the world's largest what?",
+            "answer": "(shield) volcano",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "64",
+            "c_percent": "59",
+            "d_percent": "55",
+            "e_percent": "51",
+            "r_percent": "58"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A famous historical love tragedy occurred in the 12th century between philosopher and theologian Peter Abelard and what early feminist and philosopher in her own right, whose relatives eventually attacked and castrated Abelard (complicating the relationship considerably)? Their letters and religious correspondence (collected after they became a monk and an abbess, respectively) have become classic medieval literature.",
+            "answer": "h\u00e9lo\u00efse",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "54",
+            "c_percent": "38",
+            "d_percent": "24",
+            "e_percent": "11",
+            "r_percent": "18"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"La Cumparsita\", which was written and first performed in the 1910s in Montevideo and popularized via a musical in Buenos Aires in the 1920s, is widely regarded as the most famous and recognizable song written in what musical and dance style?",
+            "answer": "tango",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "41",
+            "r_percent": "53"
+        }
+    ]
+}

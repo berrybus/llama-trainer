@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 22,
+    "date": "June 15, 2022",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Collections titled Sea Garden and Hymen are the works of American poet and Imagist Hilda Doolittle, who typically signed her works with what simpler pen name?",
+            "answer": "h. d.",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the river that is the world's deepest and that also, in carrying nearly 1.5 million cubic feet of water per second into the Atlantic Ocean, has the second-highest flow of any river in the world after the Amazon (as it, like the Amazon, drains a basin where heavy rainfall occurs most of the year).",
+            "answer": "congo river",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "25",
+            "r_percent": "43"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Northfield College in Minnesota was founded in 1866 and renamed what in 1871, in honor of a Massachusetts businessman who in that year greatly assisted the college's survival with a $50,000 donation?",
+            "answer": "carleton college",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "28",
+            "e_percent": "19",
+            "r_percent": "28"
+        },
+        {
+            "category": "FILM",
+            "prompt": "1966's The Fortune Cookie was the first of 12 films over a 32-year period in which two beloved Hollywood legends appeared\u2014often as antagonists, though they were dear friends in real life. Name either of these two men.",
+            "answer": "jack lemmon, walter matthau",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "60",
+            "d_percent": "47",
+            "e_percent": "32",
+            "r_percent": "40"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Catherine, Anne, Jane, Anne, Catherine: What sixth entry should be added to this list to complete a famous historical first-name hexad?",
+            "answer": "catherine",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "70",
+            "c_percent": "56",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "An upper-class London epithet relating to the numbers two and three is the source, passing through lower-class New Orleans, of the name for what game now popular in American casinos?",
+            "answer": "craps",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "43",
+            "c_percent": "39",
+            "d_percent": "33",
+            "e_percent": "29",
+            "r_percent": "34"
+        }
+    ]
+}

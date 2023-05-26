@@ -1,0 +1,79 @@
+{
+    "date": "May 27, 2015",
+    "league": 65,
+    "day": 7,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Amora, Plochman's, Händlmaier, Colman's, and Gulden's are among the notable brands of what food product?",
+            "answer": "mustard",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "86",
+            "d_percent": "82",
+            "e_percent": "71",
+            "r_percent": "76"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The American patriotic song \"My Country 'Tis of Thee\" (\"America\") is sung to the tune of a national anthem, the world's oldest, first sung in 1745. What is the title of that anthem?",
+            "answer": "god save the king/queen",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "68",
+            "r_percent": "80"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Among the 48 U.S. states officially subdivided into counties, Delaware has the fewest, with three. Georgia has the second-most, with 159—what state has the most, with 254?",
+            "answer": "texas",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "57",
+            "e_percent": "46",
+            "r_percent": "56"
+        },
+        {
+            "category": "MATH",
+            "prompt": "An ancient Greek term combining the words for \"under\" and \"length\" provides the etymology for what geometric term, common in relation to triangles?",
+            "answer": "hypotenuse",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "70",
+            "c_percent": "67",
+            "d_percent": "60",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the 7th c. BCE Athenian legislator who is famous today for his harsh and wildly unpopular codification of the law, which declared death the penalty for most offenses.",
+            "answer": "draco",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "68",
+            "d_percent": "53",
+            "e_percent": "37",
+            "r_percent": "49"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the English poet who authored the 1821 pastoral elegy Adonaïs, or the fellow poet and friend whom the elegy memorialized.",
+            "answer": "percy bysshe shelley, john keats",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "66",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "29",
+            "r_percent": "38"
+        }
+    ]
+}

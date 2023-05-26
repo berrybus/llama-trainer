@@ -1,0 +1,79 @@
+{
+    "league": 93,
+    "day": 5,
+    "date": "May 20, 2022",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "While there is virtually no presence or even much mention of women in a particular 19th-century novel, its first film adaptation (in 1926) presented quite a change: it gave the story's main (human) character a female love interest who was central to the plot. And in another departure, it made her rejection of him (due to his amputation) the source of his animus and raison d'\u00eatre. What is that novel?",
+            "answer": "moby-dick",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "32",
+            "c_percent": "23",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "\"Disemvowelling\" is a term for a once-popular custom in the naming of tech companies, as evidenced by Tumblr, Scribd, Grindr, twttr (the original name of Twitter), and what image-hosting service owned by Yahoo from 2005 to 2017?",
+            "answer": "flickr",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "68",
+            "e_percent": "56",
+            "r_percent": "65"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What innovation (or abomination, to some) was introduced within Major League Baseball in 1973 and adopted league-wide in 2022?",
+            "answer": "designated hitter (dh)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "77",
+            "d_percent": "71",
+            "e_percent": "56",
+            "r_percent": "60"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Zanjeer is the title of the 1973 film widely regarded as the one that launched what superstar as the \"angry young man\" of 1970s and '80s Bollywood cinema?",
+            "answer": "amitabh bachchan",
+            "image": null,
+            "a_percent": "18",
+            "b_percent": "11",
+            "c_percent": "7",
+            "d_percent": "6",
+            "e_percent": "4",
+            "r_percent": "7"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A substance known as royal jelly, which is sometimes used in alternative medicine or as a dietary supplement (both despite limited evidence of efficacy), is produced by what arthropods?",
+            "answer": "bees",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "81",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "45",
+            "r_percent": "56"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The surface area for what shape is typically expressed by the formula 4\u03c0r2?",
+            "answer": "sphere",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "82",
+            "e_percent": "74",
+            "r_percent": "79"
+        }
+    ]
+}

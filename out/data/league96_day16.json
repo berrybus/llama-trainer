@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 16,
+    "date": "March 8, 2023",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "When a player wins all four major golf titles in one calendar year, it's called a Grand Slam. No man has accomplished the feat in the modern era, but \"Tiger Slam\" was coined when Tiger Woods held all four major championships at one time, after winning the 2001 Masters in April of that year. What corresponding term was applied to pro tennis after its namesake player won Wimbledon in 2015, thereby holding all four of tennis's major championships?",
+            "answer": "serena slam",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "66",
+            "c_percent": "61",
+            "d_percent": "56",
+            "e_percent": "47",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "July 28, 1914, is considered the date on which World War I began, because that's the day on which [BLANK 1] declared war on [BLANK 2]. What two countries, in correct order, fill in the blanks in the statement\u2014two monarchies that would not exist as such five years later?",
+            "answer": "austria-hungary, serbia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Name the Mississippian graduate of Tennessee State University who was born in 1954 and became a massively influential (and arguably the dominant) figure in the contemporary publishing world beginning in September 1996.",
+            "answer": "oprah winfrey",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "16"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A 1980s ad campaign for Clairol Loving Care hair color lotion features the jingle \"I'm Gonna Wash That Gray Right out of My Hair\", replacing what word from the original song that featured in the 1949 musical South Pacific?",
+            "answer": "man",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "49",
+            "r_percent": "51"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What American agribusiness and food company, a farmer-owned cooperative, is headquartered in Arden Hills, Minnesota, and is in fact named in reference to its home state?",
+            "answer": "land o'lakes",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "56"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What R&B legend started, in 1980, his namesake Parade of Stars telethon, which raised money to support the United Negro College Fund? He hosted the telethon, later named An Evening of Stars, annually until his death in 2006, by which time the telethon had raised a reported $250 million for the UNCF.",
+            "answer": "lou rawls",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "17",
+            "c_percent": "11",
+            "d_percent": "7",
+            "e_percent": "4",
+            "r_percent": "8"
+        }
+    ]
+}

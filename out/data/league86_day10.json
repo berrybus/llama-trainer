@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 10,
+    "date": "September 1, 2020",
+    "questions": [
+        {
+            "category": "MATH",
+            "prompt": "Give the best known name of the mathematical operation whose most common notation was introduced by French mathematician Christian Kramp in 1808!",
+            "answer": "factorial",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "48",
+            "r_percent": "48"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Dom Pedro I and his son, Dom Pedro II, were the first and last (and only) rulers of what empire, which lasted from 1822 until its overthrow and conversion to a republic in 1889?",
+            "answer": "brazil",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "32",
+            "e_percent": "16",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the body of water that sits along the entire western shore of the Delmarva Peninsula.",
+            "answer": "chesapeake bay",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "59",
+            "d_percent": "45",
+            "e_percent": "26",
+            "r_percent": "42"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A Scottish term for a small drink (and a unit of measure equal to a fraction of an ounce) forms part of the name of a liqueur that is made from Scotch whisky, heather honey, herbs, and spices, and is 40% alcohol by volume. What is the name of that liqueur?",
+            "answer": "drambuie",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "48",
+            "e_percent": "30",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Specialized cardiac muscle fibers in mammalian hearts that conduct impulses from the atria to the ventricles are an atrioventricular \"Bundle\" named what? It is present in females as well as males (as it's named after the Swiss cardiologist who discovered it).",
+            "answer": "bundle of his",
+            "image": null,
+            "a_percent": "24",
+            "b_percent": "13",
+            "c_percent": "10",
+            "d_percent": "7",
+            "e_percent": "6",
+            "r_percent": "10"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "San Francisco-born boxer James J. Corbett, who won the world heavyweight championship in 1892 by knocking out John L. Sullivan in the 21st round and held the title for five years, was best known by what refined moniker?",
+            "answer": "gentleman jim",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "57",
+            "d_percent": "43",
+            "e_percent": "29",
+            "r_percent": "37"
+        }
+    ]
+}

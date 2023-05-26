@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 18,
+    "date": "March 20, 2018",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Two giants of beach volleyball\u2014UCLA graduates and former teammates-turned-rivals who dominated the sport in the '80s and '90s\u2014had the last names of Smith and Kiraly. Their given first names were Christopher and Charles, but they were better known by other names. Give either one.",
+            "answer": "sinjin, karch",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "26",
+            "e_percent": "18",
+            "r_percent": "24"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Gary Oldman, Christopher Lee, Frank Langella, Gerard Butler, and Leslie Nielsen have all portrayed a character on film who, perhaps most definitively, was portrayed in a 1931 film by what other actor? ",
+            "answer": "bela lugosi",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "51",
+            "e_percent": "30",
+            "r_percent": "45"
+        },
+        {
+            "category": "MATH",
+            "prompt": "99/70 (\"Ninety-nine seventieths\") is a frequently used rational approximation for an irrational number that is most commonly referred to as what?",
+            "answer": "square root of two",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "36",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "27"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the only African country that shares a land border with a European country?",
+            "answer": "morocco",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "49",
+            "r_percent": "58"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Beginning in the mid-19th century, most Sioux peoples were organized within one of three loose confederations: the Santee-Sioux, the Yankton-Sioux, and the Teton-Sioux. These confederations are also known by alternate names, all of which rhyme. Give any one of these other three names for the Sioux confederations.",
+            "answer": "dakota, nakota, lakota",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "ART",
+            "prompt": "What cultural and artistic movement was founded in the 1920s by French writer Andr\u00e9 Breton and defined in his 1924 \"Manifesto,\" in which he laid out the nonconformist and unconscious\u2014and at times absurdist\u2014method by which art is created in the movement, with absence of reason or aesthetic concern?",
+            "answer": "surrealism",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "41",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "16",
+            "r_percent": "28"
+        }
+    ]
+}

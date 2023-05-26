@@ -1,0 +1,79 @@
+{
+    "league": 92,
+    "day": 16,
+    "date": "March 8, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "The ruins of Tenochtitlan, the ancient capital of the Aztec Empire, are located within what modern-day city, which is appropriately also home to Estadio Azteca, about ten miles to the south of the ruins.",
+            "answer": "mexico city",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "90",
+            "d_percent": "84",
+            "e_percent": "70",
+            "r_percent": "81"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "\"Walk Like A Man\", \"Who Loves You\", \"Working My Way Back to You\", and \"December 1963 (Oh, What A Night)\" are songs from what Broadway musical, which won the Tony Award for Best Musical in 2006?",
+            "answer": "jersey boys",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "77",
+            "d_percent": "67",
+            "e_percent": "54",
+            "r_percent": "63"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In computing, there are various basic database model types, including hierarchical, network, and object-oriented databases. Another model, long and likely still the most popular, is a database in which data is organized as a collection of linked tables of rows and columns. What is the term most used for this database type?",
+            "answer": "relational database",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "39",
+            "c_percent": "33",
+            "d_percent": "32",
+            "e_percent": "25",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "House Made of Dawn (1968), a Pulitzer Prize winner for fiction, is the first novel and best-known work of what Oklahoma-born Native American author of Kiowa heritage?",
+            "answer": "n. scott momaday",
+            "image": null,
+            "a_percent": "20",
+            "b_percent": "9",
+            "c_percent": "5",
+            "d_percent": "2",
+            "e_percent": "1",
+            "r_percent": "5"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What Montreal-born hockey Hall of Famer is the only person to have his name on the Stanley Cup both as a player and an owner, and was the only player to win the Hart Trophy as the NHL's most valuable player in the 1980s other than Wayne Gretzky?",
+            "answer": "mario lemieux",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "32"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Pianica, blow-organ, key harmonica, and clavietta are some of the names of a particular hybrid musical instrument that has a set of keys on the top with a tube connected to an open port on the side, through which air is blown. By what name is this instrument best known, as dubbed by its inventor Hohner in the 1950s?",
+            "answer": "melodica",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "46",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "17",
+            "r_percent": "27"
+        }
+    ]
+}

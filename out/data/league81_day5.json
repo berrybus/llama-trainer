@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 5,
+    "date": "May 29, 2019",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What African-American spiritual, written by Wallace Willis in the mid-1800s and recorded by the Fisk Jubilee Singers, Louis Armstrong, and Eric Clapton, is frequently cited not simply as a celebration of release into heaven, but also of the aspiration (or plan) to be \"carried home\" to freedom via the Underground Railroad?",
+            "answer": "swing low, sweet chariot",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "76",
+            "d_percent": "63",
+            "e_percent": "50",
+            "r_percent": "59"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "An Anglo-Saxon god of war, the chief god of Norse mythology, a Norse god of thunder, the foremost goddess of Norse mythology, and a Roman god of agriculture are among a group that give their names to what septet?",
+            "answer": "days of the week",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "41"
+        },
+        {
+            "category": "ART",
+            "prompt": "What is the English translation of the French Les Nymph\u00e9as, which is the title given to a series of around 250 oil paintings by Claude Monet?",
+            "answer": "water lilies",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "57"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Congo River and a remote trading post deep in the jungles of central Africa run by a corrupted ivory trader provide settings for the flashback story told in what brisk, 80-page 1899 novella?",
+            "answer": "heart of darkness",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "77",
+            "e_percent": "56",
+            "r_percent": "70"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Until the announcement in May that Norah O'Donnell had been named anchor and managing editor of the CBS Evening News, the anchor news desks at the \"big three\" broadcast networks (ABC, CBS, NBC) were occupied by three men with one-syllable last names. Give any one of those three names.",
+            "answer": "glor, holt, muir",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "63",
+            "c_percent": "57",
+            "d_percent": "48",
+            "e_percent": "37",
+            "r_percent": "44"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Currently, there are two administrative divisions of China known formally as \"special administrative regions\", formed in 1997 and 1999 pursuant to declarations signed in the previous decade. What are the names of these two SARs?",
+            "answer": "hong kong, macau",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "54",
+            "d_percent": "40",
+            "e_percent": "24",
+            "r_percent": "36"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "May 22, 2015",
+    "league": 65,
+    "day": 5,
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Name the frenzied and fast-paced musical comedy film from 1964 whose loose plot involves four musicians preparing for a London television appearance while minding a mischievous grandfather.",
+            "answer": "a hard day's night",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "53",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The most watched television series in the U.S. for the 2013-14 season outside the four major networks (ABC, CBS, Fox, NBC)—and #1 among all networks for adults 18-49—was what epic drama series, which airs original episodes Sundays at 9:00pm ET on AMC?",
+            "answer": "the walking dead",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "63",
+            "c_percent": "58",
+            "d_percent": "52",
+            "e_percent": "44",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The decay of uranium, the most radioactive element in the earth's crust, gives rise to essentially all other radioactive elements in nature, before its final decay into what common, heavy, stable element?",
+            "answer": "lead",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "61",
+            "e_percent": "48",
+            "r_percent": "57"
+        },
+        {
+            "category": "ART",
+            "prompt": "Jacopo Tintoretto, Salvador Dalí, Peter Paul Rubens, Andrea del Castagno, and Lucas Cranach the Elder all painted works of a specific event that was depicted most famously by what other artist?",
+            "answer": "leonardo da vinci (the last supper) or michelangelo (pieta)",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "72",
+            "c_percent": "71",
+            "d_percent": "62",
+            "e_percent": "56",
+            "r_percent": "60"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In the history of the city of New York,  there have been four mayors who have served for three successive four-year terms (making them the city's longest-serving). The most recent was Michael Bloomberg; give the last names of any two of the other three.",
+            "answer": "la guardia, wagner, koch",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "58",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Kumis, leben, kefir, chal, and shubat are all regional culinary items made from what?",
+            "answer": "milk",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "58",
+            "e_percent": "52",
+            "r_percent": "63"
+        }
+    ]
+}

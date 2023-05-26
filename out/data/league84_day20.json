@@ -1,0 +1,79 @@
+{
+    "league": 84,
+    "day": 20,
+    "date": "March 17, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "An intensity scale known as the Mercalli Scale, and later the Modified Mercalli Scale, has been made obsolete by modern technology and primarily replaced by what other, logarithmic scale, developed in 1935?",
+            "answer": "richter scale",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "68",
+            "r_percent": "74"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What novel is known in its native language as \u0412\u043e\u0439\u043d\u0430 \u0438 \u043c\u0438\u0440 (Vojna i mir)?",
+            "answer": "war and peace",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "82",
+            "d_percent": "70",
+            "e_percent": "50",
+            "r_percent": "62"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Cliff Hangers, a game whose yodeling character has no official name but has been called Hans, Fritz, and Sven among other names, is most closely associated with what television show?",
+            "answer": "the price is right",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "56",
+            "d_percent": "50",
+            "e_percent": "40",
+            "r_percent": "41"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A term in common law for movable or transferable property shares an etymology with a word commonly used today for certain livestock. What is this legal term?",
+            "answer": "chattel",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "30",
+            "r_percent": "37"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "President Lyndon B. Johnson was given congressional authorization to take conventional military action in Southeast Asia in August 1964 after an alleged North Vietnamese attack on US warships in what body of water (after which the legislative measure was popularly named)?",
+            "answer": "gulf of tonkin",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "72",
+            "e_percent": "47",
+            "r_percent": "58"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The Detroit Pistons NBA franchise was founded in 1941 in what other city, where it played until relocating roughly three hours to the northeast in 1957?",
+            "answer": "fort wayne (indiana)",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "35",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "10",
+            "r_percent": "19"
+        }
+    ]
+}

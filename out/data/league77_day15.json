@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 15,
+    "date": "June 20, 2018",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "J\u0101taka is the name for any of numerous popular tales of virtue illustrating the former lives of what individual?",
+            "answer": "gautama/siddhartha buddha",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "75",
+            "d_percent": "69",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Who appeared in 31 films from 1956 to 1969, first as \"Clint Reno\" and finally as \"Dr. John Carpenter,\" with \"Pacer Burton,\" \"Tulsa McLean,\" \"Chad Gates,\" \"Steve Grayson, \" and \"Lucky Jackson\" among the roles in between?",
+            "answer": "elvis presley",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What is the current name of the music hall on West 125th Street in New York's Harlem neighborhood that opened in 1914 as the whites-only Hurtig & Seamon's New Burlesque Theater?",
+            "answer": "apollo theater",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "76",
+            "e_percent": "64",
+            "r_percent": "71"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the common, Romanized four-letter name of the \"Empress Dowager\" who rose from the position of third-rank concubine of Emperor Xianfeng to essentially rule China, autocratically and ruthlessly. for most of 47 years beginning in 1861? (Please note that correct spelling is required for this question.)",
+            "answer": "cixi",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "19",
+            "c_percent": "13",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "12"
+        },
+        {
+            "category": "ART",
+            "prompt": "The subjects in what famous painting are often assumed to be husband and wife, but were meant by the artist to represent a father and daughter, and were in reality the artist's sister and dentist?",
+            "answer": "american gothic",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "93",
+            "e_percent": "81",
+            "r_percent": "85"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The twin children on the televison series Black-ish are named after the subjects of a song that reached #1 on the Billboard Hot 100 singles chart in October 1982. What are their names?",
+            "answer": "jack and diane",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "60",
+            "c_percent": "54",
+            "d_percent": "47",
+            "e_percent": "38",
+            "r_percent": "46"
+        }
+    ]
+}

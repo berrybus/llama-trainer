@@ -1,0 +1,79 @@
+{
+    "date": "March 4, 2015",
+    "league": 64,
+    "day": 12,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Tomorrow, I'll think of some way to get him back. After all, tomorrow is another day. Thus ends what novel, in lines spoken by the story's vain, spoiled, shrewd, strong-willed, thrice-married heroine?",
+            "answer": "gone with the wind",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "79",
+            "c_percent": "76",
+            "d_percent": "64",
+            "e_percent": "47",
+            "r_percent": "57"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What term from music, derived from a Greek word for \"song\" or \"tune\", refers to a group of notes sung to a single syllable of text, normally including a primary note and ornamentation? Gregorian chants are an old example; more recent examples are basically anything by Whitney Houston or Mariah Carey.",
+            "answer": "melisma",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "34",
+            "c_percent": "30",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "14"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the hurler, the winner of the National League Cy Young Award after the 1969, 1973, and 1975 seasons, who is the only member of the Baseball Hall of Fame in Cooperstown, New York, whose plaque sports a New York Mets cap.",
+            "answer": "tom seaver",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "29",
+            "r_percent": "37"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the actor who plays Senator Gil John Biggs in the TV series Alpha House, Congressman Scott Talley in the film The Campaign, Congressman Chuck Long in the film Evan Almighty, and Speaker of the House Glenallen Walken in the TV series The West Wing.",
+            "answer": "john goodman",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "66",
+            "c_percent": "62",
+            "d_percent": "57",
+            "e_percent": "46",
+            "r_percent": "55"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "\"I do not believe that the president loves America. He doesn't love you. And he doesn't love me. He wasn't brought up the way you were brought up and I was brought up, through love of this country.\" Who reportedly spoke these words, in reference to President Barack Obama, at a private group dinner featuring Wisconsin Gov. Scott Walker on February 18, 2015?",
+            "answer": "rudolph giuliani",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "77",
+            "d_percent": "68",
+            "e_percent": "56",
+            "r_percent": "65"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What name was shared by three English monarchs before the Norman Conquest (the Elder, the Martyr, and the Confessor) and by another eight English monarchs after the conquest?",
+            "answer": "edward",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "83",
+            "d_percent": "62",
+            "e_percent": "39",
+            "r_percent": "54"
+        }
+    ]
+}

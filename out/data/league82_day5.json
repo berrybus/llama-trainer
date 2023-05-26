@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 5,
+    "date": "September 4, 2019",
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A History of Knowledge: Past, Present, and Future, published in 1991, was written by what former Encyclopedia Britannica editor, NBC Today show correspondent, Columbia University English instructor, and U.S. Congress subcommittee confessor?",
+            "answer": "charles van doren",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "25",
+            "c_percent": "15",
+            "d_percent": "7",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Swedish-born Ingvar Kamprad, who was raised on a farm named Elmtaryd near Agunnaryd and who passed away in 2018 at age 91, is best remembered today for founding what?",
+            "answer": "ikea",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "79",
+            "d_percent": "71",
+            "e_percent": "59",
+            "r_percent": "65"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the most common English name for the body of water that is known as Chos\u014fn Tonghae (\"Korean East Sea\") in North Korea and Donghae (\"East Sea\") in South Korea?",
+            "answer": "sea of japan",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "59",
+            "d_percent": "44",
+            "e_percent": "29",
+            "r_percent": "45"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics of a popular rock song released in 1995, despite all of his rage, Billy Corgan was still just a what?",
+            "answer": "rat (in a cage)",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "71",
+            "c_percent": "69",
+            "d_percent": "66",
+            "e_percent": "58",
+            "r_percent": "60"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The siemens, the SI derived unit of electric conductance and admittance (the reciprocal of resistance in ohms), is also known by what three-letter \"semordnilap\"?",
+            "answer": "mho",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "26"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The sweet treat lokum, a gel of starch and sugar flavored with nuts and fruit invented (according to legend) in the 18th century by Ottoman confectioner Haci Bekir, is best known in the West (and in Western fantasy literature) by what other name?",
+            "answer": "turkish delight",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "72",
+            "e_percent": "58",
+            "r_percent": "67"
+        }
+    ]
+}

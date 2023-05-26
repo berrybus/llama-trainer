@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 19,
+    "date": "June 26, 2018",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the title used for the military dictator who served as de facto ruler of Japan for most of the years from the late 12th century until the mid-19th century, when Tokugawa Yoshinobu relinquished the office to Emperor Meiji in 1867?",
+            "answer": "shogun",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "83",
+            "e_percent": "65",
+            "r_percent": "72"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In a famous 1961 action adventure film, a group of Allied and Greek commando specialists are assembled by British intelligence to destroy Nazi artillery cannons concealed within the solid rock of what fictional Greek island?",
+            "answer": "navarone",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "50",
+            "c_percent": "39",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Shape of You,\" \"Perfect,\" \"Castle on the Hill,\" \"Don't,\" and \"Photograph\" are recent pop smashes from what English singer/songwriter?",
+            "answer": "ed sheeran",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "84",
+            "c_percent": "82",
+            "d_percent": "78",
+            "e_percent": "76",
+            "r_percent": "77"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A common name for the flowering plant pictured here, when one letter is added, becomes the name of a chemical element discovered by Saxon chemist Clemens Winkler in 1886. What is either of those names (the flower or the element)? ",
+            "answer": "geranium/germanium",
+            "image": "/images/art/498sdfsdf5yc093.jpg",
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "54",
+            "e_percent": "40",
+            "r_percent": "55"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The city of Malm\u00f6, Sweden, sits about 18 miles (and a 45-minute drive, depending on traffic) from what national capital city?",
+            "answer": "copenhagen",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "52",
+            "e_percent": "34",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Hadouken!\" is a special attack move (and exclamation) used by characters, including Ryu and Ken, from what video game series?",
+            "answer": "street fighter",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "65",
+            "c_percent": "63",
+            "d_percent": "61",
+            "e_percent": "56",
+            "r_percent": "59"
+        }
+    ]
+}

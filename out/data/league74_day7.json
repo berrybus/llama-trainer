@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 7,
+    "date": "August 29, 2017",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Retired California physician and businessman Francis E. Townsend developed a namesake plan which, with millions of members of \"Townsend clubs\" across the U.S., spurred the development of what federal program?",
+            "answer": "social security (oasdi)",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "35",
+            "d_percent": "25",
+            "e_percent": "14",
+            "r_percent": "28"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Book of Revelation describes the Four Horsemen of the Apocalypse. Whereas the beings riding the white and pale horses have traditionally symbolized Conquest (Pestilence) and Death, what do the riders of the red and black horses symbolize (correct order not required)?",
+            "answer": "war, famine",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "54",
+            "e_percent": "35",
+            "r_percent": "53"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In mammals, the small intestine is made up of three parts. One is the duodenum; what is the name for either of the other two?",
+            "answer": "jejunum, ileum",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "53",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Chinese title of the Chinese Industrial Cooperative Society, understood by an American Marine Corps officer to mean \"work together,\" provided the elements for a term that has evolved to mean \"enthusiastic\" or \"energetic.\" What is that term?",
+            "answer": "gung-ho",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "46"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "This photo appeared on the cover of a hit 1994 album by what English rock band? ",
+            "answer": "blur",
+            "image": "/images/art/34985yuc.jpg",
+            "a_percent": "48",
+            "b_percent": "41",
+            "c_percent": "36",
+            "d_percent": "30",
+            "e_percent": "21",
+            "r_percent": "29"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the common name of the herb Anethum graveolens, a member of the parsley family that is visually similar to fennel? It is used abundantly in Poland, Russia, and the Nordic countries with fish (e.g., gravlax), and is also used on potatoes, to flavor cucumbers and gherkins, and with sour cream and yogurt.",
+            "answer": "dill",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "75",
+            "e_percent": "64",
+            "r_percent": "72"
+        }
+    ]
+}

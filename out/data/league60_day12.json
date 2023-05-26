@@ -1,0 +1,79 @@
+{
+    "date": "March 5, 2014",
+    "league": 60,
+    "day": 12,
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Name the actress currently performing on Broadway as Mama Morton in the musical Chicago, the unprecedented third different lead she has played in the show (having previously starred as Velma Kelly and as Roxie Hart).",
+            "answer": "bebe neuwirth",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "25"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What archaic English word, today associated most closely with Ebenezer Scrooge, was originally defined as someone (or something) designed to mislead and deceive.",
+            "answer": "humbug",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "72",
+            "c_percent": "65",
+            "d_percent": "67",
+            "e_percent": "56",
+            "r_percent": "66"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Identify the gentleman operating the vehicle here. ",
+            "answer": "tom slick",
+            "image": "/images/art/84keporx0w49u.jpg",
+            "a_percent": "15",
+            "b_percent": "10",
+            "c_percent": "6",
+            "d_percent": "5",
+            "e_percent": "2",
+            "r_percent": "4"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The chemical simethicone is the active ingredient in medications normally administered for the treatment of pain and discomfort caused by what?",
+            "answer": "gas",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "38",
+            "c_percent": "34",
+            "d_percent": "23",
+            "e_percent": "13",
+            "r_percent": "27"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Lafayette National Park, which was created in 1919 on Mount Desert Island (and other nearby islands) off the Atlantic coast, was renamed what in 1929, in honor of colonists who settled the area in the 17th and early 18th centuries?",
+            "answer": "acadia national park",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "59",
+            "d_percent": "39",
+            "e_percent": "16",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Owned today by Pinnacle Foods, what is the best-selling food item in the United States named in honor of Abraham Lincoln?",
+            "answer": "log cabin syrup",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "51",
+            "c_percent": "49",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "39"
+        }
+    ]
+}

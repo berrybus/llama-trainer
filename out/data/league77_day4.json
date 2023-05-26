@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 4,
+    "date": "June 5, 2018",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "The Time Bandit, Cornelia Marie, Saga, Wizard, Northwestern, and (tragically) Big Valley are among the vessels that have been featured on what television series?",
+            "answer": "deadliest catch",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "45",
+            "c_percent": "37",
+            "d_percent": "29",
+            "e_percent": "25",
+            "r_percent": "31"
+        },
+        {
+            "category": "ART",
+            "prompt": "The popular skateboard and apparel brand Supreme famously \"borrowed\" its logo and aesthetic from the work, such as the graphic pictured here, of what conceptual artist? ",
+            "answer": "barbara kruger",
+            "image": "/images/art/580mc984y04y0.jpg",
+            "a_percent": "22",
+            "b_percent": "14",
+            "c_percent": "11",
+            "d_percent": "6",
+            "e_percent": "4",
+            "r_percent": "8"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Prompted by the 1902-03 armed intervention of British and German forces in Venezuela to settle debt claims, an amendment to the Monroe Doctrine was issued stating that only the United States may act as an \"international police power\" in the Western Hemisphere. This supplement is commonly known by what name, after the man who issued it in 1904?",
+            "answer": "roosevelt corollary",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What language, which has an official designation in Ethiopia and is considered a holy language by the Rastafari religion, is the second-most commonly spoken Semitic language in the world (after Arabic)?",
+            "answer": "amharic",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "21"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "\"Don't Nobody Bring Me No Bad News,\" \"Believe in Yourself,\" \"Everybody Rejoice\" (\"A Brand New Day\"), and \"Slide Some Oil to Me\" are songs from what musical that debuted on Broadway in January 1975?",
+            "answer": "the wiz",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "30",
+            "e_percent": "16",
+            "r_percent": "28"
+        },
+        {
+            "category": "MATH",
+            "prompt": "In mathematics, the best-known and most commonly used coordinate system for identifying a point in a plane is named after what man, who invented it in the 17th century?",
+            "answer": "rene descartes",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "61",
+            "e_percent": "40",
+            "r_percent": "51"
+        }
+    ]
+}

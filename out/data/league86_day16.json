@@ -1,0 +1,79 @@
+{
+    "league": 86,
+    "day": 16,
+    "date": "September 10, 2020",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Molecules of C60 (carbon-60), which are composed of clusters of 60 carbon atoms bonded together in a polyhedral structure made of pentagons and hexagons, are playfully identified by what informal term (referencing the nickname of a famous futurist and inventor who died in 1983)?",
+            "answer": "buckyballs",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "63",
+            "c_percent": "56",
+            "d_percent": "45",
+            "e_percent": "30",
+            "r_percent": "39"
+        },
+        {
+            "category": "ART",
+            "prompt": "Composition with Red, Yellow, and Blue (1928) and Composition with Yellow, Blue, and Red (1937\u201342), paintings whose palettes are limited to the three primary colors with black and white and with only vertical and horizontal lines, are indicative of the works of what master of Neo-Plasticism?",
+            "answer": "piet mondrian",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On August 10, 2020, The Rev. Jerry Prevo was named interim president of what US university?",
+            "answer": "liberty university",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "69",
+            "r_percent": "75"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The northwestern Mississippi cities of Cleveland, Greenwood, and Indianola are within a region of the state known as what? This region is associated, by name, with (among other things) the style of blues music represented by Son House, John Lee Hooker, Freddie Spruell, Charley Patton, and numerous others.",
+            "answer": "(mississippi) delta",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "62",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "\"Master Harold\"...and the Boys, which is based on the early life of playwright Athol Fugard, is among his many works set in what country?",
+            "answer": "south africa",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A US chain of women's athletic clothing and activewear stores takes its name from a landmark civil rights law passed in 1972, which mandates (in part) that a person shall be not be denied the benefits of any education program based on sex. What is that name?",
+            "answer": "title nine",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "80",
+            "d_percent": "73",
+            "e_percent": "58",
+            "r_percent": "65"
+        }
+    ]
+}

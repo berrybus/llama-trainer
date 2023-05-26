@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 11,
+    "date": "November 22, 2021",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "H.R.3684, a $1 trillion bill that was passed by the 117th Congress after a bipartisan vote in the US House of Representatives on November 5, 2021, is officially known as the [REDACTED] Investment and Jobs Act. What word has been redacted?",
+            "answer": "infrastructure",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "75",
+            "e_percent": "67",
+            "r_percent": "71"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "One of 20th-century author Mohammad-Ali Jamalzadeh's first successful short stories\u2014a genre in which he is regarded as a master\u2014was titled \"Farsi shakar ast\", which translates to English as \"_____ is Sugar\" (fill in the blank).",
+            "answer": "persian",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "56",
+            "c_percent": "44",
+            "d_percent": "32",
+            "e_percent": "18",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The \"city\" of Nuuk (technically an illoqarfik and formerly known as Godth\u00e5b) is the most populous city on what island?",
+            "answer": "greenland",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "85",
+            "d_percent": "75",
+            "e_percent": "55",
+            "r_percent": "68"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Belfast-born physicist and mathematician William Thomson, who is widely credited with clarifying the thermodynamic concept of absolute zero and determining its correct value, was elevated to the peerage in 1892, becoming 1st Baron what?",
+            "answer": "kelvin",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "67",
+            "d_percent": "53",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the last name of the patriarch and self-made millionaire who was the first chair of the Securities and Exchange Commission in 1934, chair of the powerful US Maritime Commission in 1937, and the US Ambassador to the United Kingdom in 1938?",
+            "answer": "kennedy",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "37"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Rebecca Rabbit, Suzy Sheep, and Danny Dog are among the close friends of what cheeky animated British ungulate? (Full name required.)",
+            "answer": "peppa pig",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "60",
+            "e_percent": "50",
+            "r_percent": "52"
+        }
+    ]
+}

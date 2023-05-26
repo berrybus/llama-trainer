@@ -1,0 +1,79 @@
+{
+    "date": "August 20, 2015",
+    "league": 66,
+    "day": 4,
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "72% of the liquid natural gas (LNG) imported into the U.S. comes from what Caribbean twin-island nation which, due largely to its petrochemical and industrial economy, is, by per capita GDP, the third-richest country in the Americas after the U.S. and Canada?",
+            "answer": "trinidad and tobago",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "76",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "49",
+            "r_percent": "60"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In the comic strip Calvin and Hobbes, Calvin starts a club called \"G.R.O.S.S.\", directed primarily at Susie Derkins (and usually unsuccessfully). The club could more accurately, though less colorfully, be named G.R.O.S.G—in any case, what do the letters in the club's name stand for ?",
+            "answer": "get rid of slimy girls",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "45",
+            "c_percent": "38",
+            "d_percent": "28",
+            "e_percent": "20",
+            "r_percent": "28"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name the city, built upon what was once a seven island archipelago, that was renamed in 1996 as part of a broader movement to strengthen its local Marathi identity?",
+            "answer": "mumbai (bombay)",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "46",
+            "e_percent": "25",
+            "r_percent": "40"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What was the name of the original British television series, running from 2001 to 2003, which was first adapted in Poland as Idol, and later in the U.S. as American Idol, in France as Nouvelle Star, in Australia as Australian Idol, and many others?",
+            "answer": "pop idol",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "65",
+            "c_percent": "53",
+            "d_percent": "39",
+            "e_percent": "32",
+            "r_percent": "39"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "O.J. and Nicole Brown Simpson's Akita, who is believed to have witnessed the murder of Nicole and Ronald Goldman, shared a name with another prominent figure in People of the State of California v. Orenthal James Simpson. What was that name?",
+            "answer": "kato",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "69",
+            "c_percent": "65",
+            "d_percent": "56",
+            "e_percent": "43",
+            "r_percent": "49"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the traditional English translation of the name of the Tuscan port city of Livorno? The term is used for the breed of chicken which originated there and was introduced to North America in the early 19th c. (and, by extension, the name for a famous fictional fowl).",
+            "answer": "leghorn",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "68",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "52"
+        }
+    ]
+}

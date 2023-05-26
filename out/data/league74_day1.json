@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 1,
+    "date": "August 21, 2017",
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "As measured by global revenue, two of the five biggest Wall Street investment banks have names that bear that of what legendary banker and co-architect of the formation of General Electric?",
+            "answer": "j.p. morgan",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "81",
+            "c_percent": "77",
+            "d_percent": "72",
+            "e_percent": "58",
+            "r_percent": "65"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What basketball superstar and Hall of Famer was the only player to win both the NBA and ABA Most Valuable Player Awards, accomplishing the latter three times during the league's last three years of existence while playing for the New York Nets?",
+            "answer": "julius erving",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "55",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "32",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The indigenous Mexican guerilla movement that arose in 1994 in the southeastern province of Chiapas, fighting discrimination against the Mayan people and inequality blamed on the North American Free Trade Agreement, is named after what leader of the Mexican Revolution?",
+            "answer": "emiliano zapata",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "21",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Within the Paleozoic era of the geologic timescale, two Periods sit between the Devonian and Permian Periods and are sometimes categorized as subperiods within a single Carboniferous Period. These two Periods, which span 359 to 299 million years ago, have names that reference U.S. states. Name either state.",
+            "answer": "pennsylvania, mississippi",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In the standard English version of \"Jack and the Beanstalk\", what item does Jack trade in exchange for the magic beans?",
+            "answer": "(his mother's) cow",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "76",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Roman historian Pliny the Elder is credited with naming (or at least popularizing the name of) what archipelago, which he so named because of the multitudes of large dogs who (apparently) lived there?",
+            "answer": "canary islands",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "45",
+            "e_percent": "25",
+            "r_percent": "39"
+        }
+    ]
+}

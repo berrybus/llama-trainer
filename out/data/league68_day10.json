@@ -1,0 +1,79 @@
+{
+    "date": "March 4, 2016",
+    "league": 68,
+    "day": 10,
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Though never actually a resident of the city (or country), what ethnic Albanian and Nobel Peace Prize laureate is the eponym for both the largest hospital and only international airport in Tirana, Albania?",
+            "answer": "mother teresa",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "54",
+            "d_percent": "37",
+            "e_percent": "21",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In astronomy, the \"circumstellar habitable zone\" (or CHZ) is the area around a star within which a planet (or other object) is just the right distance so that its surface temperature can support liquid water, given sufficient atmospheric pressure. This zone is also known by a name that references a famous fictional character. Who is that character?",
+            "answer": "goldilocks",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "39",
+            "r_percent": "53"
+        },
+        {
+            "category": "ART",
+            "prompt": "\"Man at the Crossroads Looking with Hope and High Vision to the Choosing of a New and Better Future.\" This was the theme of a mural commissioned for New York's Rockefeller Center in 1933, but destroyed by Nelson Rockefeller before its completion due largely to its inclusion of a portrait of Lenin. Name the Mexican Marxist and avowed Communist who painted this ill-fated mural.",
+            "answer": "diego rivera",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "52"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What was the name of both the owner/proprietor and (through the first seven seasons) his enthusiastic assistant on the television series Fantasy Island?",
+            "answer": "mr. roarke, tattoo",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "39",
+            "d_percent": "28",
+            "e_percent": "16",
+            "r_percent": "28"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Fill in the blank in this ordered list of cities (note that this series is a segment of a complete list): Helsinki, Melbourne, Rome, __________, Mexico City, Munich, Montreal, Moscow. ",
+            "answer": "tokyo",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "70",
+            "c_percent": "56",
+            "d_percent": "40",
+            "e_percent": "21",
+            "r_percent": "38"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Complete these lyrics, written and first recorded in 1962:How many roads must a man walk downBefore you call him a man?How many seas must a white dove sailBefore she sleeps in the sand?How many times must the cannonballs flyBefore they're forever banned?The answer, my friend, is ________________.",
+            "answer": "blowin' in the wind",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "96",
+            "d_percent": "90",
+            "e_percent": "81",
+            "r_percent": "84"
+        }
+    ]
+}

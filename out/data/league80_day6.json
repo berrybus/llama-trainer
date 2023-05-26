@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 6,
+    "date": "February 27, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The formal name of the club known colloquially as the All England Club, located in the Wimbledon district in London, references two lawn sports, with one being tennis. What is the other\u2014a game for which the club was founded in 1868 (though tournaments are no longer hosted there)?",
+            "answer": "croquet",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "61",
+            "c_percent": "52",
+            "d_percent": "45",
+            "e_percent": "39",
+            "r_percent": "42"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "BNSF Railway, created via a 1996 merger, is the largest freight railroad network in North America. What do any of the letters in BNSF stand for?",
+            "answer": "burlington northern santa fe",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What term in mathematics most commonly represents the set of all values that a given function's independent variable (e.g. \"x\" in y=2x) can have?",
+            "answer": "domain",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "36",
+            "c_percent": "30",
+            "d_percent": "26",
+            "e_percent": "20",
+            "r_percent": "22"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What adjective, a relative neologism found almost exclusively in scientific contexts, is most commonly used to describe, as a formal term, DNA molecules produced by merging genetic material from two or more different sources via genetic engineering? The word is represented by the first letter in the typical four-letter designation for this type of DNA molecule.",
+            "answer": "recombinant",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "32",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "18"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the country that completes this quote, declared by Juan Guaido on January 23, 2019: \"Juro asumir formalmente las competencias del Ejecutivo nacional como el presidente encargado de ________.\"",
+            "answer": "venezuela",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "89",
+            "e_percent": "82",
+            "r_percent": "81"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Five lines, usually made of amphibrachs and anapests, with two feet in each of the third and fourth lines and three feet in the others, with a strict rhyming scheme of aabba, is a verse form known by a name that is shared with what city?",
+            "answer": "limerick",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "55",
+            "r_percent": "65"
+        }
+    ]
+}

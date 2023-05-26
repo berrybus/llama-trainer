@@ -1,0 +1,79 @@
+{
+    "date": "September 21, 2015",
+    "league": 66,
+    "day": 22,
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "List all three of the certain unalienable Rights that all men are endowed by their Creator, according to the Preamble of the United States Declaration of Independence.",
+            "answer": "life, liberty, and the pursuit of happiness",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "97",
+            "d_percent": "95",
+            "e_percent": "91",
+            "r_percent": "93"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"While My Guitar Gently Weeps,\" \"Taxman,\" \"Something,\" \"Here Comes the Sun,\" and \"If I Needed Someone\" are the most successful of around two dozen songs, released by The Beatles before their 1970 breakup, that share what distinction?",
+            "answer": "george harrison song (songwriter/lead vocalist)",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "82",
+            "d_percent": "75",
+            "e_percent": "61",
+            "r_percent": "69"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "A brigandine, plackart, hauberk, gorget, barbute, sallet, burgonet, cuirass, rondel, and vambrace are all items that collectively can be best described as what?",
+            "answer": "armor",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "44",
+            "e_percent": "29",
+            "r_percent": "46"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The points on the Earth's surface where the Sun's rays strike the Earth perpendicularly on (or right around) December 22 form a parallel of latitude that is known as what?",
+            "answer": "tropic of capricorn",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "55",
+            "e_percent": "39",
+            "r_percent": "44"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Identify this superhero. ",
+            "answer": "word girl",
+            "image": "/images/art/7y7c94875.jpg",
+            "a_percent": "29",
+            "b_percent": "18",
+            "c_percent": "14",
+            "d_percent": "10",
+            "e_percent": "11",
+            "r_percent": "14"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Of the main types of Japanese noodles, the most common are ramen and udon, made from wheat flour, and soba, which usually contains some wheat flour added to the flour of what other crop? In fact, \"soba\" is the Japanese name for this plant.",
+            "answer": "buckwheat",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "30",
+            "r_percent": "42"
+        }
+    ]
+}

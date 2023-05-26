@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 7,
+    "date": "November 21, 2017",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Law of the Roman Republic decreed that generals who led forces outside Italy had to relinquish their commands before returning. Julius Caesar violated this law in 49 BCE, traversing with his legion a stream that formed a border between Italy and Cisalpine Gaul, and starting a revolution that led to the Roman Empire. What was the name of this stream?",
+            "answer": "rubicon",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "81",
+            "d_percent": "69",
+            "e_percent": "40",
+            "r_percent": "59"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Although film adaptations of novels are common, the less frequent reverse\u2014a novel adapted from a screenplay\u2014occurred with what romance best-seller released on February 14, 1970? The novel kept the name of the film version released that same year.",
+            "answer": "love story",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "60",
+            "d_percent": "46",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What artist and TV personality was discovered while a member of the Laker Girls cheerleading squad and choreographed videos from Janet Jackson's Control album before achieving pop stardom of her own later in the 1980s?",
+            "answer": "paula abdul",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "80",
+            "d_percent": "73",
+            "e_percent": "62",
+            "r_percent": "68"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Correctly spell the plural form of the French singular noun cheval.",
+            "answer": "chevaux",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "41",
+            "d_percent": "31",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Leaked through a pair of reporters at the German newspaper S\u00fcddeutsche Zeitung, a trove of 13.4 million files was unveiled in early November 2017 that relate to controversial offshore investments by numerous prominent companies and individuals. This set of documents is known by what name?",
+            "answer": "paradise papers",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term for the red, orange, or black accessory fruit of the rose plant? Very rich in ascorbic acid, they are often used as a nutritional supplement for vitamin C.",
+            "answer": "hips",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "60",
+            "e_percent": "45",
+            "r_percent": "58"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 76,
+    "day": 9,
+    "date": "March 7, 2018",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Fill in the two-word blank in the following question asked in a famous 1989 Guerrilla Girls poster that parodies Jean-Auguste-Dominique Ingres's Grande Odalisque: Do women have to _____ _____ to get into the Met. Museum?",
+            "answer": "be naked",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "22",
+            "e_percent": "13",
+            "r_percent": "22"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "The Follies of 1907 was the first in a long-lived series of flamboyant revues by what American producer, who added his name to the series in 1911 and presented it annually through 1927 (and intermittently thereafter)?",
+            "answer": "florenz ziegfeld, jr.",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "60",
+            "d_percent": "44",
+            "e_percent": "25",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In the Warriors series of children's novels by Erin Hunter, what type of animal are the \"warriors\"?",
+            "answer": "cats",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "32",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "18",
+            "r_percent": "27"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What two-word slogan and ideological term was used as the title of a 1954 book by Richard Wright and was later popularized by Stokely Carmichael during his time as Chairman of the Student Nonviolent Coordinating Committee (SNCC) before evolving into a broader (and potent) political movement? ",
+            "answer": "black power",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "64",
+            "c_percent": "51",
+            "d_percent": "37",
+            "e_percent": "21",
+            "r_percent": "39"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Following his departure as chairman of Walt Disney Studios, Jeffrey Katzenberg joined fellow industry titans Steven Spielberg and David Geffen to form what film studio?",
+            "answer": "dreamworks (skg)",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "66",
+            "e_percent": "51",
+            "r_percent": "61"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What Yiddish term for \"spectator\" is used in games such as chess for the practice, often highly frowned upon, of making comments that can be heard by the players?",
+            "answer": "kibitz/kibitzer",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "62",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "23",
+            "r_percent": "31"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 10,
+    "date": "November 19, 2021",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the two-word phrase for the property of a liquid where the molecules at its exterior edge show a strong inward attraction, with these cohesive forces forming an apparent outer membrane across the edge?",
+            "answer": "surface tension",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "67",
+            "e_percent": "55",
+            "r_percent": "62"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Derived from the French verb meaning \"to spin thread\", what is the four-letter name of the herb\u2014dried sassafras leaves reduced to powder\u2014that can be used to thicken and flavor soups, stews, and, most notably, gumbo?",
+            "answer": "fil\u00e9",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Nereids, Naiads, Dryads, Oceanids, and Napaeae were among the groups of minor divinities in Greek mythology who are collectively classified by what term, from the Greek for \"bride\" or \"young wife\"?",
+            "answer": "nymph",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "85",
+            "c_percent": "76",
+            "d_percent": "66",
+            "e_percent": "53",
+            "r_percent": "65"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "With the christening of the Chiefs' home in March 2021 as GEHA Field at Arrowhead Stadium, there remain exactly three stadiums that are primary homes to NFL teams and are not named after a corporate entity. Give the full name (city and team name) of any one of the three teams that play in these three stadiums.",
+            "answer": "chicago bears, cincinnati bengals, green bay packers",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "84",
+            "c_percent": "77",
+            "d_percent": "70",
+            "e_percent": "62",
+            "r_percent": "66"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Although originally included in the 1963 establishment of the Federation of Malaysia, which of the country's fourteen states was forced to secede\u2014and form its own nation\u2014in 1965 due (at least in part) to fears that its largely Chinese population would challenge Malay political dominance?",
+            "answer": "singapore",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "81",
+            "c_percent": "74",
+            "d_percent": "63",
+            "e_percent": "45",
+            "r_percent": "59"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Rose Marie, George Gobel, Vincent Price, and, most centrally, Paul Lynde were stars that appeared regularly on the classic version of what game show? ",
+            "answer": "hollywood squares",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "82",
+            "d_percent": "74",
+            "e_percent": "62",
+            "r_percent": "65"
+        }
+    ]
+}

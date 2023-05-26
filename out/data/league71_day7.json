@@ -1,0 +1,79 @@
+{
+    "date": "November 22, 2016",
+    "league": 71,
+    "day": 7,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Per the information on its packaging and in its marketing, what type of cake is used to produce a Hostess Twinkie?",
+            "answer": "(golden) sponge cake",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "75",
+            "c_percent": "68",
+            "d_percent": "58",
+            "e_percent": "51",
+            "r_percent": "58"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The world's first woman to be democratically elected as chief of state was Vigdís Finnbogadóttir, who served as what nation's president beginning in August 1980?",
+            "answer": "iceland",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "72",
+            "e_percent": "50",
+            "r_percent": "64"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What Norwegian's last name comes next in this chronological list? Spassky, Fischer, Karpov, Kasparov, Karpov, Khalifman, Anand, Ponomariov, Kasimdzhanov, Topalov, Kramnik, Anand, _________.",
+            "answer": "(magnus) carlsen",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "44",
+            "c_percent": "29",
+            "d_percent": "21",
+            "e_percent": "13",
+            "r_percent": "16"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A debilitating 1984-85 coal miners strike and its effects on a working-class community in County Durham in northeast England provide a crisis central to the story of what Broadway musical (and the movie on which it is based)?",
+            "answer": "billy elliot: the musical",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "53",
+            "c_percent": "49",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Sufferers of a particular hereditary degenerative disorder of connective tissue, bones, ligament, and muscles tend to be tall and thin with long limbs and digits, and have included Olympic volleyball player Flo Hyman, Rent composer Jonathan Larson, actor Vincent Schiavelli, and possibly Akhenaten and Abe Lincoln (but, conspiracy theories aside, probably not Osama bin Laden). What is this syndrome, named after a late-19th/early-20th-century French pediatrician?",
+            "answer": "marfan syndrome",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "66",
+            "c_percent": "55",
+            "d_percent": "44",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "With works that include the quartet \"Death and the Maiden,\" the song cycle Die schöne Müllerin, and several symphonies (some completed; others unfinished), the output of this great Austrian melodist is vast—notably so, given his premature death at age 31.",
+            "answer": "franz schubert",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "57",
+            "c_percent": "42",
+            "d_percent": "30",
+            "e_percent": "14",
+            "r_percent": "28"
+        }
+    ]
+}

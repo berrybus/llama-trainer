@@ -1,0 +1,79 @@
+{
+    "date": "December 5, 2016",
+    "league": 71,
+    "day": 13,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A regulatory commission was established in Europe in 1948, currently headquartered in Budapest, Hungary, and including only fellow riparian nations, for the common purpose of improving, maintaining, and safeguarding free navigation of what?",
+            "answer": "danube river",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "63",
+            "d_percent": "50",
+            "e_percent": "32",
+            "r_percent": "39"
+        },
+        {
+            "category": "ART",
+            "prompt": "1944's Hoosick Falls in Winter is among the works painted during the 23-year career of what American artist, who died in December 1961 at age 101?",
+            "answer": "grandma moses",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "54",
+            "d_percent": "37",
+            "e_percent": "20",
+            "r_percent": "32"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The first parliamentary democracy was officially created in Germany with the signing into law of the Constitution of the German Reich by SDP member and provisional president of the German Reichstag (and chancellor-to-be) Friedrich Ebert. The signing took place in 1919 in what city?",
+            "answer": "weimar (schwarzburg)",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "52",
+            "c_percent": "39",
+            "d_percent": "27",
+            "e_percent": "12",
+            "r_percent": "26"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What Hindi word, adopted into English and very common on menus of Indian restaurants, has much the same meaning as kebab, referring to small chunks of grilled meat (usually)?",
+            "answer": "tikka",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "44",
+            "c_percent": "35",
+            "d_percent": "30",
+            "e_percent": "23",
+            "r_percent": "30"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Rewrite the following sentence, changing the verb to past perfect progressive: I think.",
+            "answer": "i had been thinking",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "37"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Wandsworth, Brixton, Wakefield, Wormwood Scrubs, Albany, Long Lartin, and Parkhurst are all British examples of what?",
+            "answer": "prisons",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "39",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "17"
+        }
+    ]
+}

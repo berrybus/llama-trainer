@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 16,
+    "date": "June 12, 2020",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Kate Greenaway, who was born in London in 1846, achieved significant popularity and wealth during her lifetime in what profession? A medal established in her name in 1955 honors contemporary practitioners of this profession.",
+            "answer": "illustrator/artist",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "22",
+            "c_percent": "16",
+            "d_percent": "10",
+            "e_percent": "5",
+            "r_percent": "15"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What Southeastern Conference team, behind co-MVPs Peerless Price (WR) and Dwayne Goodrich (CB), won the inaugural BCS National Championship Game for the 1998 season, defeating Florida State 23\u201316? The school has not appeared in any subsequent college football championship games, nor has it ever come close to appearing in the succeeding four-team College Football Playoff.",
+            "answer": "tennessee volunteers",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "45",
+            "c_percent": "36",
+            "d_percent": "30",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the titan of romantic love duets who won a Grammy in 1993 for Best Pop Performance by a Duo or Group with Vocal, for \"Beauty and the Beast\" (with Celine Dion), and the very same award the following year for \"A Whole New World (Aladdin's Theme)\" (with Regina Belle).",
+            "answer": "peabo bryson",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "32",
+            "d_percent": "24",
+            "e_percent": "16",
+            "r_percent": "23"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The name for what edible mushroom, also known as egg mushroom, is derived from the Latin meaning \"little cup\", in reference to its shape?",
+            "answer": "chanterelle",
+            "image": null,
+            "a_percent": "22",
+            "b_percent": "14",
+            "c_percent": "11",
+            "d_percent": "9",
+            "e_percent": "6",
+            "r_percent": "9"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In May 2015, what traditionally Catholic country became the first country to legalize same-sex marriage by popular vote? The country voted to repeal a constitutional ban on abortion three years later.",
+            "answer": "ireland",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "83",
+            "d_percent": "77",
+            "e_percent": "65",
+            "r_percent": "74"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A word for a certain type of building is used as a unit of area for the cross-sections in interactions among nuclei and subatomic particles, equal to 10-28m2. What is that word?",
+            "answer": "barn",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "21",
+            "c_percent": "14",
+            "d_percent": "10",
+            "e_percent": "6",
+            "r_percent": "12"
+        }
+    ]
+}

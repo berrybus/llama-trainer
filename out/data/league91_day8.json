@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 8,
+    "date": "November 17, 2021",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What was the last name of the brothers who operated a haberdashery for many years on the corner of 49th Street and Broadway in Manhattan, in a building they would come to own for decades (and name after themselves), and which would become a locus for American popular music?",
+            "answer": "brill",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "34",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "15"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The October 1986 summit meeting between Ronald Reagan and Mikhail Gorbachev, which defied expectations by nearly ending the Cold War arms race and bringing about nuclear disarmament, took place in what European capital city?",
+            "answer": "reykjavik",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "47",
+            "c_percent": "34",
+            "d_percent": "22",
+            "e_percent": "11",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Until October 2018, the name of a famous bridge (originally the Narrows Bridge) was officially misspelled for more than fifty years due to a typo in a construction contract (as it properly has two double letters, not just one). What was this misspelled word (correct spelling not required)?",
+            "answer": "verrazzano",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "34",
+            "r_percent": "46"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The best-selling American football video game is known by the shorthand \"Madden\"; the best-selling basketball series is \"2K'; baseball's is \"MLB the Show\". What is the common short name for the best-selling soccer video game series of all time (and by far the biggest for any sport)?",
+            "answer": "fifa",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "90",
+            "c_percent": "89",
+            "d_percent": "86",
+            "e_percent": "84",
+            "r_percent": "85"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the meteorological term for a brief, sudden, violent windstorm, lasting longer than a gust (at least a minute) but shorter than a sustained wind? (It is derived etymologically from a Nordic term\u2014perhaps nautical, perhaps meaning to \"cry out\"\u2014and is at the center of a 1996 Ridley Scott box office disappointment.)",
+            "answer": "squall",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "24",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Nadine Gordimer novels The Late Bourgeois World (1966), Burger's Daughter (1979), and July's People (1981) were set in, and banned in, what country?",
+            "answer": "south africa",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "48",
+            "c_percent": "32",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "21"
+        }
+    ]
+}

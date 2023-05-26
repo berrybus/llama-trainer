@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 5,
+    "date": "February 26, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Of the eight planets of the solar system, name all of the planets that are typically classified as \"ice giants.\"",
+            "answer": "uranus, neptune",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "61",
+            "e_percent": "49",
+            "r_percent": "58"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Billy Wilder had it in the Afternoon, Andrzej Wajda had it in Germany, Fran\u00e7ois Truffaut had it on the Run, and Franco Zeffirelli's was Endless. What is \"it\"?",
+            "answer": "love",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "68",
+            "e_percent": "57",
+            "r_percent": "64"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The title of a comic strip by Arthur R. \"Pop\" Momand, which debuted in the New York Globe in 1913, is the source for what idiomatic phrase, roughly defined as maintaining one's social level in relation to proximate lifestyles? Momand's inspiration for the strip was his own rivalry with his neighbors.",
+            "answer": "keeping up with the joneses",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "93",
+            "d_percent": "90",
+            "e_percent": "82",
+            "r_percent": "84"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Yalu River, also known locally as the Amnok, provides a border between what two sovereign states?",
+            "answer": "china, north korea",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "46",
+            "c_percent": "33",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "22"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Name the man who ascended to the presidency of Egypt following the assassination of Anwar Sadat in 1981, and served in that position until his resignation during the Egyptian revolution of 2011.",
+            "answer": "hosni mubarak",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "62",
+            "e_percent": "41",
+            "r_percent": "57"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "While most of his famous and enduring characters have occupations relating to seafaring, Herman Melville's Bartleby held what other specific, titular profession?",
+            "answer": "scrivener",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "49",
+            "e_percent": "31",
+            "r_percent": "42"
+        }
+    ]
+}

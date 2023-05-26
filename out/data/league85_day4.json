@@ -1,0 +1,79 @@
+{
+    "league": 85,
+    "day": 4,
+    "date": "May 26, 2020",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "What two words for Vespa mandarinia fill in the blank in this excerpt from a report in the May 2, 2020 edition of the New York Times: \"Jun-ichi Takahashi, a researcher at Kyoto Sangyo University in Japan, said the species had earned the 'BLANK' nickname there because its aggressive group attacks can expose victims to doses of toxic venom equivalent to that of a venomous snake...\"",
+            "answer": "murder hornet",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "81",
+            "c_percent": "77",
+            "d_percent": "70",
+            "e_percent": "59",
+            "r_percent": "64"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A 17-minute short film titled \"St. Louis Blues\" is the only known existing footage of what singer, who is widely regarded as the greatest and most influential American woman blues singer of all time and was heralded as the \"Empress of the Blues\"?",
+            "answer": "bessie smith",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "43",
+            "c_percent": "30",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The MLB star known as \"Teddy Ballgame\" retired after the 1960 season, a star nicknamed \"Donnie Baseball\" played his last season in 1995, and a quarterback dubbed \"Johnny Football\" debuted in the NFL in 2014. What are the last names of these three players?",
+            "answer": "williams, mattingly, manziel",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "33"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In 1969, what woman resumed control of the Austin, Texas-based television and radio stations KTBC, which she had placed into a trust six years earlier and had originally acquired in 1943?",
+            "answer": "lady bird johnson",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "50",
+            "e_percent": "28",
+            "r_percent": "46"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What integer fills in the blank in this mathematical sequence? 2, 3, 18, 83, 258, ___, 1298.",
+            "answer": "627 (n4 + 2, n = 0, 1, 2, 3, 4, 5, 6)",
+            "image": null,
+            "a_percent": "31",
+            "b_percent": "27",
+            "c_percent": "23",
+            "d_percent": "18",
+            "e_percent": "13",
+            "r_percent": "20"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A 2019 marketing campaign for a \"fast-casual\" restaurant chain playfully suggested possibilities for what the five letters in its name stand for, though in reality, the name was invented by an ad agency in 1999. What is that name?",
+            "answer": "qdoba",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "47",
+            "c_percent": "44",
+            "d_percent": "36",
+            "e_percent": "26",
+            "r_percent": "37"
+        }
+    ]
+}

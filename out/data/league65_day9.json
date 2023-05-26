@@ -1,0 +1,79 @@
+{
+    "date": "May 29, 2015",
+    "league": 65,
+    "day": 9,
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Adi Granth, compiled by Arjan Dev Ji in the early 17th c., is a text revered today (in expanded modern form) by followers of what religion?",
+            "answer": "sikhism",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "49",
+            "d_percent": "33",
+            "e_percent": "22",
+            "r_percent": "36"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The highest peak in New Zealand, the strait that separates that country's North and South Islands, and an island nation in the South Pacific associated with New Zealand are all named after what navigator?",
+            "answer": "james cook",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "82",
+            "d_percent": "75",
+            "e_percent": "54",
+            "r_percent": "65"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In April, 2015, Pope Francis kindled a diplomatic confrontation by describing as \"the first genocide of the 20th century\" the \"senseless slaughter\" during WWI of members of what ethnic group?",
+            "answer": "armenians",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "70",
+            "r_percent": "78"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While the origination of this phrase is sometimes credited to Common Sense, it never actually appeared in Thomas Paine's pamphlet. Rather, its first documentary evidence appears in an article in a March 1776 edition of The Virginia Gazette, anonymously signed \"A PLANTER\". What is this very familiar, nationally known phrase?",
+            "answer": "united states of america",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "22",
+            "c_percent": "13",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "10"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What pop music superstar, early in his career, wrote commercial jingles for Band-Aid (\"I am stuck on Band-Aid, 'cause Band-Aid's stuck on me\"), Stridex (\"Give your face something to smile about with Stridex...\"), State Farm (\"Like a good neighbor, State Farm is there\"), and McDonald's (\"You Deserve a Break Today\")?",
+            "answer": "barry manilow",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "44",
+            "c_percent": "37",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the term for the technique of using ultrasound, X-rays, or other penetrating waves to procure diagnostic images of structures deep within a body via sectioning? It is the \"T\" in CAT scan.",
+            "answer": "tomography",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "50",
+            "d_percent": "45",
+            "e_percent": "29",
+            "r_percent": "43"
+        }
+    ]
+}

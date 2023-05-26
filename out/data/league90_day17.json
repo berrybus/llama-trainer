@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 17,
+    "date": "August 31, 2021",
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "Many historians now believe that it was White House servants, many of whom were enslaved, who saved the Lansdowne portrait (a painting by Gilbert Stuart of George Washington) during the burning of Washington in 1814, and not what woman, though she did order it to be saved?",
+            "answer": "dolley madison",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "78",
+            "d_percent": "63",
+            "e_percent": "41",
+            "r_percent": "55"
+        },
+        {
+            "category": "ART",
+            "prompt": "A term in pottery for a piece that has been fired once in a kiln but has not been glazed, in preparation for final glazing and firing, is also used\u2014unrelatedly\u2014for a certain type of French soup. What is that term?",
+            "answer": "bisque",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "50",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "31",
+            "r_percent": "40"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A certain cutting implement, which usually has handles on each end and is rocked back and forth to chop and mince items such as herbs, cheeses, and meats, gets its name from its crescent-like shape. What is that Italian name?",
+            "answer": "mezzaluna",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "15",
+            "r_percent": "26"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Loveable egg\" is one reported and suitable translation for the name of what toy and virtual pet that was released in Japan in 1996?",
+            "answer": "tamagotchi",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "87",
+            "d_percent": "84",
+            "e_percent": "80",
+            "r_percent": "81"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term, a blended word coined in the 1950s combining a three-word phrase, is used for a substance such as a soap or other detergent that is added to water or another liquid to increase its wetting properties (by reducing its surface tension)?",
+            "answer": "surfactant",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "40",
+            "c_percent": "34",
+            "d_percent": "26",
+            "e_percent": "19",
+            "r_percent": "28"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name the award-winning play whose story transpires over a few weeks during the summer at the home of Beverly and Violet Weston of Pawhuska, Oklahoma.",
+            "answer": "august: osage county",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "47",
+            "c_percent": "34",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "20"
+        }
+    ]
+}

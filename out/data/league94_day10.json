@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 10,
+    "date": "September 12, 2022",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name of the ruling family, still in power today, that was established in the 15th century in a town called Diriyah within a geographic area known as the Nejd, and whose fortunes grew after its alignment with theologian Muhammed ibn Abd al-Wahhab in 1745?",
+            "answer": "house of saud",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "50",
+            "e_percent": "27",
+            "r_percent": "43"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "If you've ever spent any time working in restaurants, you know the kind of recurring anxiety dream [REDACTED] immediately conjures: packed tables, malfunctioning equipment, orders piling up so fast that the kitchen can't process them, frayed nerves, incipient breakdown. Thus begins a positive review by Sophie Gilbert in The Atlantic for what 2022 series, whose title is redacted in the quote?",
+            "answer": "the bear",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "64",
+            "c_percent": "61",
+            "d_percent": "56",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Individual investors (\"names\"), as part of \"syndicates\", provide cash funds and accept unlimited liability for insurance policies via their membership in a London-based institution with what name?",
+            "answer": "lloyd's",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "58",
+            "e_percent": "40",
+            "r_percent": "47"
+        },
+        {
+            "category": "ART",
+            "prompt": "What rapper, successful both as a solo artist and a member of the trio Migos, has a professional name which is also the name of a method used in printing where the orientation of an original image is reversed (so that the copy is oriented properly)? ",
+            "answer": "offset",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In July 2022, Droupadi Murmu took office in what role, the second woman and\u2014as a Santal\u2014the first person from a Scheduled Tribe to hold the position?",
+            "answer": "president of india",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "30",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "5",
+            "r_percent": "15"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In the mid-1800s, French physicist L\u00e9on Foucault publicly demonstrated the rotation of the Earth using a mechanical system that is best known (especially in association with this experiment) as a what?",
+            "answer": "pendulum",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "72",
+            "e_percent": "53",
+            "r_percent": "65"
+        }
+    ]
+}

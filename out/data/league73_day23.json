@@ -1,0 +1,79 @@
+{
+    "league": 73,
+    "day": 23,
+    "date": "June 15, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "The first Motown song to reach the top spot on the Billboard Hot 100 is a single by The Marvelettes from 1961 that describes, essentially, a desperate request to a man who holds what occupation?",
+            "answer": "postman",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "63",
+            "r_percent": "68"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What infectious disease is redacted from this image? ",
+            "answer": "dysentery",
+            "image": "/images/art/2487x5n39842.jpg",
+            "a_percent": "90",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "87",
+            "e_percent": "84",
+            "r_percent": "84"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the zooplankton species of the order Euphausiacea, which are small crustaceans that float in the ocean in large numbers, providing the main food source for baleen whales?",
+            "answer": "krill",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "85",
+            "c_percent": "80",
+            "d_percent": "71",
+            "e_percent": "58",
+            "r_percent": "69"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Gozo and Comino are the smaller two of the three inhabited islands which, with some minor uninhabited islands, make up what European nation?",
+            "answer": "malta",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "46",
+            "e_percent": "27",
+            "r_percent": "43"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Jack Robin, formerly Jakie Rabinowitz, was the title character of what popular 1927 film?",
+            "answer": "the jazz singer",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "60",
+            "c_percent": "48",
+            "d_percent": "35",
+            "e_percent": "17",
+            "r_percent": "28"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In Edgar Allan Poe's \"The Raven\", what is the name of the distraught narrator's lost love? The ominous bird of yore, perched above the chamber door, eyes burned into his bosom's core, though he truly does implore, by the God they both adore, says he will see her nevermore.",
+            "answer": "lenore",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "62",
+            "e_percent": "43",
+            "r_percent": "56"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 9,
+    "date": "May 27, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The title of a dystopian 1997 Kevin Costner box-office bomb is fully contained within the title of a 1946 film noir. What is the title of that earlier film (not the Costner film), which starred John Garfield and Lana Turner as scheming, ill-fated lovers?",
+            "answer": "the postman always rings twice",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "59",
+            "c_percent": "43",
+            "d_percent": "27",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "With Gonzaga's loss to Baylor in the championship game of the 2021 NCAA Division I Men's Basketball Tournament, what Big Ten school remains the most recent to win the D1 men's championship and finish the season undefeated, having accomplished the feat in the 1975-76 season?",
+            "answer": "indiana university",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "39",
+            "e_percent": "30",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Life's What You Make It\", \"The Wild Boys\", and \"Broken Wings\" were singles released in the mid-1980s by three different but syntactically similarly named bands. Name any one of the three.",
+            "answer": "talk talk, duran duran, mr. mister",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "65",
+            "c_percent": "52",
+            "d_percent": "38",
+            "e_percent": "24",
+            "r_percent": "37"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Galvanization and sherardizing are processes for protecting metals (especially iron or steel) from corrosion by coating them with a layer of what metallic element?",
+            "answer": "zinc",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "29",
+            "r_percent": "39"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The frontierswoman and member of Buffalo Bill's Wild West Show born in Missouri in 1852 to Charlotte and Robert Cannary, noted in her time and beyond for her riding, shooting, compassion, heavy drinking, and wild behavior, is best known by what apt moniker?",
+            "answer": "calamity jane",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "77",
+            "c_percent": "66",
+            "d_percent": "51",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What term used in Christianity, probably most familiar in its past tense form, means to grant absolution or to impose penance, and is indirectly associated with the consumption of pancakes?",
+            "answer": "shrive/shrove",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "37",
+            "c_percent": "27",
+            "d_percent": "19",
+            "e_percent": "12",
+            "r_percent": "15"
+        }
+    ]
+}

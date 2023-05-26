@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 16,
+    "date": "August 30, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "One of the thousands of men, recently freed from enslavement, who worked in the 1870s on the Chesapeake & Ohio Railway's Big Bend Tunnel in West Virginia is the basis for what mythical hero and steel-driving man?",
+            "answer": "john henry",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "75",
+            "d_percent": "65",
+            "e_percent": "46",
+            "r_percent": "55"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The People's Action Party, led by Lee Kuan Yew, dominated politics in what country from the late 1950s through Lee's resignation as prime minister in 1990, a period during which the country became one of the world's most successful economies?",
+            "answer": "singapore",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "58",
+            "c_percent": "48",
+            "d_percent": "39",
+            "e_percent": "28",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What component of the human brain takes its name from the Greek term for \"seahorse\", due to its similar shape?",
+            "answer": "hippocampus",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "64",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "50"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What men's fragrance, introduced in 1982 by Guy Laroche, was noted not only for its foug\u00e8re scent, but also for its hypermasculine advertising and sleek black metallic bottle?",
+            "answer": "drakkar noir",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "23",
+            "r_percent": "32"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the two teams that faced off in both the 2021 CONCACAF Nations League Final and the 2021 CONCACAF Gold Cup Final.",
+            "answer": "mexico, united states",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "47",
+            "c_percent": "41",
+            "d_percent": "34",
+            "e_percent": "26",
+            "r_percent": "32"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Beaver Valley Cave\u2014reportedly the only cave in Delaware\u2014was the shooting location representing the cave in rural Vermont that provided the meeting spot for the titular group in what 1989 movie?",
+            "answer": "dead poets society",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "42",
+            "c_percent": "33",
+            "d_percent": "26",
+            "e_percent": "18",
+            "r_percent": "27"
+        }
+    ]
+}

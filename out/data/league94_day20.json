@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 20,
+    "date": "September 26, 2022",
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "It's widely held that modern art was introduced to America in 1913 at an exhibition formally and straightforwardly named the International Exhibition of Modern Art. This show is informally (and probably better) known by a name that refers to the type of building where it was held, in New York City. Per that informal name, what type of building was that? ",
+            "answer": "armory",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "40",
+            "c_percent": "29",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What airline, a current Oneworld alliance member and flag carrier of Hong Kong, uses in its name an ancient name for China? (Note, the name of the airline is required.)",
+            "answer": "cathay pacific",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "44",
+            "d_percent": "31",
+            "e_percent": "20",
+            "r_percent": "33"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1939 Frank Capra film that received 11 Oscar nominations and was the breakout performance for star James Stewart, as country bumpkin Jefferson Smith, was set primarily in what city?",
+            "answer": "washington, dc",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "88",
+            "c_percent": "79",
+            "d_percent": "66",
+            "e_percent": "44",
+            "r_percent": "56"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Give the last names of all of the women who have served as prime minister of the United Kingdom.",
+            "answer": "thatcher, may, truss",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "53",
+            "e_percent": "32",
+            "r_percent": "52"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "\"Holy warriors\" is a translation of what term used for Muslim guerrilla fighters who resisted Soviet occupation after the invasion of Afghanistan in late 1979?",
+            "answer": "mujahideen",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "62",
+            "e_percent": "39",
+            "r_percent": "54"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Songs by Frankie Avalon (1959), Carly Simon (1982), Bronski Beat (1984), Annie Lennox (1992), Jadakiss (2004), and Jason Aldean (2005) all have the same one-word title, which is what?",
+            "answer": "why",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "30",
+            "d_percent": "20",
+            "e_percent": "14",
+            "r_percent": "26"
+        }
+    ]
+}

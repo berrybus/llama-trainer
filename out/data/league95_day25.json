@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 25,
+    "date": "December 14, 2022",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "J.S. Bach's Toccata and Fugue in D minor, Stravinsky's The Rite of Spring, Mussorgsky's \"Night on Bald Mountain,\" and Schubert's \"Ave Maria\" are among the classical works featured in what animated 1940 film?",
+            "answer": "fantasia",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "91",
+            "e_percent": "80",
+            "r_percent": "81"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The most violent and radical phase of the French Revolution began with the creation of the Committee of Public Safety on September 5, 1793, and largely ended with the guillotining of Maximilien Robespierre in late July 1794. By what specific name (in English) is this period best known?",
+            "answer": "reign of terror",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "77",
+            "d_percent": "60",
+            "e_percent": "38",
+            "r_percent": "53"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "A 1994 MTV Unplugged performance titled Unledded and an album from that same year titled No Quarter featured the reunion of what two rock and roll icons?",
+            "answer": "robert plant, jimmy page",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "76",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "36",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The ideal gas law states that under constant pressure and temperature, the volume of a gas depends solely on the number of moles of its molecules. The law is commonly expressed by the formula PV = _ _ _. What three letters (in order) fill in the blanks, representing the number of moles, the gas constant, and the absolute temperature, respectively?",
+            "answer": "nrt",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "50",
+            "c_percent": "43",
+            "d_percent": "38",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The soccer kit of what three-time Men's FIFA World Cup runner-up is closely associated with the color orange? ",
+            "answer": "netherlands",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "79",
+            "e_percent": "67",
+            "r_percent": "73"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the binary number 1011111 when converted to Roman numerals?",
+            "answer": "xcv",
+            "image": null,
+            "a_percent": "48",
+            "b_percent": "40",
+            "c_percent": "34",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "24"
+        }
+    ]
+}

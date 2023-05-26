@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 14,
+    "date": "September 7, 2018",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the general elections of 1995, incumbent Alberto Fujimori handily defeated former United Nations Secretary General Javier P\u00e9rez de Cu\u00e9llar to retain the presidency of what country?",
+            "answer": "peru",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "72",
+            "c_percent": "60",
+            "d_percent": "46",
+            "e_percent": "27",
+            "r_percent": "44"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What term for fans of a work of art who romantically pair major characters in that work is believed to have originated with The X-Files, and fanfiction writers who detail a romantic union between Fox Mulder and Dana Scully?",
+            "answer": "shipper",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "54",
+            "c_percent": "52",
+            "d_percent": "45",
+            "e_percent": "37",
+            "r_percent": "42"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What Yiddish term is used for the rendered chicken fat that is stirred into chopped liver and added to latkes and kugel, and whose preparation results in a crispy byproduct known as gribenes? ",
+            "answer": "schmaltz",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "42",
+            "e_percent": "27",
+            "r_percent": "37"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Two actors from the television series Friends appeared in multiple episodes of the first season of NYPD Blue. One was Robert Costanzo, who played Joey Tribbiani, Sr., and mafioso Alphonse Giardella. Who was the other actor, whose Josh \"4B\" Goldstein died tragically in NYPD Blue's fourth episode?",
+            "answer": "david schwimmer",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "54",
+            "c_percent": "49",
+            "d_percent": "40",
+            "e_percent": "32",
+            "r_percent": "43"
+        },
+        {
+            "category": "ART",
+            "prompt": "The name for certain cuttlefish (and the genus in which they are classified) is used for a pigment derived from the fish's ink. The pigment was once commonly used for pen drawings and diluted \"colored wash\" painting, and the term is now used for a common photographic technique. What is that name/term?",
+            "answer": "sepia",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "56",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "For a body orbiting the earth, the closest and furthest points of the orbit from earth are the perigee and apogee. What are the equivalent terms for the closest and furthest points of a body's orbit from the sun? (Note, correct spelling is required.)",
+            "answer": "perihelion, aphelion",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "35",
+            "c_percent": "22",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "15"
+        }
+    ]
+}

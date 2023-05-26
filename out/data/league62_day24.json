@@ -1,0 +1,79 @@
+{
+    "date": "September 19, 2014",
+    "league": 62,
+    "day": 24,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Provide the name missing from this otherwise complete list: Niall Horan, Zayn Malik, Liam Payne, Louis Tomlinson, ________.",
+            "answer": "harry styles",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "37",
+            "d_percent": "28",
+            "e_percent": "21",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What base unit of measurement is now defined, per the standard International System of Units (SI), as the duration of 9,192,631,770 cycles of regulation of the cesium-133 isotope?",
+            "answer": "second",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "78",
+            "c_percent": "73",
+            "d_percent": "66",
+            "e_percent": "55",
+            "r_percent": "59"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What is the determinant of the matrix in this image? ",
+            "answer": "five",
+            "image": "/images/art/4895n98c05896.jpg",
+            "a_percent": "56",
+            "b_percent": "41",
+            "c_percent": "41",
+            "d_percent": "29",
+            "e_percent": "28",
+            "r_percent": "33"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Córdoba, Rosario, Mendoza, and Tucumán are the second through fifth largest cities, by population, in what South American nation?",
+            "answer": "argentina",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "36",
+            "r_percent": "48"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the word, meaning \"dry\" or \"unrefined\" in French, that is used to describe champagne that is dry in style, with very low levels of sugar in the bottle?",
+            "answer": "brut (also sec)",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "93",
+            "d_percent": "83",
+            "e_percent": "75",
+            "r_percent": "79"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Although it is a mostly forgettable box-office flop, the 1997 film Father's Day is notable today for being the only feature film in which what two comedians and close friends appear on screen together?",
+            "answer": "billy crystal, robin williams",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "60",
+            "c_percent": "54",
+            "d_percent": "43",
+            "e_percent": "35",
+            "r_percent": "43"
+        }
+    ]
+}

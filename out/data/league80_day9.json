@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 9,
+    "date": "March 5, 2019",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "While it has over a dozen titles in its portfolio, the publishing company American Media, Inc., has been newsworthy recently for what weekly, the title with which American Media was originally affiliated when the company was founded?",
+            "answer": "national enquirer",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "82",
+            "d_percent": "73",
+            "e_percent": "57",
+            "r_percent": "66"
+        },
+        {
+            "category": "ART",
+            "prompt": "What word is missing from the title The ______ of America, a work published from 1827 to 1838 that collected 435 life-size engravings of 1,065 examples of the word in question? It is considered a classic work in its particular field, and in American art in general.",
+            "answer": "birds",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "27",
+            "r_percent": "41"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In a 2016 critics poll commissioned by BBC Culture that ranked the 21st century's 100 greatest films, the 2003 film Oldboy came in at #30, which was the highest placement for any film in what language?",
+            "answer": "korean",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "56",
+            "c_percent": "48",
+            "d_percent": "42",
+            "e_percent": "33",
+            "r_percent": "41"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the common name of the tissue that forms the majority of a tooth's mass, between the outer enamel and the pulpy core? It makes up the entirety of elephant ivory from tusks.",
+            "answer": "dentin",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "65",
+            "c_percent": "55",
+            "d_percent": "43",
+            "e_percent": "28",
+            "r_percent": "41"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Name any one of the three women who co-authored the popular and massively influential Mastering the Art of French Cooking, published in two volumes in 1961 and 1970.",
+            "answer": "simone beck, louisette bertholle, julia child",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "98",
+            "c_percent": "96",
+            "d_percent": "93",
+            "e_percent": "88",
+            "r_percent": "89"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Rosanna in Texarkana, Eileen in Abilene, Allison in Galveston, and Dimples in Temple are the reasons why, per his 1987 song, country music artist George Strait lives where?",
+            "answer": "tennessee",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "35",
+            "e_percent": "27",
+            "r_percent": "33"
+        }
+    ]
+}

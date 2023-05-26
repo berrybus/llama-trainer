@@ -1,0 +1,79 @@
+{
+    "date": "June 22, 2016",
+    "league": 69,
+    "day": 20,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The partially recognized state of South Ossetia, with its capital city Tskhinvali, sits within what other sovereign nation—which most surely does not recognize South Ossetia as independent?",
+            "answer": "georgia",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "66",
+            "d_percent": "47",
+            "e_percent": "29",
+            "r_percent": "43"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The fairy tales which appeared in Les Contes de ma Mère l'Oye, a collection by Charles Perrault published in 1697, would begin to appear in English in the next century attributed to what fictional author?",
+            "answer": "mother goose",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "41",
+            "r_percent": "59"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The last name of a particular Texan cattle raiser of the nineteenth century, who did not bother to brand his cattle, became a term for an unbranded animal, and eventually for any stray or masterless person, ultimately gaining a political connotation. What was this name?",
+            "answer": "maverick",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "78",
+            "c_percent": "71",
+            "d_percent": "54",
+            "e_percent": "34",
+            "r_percent": "55"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "A current unconventional television sitcom's optimistic title character, rescued after fifteen years of captivity under Indiana cult leader Richard Wayne Gary Wayne, moves into a basement apartment in NYC with an outlandish roommate and a nutty landlady to start a new life. What is the name of this character?",
+            "answer": "kimmy schmidt",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "83",
+            "c_percent": "80",
+            "d_percent": "79",
+            "e_percent": "73",
+            "r_percent": "76"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The June 1775 Battle of Bunker Hill, an early clash during the American Revolutionary War, was actually mostly fought on what other hill, adjacent to Bunker Hill in what is now the Charlestown neighborhood of Boston?",
+            "answer": "breed's hill",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "43",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "36"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The simple pie that consists of a single crust and a filling made of butter, sugar, cornmeal, and eggs (plus usually vanilla, with a myriad of optional variations) has numerous common names. One of those names, used particularly in the Southern U.S., is of disputed origin, with some etymologies linking it to a related dessert and others to a piece of furniture;  that it is also the name of an unrelated game appears to be wholly coincidental. What is that name?",
+            "answer": "chess",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "56",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "25",
+            "r_percent": "38"
+        }
+    ]
+}

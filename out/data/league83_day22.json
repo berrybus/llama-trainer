@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 22,
+    "date": "December 17, 2019",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Guy Caballero and Edith Prickley were the fictional station president and station manager of what television \"network\", which moved to NBC in 1981, and featured such programs as \"Mel's Rock Pile\", \"The Happy Wanderers\", and \"Great White North\"?",
+            "answer": "sctv",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "49",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "14",
+            "r_percent": "26"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "During the War of 1812, Andrew Jackson became a national hero for commanding U.S. forces that repelled a British attempt to seize what city in 1815, two weeks after the signing of a peace treaty at Ghent?",
+            "answer": "new orleans",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "85",
+            "c_percent": "76",
+            "d_percent": "62",
+            "e_percent": "40",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What word, used colloquially to refer to a person's nose, is the scientific term for the trunk of an elephant as well as for the elongated feeding and sucking organ of some invertebrates?",
+            "answer": "proboscis",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "56",
+            "e_percent": "37",
+            "r_percent": "49"
+        },
+        {
+            "category": "ART",
+            "prompt": "In architecture, the Greek term for structural supports taking the place of columns or pillars that are sculpted in the form of a man is atlantes. What is the equivalent Greek term for these supports sculpted in the shape of a woman?",
+            "answer": "caryatids",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "13"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The Israeli actor Topol, who portrayed Tevye in the 1971 film version of Fiddler on the Roof, also played Dr. Zarkov in what other film, whose main hero at one point only had fourteen hours to save the earth?",
+            "answer": "flash gordon",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "32",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "9",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The interbank market is the money market in which banks borrow or lend among themselves. One interest rate at which funds are offered to first-class banks is called LIBOR. What does the \"L\" in this abbreviation stand for?",
+            "answer": "london",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "56",
+            "c_percent": "48",
+            "d_percent": "40",
+            "e_percent": "28",
+            "r_percent": "39"
+        }
+    ]
+}

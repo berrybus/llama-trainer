@@ -1,0 +1,79 @@
+{
+    "league": 79,
+    "day": 8,
+    "date": "November 28, 2018",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Booths operated by a non-profit known as the Theatre Development Fund, including its flagship in the heart of Times Square, which offer discount admissions to Broadway shows, are prominently branded by what four letters?",
+            "answer": "tkts",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "65",
+            "c_percent": "60",
+            "d_percent": "51",
+            "e_percent": "43",
+            "r_percent": "47"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The applied science of hydraulics involves the behavior of liquids, their mechanical properties, and uses in engineering. What is the equivalent term for the applied science that meets this definition replacing liquids with gases?",
+            "answer": "pneumatics",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A basalt slab was found in 1901 at the site of the ancient city of Susa on which was inscribed a code of laws enacted by (and today named after) what Babylonian king?",
+            "answer": "hammurabi",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "91",
+            "d_percent": "82",
+            "e_percent": "66",
+            "r_percent": "77"
+        },
+        {
+            "category": "ART",
+            "prompt": "A 1935 Leni Riefenstahl film is widely considered one of the most effective pieces of propaganda and iconography of its kind. What is the name of this influential and infamous work, which documented the second Nazi Party Congress, held in Nuremberg the previous year?",
+            "answer": "triumph of the will (triumph des willens)",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "55",
+            "d_percent": "37",
+            "e_percent": "20",
+            "r_percent": "35"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A piste 46 feet long and around six feet wide constitutes the playing area in what sport?",
+            "answer": "fencing",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "34",
+            "c_percent": "26",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Azar Nafisi's 2003 bestseller subtitled A Memoir in Books narrates the author's teaching, forming a book club, and \"Reading Lolita\" in\u2014 and eventually emigrating from\u2014what city?",
+            "answer": "tehran",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "79",
+            "c_percent": "69",
+            "d_percent": "62",
+            "e_percent": "46",
+            "r_percent": "52"
+        }
+    ]
+}

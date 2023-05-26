@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 16,
+    "date": "September 19, 2019",
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the English translation of the Greek word \u03c3\u03c0\u03b7\u03bb\u03b1\u03b9\u03bf\u03bd, which provides the origin of the English word \"speleology\"?",
+            "answer": "cave",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "68",
+            "c_percent": "56",
+            "d_percent": "43",
+            "e_percent": "24",
+            "r_percent": "37"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Guisewite is the last name of an award-winning cartoonist whose most famous comic strip's run ended in October 2010, after 34 years. What is this cartoonist's first name, which is also the name of the strip and the strip's main character?",
+            "answer": "cathy",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "53",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Via numerous Instagram posts, usually on Tuesdays, LeBron James has demonstrated an enthusiastic love for what food\u2014going so far as to file a trademark request in August 2019 for a common phrase associated with the food?",
+            "answer": "tacos",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "80",
+            "e_percent": "75",
+            "r_percent": "80"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the fifth (and most recent) person that completes this list: Lina Wertm\u00fcller, Jane Campion, Sofia Coppola, Kathryn Bigelow.",
+            "answer": "greta gerwig",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "40",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "16",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Severe and sudden attacks of intense pain, redness, swelling, and extreme tenderness of the joint at the base of the big toe are common indicators of a complex but common type of arthritis caused by the formation of uric acid crystals in a joint. This specific condition is known as podagra, but is best known generally by what four-letter term?",
+            "answer": "gout",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "90",
+            "d_percent": "87",
+            "e_percent": "77",
+            "r_percent": "83"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Prime Minister of India who served from 1989 to 1990 and the PM who served from 2004 to 2014 share what last name (along with 35 million other fellow residents of India)?",
+            "answer": "singh",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "22",
+            "r_percent": "33"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 21,
+    "date": "December 9, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What military slang for an unspecified and obscenely early hour in the morning entered broader consciousness via a 2012 film thriller?",
+            "answer": "zero dark thirty",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "73",
+            "e_percent": "60",
+            "r_percent": "66"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While the Wright brothers' first flight famously took place in 1903 in Kitty Hawk, North Carolina, they developed the technology in what Midwestern city, where the brothers lived and operated a bicycle shop?",
+            "answer": "dayton",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "65",
+            "c_percent": "53",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "39"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "15 players per side vs. 13; five points for a try vs. four; three points for drop goals and penalties vs. one and two respectively; certain applications of post-tackle procedures, scrums, and lineouts\u2014these are among the differences between rugby union and what other, quite similar sport?",
+            "answer": "(rugby) league",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "35",
+            "c_percent": "26",
+            "d_percent": "18",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "One word (or two homophones, as the spellings can vary) can be used both for a certain musical instrument in the lute family and for a certain kitchen julienner. What is that word?",
+            "answer": "mandolin/mandoline",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "83",
+            "d_percent": "76",
+            "e_percent": "64",
+            "r_percent": "70"
+        },
+        {
+            "category": "ART",
+            "prompt": "The German architect Walter Gropius, a pioneer of the international modern style of architecture, served from 1919 to 1928 as the director of what school of design (which closed in 1933 under pressure from Nazi authorities)?",
+            "answer": "bauhaus",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "73",
+            "d_percent": "57",
+            "e_percent": "35",
+            "r_percent": "50"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "1985's Radio, with its breakout single and boombox paean \"I Can't Live Without My Radio\", was the debut LP from what rapper, who has achieved significant later-career success as a television actor and host?",
+            "answer": "ll cool j",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "59",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "34",
+            "r_percent": "42"
+        }
+    ]
+}

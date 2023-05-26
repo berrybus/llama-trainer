@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 21,
+    "date": "September 7, 2021",
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Identify the beverage named after an order of Franciscan friars that arose in Italy in the 16th century. The order earned its popular name from the distinctive hood that was a component of their religious habit (and that is the same color as the beverage).",
+            "answer": "cappuccino",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "26",
+            "e_percent": "13",
+            "r_percent": "27"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In addition to various arteries, membranes, and ligaments, what is the most prominent (and important) object that passes through the opening within the human body named the foramen magnum (\"great hole\")?",
+            "answer": "spinal cord/medulla oblongata (brain stem)",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "39",
+            "e_percent": "30",
+            "r_percent": "38"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Representatives at a conference held in Baghdad in September 1960 authorized the establishment of what still-existent international organization, whose operating statute was approved in Caracas the following year?",
+            "answer": "opec (organization of petroleum exporting countries)",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "87",
+            "c_percent": "81",
+            "d_percent": "72",
+            "e_percent": "54",
+            "r_percent": "65"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Among the multitude of Broadway musicals with music and lyrics by Stephen Sondheim, name either of the two that have a one-word title that is a plural noun. (The collective noun and 1970 musical Company is arguably a third.) ",
+            "answer": "assassins, follies",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "47",
+            "c_percent": "36",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "23"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the general term used in law for a legal authority's directive requiring a person or entity to act (or refrain from acting) in a specified way? Certiorari, mandamus, and habeas corpus are examples.",
+            "answer": "writ",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "78",
+            "d_percent": "67",
+            "e_percent": "49",
+            "r_percent": "55"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Suppression of the African Slave-trade to the United States of America was the doctoral dissertation for Harvard University by what Renaissance man of African American literature, whose The Souls of Black Folk (1903) gave him national exposure as an uncompromising champion of civil rights?",
+            "answer": "w. e. b. du bois",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "70",
+            "d_percent": "59",
+            "e_percent": "38",
+            "r_percent": "54"
+        }
+    ]
+}

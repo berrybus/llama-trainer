@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 7,
+    "date": "May 31, 2019",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "What term from biology and soil science, not to be confused with a certain Levantine condiment, is defined as the dark, thick material produced when organic matter decays?",
+            "answer": "humus",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "78",
+            "c_percent": "64",
+            "d_percent": "53",
+            "e_percent": "32",
+            "r_percent": "47"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the 2018-19 NBA season, there were two players from Slovenia, one of whom was Miami Heat guard Goran Dragi\u0107. Name the other, a finalist for the 2018-19 Kia NBA Rookie of the Year Award.",
+            "answer": "luka don\u010di\u0107",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "28",
+            "c_percent": "26",
+            "d_percent": "23",
+            "e_percent": "20",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A cube-shaped building, about 43 feet high and covered at times with black cloth embroidered in gold, is the most famous and important landmark of what city?",
+            "answer": "mecca",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "70",
+            "e_percent": "54",
+            "r_percent": "68"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What term is generally used for a watercraft with two parallel and equal-sized hulls? The term is derived from a Tamil word for \"tied wood\".",
+            "answer": "catamaran",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "84",
+            "c_percent": "76",
+            "d_percent": "67",
+            "e_percent": "56",
+            "r_percent": "67"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In December 1986, scientists encountered a lethal, 2-meter-wide mass that they dubbed \"the elephant's foot\" in what present-day country?",
+            "answer": "ukraine",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the comedian who is missing from this otherwise complete list (randomly ordered): Steve Harvey, Ray Combs, Richard Karn, Richard Dawson, John O'Hurley.",
+            "answer": "louie anderson",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "50",
+            "c_percent": "43",
+            "d_percent": "35",
+            "e_percent": "26",
+            "r_percent": "29"
+        }
+    ]
+}

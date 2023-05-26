@@ -1,0 +1,79 @@
+{
+    "league": 81,
+    "day": 3,
+    "date": "May 24, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Denzel Washington has been nominated for an Academy Award for acting (Best Actor or Best Supporting Actor) a total of eight times. Name either of the two films for which he has won the award.",
+            "answer": "glory, training day",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "75",
+            "c_percent": "72",
+            "d_percent": "64",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The score sheet for what Milton Bradley game contains rows such as \"Aces\", \"Twos\", and \"Threes\" in its Upper section, and \"3 of a Kind\", \"4 of a Kind\", and the game's namesake in its Lower section?",
+            "answer": "yahtzee",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "79",
+            "d_percent": "76",
+            "e_percent": "71",
+            "r_percent": "71"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "I hate to see the evening sun go down / I hate to see the evening sun go down / It makes me think I'm on my last go-round. These are the first three lines of what W.C. Handy song (as sung by Bessie Smith), whose title is also the name of a major professional sports franchise in the U.S.?",
+            "answer": "st. louis blues",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "57",
+            "c_percent": "43",
+            "d_percent": "28",
+            "e_percent": "15",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "After the independence declarations in 1991 and 1992 of Croatia, Slovenia, Macedonia, and Bosnia and Herzegovina, a new Federal Republic of Yugoslavia was proclaimed, consisting of what two remaining republics?",
+            "answer": "montenegro, serbia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "66",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "22",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What three-word Latin phrase, which first appeared in French as \"je pense, donc je suis\" in Ren\u00e9 Descartes Discours de la M\u00e9thode from 1637, appeared later in his 1644 book Principia Philosophiae (\"Principles of Philosophy\")?",
+            "answer": "cogito, ergo sum",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "83",
+            "c_percent": "73",
+            "d_percent": "58",
+            "e_percent": "35",
+            "r_percent": "49"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What dish from southern France, often consisting of baby anchovies and sardines eaten raw, has a name which is used for an unrelated\u2014and very different\u2014dish in Qu\u00e9bec?",
+            "answer": "poutine",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "87",
+            "c_percent": "84",
+            "d_percent": "79",
+            "e_percent": "71",
+            "r_percent": "74"
+        }
+    ]
+}

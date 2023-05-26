@@ -1,0 +1,79 @@
+{
+    "date": "March 3, 2017",
+    "league": 72,
+    "day": 9,
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "An aubade is defined as a morning song. What contrasting and complementary term has been used for evening music, such as to describe Mozart's Eine kleine Nachtmusik or his work commissioned for the wedding of Marie Elisabeth Haffner?",
+            "answer": "serenade (also acc. nocturne)",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "73",
+            "c_percent": "64",
+            "d_percent": "53",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Prior to its independence in 1946, Jordan (officially The Hashemite Kingdom of Jordan) was from 1921 a British protectorate with a similar sounding name. What was that name, preceded formally by \"Emirate of\"?",
+            "answer": "transjordan",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "55",
+            "c_percent": "42",
+            "d_percent": "26",
+            "e_percent": "11",
+            "r_percent": "28"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What did the disciple Judas give to Jesus in the Garden of Gethsemane following the Last Supper, as famously depicted in multiple works of art?",
+            "answer": "a kiss",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "66",
+            "e_percent": "51",
+            "r_percent": "66"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "All living members of the taxonomic order of animals known as Proboscidea are known commonly as what?",
+            "answer": "elephants",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "38",
+            "e_percent": "21",
+            "r_percent": "36"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "For much of human history, money was accepted by users because it consisted of materials which were themselves valuable. Most modern money, however, is inherently valueless, but circulates only because the state establishes its value. What Latin term is used for this latter type?",
+            "answer": "fiat money",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "51",
+            "c_percent": "46",
+            "d_percent": "35",
+            "e_percent": "25",
+            "r_percent": "33"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the word for the miniature choux pastry balls, also simply called cream puffs, that are an essential part of wedding celebrations in France, where they are assembled into a croquembouche? The name comes from the diminutive of a French term synonymous with \"gain\"?",
+            "answer": "profiteroles",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "49",
+            "c_percent": "37",
+            "d_percent": "29",
+            "e_percent": "17",
+            "r_percent": "31"
+        }
+    ]
+}

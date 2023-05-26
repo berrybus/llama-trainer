@@ -1,0 +1,79 @@
+{
+    "league": 90,
+    "day": 14,
+    "date": "August 26, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the last word in the title of the 1928 story collection by Anita Loos\u2014a sequel to her popular satirical novel from 1925\u2014that begins But Gentlemen Marry\u2026?",
+            "answer": "brunettes",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "45",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Hackbraten, Piecze\u0144 rzymska, \u05e7\u05e6\u05d9\u05e5 \u05d1\u05e9\u05e8, and Pain de viande are names of dishes that can be translated into English as the name of what musical artist?",
+            "answer": "meat loaf",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "62",
+            "r_percent": "72"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The wedge-shaped piece placed at the crown of an arch during construction to lock the other pieces in place has a name that is most closely associated with what US state?",
+            "answer": "pennsylvania",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "78",
+            "d_percent": "64",
+            "e_percent": "43",
+            "r_percent": "52"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The name for what craft and hobby comes from a French term meaning \"small hook\"?",
+            "answer": "crochet",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "91",
+            "e_percent": "88",
+            "r_percent": "91"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Of the five players voted All-NBA First Team for the 2020-21 season, two are American (Stephen Curry and Kawhi Leonard). Give the home country of any one of the other three First Team players.",
+            "answer": "greece, serbia, slovenia",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "61",
+            "e_percent": "51",
+            "r_percent": "57"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In Mary Martin's wonderful Broadway career, she originated the role of Maria von Trapp in The Sound of Music (1959), the title character in Peter Pan (1954), and, in 1949, the part of Nellie Forbush in what other classic musical?",
+            "answer": "south pacific",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "45",
+            "c_percent": "32",
+            "d_percent": "23",
+            "e_percent": "12",
+            "r_percent": "22"
+        }
+    ]
+}

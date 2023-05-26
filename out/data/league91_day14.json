@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 14,
+    "date": "November 30, 2021",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "In an enduringly popular 1994 film adaptation, the character played by Morgan Freeman was an Irishman in Stephen King's original story. What name is used for that character in both the movie and novella?",
+            "answer": "red",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "58",
+            "e_percent": "45",
+            "r_percent": "53"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The ancient cities of Argos, Sparta, and Megalopolis were located on what Greek peninsula, connected to the mainland by the Isthmus of Corinth?",
+            "answer": "peloponnesus/peloponnese",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "71",
+            "c_percent": "57",
+            "d_percent": "42",
+            "e_percent": "21",
+            "r_percent": "40"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "\"Now and Forever\" was the tagline for what musical, which, with 21 years in London and 18 on Broadway, did seem to run forever, figuratively speaking?",
+            "answer": "cats",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "66",
+            "c_percent": "59",
+            "d_percent": "52",
+            "e_percent": "43",
+            "r_percent": "52"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What publishing partnership, formed in 1857 between an established lithographer and his firm's bookkeeper, promoted its lithographs for many years as \"Colored Engravings for the People\"?",
+            "answer": "currier & ives",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "41",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "17"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Hegira, which marks the beginning of the Muslim calendar, was Muhammad's secret migration in 622 from Mecca to escape persecution and live among the people of Yathrib, which is today better known as what?",
+            "answer": "medina",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "49",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "33"
+        },
+        {
+            "category": "ART",
+            "prompt": "Thousands of figures created in the third century BCE and discovered near the Chinese city of Xi'an were sculpted in what medium, which is included in the name by which the collection is regularly known?",
+            "answer": "terra cotta",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "91",
+            "c_percent": "86",
+            "d_percent": "79",
+            "e_percent": "66",
+            "r_percent": "74"
+        }
+    ]
+}

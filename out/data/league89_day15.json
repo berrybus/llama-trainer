@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 15,
+    "date": "June 7, 2021",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What Germanic tribe\u2014who migrated from the Baltic coast in the 1st century CE, were driven west by the Huns, ousted from Gaul and Spain by the Goths, and eventually sacked Rome in 455\u2014has a name that lives on today in English vernacular, due to the destructive behavior by which they have been characterized? ",
+            "answer": "vandals",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "69",
+            "d_percent": "50",
+            "e_percent": "29",
+            "r_percent": "44"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Coppin State, Florida A&M, Morgan State, Lane College, and Virginia Union are colleges and universities which, per a categorization commonly applied to them, are historically what? (Note, answer is one word.)",
+            "answer": "black",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "89",
+            "d_percent": "84",
+            "e_percent": "73",
+            "r_percent": "78"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What French term for a certain clear soup is the past participle of a verb that can mean \"to accomplish\" or \"to finish\", as this soup is intended to be \"finished\" (unlike a stock or broth)?",
+            "answer": "consomm\u00e9",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "52",
+            "e_percent": "35",
+            "r_percent": "48"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "One primary difference between Alpine skiing (downhill skiing) and Nordic skiing is the type of device used to connect the ski boots to the skis. These devices are generally best known by what term?",
+            "answer": "bindings",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "48",
+            "e_percent": "42",
+            "r_percent": "46"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The fictional Jarrett family of Lake Forest, Illinois, as portrayed by Donald Sutherland, Mary Tyler Moore, and Timothy Hutton, are described as what type of people, most famously?",
+            "answer": "ordinary",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "71",
+            "c_percent": "60",
+            "d_percent": "44",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The name of the setting established by Beelzebub in John Bunyan's Pilgrim's Progress is used in the title of a serial novel from 1848 by William Makepeace Thackeray, and in turn in the name of a monthly magazine currently edited by Radhika Jones. What is that name?",
+            "answer": "vanity fair",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "73",
+            "c_percent": "57",
+            "d_percent": "40",
+            "e_percent": "21",
+            "r_percent": "33"
+        }
+    ]
+}

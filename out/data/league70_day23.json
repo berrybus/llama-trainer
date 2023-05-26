@@ -1,0 +1,79 @@
+{
+    "date": "September 27, 2016",
+    "league": 70,
+    "day": 23,
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "The mayor of a large working-class urban district known as Ümraniye has recently announced that the district's main square would be renamed 15 July Martyrs Square, honoring the roughly 300 people who died in a military insurrection on that day in what country?",
+            "answer": "turkey",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "56",
+            "e_percent": "38",
+            "r_percent": "52"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A mountain straddling the Switzerland/Italy border is known as Monte Cervino and Mont Cervin in Italian and French, respectively. By what name is it best known in German (and in English, most often)?",
+            "answer": "matterhorn",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "77",
+            "e_percent": "57",
+            "r_percent": "73"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "In the New Testament Matthew 14, the daughter of Herodias (not named in the Bible but later identified as Salome) so pleases Herod with her dancing that he offers to grant her any wish. She replies that she wants whose what (which is then delivered to her on a platter)?",
+            "answer": "the head of john the baptist",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "42",
+            "r_percent": "61"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The Washington, DC, building that houses the headquarters of the U.S. Department of Labor was completed in 1975 and, in 1980, formally named after what pioneering woman, on the 100th anniversary of her birth?",
+            "answer": "frances perkins",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "36",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Sun Also Rises, The Bell Jar, Look Homeward, Angel, and The Lords of Disclipline are examples of works of what literary form? The term dates to 17th-century France and describes a work that portrays identifiable characters thinly disguised as fictional characters.",
+            "answer": "roman à clef",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "61",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "12",
+            "r_percent": "29"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Before embarking on a successful solo career in 2004 (in music as well as fashion), Gwen Stefani served for the previous eighteen years as a vocalist and songwriter for what California-based rock band?",
+            "answer": "no doubt",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "92",
+            "c_percent": "90",
+            "d_percent": "88",
+            "e_percent": "84",
+            "r_percent": "87"
+        }
+    ]
+}

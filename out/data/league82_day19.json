@@ -1,0 +1,79 @@
+{
+    "league": 82,
+    "day": 19,
+    "date": "September 24, 2019",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "A work of fiction must have at least two named women in it who talk to each other about something other than a man in order to pass a test named after what American cartoonist, who first introduced it in 1985?",
+            "answer": "alison bechdel",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "50",
+            "r_percent": "56"
+        },
+        {
+            "category": "FILM",
+            "prompt": "While six individuals have been nominated for Academy Awards twice for the same role in different films (e.g., Al Pacino as Michael Corleone in The Godfather and The Godfather Part II), the widest spread between nominations\u201439 years \u2014occurred in 2015. Identify either the actor or the character in this circumstance.",
+            "answer": "sylvester stallone/rocky balboa",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "68",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "35",
+            "r_percent": "45"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "There are three men regarded historically as the three unifiers of Japan during the Sengoku period. Name any one of the three (either given name or family name is acceptable).",
+            "answer": "oda nobunaga, toyotomi hideyoshi, tokugawa ieyasu",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "18"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Similar to Nachos Supreme\u2014with the same ingredients but a larger portion\u2014what is the name for the largest serving of nachos found on the regular menu at Taco Bell?",
+            "answer": "(nachos) bellgrande",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "42",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "27",
+            "r_percent": "33"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Johor Causeway, spanning the Straits of Johor, connects the Malaysian city of Johor Bahru with what nation?",
+            "answer": "singapore",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "53",
+            "e_percent": "38",
+            "r_percent": "51"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What Italian term, preceded in a two-word phrase by basso, is used in music to designate a bass part that is repeated throughout a section or composition while the upper parts change? The terms ground bass and division are often used synonymously.",
+            "answer": "ostinato",
+            "image": null,
+            "a_percent": "18",
+            "b_percent": "10",
+            "c_percent": "7",
+            "d_percent": "4",
+            "e_percent": "2",
+            "r_percent": "6"
+        }
+    ]
+}

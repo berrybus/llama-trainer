@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 10,
+    "date": "February 28, 2023",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "October 23 (in particular the period between 6:02 am and 6:02 pm) is an unofficial holiday for chemistry devotees in commemoration of the work of what Turinese scientist born in 1776?",
+            "answer": "amedeo avogadro",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "41",
+            "e_percent": "26",
+            "r_percent": "32"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Starcourt Mall, located in Indiana's fictional Roane County above a secret Soviet lab, is a key location for parts of what television series?",
+            "answer": "stranger things",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "73",
+            "d_percent": "69",
+            "e_percent": "62",
+            "r_percent": "70"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Identify the rock 'n' roll star of song and dance (and songs about dances), born Ernest Evans in South Carolina in 1941, who was noted at a young age for his ability to imitate other acts' styles, and also for his resemblance to a teenage Fats Domino.",
+            "answer": "chubby checker",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "76",
+            "c_percent": "65",
+            "d_percent": "51",
+            "e_percent": "35",
+            "r_percent": "42"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "An international association of writing professionals\u2014e.g., novelists, essayists, editors, playwrights, poets\u2014was founded in London in 1921, and has the expressed goals of promoting cooperation among writers and fighting for freedom of expression and against censorship. By what three-letter name is this association customarily known?",
+            "answer": "pen",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "20"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What word pair, now commonly used in English vernacular to refer to particular (and simplistic) opposite personality types, was introduced into the language in this usage by psychologist Carl Jung in the early 1900s?",
+            "answer": "introvert/extrovert",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "43",
+            "d_percent": "36",
+            "e_percent": "27",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The ancient civilizations of Kerma and Kush were located in a region along the Nile in Africa known by what name? It begins just south of the Sudanese capital of Khartoum, where the Blue and White Nile merge, and was roughly separated from ancient Egypt at the First Cataract of the Nile just south of Aswan in modern-day Egypt.",
+            "answer": "nubia",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "58",
+            "c_percent": "42",
+            "d_percent": "27",
+            "e_percent": "13",
+            "r_percent": "26"
+        }
+    ]
+}

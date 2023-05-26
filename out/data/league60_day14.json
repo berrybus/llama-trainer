@@ -1,0 +1,79 @@
+{
+    "date": "March 7, 2014",
+    "league": 60,
+    "day": 14,
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The title character of what German opera is, in fact, actually a devoted noblewoman named Leonore, disguised as a Spanish prison guard to rescue her wrongly incarcerated husband?",
+            "answer": "fidelio",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "33",
+            "c_percent": "31",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "14"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Richard Belding was the principal of California's fictional Bayside High School on what teen-oriented television sitcom?",
+            "answer": "saved by the bell",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "88",
+            "c_percent": "87",
+            "d_percent": "88",
+            "e_percent": "84",
+            "r_percent": "87"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The events that came to be known as the \"Scramble for Africa\", and resulted in the colonization of nearly all of the continent by European colonial powers, were triggered to a large degree by an 1884-85 summit. This congregation is known as the West Africa Conference or Congo Conference, but was formally named (and is best known) after the city where it was held. Name that city.",
+            "answer": "berlin",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "32",
+            "c_percent": "25",
+            "d_percent": "14",
+            "e_percent": "6",
+            "r_percent": "21"
+        },
+        {
+            "category": "ART",
+            "prompt": "Pictured here are four extremely representative works from what English Romantic painter of the early 19th c.? ",
+            "answer": "john constable",
+            "image": "/images/art/8873ouyx984y.jpg",
+            "a_percent": "47",
+            "b_percent": "31",
+            "c_percent": "31",
+            "d_percent": "13",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Derived from the Greek word for \"heat\" (θάλπειν, thalpein), this term in thermodynamics represents the quantity of total energy (heat content) of a system. It can be measured in joules, BTUs, or calories.",
+            "answer": "enthalpy",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "46",
+            "c_percent": "46",
+            "d_percent": "30",
+            "e_percent": "19",
+            "r_percent": "29"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What term was coined by John Milton in Paradise Lost, used in the epic poem as the name for the high capital of Hell (though used today more generally to mean \"uproar\")?",
+            "answer": "pandemonium",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "19",
+            "r_percent": "40"
+        }
+    ]
+}

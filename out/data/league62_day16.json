@@ -1,0 +1,79 @@
+{
+    "date": "September 9, 2014",
+    "league": 62,
+    "day": 16,
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "In this film's famous example of a film-editing technique known as match cut, a spinning bone cuts to a compositionally matching nuclear weapons satellite. What is the name of the film?",
+            "answer": "2001: a space odyssey",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "85",
+            "c_percent": "83",
+            "d_percent": "71",
+            "e_percent": "56",
+            "r_percent": "68"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the occupation of Escamillo, the lover of the title character in Carmen who fights the murderous Don José in the opera's third act?",
+            "answer": "toreador (bullfighter)",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "63",
+            "d_percent": "54",
+            "e_percent": "39",
+            "r_percent": "54"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In 1901, the theory that yellow fever is transmitted by a species of mosquito was confirmed (and its transmission through direct contact disproven) by a team led by what physician? For this and other reasons, he is very possibly history's most recognizable U.S. Army physician, by name.",
+            "answer": "walter reed",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "69",
+            "c_percent": "50",
+            "d_percent": "37",
+            "e_percent": "20",
+            "r_percent": "37"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "There is one word redacted in this image. What is that word? ",
+            "answer": "succotash",
+            "image": "/images/art/8u0rc098n09r8un0c98.jpg",
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "60",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "52"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The ill-fated invasion of England led by the Spanish Armada in 1588 was precipitated, in large part, by the execution one year earlier of what rival to the English throne (held at the time by Elizabeth I)?",
+            "answer": "mary, queen of scots",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "58",
+            "e_percent": "41",
+            "r_percent": "62"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Identify this man. ",
+            "answer": "bernard shaw",
+            "image": "/images/art/78y45c08n94509834n705983.jpg",
+            "a_percent": "58",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "27",
+            "e_percent": "17",
+            "r_percent": "21"
+        }
+    ]
+}

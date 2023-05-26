@@ -1,0 +1,79 @@
+{
+    "league": 87,
+    "day": 9,
+    "date": "November 16, 2020",
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Austrian actor and singer Lotte Lenya's breakthrough came in 1928 with the role of Polly in what Kurt Weill/Bertolt Brecht collaboration\u2014a work which, some might argue, is more in the vein of musical theatre, despite its title?",
+            "answer": "the threepenny opera",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "59",
+            "c_percent": "44",
+            "d_percent": "28",
+            "e_percent": "13",
+            "r_percent": "23"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The English word \"south\" translates to roughly the same word in various languages, including Serbian, Croatian, Bosnian, and Montenegrin. With an \"o\" added, that word is the name of a notorious automobile of the 1980s. What is either word (the translation of \"south\" or the auto flop)?",
+            "answer": "jug/yug, yugo",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "37"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The largest slave revolt in antebellum America took place in 1831 in Southampton County, Virginia, led by (and commonly named after) a Baptist minister and slave with the first name of Nat. What was his last name?",
+            "answer": "turner",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "78",
+            "e_percent": "58",
+            "r_percent": "69"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On the sitcom Arrested Development, George Bluth started a business in 1953 on the Oceanside Wharf in Newport Beach, California, that is featured often and prominently during the series. The business was a stand that sells what refreshing treat (which was itself allegedly invented in real life on nearby Balboa Island around 1940)?",
+            "answer": "frozen banana",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "73",
+            "e_percent": "67",
+            "r_percent": "67"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What word is often used in music to describe an instrumental or vocal composition, typically in 12/8 or 6/8, whose subject is rustic or bucolic in nature? Examples include a 1920 symphonic poem by Arthur Honegger, an 1808 symphony by Ludwig van Beethoven, and a 1922 symphony by Vaughan Williams.",
+            "answer": "pastoral",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "76",
+            "c_percent": "66",
+            "d_percent": "50",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "While Homer mentions only a single Gorgon, the later Greek poet Hesiod speaks of three, all daughters of the sea god Phorcys and his sister-wife Ceto: Stheno, Euryale, and what third (the only one of the three who was mortal)?",
+            "answer": "medusa",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "88",
+            "c_percent": "81",
+            "d_percent": "70",
+            "e_percent": "49",
+            "r_percent": "61"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 2,
+    "date": "May 18, 2021",
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "What doting mother is the only female character in the Winnie-the-Pooh books by A.A. Milne?",
+            "answer": "kanga",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "50",
+            "r_percent": "54"
+        },
+        {
+            "category": "ART",
+            "prompt": "The art critic Louis Vauxcelles wrote in 1908 that, in landscapes painted by Georges Braque and shown at Paris's Galerie Kahnweiler, the artist had reduced \"everything...to geometric schemas, to\" what\u2014thereby naming a new and key movement in modern art?",
+            "answer": "cubes/cubism",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "85",
+            "d_percent": "78",
+            "e_percent": "66",
+            "r_percent": "74"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Professional hockey goaltenders Martin Jones and Connor Hellebuyck play for teams whose names, completely unrelatedly, are important to the plot of a 1957 Broadway musical and its 1961 film adaptation. What is the name shared by that musical and subsequent film?",
+            "answer": "west side story",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "78",
+            "d_percent": "69",
+            "e_percent": "52",
+            "r_percent": "65"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Among the reviews for the 2021 HBO series Mare of Easttown were kudos for South East England-born Kate Winslet's proficiency with the accent of what city (and its surrounding area)\u2014an accent which is considered challenging to master and thus not frequently used in TV and film?",
+            "answer": "philadelphia",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "40",
+            "e_percent": "28",
+            "r_percent": "34"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The first automobile factory was built in Detroit, Michigan, in 1899, by what man, after whom was named a major automotive brand (until it was discontinued in 2004) as well as a certain Speed Wagon?",
+            "answer": "ransom e. olds",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "63",
+            "d_percent": "48",
+            "e_percent": "27",
+            "r_percent": "35"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Whereas \"hardrock\" or \"lode\" mining extracts precious minerals from solid rock, what term describes mining which involves separating minerals from sand or gravel, such as in a stream bed? The term became known during the California Gold Rush, and in fact it's used in the name of a city 40 miles east of Sacramento that has also been referred to historically as \"Hangtown\", and also as the name of a nearby California county.",
+            "answer": "placer",
+            "image": null,
+            "a_percent": "34",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "10"
+        }
+    ]
+}

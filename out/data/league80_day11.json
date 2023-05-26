@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 11,
+    "date": "March 7, 2019",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "What 1989 film's title characters, New Yorkers and University of Chicago alumni, are considered to be inspired in part by the film's director and screenwriter, Rob Reiner and Nora Ephron?",
+            "answer": "when harry met sally...",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "92",
+            "d_percent": "88",
+            "e_percent": "76",
+            "r_percent": "80"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A successful uprising led by barbarian chieftain Odoacer in 476 is traditionally held as the event that marked the end, most notably, of what?",
+            "answer": "(western) roman empire",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The map projection in which the path of a ship steering on a constant bearing is represented by a straight line was introduced in 1569 by what Flemish geographer?",
+            "answer": "gerardus mercator",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "61",
+            "e_percent": "39",
+            "r_percent": "52"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the unit of liquid volume or capacity in the U.S. customary system that is the equivalent of 1/16 of a pint? Note that the answer to this question is two words.",
+            "answer": "fluid ounce",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "59",
+            "e_percent": "48",
+            "r_percent": "55"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "In 1994, the Boston Symphony named its new concert hall at its summer home in Tanglewood after what man, a 1957 graduate of Tokyo's Toho Gakuen School of Music who had served as the symphony's music director for the previous 20 years (and would continue to do so until 2002)?",
+            "answer": "seiji ozawa",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "28",
+            "c_percent": "22",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Two highly rated television series produced by the BBC\u2014one from 2006, the other from 2016, and both narrated by Sir David Attenborough\u2014consist of episodes featuring various aspects of what (per the series' titles)?",
+            "answer": "(planet) earth",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "84",
+            "c_percent": "81",
+            "d_percent": "77",
+            "e_percent": "70",
+            "r_percent": "76"
+        }
+    ]
+}

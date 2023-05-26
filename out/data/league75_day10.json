@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 10,
+    "date": "November 29, 2017",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the highly anticipated and promoted NBC drama series that debuted in the fall of 2006 and was set backstage at a Saturday Night Live-like sketch comedy series. It was named after the building in which the fictional show-in-a-show was set, featured a controversial and irritable network head named Jack, and was not 30 Rock.",
+            "answer": "studio 60 on the sunset strip",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "51",
+            "c_percent": "46",
+            "d_percent": "38",
+            "e_percent": "26",
+            "r_percent": "29"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "For the majority of its length in New York state, Interstate 90 runs parallel to the original route of what waterway?",
+            "answer": "erie canal",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "74",
+            "d_percent": "61",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "ART",
+            "prompt": "The final period in what is categorized as \"medieval art,\" spanning (roughly) the years 1140 to 1500 and divided into early, high, and late subdivisions, was not directly related to the people after which it was named. What is the name for this period of medieval art?",
+            "answer": "gothic",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "32"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A dedicated group of Chinese American mah-jongg players forms the plot basis, and the title, for what 1993 film (and the 1989 novel on which it was based)?",
+            "answer": "the joy luck club",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "89",
+            "c_percent": "83",
+            "d_percent": "74",
+            "e_percent": "54",
+            "r_percent": "63"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "What comedic play, though of no particular enduring artistic merit, is by far the most famous work of playwright Tom Taylor, due to a singular suspended performance seven years after its debut?",
+            "answer": "our american cousin",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "51",
+            "c_percent": "38",
+            "d_percent": "22",
+            "e_percent": "8",
+            "r_percent": "21"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Walton Rodger of the American Nuclear Society is widely credited with coining a now-familiar phrase, which he used as a term of derision against residents protesting nuclear facilities in their locality. That phrase is also known (and perhaps even better known) by its acronym, which is what?",
+            "answer": "nimby",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "74",
+            "e_percent": "54",
+            "r_percent": "61"
+        }
+    ]
+}

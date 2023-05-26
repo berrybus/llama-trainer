@@ -1,0 +1,79 @@
+{
+    "date": "November 17, 2016",
+    "league": 71,
+    "day": 4,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "American swimmer Michael Phelps holds the record for most career Olympic gold medals, with 23. Give the last name of any one of the five athletes who are tied for second place, with nine.",
+            "answer": "bolt, latynina, lewis, nurmi, spitz",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "84",
+            "c_percent": "80",
+            "d_percent": "69",
+            "e_percent": "58",
+            "r_percent": "64"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics of an international hit rock song from 1976, one can dial 36-24-36 to procure, at an affordable cost, what title service?",
+            "answer": "dirty deeds (done dirt cheap)",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Ross, Filchner-Ronne, Amery, Larsen, Riiser-Larsen, Fimbul, Shackleton, and George VI are all geographical features associated with Antarctica. They are all a type of feature defined by what two-word term?",
+            "answer": "ice shelf",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "68",
+            "d_percent": "53",
+            "e_percent": "34",
+            "r_percent": "44"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What great-granddaughter of Henry VII reigned as the Queen of England for nine days in 1553, before her forced abdication in favor of Mary I (and subsequent imprisonment in the Tower of London, and beheading)?",
+            "answer": "lady jane grey",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "62",
+            "c_percent": "47",
+            "d_percent": "32",
+            "e_percent": "15",
+            "r_percent": "29"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In the film Marathon Man, what precisely is the three-word question Dr. Szell (Laurence Olivier) asks Babe (Dustin Hoffman) during his torturous interrogation with a dental probe?",
+            "answer": "is it safe?",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "43",
+            "c_percent": "35",
+            "d_percent": "26",
+            "e_percent": "13",
+            "r_percent": "22"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Hong lou meng, a 19th-century work by Cao Xueqin that is considered China's greatest novel, is usually translated to English in part as Dream of the Red what?",
+            "answer": "chamber",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "23",
+            "c_percent": "15",
+            "d_percent": "10",
+            "e_percent": "4",
+            "r_percent": "12"
+        }
+    ]
+}

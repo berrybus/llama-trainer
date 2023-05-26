@@ -1,0 +1,79 @@
+{
+    "league": 91,
+    "day": 15,
+    "date": "December 1, 2021",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Name the German who won Wimbledon Singles championships in 1988, 1989, 1991, 1992, 1993, 1995, and 1996, with the first of those a part of a historic \"Golden Slam\" (all four Grand Slams plus Olympic gold).",
+            "answer": "steffi graf",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "68",
+            "d_percent": "54",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "At least 60 pharaohs of ancient Egypt's 18th to 20th dynasties, beginning with Thutmose I and famously including Tutankhamun, were buried in tombs in a narrow gorge in western Thebes known (quite accurately, in fact) as the ______ of the _____. (Fill in both blanks.)",
+            "answer": "valley, kings",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "83",
+            "d_percent": "73",
+            "e_percent": "55",
+            "r_percent": "67"
+        },
+        {
+            "category": "MATH",
+            "prompt": "What unit of measurement of angles is equal to approximately 57.296 degrees? Exactly \u03c0/2 of this unit equals a right angle.",
+            "answer": "radians",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "57",
+            "d_percent": "49",
+            "e_percent": "39",
+            "r_percent": "50"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "In the original 1955 Broadway run of the musical Damn Yankees, Gwen Verdon played what character, the devil's assistant who gets whatever she wants?",
+            "answer": "lola",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "55",
+            "c_percent": "43",
+            "d_percent": "30",
+            "e_percent": "17",
+            "r_percent": "28"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "American chemist Stephanie Kwolek developed the first liquid crystal polymer fiber, leading to the development of poly-paraphenylene terephthalamide, which has a myriad of applications (e.g., tires, cables, helmet, ballistic body armor). This polymer is better known by what brand name owned by DuPont (Kwolek's employer for 40+ years)?",
+            "answer": "kevlar",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "83",
+            "d_percent": "75",
+            "e_percent": "62",
+            "r_percent": "70"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Africa's third-largest lake by area (after Victoria and Tanganyika) covers 20% of its namesake country. What is the name that the lake and country share?",
+            "answer": "malawi",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "20"
+        }
+    ]
+}

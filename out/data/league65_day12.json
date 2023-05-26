@@ -1,0 +1,79 @@
+{
+    "date": "June 3, 2015",
+    "league": 65,
+    "day": 12,
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "As hero troops, the Archer Queen and Barbarian King are the most powerful troops in what video game, which also features Goblins, Wall Breakers, P.E.K.K.As, Hog Riders, and Lava Hounds?",
+            "answer": "clash of clans",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "40",
+            "c_percent": "35",
+            "d_percent": "32",
+            "e_percent": "27",
+            "r_percent": "32"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Known as il prete rosso (\"the redheaded priest\"), as he was educated both for music and the priesthood, this prodigious Italian Baroque composer's extant works include 500-odd concertos (including a famous tetralogy within Opus 8), 49 operas (including Tito Manlio, said to be completed in five days), as well as numerous cantatas, oratorios, and motets. Name this composer.",
+            "answer": "antonio vivaldi",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "63",
+            "c_percent": "49",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "40"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "\"Almost Paradise... Love Theme from Footloose\" was a 1984 smash duet by singers Mike Reno and Ann Wilson, who at the time were members of what other two bands?",
+            "answer": "loverboy, heart",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "30",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "10",
+            "r_percent": "20"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "While Kirsch is a brandy made from fermented cherries, Cognac is made from grapes, and Slivovitz from plums, what fruit is used to produce Calvados?",
+            "answer": "apples",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "59"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Supercell, squall line, multi-cell, and single-cell—these are the four standard classifications (listed in order of severity) of what specific scientific phenomenon?",
+            "answer": "thunderstorms",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "67",
+            "c_percent": "60",
+            "d_percent": "53",
+            "e_percent": "38",
+            "r_percent": "55"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "Fill in the blank (diacriticals not required): yî, èr, sân, sì, wŭ, liù, ____, bâ, jiŭ, shí.",
+            "answer": "qî",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "26",
+            "c_percent": "21",
+            "d_percent": "19",
+            "e_percent": "15",
+            "r_percent": "19"
+        }
+    ]
+}

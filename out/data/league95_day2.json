@@ -1,0 +1,79 @@
+{
+    "league": 95,
+    "day": 2,
+    "date": "November 8, 2022",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "When a basketball referee has their right hand on the back of their head and their left hand pointing opposite the direction of play, they are indicating a specific type of foul known as what?",
+            "answer": "charge",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "52",
+            "c_percent": "48",
+            "d_percent": "45",
+            "e_percent": "39",
+            "r_percent": "40"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What word provides the first word in the titles of hit songs by Lady Gaga, Billie Eilish, and Steve Lacy, and is also used in the name of the rapper who recorded \"Moscow Mule\" and \"Tit\u00ed Me Pregunt\u00f3\"? ",
+            "answer": "bad",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "82",
+            "c_percent": "77",
+            "d_percent": "73",
+            "e_percent": "67",
+            "r_percent": "74"
+        },
+        {
+            "category": "MATH",
+            "prompt": "\"Every even natural number greater than 2 is the sum of two prime numbers\" is a (still-unproven) Conjecture associated with and named after what 18th-century Prussian-born mathematician?",
+            "answer": "christian goldbach",
+            "image": null,
+            "a_percent": "28",
+            "b_percent": "14",
+            "c_percent": "10",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "6"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The title of what 2009 Pixar adventure comedy fits a pattern set by the titles of a 1998 Darren Aronofsky neo-noir thriller, a Stephen King adaptation from 2017, and a 2019 Jordan Peele horror film?",
+            "answer": "up",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "90",
+            "c_percent": "86",
+            "d_percent": "80",
+            "e_percent": "71",
+            "r_percent": "78"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What East African city, broadly considered the diplomatic and political capital of Africa, is home to the headquarters for the UN Economic Commission for Africa as well as the African Union, and has served as its nation's capital beginning shortly after the city's founding in 1887?",
+            "answer": "addis ababa",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "15",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Gaming company DraftKings, travel company Virgin Galactic, and real estate platform Opendoor Technologies are among companies that are listed publicly due to their merger with certain type of shell company\u2014one formed solely to raise capital through an IPO for the purposes of the merger. This type of company, which is sometimes known as a \"blank check company\" and whose popularity has risen sharply in the last few years, is best known by what four letter acronym?",
+            "answer": "spac",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "47",
+            "c_percent": "42",
+            "d_percent": "38",
+            "e_percent": "32",
+            "r_percent": "34"
+        }
+    ]
+}

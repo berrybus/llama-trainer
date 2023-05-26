@@ -1,0 +1,79 @@
+{
+    "league": 96,
+    "day": 5,
+    "date": "February 21, 2023",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Hangman, Phoenix, Payback, Fanboy, Rooster, Coyote, and Bob are characters in what 2022 film?",
+            "answer": "top gun: maverick",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "69",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "C8H10N4O2 is the chemical formula for a bitter, white substance, present in numerous beverages and foods, that can act as a mild stimulant, and, in excessive doses, may cause insomnia and delirium. What is the common name of the substance?",
+            "answer": "caffeine",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "94",
+            "c_percent": "92",
+            "d_percent": "88",
+            "e_percent": "80",
+            "r_percent": "85"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Slalom, jump, and trick, are the three events in competitions in what sport, invented in 1922 by Ralph Samuelson in Lake City, Minnesota?",
+            "answer": "water skiing",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "48",
+            "c_percent": "38",
+            "d_percent": "29",
+            "e_percent": "19",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The 15th-century voivode of pre-Romanian Wallachia named Vlad III, also known commonly as Vlad the Impaler, had what patronymic last name? It was used for an iconic character of literature, introduced in 1897, whose creation is said to have been inspired by Vlad.",
+            "answer": "dracula",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "67",
+            "r_percent": "75"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Unity, self-determination, collective work and responsibility, cooperative economics, purpose, creativity, and faith are the seven principles celebrated on what holiday?",
+            "answer": "kwanzaa",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "59",
+            "e_percent": "45",
+            "r_percent": "46"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "American author Bonnie Garmus's bestselling and critically acclaimed 2022 debut novel presents Lessons in what subject (per the title), as the revenge story's pioneering heroine confronts casual and systemic misogyny as a former research scientist and host of a television cooking show?",
+            "answer": "chemistry",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "46",
+            "c_percent": "40",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "34"
+        }
+    ]
+}

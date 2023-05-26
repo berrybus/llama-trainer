@@ -1,0 +1,79 @@
+{
+    "league": 78,
+    "day": 13,
+    "date": "September 6, 2018",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "While many of the actors who played the title characters in 2001's Ocean's Eleven have had successful television careers, only one starred in his own, namesake sitcom. Who is that actor, whose series aired on Fox from 2001 to 2006?",
+            "answer": "bernie mac",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "50",
+            "r_percent": "58"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Temple of the Tooth, which houses a sacred relic comprised of the left cuspid of the Buddha, is located within the palace of the former Kingdom of Kandy in what island nation, where over 90% of its Sinhalese population practices Buddhism?",
+            "answer": "sri lanka",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "73",
+            "d_percent": "60",
+            "e_percent": "42",
+            "r_percent": "52"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In 1976, Sumitomo Credit Service, Carte Bleue, Chargex, Barclaycard, and other licensees of a multinational credit card program known as the International Bankcard Company (IBANCO) formed a new association, in conjunction with the domestic National BankAmericard Inc., while retaining the original programs' distinctive blue, white, and gold coloring scheme. What was the name of this new company, which still exists today?",
+            "answer": "visa",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "59",
+            "e_percent": "45",
+            "r_percent": "57"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While the 18th Amendment to the U.S. Constitution prohibited the manufacture, transportation, and sale of alcohol, the amendment was enforced by what 1919 federal act, sponsored by and named after a Congressman from Minnesota?",
+            "answer": "volstead act",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "52",
+            "c_percent": "38",
+            "d_percent": "25",
+            "e_percent": "12",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The title of a George Peele poem from 1590, written on the occasion of the retirement of Queen Elizabeth's champion knight, Sir Henry Lee, and sung to her during Lee's final jousting tournament, provides the title for what 1929 Ernest Hemingway novel?",
+            "answer": "a farewell to arms",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "52",
+            "d_percent": "39",
+            "e_percent": "26",
+            "r_percent": "40"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Name any one of the three most abundant elements in the earth's crust (making up roughly 47%, 28%, and 8% by weight, respectively).",
+            "answer": "oxygen, silicon, aluminum",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "57",
+            "c_percent": "43",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "33"
+        }
+    ]
+}

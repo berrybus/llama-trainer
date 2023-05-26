@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 1,
+    "date": "May 17, 2021",
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the name of the people who flourished on the desert coast of modern Peru beginning in 200 BCE, leaving behind enormous etchings (or \"lines\") on the surface of the desert before their absorption into the Huari empire by 800 CE?",
+            "answer": "nazca",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "60",
+            "c_percent": "50",
+            "d_percent": "36",
+            "e_percent": "22",
+            "r_percent": "31"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What common food item, of which the average American consumes over three pounds per year, has a name derived from the Greek for \"pearl\" and originally had that name with a prefix derived from the Latin for \"(olive) oil\"?",
+            "answer": "margarine",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "46",
+            "c_percent": "32",
+            "d_percent": "19",
+            "e_percent": "9",
+            "r_percent": "18"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Fill in the blank in this complete list: Muharram, Safar, Rabi Al-Awwal, Rabi Al-Thani, Jamada Al-Awwal, Jamada Al-Thani, Rajab, Shaban, _______, Shawwal, Dhul Qadah, Dhul Hijjah.",
+            "answer": "ramadan",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "45",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "21"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The gastrocnemius and soleus muscles are located in the part of the human body whose name is also the name of an entirely different type of animal (which, incidentally, doesn't really have this particular body part). What is this body part?",
+            "answer": "calf",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "41",
+            "r_percent": "48"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "On March 24, 2021, what country, per an announcement by its health minister, became the first in the world (or at least, the first non-microstate) to fully vaccinate greater than half its population for COVID-19 (though not without controversy)?",
+            "answer": "israel",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "71",
+            "c_percent": "69",
+            "d_percent": "65",
+            "e_percent": "57",
+            "r_percent": "58"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "In 1895's Moore v. United States, what term did the U.S. Supreme Court define as \"the fraudulent appropriation of property by a person to whom such property has been entrusted, or into whose hands it has lawfully come\"?",
+            "answer": "embezzlement",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "70",
+            "c_percent": "60",
+            "d_percent": "48",
+            "e_percent": "33",
+            "r_percent": "44"
+        }
+    ]
+}

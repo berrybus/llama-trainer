@@ -1,0 +1,79 @@
+{
+    "league": 89,
+    "day": 14,
+    "date": "June 4, 2021",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "What name could be included in a list that also includes Buffay and Green, in another list that includes Google and Baidu, and in yet another that includes Rainier and Montmorency?",
+            "answer": "bing",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "69",
+            "d_percent": "58",
+            "e_percent": "44",
+            "r_percent": "53"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "An invisible demarcation that runs, in part, through the Bering Strait, around Kiribati to the east, and between Samoa and American Samoa, is best-known by what three-word term?",
+            "answer": "international date line",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "88",
+            "d_percent": "79",
+            "e_percent": "59",
+            "r_percent": "70"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A 1741 oratorio's 44th movement (of 53), which closes the oratorio's second part (of three), is one of the most frequently performed choral works in Western music. Give the name of this 44th movement, or of the oratorio itself, which was composed in English by a German-born baroque master.",
+            "answer": "hallelujah/messiah",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "33",
+            "r_percent": "46"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What Spanish word fills in the blanks in the following works, by Octavio Paz and Gabriel Garc\u00eda M\u00e1rquez, respectively: El laberinto de la ______ (1950); Cien a\u00f1os de ______ (1967).",
+            "answer": "soledad",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In American football, an official pointing an extended arm toward the defensive team's goal, with the hand flat (or pointing a finger) and perpendicular to the ground, is giving the signal for what?",
+            "answer": "first down",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "55",
+            "c_percent": "50",
+            "d_percent": "44",
+            "e_percent": "38",
+            "r_percent": "42"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In China in the third century CE, immediately following the end of the Han dynasty, supremacy was fought for among the Wei in the north, the Wu in the southeast, and the Shu Han in the west. This period is best known by what name, which is cited in a classic of Chinese literature attributed to Luo Guanzhong.",
+            "answer": "three kingdoms",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "45",
+            "c_percent": "33",
+            "d_percent": "25",
+            "e_percent": "15",
+            "r_percent": "21"
+        }
+    ]
+}

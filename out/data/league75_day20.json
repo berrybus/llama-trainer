@@ -1,0 +1,79 @@
+{
+    "league": 75,
+    "day": 20,
+    "date": "December 13, 2017",
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What 19-year-old Ontarian pop star, whose recent hit singles include \"Stitches,\" \"Treat You Better,\" and \"There's Nothing Holdin' Me Back,\" first gained popularity in the summer of 2013 via cover videos uploaded to the now-defunct sharing service Vine?",
+            "answer": "shawn mendes",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "37",
+            "c_percent": "32",
+            "d_percent": "32",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "With terrain dominated by mountains and arid desert, Balochistan is the largest province by area, and the smallest province by population (both by a significant margin) of what Asian nation?",
+            "answer": "pakistan",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "45",
+            "c_percent": "34",
+            "d_percent": "24",
+            "e_percent": "14",
+            "r_percent": "30"
+        },
+        {
+            "category": "FILM",
+            "prompt": "This is a screenshot from what 1956 film? ",
+            "answer": "invasion of the body snatchers",
+            "image": "/images/art/3489598cyn0t9.jpg",
+            "a_percent": "57",
+            "b_percent": "44",
+            "c_percent": "38",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "27"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Given his noted thriftiness and unadorned reticence, The Autobiography of ___________ is the fittingly titled (and at a brisk 246 pages, fittingly terse) 1929 autobiography of what American (whose name fills in the blank)? ",
+            "answer": "calvin coolidge",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "54",
+            "c_percent": "41",
+            "d_percent": "30",
+            "e_percent": "14",
+            "r_percent": "28"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Old Tom Morris, a Scotsman who was born in St Andrews in 1821 and died there in 1908, is widely recognized as the first formal architect of a certain type of facility, although the honor is also bestowed upon a student of Morris, an American named Charles B. Macdonald (including by Macdonald himself). What is that facility?",
+            "answer": "golf course",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "57"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What is the anagrammatical title (nearly but not quite a semordnilap) of a satirical Utopian novel by English author Samuel Butler first published anonymously in 1872?",
+            "answer": "erewhon",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "38",
+            "c_percent": "22",
+            "d_percent": "12",
+            "e_percent": "4",
+            "r_percent": "18"
+        }
+    ]
+}

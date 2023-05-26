@@ -1,0 +1,79 @@
+{
+    "league": 80,
+    "day": 20,
+    "date": "March 20, 2019",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In a baseball box score, the abbreviation \"pr\" (or \"PR\") next to a player's name stands for what?",
+            "answer": "pinch runner",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "72",
+            "c_percent": "67",
+            "d_percent": "62",
+            "e_percent": "53",
+            "r_percent": "54"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "A town in southern Zambia, an island in the center of Victoria Falls, a number of rapids in the Congo River between Matadi and Kinshasa, and a mountain range on the northeast border of Lake Malawi in southern Tanzania are all named after what Scottish physician and missionary?",
+            "answer": "david livingstone",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "74",
+            "d_percent": "58",
+            "e_percent": "32",
+            "r_percent": "48"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name any of the three bands of which David Crosby, Stephen Stills, or Graham Nash were members of most immediately prior to their eponymous debut release as a trio in 1969.",
+            "answer": "the byrds, buffalo springfield, the hollies",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "67",
+            "c_percent": "53",
+            "d_percent": "39",
+            "e_percent": "22",
+            "r_percent": "39"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A pivotal 1916 insurrection in Dublin, where well over 1,000 Irish nationalists took up arms against British rule, and which led to the proclamation of an Irish Republic (and eventually, an independent Irish state), began on what holiday\u2014after which the event is commonly named?",
+            "answer": "easter",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "83",
+            "c_percent": "74",
+            "d_percent": "60",
+            "e_percent": "45",
+            "r_percent": "61"
+        },
+        {
+            "category": "ART",
+            "prompt": "Parian, Pentelic, and Carrara (Luna) are different types of what specific artistic material? Famous works created in this material (and which include this material in their name) are named after Thomas Bruce, 7th Earl of Elgin.",
+            "answer": "marble",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "79",
+            "c_percent": "71",
+            "d_percent": "55",
+            "e_percent": "39",
+            "r_percent": "53"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Trista Rehn, Ali Fedotowsky, Andi Dorfman, and Becca Kufrin are all women who have appeared on what two reality television series? Note, two answers are required.",
+            "answer": "the bachelor, the bachelorette",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "70",
+            "c_percent": "67",
+            "d_percent": "62",
+            "e_percent": "57",
+            "r_percent": "60"
+        }
+    ]
+}

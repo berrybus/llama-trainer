@@ -1,0 +1,79 @@
+{
+    "league": 77,
+    "day": 23,
+    "date": "July 2, 2018",
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Who began his acceptance speech after winning the Best Actor Oscar at the Academy Awards ceremony in 1970, \"If I'd have known that, I'd have put that patch on 35 years earlier,\" having won the award for the first time for his 139th film?",
+            "answer": "john wayne",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "50",
+            "e_percent": "34",
+            "r_percent": "50"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "\"Brummie\" is a term used for a person from what city, as well as the name for a local dialect?",
+            "answer": "birmingham, england",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "53",
+            "d_percent": "42",
+            "e_percent": "27",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The scientific device pictured here was invented by, and is named after, what American physicist of Dutch descent? ",
+            "answer": "robert van de graaff",
+            "image": "/images/art/90umuc4509m68.jpg",
+            "a_percent": "63",
+            "b_percent": "48",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "18",
+            "r_percent": "29"
+        },
+        {
+            "category": "ART",
+            "prompt": "Encaustic painting is most often used as the name of an artistic technique where pigments are mixed with what medium before being applied to the rigid support material (usually wood)?",
+            "answer": "wax",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "19"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "U.S. Senator John Sherman Cooper, U.S. Rep. Hale Boggs, U.S. Rep. Gerald R. Ford, and former CIA Director Allen Dulles were among a group of seven men who, beginning in late 1963, were collectively known most commonly by what name?",
+            "answer": "warren commission",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "57",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "30"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "With only one of its nine letters a vowel, what word\u2014sometimes the name for a section of a CV/resume (or perhaps, probably more often, a topic of discussion in a job interview)\u2014is widely considered the longest word in the English language containing only one vowel?",
+            "answer": "strengths",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "65",
+            "c_percent": "55",
+            "d_percent": "44",
+            "e_percent": "31",
+            "r_percent": "48"
+        }
+    ]
+}

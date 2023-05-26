@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 2,
+    "date": "November 14, 2019",
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Give the last name of any one of the three men who had, as of November 1, 2019, launched formal challenges against President Donald Trump for the Republican Party's nomination in the 2020 presidential election.",
+            "answer": "weld, walsh, sanford",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "58",
+            "e_percent": "40",
+            "r_percent": "50"
+        },
+        {
+            "category": "MATH",
+            "prompt": "All of the faces of a polyhedron known as a regular dodecahedron are what shape?",
+            "answer": "(regular) pentagon",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "64",
+            "c_percent": "52",
+            "d_percent": "45",
+            "e_percent": "36",
+            "r_percent": "41"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Lithuanian-born Abraham Cahan was a founder in 1897 of what Yiddish-language newspaper, which was a vital resource for many Jewish immigrants as it reached a circulation of over 275,000 by the early 1930s?",
+            "answer": "the forward (the jewish daily forward)",
+            "image": null,
+            "a_percent": "33",
+            "b_percent": "24",
+            "c_percent": "17",
+            "d_percent": "11",
+            "e_percent": "6",
+            "r_percent": "11"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Name the television program that aired on CBS nearly every weekday morning at 8:00 a.m. from October 3, 1955, until the fall of 1981, making its final broadcast in December 1984. ",
+            "answer": "captain kangaroo",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "23",
+            "c_percent": "19",
+            "d_percent": "12",
+            "e_percent": "8",
+            "r_percent": "12"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "A Narragansett language term for \"boiled whole kernel corn\" begat the English word for what dish, which has multiple variations but is commonly a stew of lima beans and corn?",
+            "answer": "succotash",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "77",
+            "d_percent": "67",
+            "e_percent": "51",
+            "r_percent": "55"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A rusty, decaying mansion, ponderously framed of oaken timber and located in an unidentified New England town, has been the home of the Pyncheon family for 160 years in what 1851 novel by Nathaniel Hawthorne?",
+            "answer": "the house of the seven gables",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "66",
+            "c_percent": "50",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "31"
+        }
+    ]
+}

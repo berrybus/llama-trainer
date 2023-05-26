@@ -1,0 +1,79 @@
+{
+    "league": 83,
+    "day": 12,
+    "date": "December 3, 2019",
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "1971 was a landmark year for syndicated music programs for targeted audiences, with Hee Haw, The Lawrence Welk Show, and what long-running show aimed at African American viewers all entering first-run national syndication that year?",
+            "answer": "soul train",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "79",
+            "c_percent": "72",
+            "d_percent": "63",
+            "e_percent": "52",
+            "r_percent": "56"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A fictional species of immortal cyborg hero-warriors known as the Toa, who protect the Matoran from danger and safeguard the Great Spirit Mata Nui, form the basis for what line of toys produced and marketed by Lego beginning in the early 2000s?",
+            "answer": "bionicle",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "29",
+            "c_percent": "27",
+            "d_percent": "21",
+            "e_percent": "18",
+            "r_percent": "28"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Steam cleaning raw sugar in a centrifuge, which results in a light-brown sugar with a coarse grain and subtle molasses flavor, is a process that gives what sugar its name?",
+            "answer": "turbinado",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "39",
+            "c_percent": "34",
+            "d_percent": "29",
+            "e_percent": "21",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The highly poisonous and colorless acid hydrogen cyanide was once more commonly known as an acid described by what seven-letter adjective? The name references a former European state and is derived from the name of the blue pigment from which hydrogen cyanide was first isolated.",
+            "answer": "prussic",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "55",
+            "c_percent": "40",
+            "d_percent": "24",
+            "e_percent": "10",
+            "r_percent": "26"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Although it has been referred to formally as \"Day of the Sun\" since 1997, April 15 has been a public holiday in North Korea since 1968, celebrating the birthday of what man? (Note, full name is required.)",
+            "answer": "kim il-sung",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "44",
+            "e_percent": "26",
+            "r_percent": "41"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Probably published without permission (and certainly without attribution), I taste a liquor never brewed and A narrow Fellow in the Grass are titles given to two of the fewer than a dozen of what poet's works published during her lifetime?",
+            "answer": "emily dickinson",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "83",
+            "c_percent": "75",
+            "d_percent": "65",
+            "e_percent": "50",
+            "r_percent": "61"
+        }
+    ]
+}

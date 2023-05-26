@@ -1,0 +1,79 @@
+{
+    "league": 94,
+    "day": 8,
+    "date": "September 8, 2022",
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "As the butterfly is to a caterpillar, a fly is to a maggot, and a frog is to a tadpole, a scarab beetle is to a what?",
+            "answer": "(white) grub",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "39",
+            "c_percent": "29",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "21"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What CBS drama series, which finished as the fourth-highest rated prime-time non-sports television program in the US for the 2020-21 rating season, is a reboot of another CBS series with the same name that finished its fourth and final season in August 1989? ",
+            "answer": "the equalizer",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "17",
+            "c_percent": "10",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "8"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "One of the few successes of the post-WWI League of Nations involved the \u00c5land Islands, and the organization's mediation of an arrangement by which the islands maintain their cultural and linguistic association with one country while possessing a self-governing autonomy within another country. What are those two countries?",
+            "answer": "sweden, finland",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "38",
+            "c_percent": "27",
+            "d_percent": "15",
+            "e_percent": "8",
+            "r_percent": "20"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the most popular first name given to boys in the United States in every decade from the 1960s through the 1990s? ",
+            "answer": "michael",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "50",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "30",
+            "r_percent": "35"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Diamonds are a Girl's Best Friend\", \"Like a Virgin\", \"Lady Marmalade\", and \"Roxanne\" are all songs featured prominently in what 2001 movie musical, the third in the \"Red Curtain\" trilogy?",
+            "answer": "moulin rouge!",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "85",
+            "d_percent": "79",
+            "e_percent": "69",
+            "r_percent": "75"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "\"Game cards do not actually talk\" was a seemingly unnecessary disclaimer in ads for what board game, whose contents include 48 \"face cards\" (24 per player) with names like Joe, Rachel, Leo, and Farah?",
+            "answer": "guess who?",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "72",
+            "c_percent": "71",
+            "d_percent": "72",
+            "e_percent": "71",
+            "r_percent": "74"
+        }
+    ]
+}

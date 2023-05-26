@@ -1,0 +1,79 @@
+{
+    "league": 74,
+    "day": 8,
+    "date": "August 30, 2017",
+    "questions": [
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Until reorganization under the direction of new commissioner Gary Bettman in 1993, the National Hockey League was divided into two conferences\u2014the Prince of Wales Conference and the Clarence Campbell Conference\u2014each of which was split into two divisions. Give the name of any one of these four divisions that were part of the NHL structure starting in the 1974-75 season.",
+            "answer": "adams, patrick, norris, smythe",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "41",
+            "c_percent": "36",
+            "d_percent": "27",
+            "e_percent": "19",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In Gulliver's Travels, the brutish human-like beings who are caringly governed by the horse-like Houyhnhnms are known by what name, which would become a term for a crass, rude, and stupid person?",
+            "answer": "yahoo",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "57",
+            "c_percent": "40",
+            "d_percent": "26",
+            "e_percent": "11",
+            "r_percent": "30"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Name the classic 1937 Jean Renoir war film and masterpiece of French cinema whose title is the filmmaker's description of war itself and of the belief that war accomplishes any positive ends?",
+            "answer": "la grande illusion (grand illusion)",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "33",
+            "c_percent": "22",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What term from economics is defined as the ratio between the proportional change in one variable and the proportional change in another? With regard to demand, it's the ratio between the change in quantity demanded and change in price.",
+            "answer": "elasticity",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "44",
+            "c_percent": "39",
+            "d_percent": "32",
+            "e_percent": "25",
+            "r_percent": "36"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "With the help of many foreign governments and volunteers (famously including Lord Byron), what country won its war of independence launched in 1821, crowning Prince Otto of Bavaria as the first king of its modern era?",
+            "answer": "greece",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "41",
+            "d_percent": "23",
+            "e_percent": "10",
+            "r_percent": "31"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Playwright Greg Kotis conceived the idea for what successful Broadway musical during a 1995 visit to Paris, when he found himself unable to afford the price of admission to a public toilet?",
+            "answer": "urinetown: the musical",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "61",
+            "c_percent": "49",
+            "d_percent": "42",
+            "e_percent": "28",
+            "r_percent": "34"
+        }
+    ]
+}

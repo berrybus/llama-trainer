@@ -1,0 +1,79 @@
+{
+    "date": "December 12, 2016",
+    "league": 71,
+    "day": 18,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "What genre of Jamaican music, named for the type of venue in which it originated, emerged in the 1970s with DJs \"toasting\" over prerecorded tracks? A precursor to American rap and hip hop, it borrowed back from those styles in the 80s in its transformation into the modern, digital \"ragga\" style.",
+            "answer": "dancehall",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "50",
+            "c_percent": "43",
+            "d_percent": "34",
+            "e_percent": "23",
+            "r_percent": "30"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "The existence of a separate political system in the Western Hemisphere;  U.S. resistance to further European colonization in the region; U.S. neutrality with existing European colonies and in European affairs: these items are included in a doctrine written by John Quincy Adams but attributed to (and proclaimed by) whom?",
+            "answer": "james monroe",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "90",
+            "d_percent": "81",
+            "e_percent": "59",
+            "r_percent": "71"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The \"Uniform Investment Adviser Law Examination,\" which is administered by the Financial Industry Regulatory Authority (FINRA) and qualifies candidates to become investment advisers, is commonly known as the Series 65 exam. Another FINRA exam, formally the \"General Securities Representative Exam (GS),\" provides the qualifications necessary to trade general securities (i.e., be a stockbroker) and is likewise best known by what numerical name?",
+            "answer": "series 7 exam",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "37",
+            "c_percent": "32",
+            "d_percent": "31",
+            "e_percent": "27",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Two of the three words in the title of a popular, moralistic 1812 novel could also apply to the group that created the novel—pastor Johann David Wyss and his sons, Johann Rudolf Wyss and Johann Emmanuel Wyss. What are either of those two words?",
+            "answer": "swiss family",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "59",
+            "c_percent": "41",
+            "d_percent": "26",
+            "e_percent": "16",
+            "r_percent": "31"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "A philosophical tract by Friedrich Nietzsche provides the loose basis for a tone poem composed in 1896 by Richard Strauss. What title do they share?",
+            "answer": "also sprach zarathustra (thus spoke zarathustra)",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "69",
+            "c_percent": "56",
+            "d_percent": "39",
+            "e_percent": "18",
+            "r_percent": "35"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Pasta and other Italian dishes which are described as al forno, such as lasagna, have what distinction?",
+            "answer": "(oven) baked",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "79",
+            "d_percent": "75",
+            "e_percent": "63",
+            "r_percent": "71"
+        }
+    ]
+}
