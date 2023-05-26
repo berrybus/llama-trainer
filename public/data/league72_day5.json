@@ -1,77 +1,79 @@
 {
+    "date": "February 27, 2017",
     "league": 72,
     "day": 5,
-    "date": "February 27, 2017",
-    "1": {
-        "category": "FOOD/DRINK",
-        "prompt": "As of 2015, in both Canada and the United States, Golden Color/Delicate Taste, Amber Color/Rich Taste, Dark Color/Robust Flavor, and Very Dark/Strong Flavor are classifications, all categorized within Grade A, for what food product?",
-        "answer": "maple syrup",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "71",
-        "c_percent": "66",
-        "d_percent": "59",
-        "e_percent": "47",
-        "r_percent": "53"
-    },
-    "2": {
-        "category": "LIFESTYLE",
-        "prompt": "\"Jesus of Nazareth, the King of the Jews.\" This is an English translation of an expression that is regularly represented by what initialism?",
-        "answer": "inri",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "76",
-        "c_percent": "69",
-        "d_percent": "54",
-        "e_percent": "37",
-        "r_percent": "53"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "Sakartvelo is the official native name for the mountainous Transcaucasian nation that is known in the West as what?",
-        "answer": "georgia",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "62",
-        "c_percent": "54",
-        "d_percent": "36",
-        "e_percent": "21",
-        "r_percent": "34"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "The force produced on an object moving in a north-south line on the Earth's surface, due to the angular velocity of the Earth as it rotates from west to east, is known as what? Due to the Earth's relatively slow rate of rotation, this force mainly affects the flow of air in the atmosphere.",
-        "answer": "coriolis force",
-        "image": null,
-        "a_percent": "66",
-        "b_percent": "52",
-        "c_percent": "46",
-        "d_percent": "34",
-        "e_percent": "26",
-        "r_percent": "34"
-    },
-    "5": {
-        "category": "THEATRE",
-        "prompt": "A mythical and mysterious village in the Scottish Highlands, invisible to the outside world save for one enchanted day every hundred years, provides the setting (and the title) for what popular 1947 Lerner and Loewe musical?",
-        "answer": "brigadoon",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "75",
-        "c_percent": "62",
-        "d_percent": "50",
-        "e_percent": "28",
-        "r_percent": "43"
-    },
-    "6": {
-        "category": "GAMES/SPORT",
-        "prompt": "Fabiana Luperini, Chris Froome, Jeannie Longo, Bradley Wiggins, Nicole Cooke, Fabian Cancellara, and Marianne Vos are all athletes who have achieved success in what sport?",
-        "answer": "cycling",
-        "image": null,
-        "a_percent": "68",
-        "b_percent": "53",
-        "c_percent": "41",
-        "d_percent": "32",
-        "e_percent": "24",
-        "r_percent": "32"
-    }
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "As of 2015, in both Canada and the United States, Golden Color/Delicate Taste, Amber Color/Rich Taste, Dark Color/Robust Flavor, and Very Dark/Strong Flavor are classifications, all categorized within Grade A, for what food product?",
+            "answer": "maple syrup",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "71",
+            "c_percent": "66",
+            "d_percent": "59",
+            "e_percent": "47",
+            "r_percent": "53"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "\"Jesus of Nazareth, the King of the Jews.\" This is an English translation of an expression that is regularly represented by what initialism?",
+            "answer": "inri",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "54",
+            "e_percent": "37",
+            "r_percent": "53"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Sakartvelo is the official native name for the mountainous Transcaucasian nation that is known in the West as what?",
+            "answer": "georgia",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "62",
+            "c_percent": "54",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The force produced on an object moving in a north-south line on the Earth's surface, due to the angular velocity of the Earth as it rotates from west to east, is known as what? Due to the Earth's relatively slow rate of rotation, this force mainly affects the flow of air in the atmosphere.",
+            "answer": "coriolis force",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "52",
+            "c_percent": "46",
+            "d_percent": "34",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "A mythical and mysterious village in the Scottish Highlands, invisible to the outside world save for one enchanted day every hundred years, provides the setting (and the title) for what popular 1947 Lerner and Loewe musical?",
+            "answer": "brigadoon",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "62",
+            "d_percent": "50",
+            "e_percent": "28",
+            "r_percent": "43"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Fabiana Luperini, Chris Froome, Jeannie Longo, Bradley Wiggins, Nicole Cooke, Fabian Cancellara, and Marianne Vos are all athletes who have achieved success in what sport?",
+            "answer": "cycling",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "53",
+            "c_percent": "41",
+            "d_percent": "32",
+            "e_percent": "24",
+            "r_percent": "32"
+        }
+    ]
 }

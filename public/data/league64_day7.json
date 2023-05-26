@@ -1,77 +1,79 @@
 {
+    "date": "February 25, 2015",
     "league": 64,
     "day": 7,
-    "date": "February 25, 2015",
-    "1": {
-        "category": "LITERATURE",
-        "prompt": "Of the two title characters in the sixth (and penultimate) book of the Harry Potter series, Harry Potter and the Half-Blood Prince, the second (after Harry himself) is better known throughout the series by what name?",
-        "answer": "severus snape",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "63",
-        "c_percent": "60",
-        "d_percent": "53",
-        "e_percent": "48",
-        "r_percent": "49"
-    },
-    "2": {
-        "category": "THEATRE",
-        "prompt": "Name the famous 1927 musical by Jerome Kern and Oscar Hammerstein II, regarded by some as the first successful, totally American operetta, which includes the classics \"Can't Help Lovin' Dat Man\", \"Make Believe\", \"Why Do I Love You\", and \"Ol' Man River\".",
-        "answer": "show boat",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "72",
-        "c_percent": "64",
-        "d_percent": "48",
-        "e_percent": "31",
-        "r_percent": "42"
-    },
-    "3": {
-        "category": "LANGUAGE",
-        "prompt": "What is the German translation of the French word montagne?",
-        "answer": "berg",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "63",
-        "c_percent": "52",
-        "d_percent": "34",
-        "e_percent": "16",
-        "r_percent": "30"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "What is the anatomical term for a muscle that bends a limb, working as an antagonist in opposition to extensors? Examples in the human body include the biceps, deltoid, and the sartorius?",
-        "answer": "flexor",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "72",
-        "c_percent": "70",
-        "d_percent": "61",
-        "e_percent": "49",
-        "r_percent": "58"
-    },
-    "5": {
-        "category": "POP MUSIC",
-        "prompt": "Of the twelve studio albums released by the rock band Van Halen, two of them, released consecutively in the mid-1980s, have titles which are four-digit numbers. Please give either of those two numbers.",
-        "answer": "1984, 5150",
-        "image": null,
-        "a_percent": "90",
-        "b_percent": "80",
-        "c_percent": "75",
-        "d_percent": "68",
-        "e_percent": "53",
-        "r_percent": "60"
-    },
-    "6": {
-        "category": "ART",
-        "prompt": "___forum, ___Review, and ___news: these are all names of magazines which are missing the same first three letters\u2014letters which spell the genre these magazines cover. What are the three missing letters?",
-        "answer": "art",
-        "image": null,
-        "a_percent": "52",
-        "b_percent": "42",
-        "c_percent": "39",
-        "d_percent": "37",
-        "e_percent": "26",
-        "r_percent": "36"
-    }
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Of the two title characters in the sixth (and penultimate) book of the Harry Potter series, Harry Potter and the Half-Blood Prince, the second (after Harry himself) is better known throughout the series by what name?",
+            "answer": "severus snape",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "63",
+            "c_percent": "60",
+            "d_percent": "53",
+            "e_percent": "48",
+            "r_percent": "49"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name the famous 1927 musical by Jerome Kern and Oscar Hammerstein II, regarded by some as the first successful, totally American operetta, which includes the classics \"Can't Help Lovin' Dat Man\", \"Make Believe\", \"Why Do I Love You\", and \"Ol' Man River\".",
+            "answer": "show boat",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "48",
+            "e_percent": "31",
+            "r_percent": "42"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the German translation of the French word montagne?",
+            "answer": "berg",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "63",
+            "c_percent": "52",
+            "d_percent": "34",
+            "e_percent": "16",
+            "r_percent": "30"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the anatomical term for a muscle that bends a limb, working as an antagonist in opposition to extensors? Examples in the human body include the biceps, deltoid, and the sartorius?",
+            "answer": "flexor",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "49",
+            "r_percent": "58"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Of the twelve studio albums released by the rock band Van Halen, two of them, released consecutively in the mid-1980s, have titles which are four-digit numbers. Please give either of those two numbers.",
+            "answer": "1984, 5150",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "80",
+            "c_percent": "75",
+            "d_percent": "68",
+            "e_percent": "53",
+            "r_percent": "60"
+        },
+        {
+            "category": "ART",
+            "prompt": "___forum, ___Review, and ___news: these are all names of magazines which are missing the same first three letters—letters which spell the genre these magazines cover. What are the three missing letters?",
+            "answer": "art",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "42",
+            "c_percent": "39",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "36"
+        }
+    ]
 }

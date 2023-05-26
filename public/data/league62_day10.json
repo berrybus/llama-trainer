@@ -1,77 +1,79 @@
 {
+    "date": "August 29, 2014",
     "league": 62,
     "day": 10,
-    "date": "August 29, 2014",
-    "1": {
-        "category": "FILM",
-        "prompt": "Mysterious spies are attempting to smuggle microfilm containing government secrets out of the country. They try to kill George Kaplan, an agent who is on their trail, but are unsuccessful. The man they're trying to kill isn't even Kaplan -- in fact, Kaplan doesn't actually exist. This is the basis of the plot of what 1959 spy thriller?",
-        "answer": "north by northwest",
-        "image": null,
-        "a_percent": "75",
-        "b_percent": "65",
-        "c_percent": "57",
-        "d_percent": "39",
-        "e_percent": "29",
-        "r_percent": "41"
-    },
-    "2": {
-        "category": "ART",
-        "prompt": "This painting, controversial in its day, is the work of what French painter? ",
-        "answer": "edouard manet",
-        "image": "/images/art/893u0498xn03984y.jpg",
-        "a_percent": "71",
-        "b_percent": "44",
-        "c_percent": "42",
-        "d_percent": "33",
-        "e_percent": "21",
-        "r_percent": "36"
-    },
-    "3": {
-        "category": "TELEVISION",
-        "prompt": "The medical institutions Cook County General Hospital, Seattle Grace Mercy West Hospital, Princeton-Plainsboro Teaching Hospital, and New York's All Saints Hospital all most notably have what in common?",
-        "answer": "fictional hospitals (on television)",
-        "image": null,
-        "a_percent": "98",
-        "b_percent": "96",
-        "c_percent": "93",
-        "d_percent": "86",
-        "e_percent": "80",
-        "r_percent": "86"
-    },
-    "4": {
-        "category": "CLASS MUSIC",
-        "prompt": "Identify the composer of this piece of music. ",
-        "answer": "modest mussorgsky",
-        "image": "/images/art/74589ycn4985ycn0984y.mp3",
-        "a_percent": "57",
-        "b_percent": "40",
-        "c_percent": "28",
-        "d_percent": "20",
-        "e_percent": "10",
-        "r_percent": "16"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "The discovery of the law of conservation of mass, as well as the discovery of the elements oxygen and hydrogen, are among the reasons that this Frenchman is considered the \"Father of Modern Chemistry.\"",
-        "answer": "antoine lavoisier",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "62",
-        "c_percent": "49",
-        "d_percent": "26",
-        "e_percent": "12",
-        "r_percent": "30"
-    },
-    "6": {
-        "category": "FOOD/DRINK",
-        "prompt": "What word, known in a culinary context, is the cognate of a term from the Tup\u00ed language of South America for a process by which starch of the cassava plant is made edible?",
-        "answer": "tapioca",
-        "image": null,
-        "a_percent": "59",
-        "b_percent": "39",
-        "c_percent": "26",
-        "d_percent": "17",
-        "e_percent": "8",
-        "r_percent": "17"
-    }
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "Mysterious spies are attempting to smuggle microfilm containing government secrets out of the country. They try to kill George Kaplan, an agent who is on their trail, but are unsuccessful. The man they're trying to kill isn't even Kaplan -- in fact, Kaplan doesn't actually exist. This is the basis of the plot of what 1959 spy thriller?",
+            "answer": "north by northwest",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "65",
+            "c_percent": "57",
+            "d_percent": "39",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "ART",
+            "prompt": "This painting, controversial in its day, is the work of what French painter? ",
+            "answer": "edouard manet",
+            "image": "/images/art/893u0498xn03984y.jpg",
+            "a_percent": "71",
+            "b_percent": "44",
+            "c_percent": "42",
+            "d_percent": "33",
+            "e_percent": "21",
+            "r_percent": "36"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The medical institutions Cook County General Hospital, Seattle Grace Mercy West Hospital, Princeton-Plainsboro Teaching Hospital, and New York's All Saints Hospital all most notably have what in common?",
+            "answer": "fictional hospitals (on television)",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "86",
+            "e_percent": "80",
+            "r_percent": "86"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Identify the composer of this piece of music. ",
+            "answer": "modest mussorgsky",
+            "image": "/images/art/74589ycn4985ycn0984y.mp3",
+            "a_percent": "57",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "16"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The discovery of the law of conservation of mass, as well as the discovery of the elements oxygen and hydrogen, are among the reasons that this Frenchman is considered the \"Father of Modern Chemistry.\"",
+            "answer": "antoine lavoisier",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "62",
+            "c_percent": "49",
+            "d_percent": "26",
+            "e_percent": "12",
+            "r_percent": "30"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What word, known in a culinary context, is the cognate of a term from the Tupí language of South America for a process by which starch of the cassava plant is made edible?",
+            "answer": "tapioca",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "39",
+            "c_percent": "26",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "17"
+        }
+    ]
 }

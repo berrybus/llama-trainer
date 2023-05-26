@@ -1,77 +1,79 @@
 {
+    "date": "August 28, 2015",
     "league": 66,
     "day": 10,
-    "date": "August 28, 2015",
-    "1": {
-        "category": "GEOGRAPHY",
-        "prompt": "Starting not far from the city of Lubbock, what river flows past the campus of Baylor University in Waco and past facilities of Texas A&M in College Station before passing south of Houston and emptying into the Gulf of Mexico at Freeport?",
-        "answer": "brazos",
-        "image": null,
-        "a_percent": "51",
-        "b_percent": "36",
-        "c_percent": "22",
-        "d_percent": "17",
-        "e_percent": "10",
-        "r_percent": "19"
-    },
-    "2": {
-        "category": "FOOD/DRINK",
-        "prompt": "Hal\u00e1szl\u00e9, P\u00f6rk\u00f6lt, K\u00f6r\u00f6z\u00f6tt (Liptai t\u00far\u00f3), lecs\u00f3, and guly\u00e1s are all dishes noteworthy for the prominence of what spice?",
-        "answer": "paprika",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "83",
-        "c_percent": "80",
-        "d_percent": "66",
-        "e_percent": "49",
-        "r_percent": "61"
-    },
-    "3": {
-        "category": "POP MUSIC",
-        "prompt": "Grammy-winning EDM artist Anton Zaslavski has a stage name that is a play on the initial of his last name. Spelled out, what is that stage name?",
-        "answer": "zedd",
-        "image": null,
-        "a_percent": "59",
-        "b_percent": "46",
-        "c_percent": "40",
-        "d_percent": "33",
-        "e_percent": "28",
-        "r_percent": "38"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "While it sometimes includes all modernist painters between the two World Wars, the \"School of\" this city is a term typically applied by art historians to a certain group known as les maudits, including Amedeo Modigliani, Marc Chagall, Chaim Soutine, and Jules Pascin. Name the city.",
-        "answer": "paris",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "68",
-        "c_percent": "54",
-        "d_percent": "41",
-        "e_percent": "32",
-        "r_percent": "50"
-    },
-    "5": {
-        "category": "FILM",
-        "prompt": "Main character Leonard Shelby suffers from a rare but real condition known as anterograde amnesia in what 2000 film?",
-        "answer": "memento",
-        "image": null,
-        "a_percent": "95",
-        "b_percent": "87",
-        "c_percent": "87",
-        "d_percent": "83",
-        "e_percent": "75",
-        "r_percent": "80"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "42 years in the making, and published posthumously in 1999, Juneteenth is the name of the second novel of what American writer and critic? A re-edited manuscript of Juneteenth was published in 2010 as Three Days Before the Shooting....",
-        "answer": "ralph ellison",
-        "image": null,
-        "a_percent": "63",
-        "b_percent": "44",
-        "c_percent": "29",
-        "d_percent": "16",
-        "e_percent": "9",
-        "r_percent": "21"
-    }
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Starting not far from the city of Lubbock, what river flows past the campus of Baylor University in Waco and past facilities of Texas A&M in College Station before passing south of Houston and emptying into the Gulf of Mexico at Freeport?",
+            "answer": "brazos",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "36",
+            "c_percent": "22",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Halászlé, Pörkölt, Körözött (Liptai túró), lecsó, and gulyás are all dishes noteworthy for the prominence of what spice?",
+            "answer": "paprika",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "83",
+            "c_percent": "80",
+            "d_percent": "66",
+            "e_percent": "49",
+            "r_percent": "61"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Grammy-winning EDM artist Anton Zaslavski has a stage name that is a play on the initial of his last name. Spelled out, what is that stage name?",
+            "answer": "zedd",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "46",
+            "c_percent": "40",
+            "d_percent": "33",
+            "e_percent": "28",
+            "r_percent": "38"
+        },
+        {
+            "category": "ART",
+            "prompt": "While it sometimes includes all modernist painters between the two World Wars, the \"School of\" this city is a term typically applied by art historians to a certain group known as les maudits, including Amedeo Modigliani, Marc Chagall, Chaim Soutine, and Jules Pascin. Name the city.",
+            "answer": "paris",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "68",
+            "c_percent": "54",
+            "d_percent": "41",
+            "e_percent": "32",
+            "r_percent": "50"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Main character Leonard Shelby suffers from a rare but real condition known as anterograde amnesia in what 2000 film?",
+            "answer": "memento",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "87",
+            "c_percent": "87",
+            "d_percent": "83",
+            "e_percent": "75",
+            "r_percent": "80"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "42 years in the making, and published posthumously in 1999, Juneteenth is the name of the second novel of what American writer and critic? A re-edited manuscript of Juneteenth was published in 2010 as Three Days Before the Shooting....",
+            "answer": "ralph ellison",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "44",
+            "c_percent": "29",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "21"
+        }
+    ]
 }

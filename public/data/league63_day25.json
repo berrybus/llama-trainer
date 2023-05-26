@@ -1,77 +1,79 @@
 {
+    "date": "December 17, 2014",
     "league": 63,
     "day": 25,
-    "date": "December 17, 2014",
-    "1": {
-        "category": "LIFESTYLE",
-        "prompt": "The Hindu concept of Trimurti manifests the cosmic functions of the Supreme Being as represented by three forms. Identify any two of the three most common personifications of these functions.",
-        "answer": "brahma, vishnu, shiva",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "75",
-        "c_percent": "58",
-        "d_percent": "44",
-        "e_percent": "29",
-        "r_percent": "50"
-    },
-    "2": {
-        "category": "SCIENCE",
-        "prompt": "In the law of physics most commonly expressed as PV = nRT, the constant \"R\" is most often referred to as the \"______ constant.\" (Fill in the blank.)",
-        "answer": "gas",
-        "image": null,
-        "a_percent": "53",
-        "b_percent": "44",
-        "c_percent": "32",
-        "d_percent": "27",
-        "e_percent": "18",
-        "r_percent": "30"
-    },
-    "3": {
-        "category": "GAMES/SPORT",
-        "prompt": "In his 21-year baseball career, which ended in 2001, this Hall of Fame shortstop won the American League's Most Valuable Player Award twice, in 1983 and 1991. Name the player.",
-        "answer": "cal ripken, jr.",
-        "image": null,
-        "a_percent": "83",
-        "b_percent": "68",
-        "c_percent": "66",
-        "d_percent": "60",
-        "e_percent": "49",
-        "r_percent": "55"
-    },
-    "4": {
-        "category": "ART",
-        "prompt": "In modern digital photo cameras, the index rating for sensitivity to light (exposure index) is normally designated by a three-letter acronym. What is that acronym?",
-        "answer": "iso",
-        "image": null,
-        "a_percent": "52",
-        "b_percent": "41",
-        "c_percent": "37",
-        "d_percent": "32",
-        "e_percent": "29",
-        "r_percent": "38"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "Parkside, Platteville, River Falls, Stevens Point, Stout, and Whitewater are all campuses of four-year schools in what state's public university system?",
-        "answer": "wisconsin",
-        "image": null,
-        "a_percent": "78",
-        "b_percent": "61",
-        "c_percent": "43",
-        "d_percent": "44",
-        "e_percent": "31",
-        "r_percent": "45"
-    },
-    "6": {
-        "category": "CLASS MUSIC",
-        "prompt": "This excerpt is from the fourth and final symphony of what composer? (49 seconds) ",
-        "answer": "johannes brahms",
-        "image": "/images/art/73y4098ycn34890y09.mp3",
-        "a_percent": "42",
-        "b_percent": "29",
-        "c_percent": "19",
-        "d_percent": "17",
-        "e_percent": "10",
-        "r_percent": "20"
-    }
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Hindu concept of Trimurti manifests the cosmic functions of the Supreme Being as represented by three forms. Identify any two of the three most common personifications of these functions.",
+            "answer": "brahma, vishnu, shiva",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "75",
+            "c_percent": "58",
+            "d_percent": "44",
+            "e_percent": "29",
+            "r_percent": "50"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In the law of physics most commonly expressed as PV = nRT, the constant \"R\" is most often referred to as the \"______ constant.\" (Fill in the blank.)",
+            "answer": "gas",
+            "image": null,
+            "a_percent": "53",
+            "b_percent": "44",
+            "c_percent": "32",
+            "d_percent": "27",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In his 21-year baseball career, which ended in 2001, this Hall of Fame shortstop won the American League's Most Valuable Player Award twice, in 1983 and 1991. Name the player.",
+            "answer": "cal ripken, jr.",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "68",
+            "c_percent": "66",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "55"
+        },
+        {
+            "category": "ART",
+            "prompt": "In modern digital photo cameras, the index rating for sensitivity to light (exposure index) is normally designated by a three-letter acronym. What is that acronym?",
+            "answer": "iso",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "41",
+            "c_percent": "37",
+            "d_percent": "32",
+            "e_percent": "29",
+            "r_percent": "38"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Parkside, Platteville, River Falls, Stevens Point, Stout, and Whitewater are all campuses of four-year schools in what state's public university system?",
+            "answer": "wisconsin",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "61",
+            "c_percent": "43",
+            "d_percent": "44",
+            "e_percent": "31",
+            "r_percent": "45"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "This excerpt is from the fourth and final symphony of what composer? (49 seconds) ",
+            "answer": "johannes brahms",
+            "image": "/images/art/73y4098ycn34890y09.mp3",
+            "a_percent": "42",
+            "b_percent": "29",
+            "c_percent": "19",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "20"
+        }
+    ]
 }

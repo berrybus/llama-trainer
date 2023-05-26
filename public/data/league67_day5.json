@@ -1,77 +1,79 @@
 {
+    "date": "November 16, 2015",
     "league": 67,
     "day": 5,
-    "date": "November 16, 2015",
-    "1": {
-        "category": "THEATRE",
-        "prompt": "Alvin, Martin Beck, Broadhurst, Cort, Imperial, Marquis, New Amsterdam, and St. James are (or once were) all names of what?",
-        "answer": "(broadway) theatres",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "53",
-        "c_percent": "40",
-        "d_percent": "27",
-        "e_percent": "16",
-        "r_percent": "25"
-    },
-    "2": {
-        "category": "LITERATURE",
-        "prompt": "Miss Felicity Lemon, whose first appearance in a novel is in 1955's Hickory Dickory Dock, is a fictional character most prominent as the secretary of what detective?",
-        "answer": "hercule poirot",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "61",
-        "c_percent": "44",
-        "d_percent": "37",
-        "e_percent": "26",
-        "r_percent": "37"
-    },
-    "3": {
-        "category": "POP MUSIC",
-        "prompt": "According to the lyrics (and title) of a hit country single by Keith Urban, the singer learned everything he needed to know from what three \"Johns\"?",
-        "answer": "john cougar, john deere, john 3:16",
-        "image": null,
-        "a_percent": "29",
-        "b_percent": "21",
-        "c_percent": "12",
-        "d_percent": "7",
-        "e_percent": "7",
-        "r_percent": "13"
-    },
-    "4": {
-        "category": "TELEVISION",
-        "prompt": "The vector in this image is most closely associated with what television series? ",
-        "answer": "starsky and hutch",
-        "image": "/images/art/898nyc0958y.jpg",
-        "a_percent": "9",
-        "b_percent": "9",
-        "c_percent": "6",
-        "d_percent": "4",
-        "e_percent": "5",
-        "r_percent": "6"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "What is the anatomical term for either of the two bony structures that form the jaw in humans (colloquially, the \"upper jaw\" and \"lower jaw\")?",
-        "answer": "maxilla, mandible",
-        "image": null,
-        "a_percent": "99",
-        "b_percent": "97",
-        "c_percent": "95",
-        "d_percent": "92",
-        "e_percent": "81",
-        "r_percent": "89"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "In 1998, former White House intern Monica Lewinsky swore an affidavit denying a relationship with President Bill Clinton. This affidavit, signed on January 7, was filed in a case brought by what former Arkansas state employee?",
-        "answer": "paula jones",
-        "image": null,
-        "a_percent": "76",
-        "b_percent": "66",
-        "c_percent": "53",
-        "d_percent": "40",
-        "e_percent": "24",
-        "r_percent": "36"
-    }
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Alvin, Martin Beck, Broadhurst, Cort, Imperial, Marquis, New Amsterdam, and St. James are (or once were) all names of what?",
+            "answer": "(broadway) theatres",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "53",
+            "c_percent": "40",
+            "d_percent": "27",
+            "e_percent": "16",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Miss Felicity Lemon, whose first appearance in a novel is in 1955's Hickory Dickory Dock, is a fictional character most prominent as the secretary of what detective?",
+            "answer": "hercule poirot",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "61",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "26",
+            "r_percent": "37"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "According to the lyrics (and title) of a hit country single by Keith Urban, the singer learned everything he needed to know from what three \"Johns\"?",
+            "answer": "john cougar, john deere, john 3:16",
+            "image": null,
+            "a_percent": "29",
+            "b_percent": "21",
+            "c_percent": "12",
+            "d_percent": "7",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The vector in this image is most closely associated with what television series? ",
+            "answer": "starsky and hutch",
+            "image": "/images/art/898nyc0958y.jpg",
+            "a_percent": "9",
+            "b_percent": "9",
+            "c_percent": "6",
+            "d_percent": "4",
+            "e_percent": "5",
+            "r_percent": "6"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the anatomical term for either of the two bony structures that form the jaw in humans (colloquially, the \"upper jaw\" and \"lower jaw\")?",
+            "answer": "maxilla, mandible",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "92",
+            "e_percent": "81",
+            "r_percent": "89"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "In 1998, former White House intern Monica Lewinsky swore an affidavit denying a relationship with President Bill Clinton. This affidavit, signed on January 7, was filed in a case brought by what former Arkansas state employee?",
+            "answer": "paula jones",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "66",
+            "c_percent": "53",
+            "d_percent": "40",
+            "e_percent": "24",
+            "r_percent": "36"
+        }
+    ]
 }

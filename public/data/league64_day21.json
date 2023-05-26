@@ -1,77 +1,79 @@
 {
+    "date": "March 27, 2015",
     "league": 64,
     "day": 21,
-    "date": "March 27, 2015",
-    "1": {
-        "category": "FILM",
-        "prompt": "The fictional Amazing Amy series of children's books is based on the childhood of the title character from what popular 2014 film?",
-        "answer": "gone girl",
-        "image": null,
-        "a_percent": "72",
-        "b_percent": "57",
-        "c_percent": "54",
-        "d_percent": "50",
-        "e_percent": "50",
-        "r_percent": "52"
-    },
-    "2": {
-        "category": "CURR EVENTS",
-        "prompt": "Name the Russian scientist, politician, former first deputy prime minister, and opposition leader who was murdered while walking home from dinner in Moscow late in the evening of February 27, 2015.",
-        "answer": "boris nemtsov",
-        "image": null,
-        "a_percent": "66",
-        "b_percent": "52",
-        "c_percent": "45",
-        "d_percent": "32",
-        "e_percent": "19",
-        "r_percent": "33"
-    },
-    "3": {
-        "category": "SCIENCE",
-        "prompt": "The medical condition goiter, which is an abnormal enlargement of the thyroid gland causing swelling of the larynx or neck, is most often caused by the dietary lack of what?",
-        "answer": "iodine",
-        "image": null,
-        "a_percent": "85",
-        "b_percent": "74",
-        "c_percent": "72",
-        "d_percent": "59",
-        "e_percent": "39",
-        "r_percent": "55"
-    },
-    "4": {
-        "category": "GAMES/SPORT",
-        "prompt": "The 2014 running of what prestigious automobile race, which concluded on Sunday, June 15, was won by Swiss Marcel F\u00e4ssler, Frenchman Beno\u00eet Tr\u00e9luyer, and German Andr\u00e9 Lotterer?",
-        "answer": "24 hours of le mans",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "70",
-        "c_percent": "58",
-        "d_percent": "50",
-        "e_percent": "37",
-        "r_percent": "42"
-    },
-    "5": {
-        "category": "GEOGRAPHY",
-        "prompt": "For a period up until the early 1990s, many international maps displayed a diamond-shaped, 4400 mi2 \"Neutral Zone,\" whose existence was a result of the 1922 Treaty of Muhammarah. Between what two nations did this Neutral Zone sit?",
-        "answer": "iraq, saudi arabia",
-        "image": null,
-        "a_percent": "42",
-        "b_percent": "24",
-        "c_percent": "21",
-        "d_percent": "11",
-        "e_percent": "3",
-        "r_percent": "13"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "Organized groups in the British colonies of North America who resisted the Stamp Act, passed by Parliament in 1765, came to be known collectively by what moniker? The groups, who remained active through the collapse of royal authority ten years later, have a name that is similar to (and surely inspired) a modern crime-drama television series.",
-        "answer": "sons of liberty",
-        "image": null,
-        "a_percent": "79",
-        "b_percent": "59",
-        "c_percent": "51",
-        "d_percent": "36",
-        "e_percent": "19",
-        "r_percent": "40"
-    }
+    "questions": [
+        {
+            "category": "FILM",
+            "prompt": "The fictional Amazing Amy series of children's books is based on the childhood of the title character from what popular 2014 film?",
+            "answer": "gone girl",
+            "image": null,
+            "a_percent": "72",
+            "b_percent": "57",
+            "c_percent": "54",
+            "d_percent": "50",
+            "e_percent": "50",
+            "r_percent": "52"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Name the Russian scientist, politician, former first deputy prime minister, and opposition leader who was murdered while walking home from dinner in Moscow late in the evening of February 27, 2015.",
+            "answer": "boris nemtsov",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "32",
+            "e_percent": "19",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The medical condition goiter, which is an abnormal enlargement of the thyroid gland causing swelling of the larynx or neck, is most often caused by the dietary lack of what?",
+            "answer": "iodine",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "72",
+            "d_percent": "59",
+            "e_percent": "39",
+            "r_percent": "55"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The 2014 running of what prestigious automobile race, which concluded on Sunday, June 15, was won by Swiss Marcel Fässler, Frenchman Benoît Tréluyer, and German André Lotterer?",
+            "answer": "24 hours of le mans",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "50",
+            "e_percent": "37",
+            "r_percent": "42"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "For a period up until the early 1990s, many international maps displayed a diamond-shaped, 4400 mi2 \"Neutral Zone,\" whose existence was a result of the 1922 Treaty of Muhammarah. Between what two nations did this Neutral Zone sit?",
+            "answer": "iraq, saudi arabia",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "24",
+            "c_percent": "21",
+            "d_percent": "11",
+            "e_percent": "3",
+            "r_percent": "13"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Organized groups in the British colonies of North America who resisted the Stamp Act, passed by Parliament in 1765, came to be known collectively by what moniker? The groups, who remained active through the collapse of royal authority ten years later, have a name that is similar to (and surely inspired) a modern crime-drama television series.",
+            "answer": "sons of liberty",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "59",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "19",
+            "r_percent": "40"
+        }
+    ]
 }

@@ -1,77 +1,79 @@
 {
+    "date": "March 21, 2017",
     "league": 72,
     "day": 21,
-    "date": "March 21, 2017",
-    "1": {
-        "category": "BUS/ECON",
-        "prompt": "Duracell, Wella, Covergirl, Clairol, Natural Instincts, Nice N' Easy, and Max Factor are among the brands sold off in recent strategic divestments by what American consumer goods giant?",
-        "answer": "procter & gamble",
-        "image": null,
-        "a_percent": "81",
-        "b_percent": "73",
-        "c_percent": "65",
-        "d_percent": "58",
-        "e_percent": "48",
-        "r_percent": "59"
-    },
-    "2": {
-        "category": "POP MUSIC",
-        "prompt": "The titles of a 2016 country music hit single by Maren Morris and a separate 2016 country hit by Carrie Underwood both contain the last name of the artist who recorded the 2016 country hits \"Record Year\" and \"Kill a Word.\" What is that word/last name?",
-        "answer": "church",
-        "image": null,
-        "a_percent": "37",
-        "b_percent": "24",
-        "c_percent": "20",
-        "d_percent": "15",
-        "e_percent": "13",
-        "r_percent": "21"
-    },
-    "3": {
-        "category": "LITERATURE",
-        "prompt": "The four-part poem by Federico Garc\u00eda Lorca, written in Spanish in 1935 as \"Llanto por Ignacio S\u00e1nchez Mej\u00eda,\" is an evocative elegy of Lorca's friend, who died (per the poem's unremitting refrain) at five in the afternoon. What was Ignacio's occupation, which is included in a common English title of the poem?",
-        "answer": "bullfighter",
-        "image": null,
-        "a_percent": "56",
-        "b_percent": "36",
-        "c_percent": "24",
-        "d_percent": "17",
-        "e_percent": "8",
-        "r_percent": "19"
-    },
-    "4": {
-        "category": "GEOGRAPHY",
-        "prompt": "As a result of an 1899 treaty between Germany, Great Britain, and the United States, the eastern islands of an archipelago once known as Navigator Islands\u2014specifically, those east of 171 degrees west longitude\u2014were assigned to the U.S., while the western islands were assigned to Germany, and since that time the latter have become an independent democratic nation. Give the name that the American possession, the independent nation, and the island group as a whole have in common.",
-        "answer": "samoa",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "75",
-        "c_percent": "67",
-        "d_percent": "49",
-        "e_percent": "32",
-        "r_percent": "50"
-    },
-    "5": {
-        "category": "SCIENCE",
-        "prompt": "Pahoehoe and a\u02bba are two primary forms of what substance?",
-        "answer": "lava",
-        "image": null,
-        "a_percent": "82",
-        "b_percent": "68",
-        "c_percent": "60",
-        "d_percent": "44",
-        "e_percent": "30",
-        "r_percent": "42"
-    },
-    "6": {
-        "category": "FILM",
-        "prompt": "Tom Powers, played by James Cagney and partially based on the real-life mobster and Al Capone-rival Earl \"Hymie\" Weiss, was the title character of what 1931 talkie? The phrase in question had recently become popularized by law enforcement in reference to organized crime figures of the day.",
-        "answer": "the public enemy",
-        "image": null,
-        "a_percent": "59",
-        "b_percent": "42",
-        "c_percent": "29",
-        "d_percent": "22",
-        "e_percent": "8",
-        "r_percent": "22"
-    }
+    "questions": [
+        {
+            "category": "BUS/ECON",
+            "prompt": "Duracell, Wella, Covergirl, Clairol, Natural Instincts, Nice N' Easy, and Max Factor are among the brands sold off in recent strategic divestments by what American consumer goods giant?",
+            "answer": "procter & gamble",
+            "image": null,
+            "a_percent": "81",
+            "b_percent": "73",
+            "c_percent": "65",
+            "d_percent": "58",
+            "e_percent": "48",
+            "r_percent": "59"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The titles of a 2016 country music hit single by Maren Morris and a separate 2016 country hit by Carrie Underwood both contain the last name of the artist who recorded the 2016 country hits \"Record Year\" and \"Kill a Word.\" What is that word/last name?",
+            "answer": "church",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "24",
+            "c_percent": "20",
+            "d_percent": "15",
+            "e_percent": "13",
+            "r_percent": "21"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The four-part poem by Federico García Lorca, written in Spanish in 1935 as \"Llanto por Ignacio Sánchez Mejía,\" is an evocative elegy of Lorca's friend, who died (per the poem's unremitting refrain) at five in the afternoon. What was Ignacio's occupation, which is included in a common English title of the poem?",
+            "answer": "bullfighter",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "36",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "8",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "As a result of an 1899 treaty between Germany, Great Britain, and the United States, the eastern islands of an archipelago once known as Navigator Islands—specifically, those east of 171 degrees west longitude—were assigned to the U.S., while the western islands were assigned to Germany, and since that time the latter have become an independent democratic nation. Give the name that the American possession, the independent nation, and the island group as a whole have in common.",
+            "answer": "samoa",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "75",
+            "c_percent": "67",
+            "d_percent": "49",
+            "e_percent": "32",
+            "r_percent": "50"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Pahoehoe and aʻa are two primary forms of what substance?",
+            "answer": "lava",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "68",
+            "c_percent": "60",
+            "d_percent": "44",
+            "e_percent": "30",
+            "r_percent": "42"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Tom Powers, played by James Cagney and partially based on the real-life mobster and Al Capone-rival Earl \"Hymie\" Weiss, was the title character of what 1931 talkie? The phrase in question had recently become popularized by law enforcement in reference to organized crime figures of the day.",
+            "answer": "the public enemy",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "42",
+            "c_percent": "29",
+            "d_percent": "22",
+            "e_percent": "8",
+            "r_percent": "22"
+        }
+    ]
 }

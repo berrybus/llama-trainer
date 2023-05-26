@@ -1,77 +1,79 @@
 {
+    "date": "December 13, 2016",
     "league": 71,
     "day": 19,
-    "date": "December 13, 2016",
-    "1": {
-        "category": "LIFESTYLE",
-        "prompt": "The first son of Jacob and Leah and progenitor of one of the twelve tribes of Israel has a name that also commonly appears (unrelatedly) on delicatessen menus. What is that name?",
-        "answer": "reuben",
-        "image": null,
-        "a_percent": "92",
-        "b_percent": "86",
-        "c_percent": "83",
-        "d_percent": "78",
-        "e_percent": "69",
-        "r_percent": "77"
-    },
-    "2": {
-        "category": "ART",
-        "prompt": "While the building today houses the most important collection of paintings in Italy, its original purpose when commissioned in 1560 was to house the government. What is this museum, whose name translates to English as \"offices\"?",
-        "answer": "uffizi",
-        "image": null,
-        "a_percent": "87",
-        "b_percent": "77",
-        "c_percent": "65",
-        "d_percent": "49",
-        "e_percent": "30",
-        "r_percent": "44"
-    },
-    "3": {
-        "category": "GEOGRAPHY",
-        "prompt": "Of the four main islands of Japan, which is the farthest north?",
-        "answer": "hokkaido",
-        "image": null,
-        "a_percent": "84",
-        "b_percent": "75",
-        "c_percent": "66",
-        "d_percent": "52",
-        "e_percent": "32",
-        "r_percent": "45"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "What automotive engineer (and famous automotive name) developed the Volkswagen Beetle and the classic Mercedes-Benz SSK, not to mention various Nazi military vehicles?",
-        "answer": "ferdinand porsche",
-        "image": null,
-        "a_percent": "70",
-        "b_percent": "51",
-        "c_percent": "40",
-        "d_percent": "31",
-        "e_percent": "19",
-        "r_percent": "30"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "In the game Scrabble, what is the sum of the point values on the tiles used to play the word SCRABBLE (as displayed on many standard Scrabble boards)?",
-        "answer": "14",
-        "image": null,
-        "a_percent": "52",
-        "b_percent": "42",
-        "c_percent": "31",
-        "d_percent": "25",
-        "e_percent": "18",
-        "r_percent": "26"
-    },
-    "6": {
-        "category": "AMER HIST",
-        "prompt": "What was the derogatory epithet used to describe whites of the southern United States who cooperated with occupying forces from the North during the post-Civil War Reconstruction era?",
-        "answer": "scalawags",
-        "image": null,
-        "a_percent": "67",
-        "b_percent": "47",
-        "c_percent": "35",
-        "d_percent": "27",
-        "e_percent": "11",
-        "r_percent": "23"
-    }
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The first son of Jacob and Leah and progenitor of one of the twelve tribes of Israel has a name that also commonly appears (unrelatedly) on delicatessen menus. What is that name?",
+            "answer": "reuben",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "78",
+            "e_percent": "69",
+            "r_percent": "77"
+        },
+        {
+            "category": "ART",
+            "prompt": "While the building today houses the most important collection of paintings in Italy, its original purpose when commissioned in 1560 was to house the government. What is this museum, whose name translates to English as \"offices\"?",
+            "answer": "uffizi",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "49",
+            "e_percent": "30",
+            "r_percent": "44"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Of the four main islands of Japan, which is the farthest north?",
+            "answer": "hokkaido",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "52",
+            "e_percent": "32",
+            "r_percent": "45"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What automotive engineer (and famous automotive name) developed the Volkswagen Beetle and the classic Mercedes-Benz SSK, not to mention various Nazi military vehicles?",
+            "answer": "ferdinand porsche",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "51",
+            "c_percent": "40",
+            "d_percent": "31",
+            "e_percent": "19",
+            "r_percent": "30"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the game Scrabble, what is the sum of the point values on the tiles used to play the word SCRABBLE (as displayed on many standard Scrabble boards)?",
+            "answer": "14",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "42",
+            "c_percent": "31",
+            "d_percent": "25",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What was the derogatory epithet used to describe whites of the southern United States who cooperated with occupying forces from the North during the post-Civil War Reconstruction era?",
+            "answer": "scalawags",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "47",
+            "c_percent": "35",
+            "d_percent": "27",
+            "e_percent": "11",
+            "r_percent": "23"
+        }
+    ]
 }

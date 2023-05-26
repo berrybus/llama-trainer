@@ -1,77 +1,79 @@
 {
+    "date": "September 2, 2014",
     "league": 62,
     "day": 11,
-    "date": "September 2, 2014",
-    "1": {
-        "category": "GEOGRAPHY",
-        "prompt": "In the fourth century BC, the city of Rome was enclosed within a wall and consisted of seven hills. Name any two of these seven hills of Rome.",
-        "answer": "aventine, caelian, capitoline, esquiline, palatine, quirinal, viminal",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "50",
-        "c_percent": "35",
-        "d_percent": "27",
-        "e_percent": "10",
-        "r_percent": "26"
-    },
-    "2": {
-        "category": "FILM",
-        "prompt": "Identify the actor on the left in this photo from 1921. ",
-        "answer": "rudolph valentino",
-        "image": "/images/art/4894905u0c489u503489u5.jpg",
-        "a_percent": "49",
-        "b_percent": "34",
-        "c_percent": "33",
-        "d_percent": "24",
-        "e_percent": "15",
-        "r_percent": "22"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "The first modern-day non-royal female head of state in the Western Hemisphere took office in July 1974, becoming president upon the death of her husband Juan. What was her name (first and last required)?",
-        "answer": "isabel per\u00f3n",
-        "image": null,
-        "a_percent": "45",
-        "b_percent": "19",
-        "c_percent": "17",
-        "d_percent": "8",
-        "e_percent": "4",
-        "r_percent": "11"
-    },
-    "4": {
-        "category": "SCIENCE",
-        "prompt": "The first launch of a rocket into space was done by Germany in 1942 (the V-2), but the first rocket to carry a payload into space was a modified R-7 Semyorka, launched by Russia. What was the name of its payload (as well as a name given to the rocket itself)?",
-        "answer": "sputnik (sputnik 1)",
-        "image": null,
-        "a_percent": "80",
-        "b_percent": "77",
-        "c_percent": "70",
-        "d_percent": "68",
-        "e_percent": "59",
-        "r_percent": "68"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "The commemoratively named Ali Mall, named after Muhammad Ali and constructed in late 1975, is located next to the Araneta Coliseum in what city (where the mall was the city's first major shopping mall)?",
-        "answer": "quezon city/manila",
-        "image": null,
-        "a_percent": "55",
-        "b_percent": "42",
-        "c_percent": "34",
-        "d_percent": "30",
-        "e_percent": "23",
-        "r_percent": "27"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "This author's first published novel was published in 1984 by the Naval Institute Press (the film would follow six years later), but became a bestseller (his first of 17) after praise from President Ronald Reagan. Name the author.",
-        "answer": "tom clancy",
-        "image": null,
-        "a_percent": "93",
-        "b_percent": "91",
-        "c_percent": "91",
-        "d_percent": "83",
-        "e_percent": "66",
-        "r_percent": "80"
-    }
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "In the fourth century BC, the city of Rome was enclosed within a wall and consisted of seven hills. Name any two of these seven hills of Rome.",
+            "answer": "aventine, caelian, capitoline, esquiline, palatine, quirinal, viminal",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "50",
+            "c_percent": "35",
+            "d_percent": "27",
+            "e_percent": "10",
+            "r_percent": "26"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Identify the actor on the left in this photo from 1921. ",
+            "answer": "rudolph valentino",
+            "image": "/images/art/4894905u0c489u503489u5.jpg",
+            "a_percent": "49",
+            "b_percent": "34",
+            "c_percent": "33",
+            "d_percent": "24",
+            "e_percent": "15",
+            "r_percent": "22"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The first modern-day non-royal female head of state in the Western Hemisphere took office in July 1974, becoming president upon the death of her husband Juan. What was her name (first and last required)?",
+            "answer": "isabel perón",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "19",
+            "c_percent": "17",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The first launch of a rocket into space was done by Germany in 1942 (the V-2), but the first rocket to carry a payload into space was a modified R-7 Semyorka, launched by Russia. What was the name of its payload (as well as a name given to the rocket itself)?",
+            "answer": "sputnik (sputnik 1)",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "68",
+            "e_percent": "59",
+            "r_percent": "68"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The commemoratively named Ali Mall, named after Muhammad Ali and constructed in late 1975, is located next to the Araneta Coliseum in what city (where the mall was the city's first major shopping mall)?",
+            "answer": "quezon city/manila",
+            "image": null,
+            "a_percent": "55",
+            "b_percent": "42",
+            "c_percent": "34",
+            "d_percent": "30",
+            "e_percent": "23",
+            "r_percent": "27"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "This author's first published novel was published in 1984 by the Naval Institute Press (the film would follow six years later), but became a bestseller (his first of 17) after praise from President Ronald Reagan. Name the author.",
+            "answer": "tom clancy",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "91",
+            "c_percent": "91",
+            "d_percent": "83",
+            "e_percent": "66",
+            "r_percent": "80"
+        }
+    ]
 }

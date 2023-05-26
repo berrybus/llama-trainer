@@ -1,77 +1,79 @@
 {
+    "date": "February 24, 2014",
     "league": 60,
     "day": 5,
-    "date": "February 24, 2014",
-    "1": {
-        "category": "THEATRE",
-        "prompt": "Originally a vat room with hop storage for London's Woodyard Brewery, the building known presently as the Donmar Warehouse is today used primarily for what other purpose?",
-        "answer": "theatre",
-        "image": null,
-        "a_percent": "51",
-        "b_percent": "38",
-        "c_percent": "30",
-        "d_percent": "22",
-        "e_percent": "12",
-        "r_percent": "21"
-    },
-    "2": {
-        "category": "CURR EVENTS",
-        "prompt": "Identify the Democratic U.S. Senator, Chairman of the Senate Judiciary Committee, who is the Senate's most senior member (and thus, as a member of the majority party, the President pro tempore).",
-        "answer": "patrick leahy",
-        "image": null,
-        "a_percent": "77",
-        "b_percent": "60",
-        "c_percent": "46",
-        "d_percent": "30",
-        "e_percent": "14",
-        "r_percent": "31"
-    },
-    "3": {
-        "category": "WORLD HIST",
-        "prompt": "The series of military conflicts known as the Carnatic Wars, which took place from 1746 to 1763, saw British-controlled forces battle French-controlled forces in territories which are today a part of what nation?",
-        "answer": "india",
-        "image": null,
-        "a_percent": "62",
-        "b_percent": "41",
-        "c_percent": "35",
-        "d_percent": "20",
-        "e_percent": "10",
-        "r_percent": "24"
-    },
-    "4": {
-        "category": "POP MUSIC",
-        "prompt": "Identify the party-loving country music superstar, pictured here, who had two separate albums reach #1 on the Billboard country albums chart in 2013 (Spring Break\u2026Here to Party and Crash My Party).  ",
-        "answer": "luke bryan",
-        "image": "/images/art/7589c0m589.png",
-        "a_percent": "35",
-        "b_percent": "16",
-        "c_percent": "18",
-        "d_percent": "15",
-        "e_percent": "16",
-        "r_percent": "20"
-    },
-    "5": {
-        "category": "GAMES/SPORT",
-        "prompt": "Identify the building at the right in this photograph. ",
-        "answer": "astrodome",
-        "image": "/images/art/4985yc093.png",
-        "a_percent": "82",
-        "b_percent": "72",
-        "c_percent": "64",
-        "d_percent": "55",
-        "e_percent": "39",
-        "r_percent": "51"
-    },
-    "6": {
-        "category": "LITERATURE",
-        "prompt": "Esther Summerson, the [spoiler alert] illegitimate daughter of Lady Honoria Dedlock and Captain James Hawdon, is the heroine of which Charles Dickens novel, as well as the only first-person narrator in any of his books who is female?",
-        "answer": "bleak house",
-        "image": null,
-        "a_percent": "69",
-        "b_percent": "54",
-        "c_percent": "47",
-        "d_percent": "31",
-        "e_percent": "17",
-        "r_percent": "30"
-    }
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "Originally a vat room with hop storage for London's Woodyard Brewery, the building known presently as the Donmar Warehouse is today used primarily for what other purpose?",
+            "answer": "theatre",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "22",
+            "e_percent": "12",
+            "r_percent": "21"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "Identify the Democratic U.S. Senator, Chairman of the Senate Judiciary Committee, who is the Senate's most senior member (and thus, as a member of the majority party, the President pro tempore).",
+            "answer": "patrick leahy",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "60",
+            "c_percent": "46",
+            "d_percent": "30",
+            "e_percent": "14",
+            "r_percent": "31"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The series of military conflicts known as the Carnatic Wars, which took place from 1746 to 1763, saw British-controlled forces battle French-controlled forces in territories which are today a part of what nation?",
+            "answer": "india",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "41",
+            "c_percent": "35",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "24"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Identify the party-loving country music superstar, pictured here, who had two separate albums reach #1 on the Billboard country albums chart in 2013 (Spring Break…Here to Party and Crash My Party).  ",
+            "answer": "luke bryan",
+            "image": "/images/art/7589c0m589.png",
+            "a_percent": "35",
+            "b_percent": "16",
+            "c_percent": "18",
+            "d_percent": "15",
+            "e_percent": "16",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Identify the building at the right in this photograph. ",
+            "answer": "astrodome",
+            "image": "/images/art/4985yc093.png",
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "55",
+            "e_percent": "39",
+            "r_percent": "51"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Esther Summerson, the [spoiler alert] illegitimate daughter of Lady Honoria Dedlock and Captain James Hawdon, is the heroine of which Charles Dickens novel, as well as the only first-person narrator in any of his books who is female?",
+            "answer": "bleak house",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "54",
+            "c_percent": "47",
+            "d_percent": "31",
+            "e_percent": "17",
+            "r_percent": "30"
+        }
+    ]
 }
