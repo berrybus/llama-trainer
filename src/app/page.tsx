@@ -1,8 +1,8 @@
 "use client";
 
 import Fuse from "fuse.js";
-import type {NextPage} from "next";
-import React, {useEffect, useRef, useState} from "react";
+import type { NextPage } from "next";
+import React, { useEffect, useRef, useState } from "react";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -18,19 +18,7 @@ export interface MatchDayListing {
   date: string;
   league: string;
   day: string;
-  questions: Array<Question>
-}
-
-export interface MatchDay {
-  "1": Question;
-  "2": Question;
-  "3": Question;
-  "4": Question;
-  "5": Question;
-  "6": Question;
-  date: string;
-  league: string;
-  day: string;
+  questions: Array<Question>;
 }
 
 export interface Question {
@@ -76,24 +64,16 @@ const Home: NextPage = () => {
     }
   }
 
-  // This is awful I don't know how to get TypeScript to
-  // just read the stupid random integer value if you
-  // ever want to maintain this please fix this insanity
-  function getRandomMatchQuestion(qData: MatchDayListing): Question {
-    return qData.questions[randomInt(0, 5)]
-  }
-
   const fetchData = async () => {
     try {
       const newDay = randomInt(1, 25);
-      const newLeague = randomInt(minLeague, maxLeague);
+      const newLeague = randomInt(60, 72);
       setDay(newDay);
       setLeague(newLeague);
       console.log(`fetching league ${newLeague} on day ${newDay}`);
       const response = await fetch(`data/league${newLeague}_day${newDay}.json`);
       const jsonData: MatchDayListing = await response.json();
-      const idx = String(randomInt(1, 6));
-      const qData: Question = getRandomMatchQuestion(jsonData);
+      const qData: Question = jsonData.questions[randomInt(0, 5)];
       currentData = qData;
       setPrompt(qData.prompt);
       setCategory(qData.category);
@@ -177,8 +157,8 @@ const Home: NextPage = () => {
     }
   };
 
-  let shouldShowImage = image !== "" && image.endsWith(".jpg")
-  let shouldShowLink = image !== "" && !image.endsWith(".jpg")
+  let shouldShowImage = image !== "" && image.endsWith(".jpg");
+  let shouldShowLink = image !== "" && !image.endsWith(".jpg");
   return (
     <div className="container mx-auto">
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
@@ -194,20 +174,19 @@ const Home: NextPage = () => {
                 </h3>
               </div>
               <p>{prompt}</p>
-              {
-                shouldShowImage ? <img src={image} alt={image}>
-                </img> : ""
-              }
-              {
-                shouldShowLink ? <a
-                    className="link"
-                    href={image}
-                    target="_blank"
-                    hidden={image == ""}
+              {shouldShowImage ? <img src={image} alt={image}></img> : ""}
+              {shouldShowLink ? (
+                <a
+                  className="link"
+                  href={image}
+                  target="_blank"
+                  hidden={image == ""}
                 >
                   Click here
-                </a> : ""
-              }
+                </a>
+              ) : (
+                ""
+              )}
               <h2
                 className={
                   "font-bold mt-2" + (isShowingAnswer ? "" : " hidden")
