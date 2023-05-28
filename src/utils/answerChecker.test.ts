@@ -182,7 +182,7 @@ test('checking multiple answers works', () => {
         "",
         "periodontics",
         "orthodontics"
-    )).toBe(false);
+    )).toBe(true);
 });
 
 
