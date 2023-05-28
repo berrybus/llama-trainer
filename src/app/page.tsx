@@ -1,8 +1,8 @@
 "use client";
 
-import Fuse from "fuse.js";
 import type { NextPage } from "next";
 import React, { useEffect, useRef, useState } from "react";
+import {checkAnswer} from "@/utils/answerChecker";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -36,10 +36,6 @@ export interface Question {
   c_percent: string;
   d_percent: string;
   e_percent: string;
-}
-
-interface SearchResult {
-  score: number;
 }
 
 interface AnswerRatio {
@@ -135,13 +131,14 @@ const Home: NextPage = () => {
       setD("");
       setE("");
     } else {
-      const fuse = new Fuse([currentData.answer], { includeScore: true });
-      const res: Array<Fuse.FuseResult<SearchResult>> = fuse.search(input);
+
+      let answerIsCorrect = checkAnswer(currentData.prompt, currentData.answer, input)
+
       if (answerRatioByCategory[currentData.category] === undefined) {
         answerRatioByCategory[currentData.category] = { correct: 0, total: 0 };
       }
 
-      if (res.length > 0 && res[0].score !== undefined && res[0].score <= 0.3) {
+      if (answerIsCorrect) {
         answerRatio.correct += 1;
         answerRatioByCategory[currentData.category].correct += 1;
         setCorrect(true);
