@@ -10,10 +10,6 @@ function randomInt(min: number, max: number) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-const params = new Proxy(new URLSearchParams(window.location.search), {
-  get: (searchParams, prop) => searchParams.get(prop.toString()),
-});
-
 let currentData: Question;
 let isShowingAnswer = true;
 let [minLeague, maxLeague] = [60, 96];
