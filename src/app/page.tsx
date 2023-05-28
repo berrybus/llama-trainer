@@ -3,14 +3,22 @@
 import Fuse from "fuse.js";
 import type { NextPage } from "next";
 import React, { useEffect, useRef, useState } from "react";
+import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
 
 function randomInt(min: number, max: number) {
   // min and max included
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
+const params = new Proxy(new URLSearchParams(window.location.search), {
+  get: (searchParams, prop) => searchParams.get(prop.toString()),
+});
+
 let currentData: Question;
 let isShowingAnswer = true;
+let [minLeague, maxLeague] = [60, 96];
+let [minDay, maxDay] = [1, 25];
+let [minIndex, maxIndex] = [0, 5];
 
 let answerRatio: AnswerRatio = {
   correct: 0,
@@ -48,8 +56,7 @@ interface AnswerRatio {
 }
 
 const Home: NextPage = () => {
-  const [minLeague, setMinLeague] = useState<number>(60);
-  const [maxLeague, setMaxLeague] = useState<number>(96);
+  const [searchParams, setSearchParams] = useState<ReadonlyURLSearchParams>(useSearchParams());
   const [day, setDay] = useState<number>(1);
   const [league, setLeague] = useState<number>(60);
   const [prompt, setPrompt] = useState<string>("");
@@ -74,16 +81,53 @@ const Home: NextPage = () => {
     }
   }
 
+  interface QuestionId {
+    league: number;
+    day: number;
+    index: number;
+  }
+
+  function getNumericQuery(q: string | null): number | null {
+    if (q === null) {
+      return null
+    }
+
+    return parseInt(q, 10)
+  }
+  function getNextQuestion(): QuestionId {
+    const randomQuestion = {
+      league: randomInt(minLeague, maxLeague),
+      day: randomInt(minDay, maxDay),
+      index: randomInt(minIndex, maxIndex)
+    }
+
+    const queryLeague = getNumericQuery(searchParams.get("league"))
+    if (queryLeague !== null && queryLeague >= minLeague && queryLeague <= maxLeague) {
+      randomQuestion.league = queryLeague
+    }
+
+    const queryDay = getNumericQuery(searchParams.get("day"))
+    if (queryDay !== null && queryDay >= minDay && queryDay <= maxDay ) {
+      randomQuestion.day = queryDay
+    }
+
+    const queryIndex = getNumericQuery(searchParams.get("index"))
+    if (queryIndex !== null && queryIndex >= minIndex && queryIndex <= maxIndex) {
+      randomQuestion.index = queryIndex
+    }
+
+    return randomQuestion
+  }
+
   const fetchData = async () => {
     try {
-      const newDay = randomInt(1, 25);
-      const newLeague = randomInt(minLeague, maxLeague);
-      setDay(newDay);
-      setLeague(newLeague);
-      console.log(`fetching league ${newLeague} on day ${newDay}`);
-      const response = await fetch(`data/league${newLeague}_day${newDay}.json`);
+      const nextQuestionId = getNextQuestion()
+      setDay(nextQuestionId.day);
+      setLeague(nextQuestionId.league);
+      console.log(`fetching league ${nextQuestionId.league} on day ${nextQuestionId.day}`);
+      const response = await fetch(`data/league${nextQuestionId.league}_day${nextQuestionId.day}.json`);
       const jsonData: MatchDayListing = await response.json();
-      const qData: Question = jsonData.questions[randomInt(0, 5)];
+      const qData: Question = jsonData.questions[nextQuestionId.index];
       currentData = qData;
       setPrompt(qData.prompt);
       setCategory(qData.category);
@@ -289,7 +333,7 @@ const Home: NextPage = () => {
                 {Object.entries(answerRatioByCategory).map(
                   ([category, answerRatio]) => {
                     return (
-                      <tr>
+                      <tr key={category}>
                         <td>{category}</td>
                         <td>
                           {answerRatio.correct}/{answerRatio.total}
