@@ -1,15 +1,14 @@
 "use client";
 
 import type {NextPage} from "next";
-import { Dialog, Transition } from '@headlessui/react'
-import { ExclamationTriangleIcon } from '@heroicons/react/24/outline'
 import React, {useEffect, useRef, useState} from "react";
 import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
 import {checkAnswer} from "@/utils/answerChecker";
 import {QuestionId} from "@/app/questionId";
 import {AnswerRatio} from "@/app/answerRatio";
-import {LocalDatabase} from "@/app/LocalDatabase";
+import {LocalDatabase} from "@/app/localDatabase";
 import ResetAnswerHistoryConfirmation from "@/app/resetAnswerHistoryConfirmation";
+import {GameMode} from "@/app/gameMode";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -17,7 +16,6 @@ function randomInt(min: number, max: number) {
 }
 
 let currentData: Question;
-let isShowingAnswer = true;
 let [minLeague, maxLeague] = [60, 96];
 let [minDay, maxDay] = [1, 25];
 let [minIndex, maxIndex] = [0, 5];
@@ -28,7 +26,6 @@ let answerRatio: AnswerRatio = {
 };
 
 let answerRatioByCategory: { [category: string]: AnswerRatio } = {};
-let localDatabase = new LocalDatabase(localStorage)
 
 export interface MatchDayListing {
   date: string;
@@ -50,8 +47,11 @@ export interface Question {
 }
 
 const Home: NextPage = () => {
-  const [searchParams, setSearchParams] = useState<ReadonlyURLSearchParams>(useSearchParams());
+  const [hasMounted, setHasMounted] = useState<boolean>(false);
+  const [searchParams, _] = useState<ReadonlyURLSearchParams>(useSearchParams());
+  const [localDatabase, setLocalDatabase] = useState<LocalDatabase>(new LocalDatabase(typeof window === "undefined" ? undefined : localStorage));
   const [questionId, setQuestionId] = useState<QuestionId>({ league: 0, day: 0, index: 0 });
+  const [gameMode, setGameMode] = useState<GameMode>(GameMode.REGULAR);
   const [prompt, setPrompt] = useState<string>("");
   const [category, setCategory] = useState<string>("");
   const [date, setDate] = useState<string>("");
@@ -65,6 +65,8 @@ const Home: NextPage = () => {
   const [input, setInput] = useState<string>("");
   const [correct, setCorrect] = useState<boolean>(true);
   const [isConfirmingReset, setIsConfirmingReset] = useState<boolean>(false);
+  const [isShowingAnswer, setIsShowingAnswer] = useState<boolean>(true);
+
   const inputRef = useRef<HTMLInputElement>(null);
 
   function inputClassName() {
@@ -82,7 +84,8 @@ const Home: NextPage = () => {
 
     return parseInt(q, 10)
   }
-  function getNextQuestion(): QuestionId {
+
+  function getNextRegularQuestion(): QuestionId {
     const randomQuestion = {
       league: randomInt(minLeague, maxLeague),
       day: randomInt(minDay, maxDay),
@@ -107,11 +110,29 @@ const Home: NextPage = () => {
     return randomQuestion
   }
 
+  function getNextPracticeQuestion(): QuestionId {
+    const questions = localDatabase.getPracticeQuestions()
+    const index = randomInt(0, questions.length)
+    console.log(questions)
+    return questions[index]
+  }
+
+  function getNextQuestion(): QuestionId {
+    if (gameMode === GameMode.PRACTICE) {
+      return getNextPracticeQuestion()
+    } else {
+      return getNextRegularQuestion()
+    }
+  }
+
+
   const fetchData = async () => {
     try {
+      console.log("GameMode[gameMode] in fetchData")
+      console.log(GameMode[gameMode])
       const nextQuestionId = getNextQuestion()
       setQuestionId(nextQuestionId)
-      console.log(`fetching league ${nextQuestionId.league} on day ${nextQuestionId.day}`);
+      console.log(`fetching league ${nextQuestionId.league} on day ${nextQuestionId.day} for mode ${GameMode[gameMode]}`);
       const response = await fetch(`data/league${nextQuestionId.league}_day${nextQuestionId.day}.json`);
       const jsonData: MatchDayListing = await response.json();
       const qData: Question = jsonData.questions[nextQuestionId.index];
@@ -131,23 +152,29 @@ const Home: NextPage = () => {
     }
   };
 
-  useEffect(() => {
-    const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.key === "n") {
-        if (isShowingAnswer) {
-          HandleNext();
-          event.preventDefault();
-        }
+  const handleKeyDown = (event: KeyboardEvent) => {
+    if (event.key === "n") {
+      if (isShowingAnswer) {
+        HandleNext();
+        event.preventDefault();
       }
-    };
+    }
+  };
 
-    HandleNext();
-
+  // attachment of event listener has dependencies, and so we must
+  // reregister every time these dependencies change
+  useEffect(() => {
     document.addEventListener("keydown", handleKeyDown);
     return () => {
       document.removeEventListener("keydown", handleKeyDown);
     };
+  }, [isShowingAnswer, gameMode])
+
+  useEffect(() => {
+    setHasMounted(true);
+    HandleNext();
   }, []);
+
 
   useEffect(() => {
     if (!isShowingAnswer && inputRef.current) {
@@ -155,7 +182,14 @@ const Home: NextPage = () => {
     }
   }, [isShowingAnswer]);
 
+  useEffect(() => {
+    console.log("game mode changed")
+    fetchData()
+  }, [gameMode])
+
   const HandleNext = () => {
+    console.log("handling next")
+    console.log(isShowingAnswer)
     if (isShowingAnswer) {
       fetchData();
       setAnswer("");
@@ -191,7 +225,9 @@ const Home: NextPage = () => {
       answerRatio.total += 1;
       answerRatioByCategory[currentData.category].total += 1;
     }
-    isShowingAnswer = !isShowingAnswer;
+
+    console.log(`setting is showing answer :${!isShowingAnswer}`)
+    setIsShowingAnswer(!isShowingAnswer)
   };
 
   const resetAnswerHistory = () => {
@@ -223,6 +259,12 @@ const Home: NextPage = () => {
     image !== "" && (image.endsWith(".jpg") || image.endsWith(".png"));
   let shouldShowLink =
     image !== "" && !(image.endsWith(".jpg") || image.endsWith(".png"));
+
+  let isEligibleForPractice = localDatabase.isEligibleForPractice()
+
+  if (!hasMounted) {
+    return null
+  }
 
   return (
     <div className="container mx-auto">
@@ -308,6 +350,12 @@ const Home: NextPage = () => {
         </div>
         <div className="card bg-base-100 shadow basis-full shrink md:basis-1/3">
           <div className="card-body">
+            <h3 className="card-title">
+              Game Mode: {GameMode[gameMode]}
+            </h3>
+            <h3 className="card-title">
+              Total score: {renderRatio(answerRatio)}
+            </h3>
             <h3 className="card-title">Correct % per level</h3>
             <table className="table table-compact text-center">
               <thead>
@@ -329,9 +377,6 @@ const Home: NextPage = () => {
                 </tr>
               </tbody>
             </table>
-            <h3 className="card-title">
-              Total score: {renderRatio(answerRatio)}
-            </h3>
             <table className="table table-compact text-center">
               <thead>
                 <tr>
@@ -354,7 +399,28 @@ const Home: NextPage = () => {
                 )}
               </tbody>
             </table>
-            <h3 className="card-title">Settings</h3>
+            <h3 className="card-title mt-6">Settings</h3>
+            <div>
+                <button
+                    type="button"
+                    style={{cursor: isEligibleForPractice ? "pointer" : "not-allowed"}}
+                    className={`inline-flex w-full rounded-md px-3 py-2 text-sm font-semibold text-white shadow-sm sm:ml-3 sm:w-auto ${(isEligibleForPractice ? "bg-green-600 hover:bg-green-500" : "bg-gray-300 hover:bg-gray-300")}`}
+                    onClick={() =>  {
+                      if (isEligibleForPractice) {
+                        console.log("setting game mode")
+                        setGameMode(gameMode === GameMode.REGULAR ? GameMode.PRACTICE : GameMode.REGULAR)
+
+                      }
+                    }}
+                >
+                  {gameMode === GameMode.REGULAR ? "Enter Practice Mode" : "Enter Regular Mode"}
+                </button>
+              {
+                isEligibleForPractice ? null : <div className="mt-2 mb-2">
+                  Practice mode is available when you have more than 20 questions answered with less than 50% accuracy (current: {localDatabase.getPracticeQuestions().length})
+                </div>
+              }
+            </div>
               <div>
                 <button
                     type="button"
@@ -365,6 +431,10 @@ const Home: NextPage = () => {
                 </button>
               </div>
             <p>TODO: Add more features</p>
+            <h3 className="card-title mt-6">Lifetime Stats</h3>
+            <div className="flex flex-row gap-4">
+              Lifetime unique questions answered: {localDatabase.size()}
+            </div>
           </div>
         </div>
       </div>

@@ -1,14 +1,34 @@
 import {QuestionId} from "@/app/questionId";
 import {AnswerRatio} from "@/app/answerRatio";
+import {map} from "zod";
 
 export class LocalDatabase {
     private static LOCAL_STORAGE_KEY = "answer-history"
 
     private database: Map<string, AnswerRatio>
+    // @ts-ignore
     private storage: Storage;
 
-    constructor(storage: Storage) {
-        this.storage = storage
+    constructor(storage: Storage | undefined) {
+        if (storage !== undefined) {
+            this.storage = storage
+        } else {
+            this.storage = {
+                getItem(key: string): string | null {
+                    return null
+                },
+                setItem(key: string, value: string) {
+                },
+                key(index: number): string | null {
+                    return null
+                },
+                clear() {
+                },
+                length: 0,
+                removeItem(key: string) {
+                }
+            }
+        }
         this.database = this.deserializeFromStorage()
     }
 
@@ -31,8 +51,29 @@ export class LocalDatabase {
         return statistics
     }
 
-    getStatisticsForQuestion(questionId: QuestionId) {
+    getStatisticsForQuestion(questionId: QuestionId): AnswerRatio {
         return this.database.get(this.serializeQuestionId(questionId)) ?? { correct: 0, total: 0 }
+    }
+
+    size(): number {
+        return this.database.size
+    }
+
+    /**
+     * At least 20 questions which are worse than 50%
+     */
+    isEligibleForPractice(): Boolean {
+        return this.getPracticeQuestions().length > 20
+    }
+
+    getPracticeQuestions(): Array<QuestionId> {
+        return Array.from(this.database.entries()).filter(([_, v]) => {
+            if (v.total === 0) {
+                return false
+            } else {
+                return v.correct / v.total <= 0.5
+            }
+        }).map(([k, _]) => this.deserializeQuestionId(k))
     }
 
     reset() {
