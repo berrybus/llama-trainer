@@ -11,6 +11,11 @@ test('checking a single answer works', () => {
 
     expect(answerChecker.checkSingleAnswer(
         "georg frideric handel",
+        "  handel  "
+    )).toBe(true);
+
+    expect(answerChecker.checkSingleAnswer(
+        "georg frideric handel",
         "haendel"
     )).toBe(true);
 
