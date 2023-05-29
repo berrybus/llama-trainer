@@ -1,14 +1,16 @@
 "use client";
 
-import type {NextPage} from "next";
-import React, {useEffect, useRef, useState} from "react";
-import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
-import {checkAnswer} from "@/utils/answerChecker";
-import {QuestionId} from "@/app/questionId";
-import {AnswerRatio} from "@/app/answerRatio";
-import {LocalDatabase} from "@/app/localDatabase";
+import type { NextPage } from "next";
+import React, { useEffect, useRef, useState } from "react";
+import { ReadonlyURLSearchParams, useSearchParams } from "next/navigation";
+import { checkAnswer } from "@/utils/answerChecker";
+import { QuestionId } from "@/app/questionId";
+import { AnswerRatio } from "@/app/answerRatio";
+import { LocalDatabase } from "@/app/localDatabase";
 import ResetAnswerHistoryConfirmation from "@/app/resetAnswerHistoryConfirmation";
-import {GameMode} from "@/app/gameMode";
+import { GameMode } from "@/app/gameMode";
+import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
+import { AiOutlineInfoCircle } from "react-icons/ai";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -48,9 +50,17 @@ export interface Question {
 
 const Home: NextPage = () => {
   const [hasMounted, setHasMounted] = useState<boolean>(false);
-  const [searchParams, _] = useState<ReadonlyURLSearchParams>(useSearchParams());
-  const [localDatabase, setLocalDatabase] = useState<LocalDatabase>(new LocalDatabase(typeof window === "undefined" ? undefined : localStorage));
-  const [questionId, setQuestionId] = useState<QuestionId>({ league: 0, day: 0, index: 0 });
+  const [searchParams, _] = useState<ReadonlyURLSearchParams>(
+    useSearchParams()
+  );
+  const [localDatabase, setLocalDatabase] = useState<LocalDatabase>(
+    new LocalDatabase(typeof window === "undefined" ? undefined : localStorage)
+  );
+  const [questionId, setQuestionId] = useState<QuestionId>({
+    league: 0,
+    day: 0,
+    index: 0,
+  });
   const [gameMode, setGameMode] = useState<GameMode>(GameMode.REGULAR);
   const [prompt, setPrompt] = useState<string>("");
   const [category, setCategory] = useState<string>("");
@@ -64,6 +74,7 @@ const Home: NextPage = () => {
   const [e, setE] = useState<string>(" ");
   const [input, setInput] = useState<string>("");
   const [correct, setCorrect] = useState<boolean>(true);
+  const [showCategoryDetail, setShowCategoryDetail] = useState<boolean>(false);
   const [isConfirmingReset, setIsConfirmingReset] = useState<boolean>(false);
   const [isShowingAnswer, setIsShowingAnswer] = useState<boolean>(true);
 
@@ -79,61 +90,72 @@ const Home: NextPage = () => {
 
   function getNumericQuery(q: string | null): number | null {
     if (q === null) {
-      return null
+      return null;
     }
 
-    return parseInt(q, 10)
+    return parseInt(q, 10);
   }
 
   function getNextRegularQuestion(): QuestionId {
     const randomQuestion = {
       league: randomInt(minLeague, maxLeague),
       day: randomInt(minDay, maxDay),
-      index: randomInt(minIndex, maxIndex)
+      index: randomInt(minIndex, maxIndex),
+    };
+
+    const queryLeague = getNumericQuery(searchParams.get("league"));
+    if (
+      queryLeague !== null &&
+      queryLeague >= minLeague &&
+      queryLeague <= maxLeague
+    ) {
+      randomQuestion.league = queryLeague;
     }
 
-    const queryLeague = getNumericQuery(searchParams.get("league"))
-    if (queryLeague !== null && queryLeague >= minLeague && queryLeague <= maxLeague) {
-      randomQuestion.league = queryLeague
+    const queryDay = getNumericQuery(searchParams.get("day"));
+    if (queryDay !== null && queryDay >= minDay && queryDay <= maxDay) {
+      randomQuestion.day = queryDay;
     }
 
-    const queryDay = getNumericQuery(searchParams.get("day"))
-    if (queryDay !== null && queryDay >= minDay && queryDay <= maxDay ) {
-      randomQuestion.day = queryDay
+    const queryIndex = getNumericQuery(searchParams.get("index"));
+    if (
+      queryIndex !== null &&
+      queryIndex >= minIndex &&
+      queryIndex <= maxIndex
+    ) {
+      randomQuestion.index = queryIndex;
     }
 
-    const queryIndex = getNumericQuery(searchParams.get("index"))
-    if (queryIndex !== null && queryIndex >= minIndex && queryIndex <= maxIndex) {
-      randomQuestion.index = queryIndex
-    }
-
-    return randomQuestion
+    return randomQuestion;
   }
 
   function getNextPracticeQuestion(): QuestionId {
-    const questions = localDatabase.getPracticeQuestions()
-    const index = randomInt(0, questions.length)
-    console.log(questions)
-    return questions[index]
+    const questions = localDatabase.getPracticeQuestions();
+    const index = randomInt(0, questions.length);
+    console.log(questions);
+    return questions[index];
   }
 
   function getNextQuestion(): QuestionId {
     if (gameMode === GameMode.PRACTICE) {
-      return getNextPracticeQuestion()
+      return getNextPracticeQuestion();
     } else {
-      return getNextRegularQuestion()
+      return getNextRegularQuestion();
     }
   }
 
-
   const fetchData = async () => {
     try {
-      console.log("GameMode[gameMode] in fetchData")
-      console.log(GameMode[gameMode])
-      const nextQuestionId = getNextQuestion()
-      setQuestionId(nextQuestionId)
-      console.log(`fetching league ${nextQuestionId.league} on day ${nextQuestionId.day} for mode ${GameMode[gameMode]}`);
-      const response = await fetch(`data/league${nextQuestionId.league}_day${nextQuestionId.day}.json`);
+      console.log("GameMode[gameMode] in fetchData");
+      console.log(GameMode[gameMode]);
+      const nextQuestionId = getNextQuestion();
+      setQuestionId(nextQuestionId);
+      console.log(
+        `fetching league ${nextQuestionId.league} on day ${nextQuestionId.day} for mode ${GameMode[gameMode]}`
+      );
+      const response = await fetch(
+        `data/league${nextQuestionId.league}_day${nextQuestionId.day}.json`
+      );
       const jsonData: MatchDayListing = await response.json();
       const qData: Question = jsonData.questions[nextQuestionId.index];
       currentData = qData;
@@ -161,6 +183,10 @@ const Home: NextPage = () => {
     }
   };
 
+  const changeGameMode = (mode: GameMode) => {
+    setGameMode(mode);
+  };
+
   // attachment of event listener has dependencies, and so we must
   // reregister every time these dependencies change
   useEffect(() => {
@@ -168,13 +194,12 @@ const Home: NextPage = () => {
     return () => {
       document.removeEventListener("keydown", handleKeyDown);
     };
-  }, [isShowingAnswer, gameMode])
+  }, [isShowingAnswer, gameMode]);
 
   useEffect(() => {
     setHasMounted(true);
     HandleNext();
   }, []);
-
 
   useEffect(() => {
     if (!isShowingAnswer && inputRef.current) {
@@ -183,13 +208,13 @@ const Home: NextPage = () => {
   }, [isShowingAnswer]);
 
   useEffect(() => {
-    console.log("game mode changed")
-    fetchData()
-  }, [gameMode])
+    console.log("game mode changed");
+    fetchData();
+  }, [gameMode]);
 
   const HandleNext = () => {
-    console.log("handling next")
-    console.log(isShowingAnswer)
+    console.log("handling next");
+    console.log(isShowingAnswer);
     if (isShowingAnswer) {
       fetchData();
       setAnswer("");
@@ -200,8 +225,11 @@ const Home: NextPage = () => {
       setD("");
       setE("");
     } else {
-
-      let answerIsCorrect = checkAnswer(currentData.prompt, currentData.answer, input)
+      let answerIsCorrect = checkAnswer(
+        currentData.prompt,
+        currentData.answer,
+        input
+      );
 
       if (answerRatioByCategory[currentData.category] === undefined) {
         answerRatioByCategory[currentData.category] = { correct: 0, total: 0 };
@@ -211,10 +239,10 @@ const Home: NextPage = () => {
         answerRatio.correct += 1;
         answerRatioByCategory[currentData.category].correct += 1;
         setCorrect(true);
-        localDatabase.markAnswerAsCorrect(questionId)
+        localDatabase.markAnswerAsCorrect(questionId);
       } else {
         setCorrect(false);
-        localDatabase.markAnswerAsIncorrect(questionId)
+        localDatabase.markAnswerAsIncorrect(questionId);
       }
       setAnswer(currentData.answer);
       setA(currentData.a_percent);
@@ -226,13 +254,13 @@ const Home: NextPage = () => {
       answerRatioByCategory[currentData.category].total += 1;
     }
 
-    console.log(`setting is showing answer :${!isShowingAnswer}`)
-    setIsShowingAnswer(!isShowingAnswer)
+    console.log(`setting is showing answer :${!isShowingAnswer}`);
+    setIsShowingAnswer(!isShowingAnswer);
   };
 
   const resetAnswerHistory = () => {
-    localDatabase.reset()
-  }
+    localDatabase.reset();
+  };
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     if (!isShowingAnswer) {
@@ -247,34 +275,43 @@ const Home: NextPage = () => {
     }
   };
 
-  const renderRatio = (ratio: AnswerRatio) => {
-    let literalFraction = `${ratio.correct}/${ratio.total}`
-    let totalDenominator = ratio.total === 0 ? 1 : ratio.total
-    let percentage = ratio.correct / totalDenominator * 100
+  const handleToggleCategory = () => {
+    setShowCategoryDetail(!showCategoryDetail);
+  };
 
-    return <span>{literalFraction} ({percentage.toFixed(2)}%)</span>
-  }
+  const renderRatio = (ratio: AnswerRatio) => {
+    let literalFraction = `${ratio.correct}/${ratio.total}`;
+    let totalDenominator = ratio.total === 0 ? 1 : ratio.total;
+    let percentage = (ratio.correct / totalDenominator) * 100;
+
+    return (
+      <span>
+        {literalFraction} ({percentage.toFixed(2)}%)
+      </span>
+    );
+  };
 
   let shouldShowImage =
     image !== "" && (image.endsWith(".jpg") || image.endsWith(".png"));
   let shouldShowLink =
     image !== "" && !(image.endsWith(".jpg") || image.endsWith(".png"));
 
-  let isEligibleForPractice = localDatabase.isEligibleForPractice()
+  let isEligibleForPractice = localDatabase.isEligibleForPractice();
 
   if (!hasMounted) {
-    return null
+    return null;
   }
 
   return (
     <div className="container mx-auto">
       <ResetAnswerHistoryConfirmation
-          isOpen={isConfirmingReset}
-          onConfirm={() => {
-            resetAnswerHistory()
-            setIsConfirmingReset(false)
-          }}
-          onCancel={() => setIsConfirmingReset(false)}/>
+        isOpen={isConfirmingReset}
+        onConfirm={() => {
+          resetAnswerHistory();
+          setIsConfirmingReset(false);
+        }}
+        onCancel={() => setIsConfirmingReset(false)}
+      />
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
         <div className="container basis-full shrink-0 md:basis-2/3">
           <div className="card bg-base-100 shadow">
@@ -350,17 +387,18 @@ const Home: NextPage = () => {
         </div>
         <div className="card bg-base-100 shadow basis-full shrink md:basis-1/3">
           <div className="card-body">
-            <h3 className="card-title">
-              Game Mode: {GameMode[gameMode]}
+            <h3 className={"card-title" + (isShowingAnswer ? "" : " hidden")}>
+              Correct % per level
             </h3>
-            <h3 className="card-title">
-              Total score: {renderRatio(answerRatio)}
-            </h3>
-            <h3 className="card-title">Correct % per level</h3>
-            <table className="table table-compact text-center">
+            <table
+              className={
+                "table table-compact text-center" +
+                (isShowingAnswer ? "" : " hidden")
+              }
+            >
               <thead>
                 <tr>
-                  <th style={{zIndex: 10}}>A</th>
+                  <th style={{ zIndex: 10 }}>A</th>
                   <th>B</th>
                   <th>C</th>
                   <th>D</th>
@@ -377,10 +415,33 @@ const Home: NextPage = () => {
                 </tr>
               </tbody>
             </table>
-            <table className="table table-compact text-center">
+            <div className={"py-1" + (isShowingAnswer ? "" : " hidden")}></div>
+            <div className="flex flex-row justify-between flex-wrap">
+              <h3 className="card-title">
+                Total score: {renderRatio(answerRatio)}
+              </h3>
+
+              <button
+                className="btn btn-square btn-sm btn-outline"
+                onClick={handleToggleCategory}
+              >
+                {showCategoryDetail ? (
+                  <IoIosArrowDown />
+                ) : (
+                  <IoIosArrowForward />
+                )}
+              </button>
+            </div>
+
+            <table
+              className={
+                "table table-compact text-center w-full" +
+                (showCategoryDetail ? "" : " hidden")
+              }
+            >
               <thead>
                 <tr>
-                  <th style={{zIndex: 10}}>Category</th>
+                  <th style={{ zIndex: 10 }}>Category</th>
                   <th>Score</th>
                 </tr>
               </thead>
@@ -390,50 +451,61 @@ const Home: NextPage = () => {
                     return (
                       <tr key={category}>
                         <td>{category}</td>
-                        <td>
-                          {renderRatio(answerRatio)}
-                        </td>
+                        <td>{renderRatio(answerRatio)}</td>
                       </tr>
                     );
                   }
                 )}
               </tbody>
             </table>
-            <h3 className="card-title mt-6">Settings</h3>
-            <div>
-                <button
-                    type="button"
-                    style={{cursor: isEligibleForPractice ? "pointer" : "not-allowed"}}
-                    className={`inline-flex w-full rounded-md px-3 py-2 text-sm font-semibold text-white shadow-sm sm:ml-3 sm:w-auto ${(isEligibleForPractice ? "bg-green-600 hover:bg-green-500" : "bg-gray-300 hover:bg-gray-300")}`}
-                    onClick={() =>  {
-                      if (isEligibleForPractice) {
-                        console.log("setting game mode")
-                        setGameMode(gameMode === GameMode.REGULAR ? GameMode.PRACTICE : GameMode.REGULAR)
 
-                      }
-                    }}
+            <div className="divider"></div>
+
+            <div className="flex flex-row gap-4 flex-wrap">
+              <div className="flex flex-row items-center">
+                <h3 className="text-lg">Mode</h3>
+                <div
+                  className="tooltip tooltip-primary"
+                  data-tip="Practice mode is available when you answer over 20 questions with <= 50% accuracy"
                 >
-                  {gameMode === GameMode.REGULAR ? "Enter Practice Mode" : "Enter Regular Mode"}
-                </button>
-              {
-                isEligibleForPractice ? null : <div className="mt-2 mb-2">
-                  Practice mode is available when you have more than 20 questions answered with less than 50% accuracy (current: {localDatabase.getPracticeQuestions().length})
+                  <AiOutlineInfoCircle />
                 </div>
-              }
-            </div>
-              <div>
+              </div>
+              <div className="btn-group">
                 <button
-                    type="button"
-                    className="inline-flex w-full justify-center rounded-md bg-red-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-red-500 sm:ml-3 sm:w-auto"
-                    onClick={() => setIsConfirmingReset(true)}
+                  className={
+                    "btn btn-outline" +
+                    (gameMode == GameMode.REGULAR ? " btn-active" : "")
+                  }
+                  onClick={() => changeGameMode(GameMode.REGULAR)}
                 >
-                  Reset Answer History
+                  Regular
+                </button>
+                <button
+                  className={
+                    "btn btn-outline" +
+                    (gameMode == GameMode.PRACTICE ? " btn-active" : "")
+                  }
+                  onClick={() => changeGameMode(GameMode.PRACTICE)}
+                  disabled={!isEligibleForPractice}
+                >
+                  Practice
                 </button>
               </div>
-            <p>TODO: Add more features</p>
-            <h3 className="card-title mt-6">Lifetime Stats</h3>
-            <div className="flex flex-row gap-4">
-              Lifetime unique questions answered: {localDatabase.size()}
+            </div>
+
+            <div className="py-1"></div>
+
+            <div className="flex flex-row flex-wrap gap-4 items-center">
+              <h3 className="text-lg">
+                Lifetime questions: {localDatabase.size()}
+              </h3>
+              <button
+                className="btn btn-sm btn-error"
+                onClick={() => setIsConfirmingReset(true)}
+              >
+                Reset
+              </button>
             </div>
           </div>
         </div>
