@@ -94,6 +94,16 @@ test('checking a single answer works', () => {
         "verrazzano",
         "verazzano"
     )).toBe(true);
+
+    expect(answerChecker.checkSingleAnswer(
+        "jacob riis",
+        "Riis "
+    )).toBe(true);
+
+    expect(answerChecker.checkSingleAnswer(
+        "jacob riis",
+        "Riis"
+    )).toBe(true);
 });
 
 
@@ -182,6 +192,16 @@ test('checking multiple answers works', () => {
         "",
         "periodontics",
         "orthodontics"
+    )).toBe(true);
+
+    expect(answerChecker.checkSingleAnswer(
+        "jacob riis",
+        "Riis "
+    )).toBe(true);
+
+    expect(answerChecker.checkSingleAnswer(
+        "jacob riis",
+        "Riis"
     )).toBe(true);
 });
 

@@ -26,9 +26,10 @@ function isLevenshteinValid(supposedlyCorrectAnswer: string, userProvidedAnswer:
     const totalLength = Math.max(1, supposedlyCorrectAnswer.length)
     return distance(supposedlyCorrectAnswer, userProvidedAnswer) / totalLength <= 0.25
 }
-export function checkSingleAnswer(supposedlyCorrectAnswer: string, userProvidedAnswer: string) {
-    const fuseValid = isFuseValid(supposedlyCorrectAnswer, userProvidedAnswer);
-    const levenshteinValid = isLevenshteinValid(supposedlyCorrectAnswer, userProvidedAnswer);
+export function checkSingleAnswer(supposedlyCorrectAnswer: string, rawUserInput: string) {
+    const userInput = rawUserInput.trim()
+    const fuseValid = isFuseValid(supposedlyCorrectAnswer, userInput);
+    const levenshteinValid = isLevenshteinValid(supposedlyCorrectAnswer, userInput);
     return fuseValid || levenshteinValid
 }
 
@@ -55,7 +56,9 @@ function getSlashAnswers(answer: string): Array<string> {
 }
 
 
-export function checkAnswer(questionPrompt: string, questionAnswer: string, userInput: string): Boolean {
+export function checkAnswer(questionPrompt: string, questionAnswer: string, rawUserInput: string): Boolean {
+    const userInput = rawUserInput.trim()
+
     // do a quick and naive but strict check
     if (checkSingleAnswer(questionAnswer, userInput)) {
         return true
