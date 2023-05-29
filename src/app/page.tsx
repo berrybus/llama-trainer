@@ -1,9 +1,12 @@
 "use client";
 
-import type { NextPage } from "next";
-import React, { useEffect, useRef, useState } from "react";
+import type {NextPage} from "next";
+import React, {useEffect, useRef, useState} from "react";
 import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
 import {checkAnswer} from "@/utils/answerChecker";
+import {QuestionId} from "@/app/questionId";
+import {AnswerRatio} from "@/app/answerRatio";
+import {LocalDatabase} from "@/app/LocalDatabase";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -22,6 +25,7 @@ let answerRatio: AnswerRatio = {
 };
 
 let answerRatioByCategory: { [category: string]: AnswerRatio } = {};
+let localDatabase = new LocalDatabase(localStorage)
 
 export interface MatchDayListing {
   date: string;
@@ -42,15 +46,9 @@ export interface Question {
   e_percent: string;
 }
 
-interface AnswerRatio {
-  correct: number;
-  total: number;
-}
-
 const Home: NextPage = () => {
   const [searchParams, setSearchParams] = useState<ReadonlyURLSearchParams>(useSearchParams());
-  const [day, setDay] = useState<number>(1);
-  const [league, setLeague] = useState<number>(60);
+  const [questionId, setQuestionId] = useState<QuestionId>({ league: 0, day: 0, index: 0 });
   const [prompt, setPrompt] = useState<string>("");
   const [category, setCategory] = useState<string>("");
   const [date, setDate] = useState<string>("");
@@ -63,6 +61,7 @@ const Home: NextPage = () => {
   const [e, setE] = useState<string>(" ");
   const [input, setInput] = useState<string>("");
   const [correct, setCorrect] = useState<boolean>(true);
+  const [hasConfirmedReset, setHasConfirmedReset] = useState<boolean>(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   function inputClassName() {
@@ -71,12 +70,6 @@ const Home: NextPage = () => {
     } else {
       return "";
     }
-  }
-
-  interface QuestionId {
-    league: number;
-    day: number;
-    index: number;
   }
 
   function getNumericQuery(q: string | null): number | null {
@@ -114,8 +107,7 @@ const Home: NextPage = () => {
   const fetchData = async () => {
     try {
       const nextQuestionId = getNextQuestion()
-      setDay(nextQuestionId.day);
-      setLeague(nextQuestionId.league);
+      setQuestionId(nextQuestionId)
       console.log(`fetching league ${nextQuestionId.league} on day ${nextQuestionId.day}`);
       const response = await fetch(`data/league${nextQuestionId.league}_day${nextQuestionId.day}.json`);
       const jsonData: MatchDayListing = await response.json();
@@ -182,8 +174,10 @@ const Home: NextPage = () => {
         answerRatio.correct += 1;
         answerRatioByCategory[currentData.category].correct += 1;
         setCorrect(true);
+        localDatabase.markAnswerAsCorrect(questionId)
       } else {
         setCorrect(false);
+        localDatabase.markAnswerAsIncorrect(questionId)
       }
       setAnswer(currentData.answer);
       setA(currentData.a_percent);
@@ -196,6 +190,10 @@ const Home: NextPage = () => {
     }
     isShowingAnswer = !isShowingAnswer;
   };
+
+  const resetAnswerHistory = () => {
+
+  }
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     if (!isShowingAnswer) {
@@ -210,10 +208,19 @@ const Home: NextPage = () => {
     }
   };
 
+  const renderRatio = (ratio: AnswerRatio) => {
+    let literalFraction = `${ratio.correct}/${ratio.total}`
+    let totalDenominator = ratio.total === 0 ? 1 : ratio.total
+    let percentage = ratio.correct / totalDenominator * 100
+
+    return <span>{literalFraction} ({percentage.toFixed(2)}%)</span>
+  }
+
   let shouldShowImage =
     image !== "" && (image.endsWith(".jpg") || image.endsWith(".png"));
   let shouldShowLink =
     image !== "" && !(image.endsWith(".jpg") || image.endsWith(".png"));
+
   return (
     <div className="container mx-auto">
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
@@ -225,7 +232,7 @@ const Home: NextPage = () => {
                   {category} - {date}
                 </h3>
                 <h3 className="card-title">
-                  League {league} - Day {day}
+                  League {questionId.league} - Day {questionId.day}
                 </h3>
               </div>
               <p>{prompt}</p>
@@ -313,7 +320,7 @@ const Home: NextPage = () => {
               </tbody>
             </table>
             <h3 className="card-title">
-              Total score: {answerRatio.correct}/{answerRatio.total}
+              Total score: {renderRatio(answerRatio)}
             </h3>
             <table className="table table-compact text-center">
               <thead>
@@ -329,7 +336,7 @@ const Home: NextPage = () => {
                       <tr key={category}>
                         <td>{category}</td>
                         <td>
-                          {answerRatio.correct}/{answerRatio.total}
+                          {renderRatio(answerRatio)}
                         </td>
                       </tr>
                     );
@@ -338,6 +345,14 @@ const Home: NextPage = () => {
               </tbody>
             </table>
             <h3 className="card-title">Settings</h3>
+              <div>
+                <button
+                    className="btn btn-warning"
+                    onClick={HandleNext}
+                >
+                  Reset Answer History
+                </button>
+              </div>
             <p>TODO: Add more features</p>
           </div>
         </div>
