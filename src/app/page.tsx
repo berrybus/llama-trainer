@@ -1,12 +1,15 @@
 "use client";
 
 import type {NextPage} from "next";
+import { Dialog, Transition } from '@headlessui/react'
+import { ExclamationTriangleIcon } from '@heroicons/react/24/outline'
 import React, {useEffect, useRef, useState} from "react";
 import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
 import {checkAnswer} from "@/utils/answerChecker";
 import {QuestionId} from "@/app/questionId";
 import {AnswerRatio} from "@/app/answerRatio";
 import {LocalDatabase} from "@/app/LocalDatabase";
+import ResetAnswerHistoryConfirmation from "@/app/resetAnswerHistoryConfirmation";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -61,7 +64,7 @@ const Home: NextPage = () => {
   const [e, setE] = useState<string>(" ");
   const [input, setInput] = useState<string>("");
   const [correct, setCorrect] = useState<boolean>(true);
-  const [hasConfirmedReset, setHasConfirmedReset] = useState<boolean>(false);
+  const [isConfirmingReset, setIsConfirmingReset] = useState<boolean>(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   function inputClassName() {
@@ -192,7 +195,7 @@ const Home: NextPage = () => {
   };
 
   const resetAnswerHistory = () => {
-
+    localDatabase.reset()
   }
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -223,6 +226,13 @@ const Home: NextPage = () => {
 
   return (
     <div className="container mx-auto">
+      <ResetAnswerHistoryConfirmation
+          isOpen={isConfirmingReset}
+          onConfirm={() => {
+            resetAnswerHistory()
+            setIsConfirmingReset(false)
+          }}
+          onCancel={() => setIsConfirmingReset(false)}/>
       <div className="flex flex-row items-start gap-4 flex-wrap md:flex-nowrap">
         <div className="container basis-full shrink-0 md:basis-2/3">
           <div className="card bg-base-100 shadow">
@@ -302,7 +312,7 @@ const Home: NextPage = () => {
             <table className="table table-compact text-center">
               <thead>
                 <tr>
-                  <th>A</th>
+                  <th style={{zIndex: 10}}>A</th>
                   <th>B</th>
                   <th>C</th>
                   <th>D</th>
@@ -325,7 +335,7 @@ const Home: NextPage = () => {
             <table className="table table-compact text-center">
               <thead>
                 <tr>
-                  <th>Category</th>
+                  <th style={{zIndex: 10}}>Category</th>
                   <th>Score</th>
                 </tr>
               </thead>
@@ -347,8 +357,9 @@ const Home: NextPage = () => {
             <h3 className="card-title">Settings</h3>
               <div>
                 <button
-                    className="btn btn-warning"
-                    onClick={HandleNext}
+                    type="button"
+                    className="inline-flex w-full justify-center rounded-md bg-red-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-red-500 sm:ml-3 sm:w-auto"
+                    onClick={() => setIsConfirmingReset(true)}
                 >
                   Reset Answer History
                 </button>
