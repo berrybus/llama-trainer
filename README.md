@@ -36,3 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Transformation Script
 
 To run the transformation script, use `npx ts-node --esm scripts/transform.ts`.
+
+## Debugging Query Parameters
+
+To specify a particular league, day, and question index, add to the query params like so: `?league=80&day=3&index=2`. If valid, these will be used to load the question. If any are not valid or not specified, random values are chosen. Currently for debugging only.
