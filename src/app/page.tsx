@@ -1,16 +1,18 @@
 "use client";
 
-import type { NextPage } from "next";
-import React, { useEffect, useRef, useState } from "react";
-import { ReadonlyURLSearchParams, useSearchParams } from "next/navigation";
-import { checkAnswer } from "@/utils/answerChecker";
-import { QuestionId } from "@/app/questionId";
-import { AnswerRatio } from "@/app/answerRatio";
-import { LocalDatabase } from "@/app/localDatabase";
+import type {NextPage} from "next";
+import React, {useEffect, useRef, useState} from "react";
+import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
+import {checkAnswer} from "@/utils/answerChecker";
+import {QuestionId} from "@/app/questionId";
+import {AnswerRatio} from "@/app/answerRatio";
+import {LocalDatabase} from "@/app/localDatabase";
 import ResetAnswerHistoryConfirmation from "@/app/resetAnswerHistoryConfirmation";
-import { GameMode } from "@/app/gameMode";
-import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
-import { AiOutlineInfoCircle } from "react-icons/ai";
+import {GameMode} from "@/app/gameMode";
+import {IoIosArrowDown, IoIosArrowForward} from "react-icons/io";
+import {AiOutlineInfoCircle} from "react-icons/ai";
+import {Question} from "@/app/question";
+import {AnswerAction} from "@/app/answerAction";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -36,18 +38,6 @@ export interface MatchDayListing {
   questions: Array<Question>;
 }
 
-export interface Question {
-  image: string;
-  answer: string;
-  prompt: string;
-  category: string;
-  a_percent: string;
-  b_percent: string;
-  c_percent: string;
-  d_percent: string;
-  e_percent: string;
-}
-
 const Home: NextPage = () => {
   const [hasMounted, setHasMounted] = useState<boolean>(false);
   const [searchParams, _] = useState<ReadonlyURLSearchParams>(
@@ -66,6 +56,7 @@ const Home: NextPage = () => {
   const [category, setCategory] = useState<string>("");
   const [date, setDate] = useState<string>("");
   const [answer, setAnswer] = useState<string>("");
+  const [currentAnswerAction, setCurrentAnswerAction] = useState<AnswerAction | null>(null);
   const [image, setImage] = useState<string>("");
   const [a, setA] = useState<string>(" ");
   const [b, setB] = useState<string>(" ");
@@ -77,6 +68,7 @@ const Home: NextPage = () => {
   const [showCategoryDetail, setShowCategoryDetail] = useState<boolean>(false);
   const [isConfirmingReset, setIsConfirmingReset] = useState<boolean>(false);
   const [isShowingAnswer, setIsShowingAnswer] = useState<boolean>(true);
+  const [gradeWasMarkedWrong, setGradeWasMarkedWrong] = useState<boolean>(false);
 
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -219,6 +211,7 @@ const Home: NextPage = () => {
       fetchData();
       setAnswer("");
       setInput("");
+      setGradeWasMarkedWrong(false);
       setA("");
       setB("");
       setC("");
@@ -230,6 +223,14 @@ const Home: NextPage = () => {
         currentData.answer,
         input
       );
+
+      let answerAction: AnswerAction = {
+        currentData,
+        questionId,
+        isCorrect: answerIsCorrect
+      }
+
+      setCurrentAnswerAction(answerAction);
 
       if (answerRatioByCategory[currentData.category] === undefined) {
         answerRatioByCategory[currentData.category] = { correct: 0, total: 0 };
@@ -257,6 +258,21 @@ const Home: NextPage = () => {
     console.log(`setting is showing answer :${!isShowingAnswer}`);
     setIsShowingAnswer(!isShowingAnswer);
   };
+
+  const handleUndoAnswerAction = (answerAction: AnswerAction) => {
+    setGradeWasMarkedWrong(true);
+    if (answerAction.isCorrect) {
+      answerRatio.correct -= 1;
+      answerRatioByCategory[answerAction.currentData.category].correct -= 1;
+      localDatabase.unmarkAnswerAsCorrect(answerAction.questionId)
+    } else {
+      answerRatio.correct += 1;
+      answerRatioByCategory[answerAction.currentData.category].correct += 1;
+      localDatabase.unmarkAnswerAsIncorrect(answerAction.questionId)
+    }
+    setCorrect(!answerAction.isCorrect)
+  }
+
 
   const resetAnswerHistory = () => {
     localDatabase.reset();
@@ -351,7 +367,7 @@ const Home: NextPage = () => {
               >
                 ANSWER - {answer}
               </h2>
-              <div className="flex flex-row gap-4 mt-6">
+              <div className="flex flex-row gap-2 mt-6">
                 <input
                   type="text"
                   placeholder="Type the answer"
@@ -362,6 +378,16 @@ const Home: NextPage = () => {
                   ref={inputRef}
                   readOnly={isShowingAnswer}
                 />
+                {
+                  isShowingAnswer ?
+                      <button
+                          className="btn btn-warning"
+                          onClick={() => currentAnswerAction ? handleUndoAnswerAction(currentAnswerAction) : null}
+                          disabled={gradeWasMarkedWrong}
+                      >
+                        { gradeWasMarkedWrong ? 'Fixed!' : 'Wrong?' }
+                      </button> : null
+                }
                 <div
                   className="tooltip tooltip-primary hidden md:block"
                   data-tip={isShowingAnswer ? "Shortcut: N" : "Shortcut: Enter"}

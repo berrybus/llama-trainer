@@ -56,7 +56,7 @@ function getSlashAnswers(answer: string): Array<string> {
 }
 
 
-export function checkAnswer(questionPrompt: string, questionAnswer: string, rawUserInput: string): Boolean {
+export function checkAnswer(questionPrompt: string, questionAnswer: string, rawUserInput: string): boolean {
     const userInput = rawUserInput.trim()
 
     // do a quick and naive but strict check

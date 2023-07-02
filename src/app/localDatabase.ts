@@ -42,6 +42,23 @@ export class LocalDatabase {
         return statistics
     }
 
+    unmarkAnswerAsCorrect(questionId: QuestionId): AnswerRatio {
+        let statistics = this.getStatisticsForQuestion(questionId)
+        statistics.correct -= 1
+
+        this.setStatisticsForQuestion(questionId, statistics)
+        return statistics
+    }
+
+    unmarkAnswerAsIncorrect(questionId: QuestionId): AnswerRatio {
+        let statistics = this.getStatisticsForQuestion(questionId)
+        statistics.correct += 1
+
+        this.setStatisticsForQuestion(questionId, statistics)
+        return statistics
+    }
+
+
     markAnswerAsIncorrect(questionId: QuestionId): AnswerRatio {
         let statistics = this.getStatisticsForQuestion(questionId)
         statistics.total += 1
