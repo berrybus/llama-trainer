@@ -307,6 +307,16 @@ const Home: NextPage = () => {
     );
   };
 
+  const renderGradeUndoButton = () => {
+    return <button
+        className="btn btn-warning"
+        onClick={() => currentAnswerAction ? handleUndoAnswerAction(currentAnswerAction) : null}
+        disabled={gradeWasMarkedWrong}
+    >
+      { gradeWasMarkedWrong ? 'Fixed!' : 'Wrong?' }
+    </button>
+  }
+
   let shouldShowImage =
     image !== "" && (image.endsWith(".jpg") || image.endsWith(".png"));
   let shouldShowLink =
@@ -379,14 +389,15 @@ const Home: NextPage = () => {
                   readOnly={isShowingAnswer}
                 />
                 {
-                  isShowingAnswer ?
-                      <button
-                          className="btn btn-warning"
-                          onClick={() => currentAnswerAction ? handleUndoAnswerAction(currentAnswerAction) : null}
-                          disabled={gradeWasMarkedWrong}
-                      >
-                        { gradeWasMarkedWrong ? 'Fixed!' : 'Wrong?' }
-                      </button> : null
+                  isShowingAnswer ? (
+                        gradeWasMarkedWrong ? renderGradeUndoButton() :
+                          <div                   className="tooltip tooltip-warning hidden md:block"
+                                                 data-tip={"Fix incorrect grading"}>
+                            {renderGradeUndoButton()}
+                          </div>
+                      )
+                       : null
+
                 }
                 <div
                   className="tooltip tooltip-primary hidden md:block"
