@@ -1,18 +1,18 @@
 "use client";
 
-import type {NextPage} from "next";
-import React, {useEffect, useRef, useState} from "react";
-import {ReadonlyURLSearchParams, useSearchParams} from "next/navigation";
-import {checkAnswer} from "@/utils/answerChecker";
-import {QuestionId} from "@/app/questionId";
-import {AnswerRatio} from "@/app/answerRatio";
-import {LocalDatabase} from "@/app/localDatabase";
+import type { NextPage } from "next";
+import React, { useEffect, useRef, useState } from "react";
+import { ReadonlyURLSearchParams, useSearchParams } from "next/navigation";
+import { checkAnswer } from "@/utils/answerChecker";
+import { QuestionId } from "@/app/questionId";
+import { AnswerRatio } from "@/app/answerRatio";
+import { LocalDatabase } from "@/app/localDatabase";
 import ResetAnswerHistoryConfirmation from "@/app/resetAnswerHistoryConfirmation";
-import {GameMode} from "@/app/gameMode";
-import {IoIosArrowDown, IoIosArrowForward} from "react-icons/io";
-import {AiOutlineInfoCircle} from "react-icons/ai";
-import {Question} from "@/app/question";
-import {AnswerAction} from "@/app/answerAction";
+import { GameMode } from "@/app/gameMode";
+import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
+import { AiOutlineInfoCircle } from "react-icons/ai";
+import { Question } from "@/app/question";
+import { AnswerAction } from "@/app/answerAction";
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -56,7 +56,8 @@ const Home: NextPage = () => {
   const [category, setCategory] = useState<string>("");
   const [date, setDate] = useState<string>("");
   const [answer, setAnswer] = useState<string>("");
-  const [currentAnswerAction, setCurrentAnswerAction] = useState<AnswerAction | null>(null);
+  const [currentAnswerAction, setCurrentAnswerAction] =
+    useState<AnswerAction | null>(null);
   const [image, setImage] = useState<string>("");
   const [a, setA] = useState<string>(" ");
   const [b, setB] = useState<string>(" ");
@@ -68,7 +69,8 @@ const Home: NextPage = () => {
   const [showCategoryDetail, setShowCategoryDetail] = useState<boolean>(false);
   const [isConfirmingReset, setIsConfirmingReset] = useState<boolean>(false);
   const [isShowingAnswer, setIsShowingAnswer] = useState<boolean>(true);
-  const [gradeWasMarkedWrong, setGradeWasMarkedWrong] = useState<boolean>(false);
+  const [gradeWasMarkedWrong, setGradeWasMarkedWrong] =
+    useState<boolean>(false);
 
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -227,8 +229,8 @@ const Home: NextPage = () => {
       let answerAction: AnswerAction = {
         currentData,
         questionId,
-        isCorrect: answerIsCorrect
-      }
+        isCorrect: answerIsCorrect,
+      };
 
       setCurrentAnswerAction(answerAction);
 
@@ -264,15 +266,14 @@ const Home: NextPage = () => {
     if (answerAction.isCorrect) {
       answerRatio.correct -= 1;
       answerRatioByCategory[answerAction.currentData.category].correct -= 1;
-      localDatabase.unmarkAnswerAsCorrect(answerAction.questionId)
+      localDatabase.unmarkAnswerAsCorrect(answerAction.questionId);
     } else {
       answerRatio.correct += 1;
       answerRatioByCategory[answerAction.currentData.category].correct += 1;
-      localDatabase.unmarkAnswerAsIncorrect(answerAction.questionId)
+      localDatabase.unmarkAnswerAsIncorrect(answerAction.questionId);
     }
-    setCorrect(!answerAction.isCorrect)
-  }
-
+    setCorrect(!answerAction.isCorrect);
+  };
 
   const resetAnswerHistory = () => {
     localDatabase.reset();
@@ -308,14 +309,20 @@ const Home: NextPage = () => {
   };
 
   const renderGradeUndoButton = () => {
-    return <button
+    return (
+      <button
         className="btn btn-warning"
-        onClick={() => currentAnswerAction ? handleUndoAnswerAction(currentAnswerAction) : null}
+        onClick={() =>
+          currentAnswerAction
+            ? handleUndoAnswerAction(currentAnswerAction)
+            : null
+        }
         disabled={gradeWasMarkedWrong}
-    >
-      { gradeWasMarkedWrong ? 'Fixed!' : 'Wrong?' }
-    </button>
-  }
+      >
+        {gradeWasMarkedWrong ? "Fixed!" : "Wrong?"}
+      </button>
+    );
+  };
 
   let shouldShowImage =
     image !== "" && (image.endsWith(".jpg") || image.endsWith(".png"));
@@ -388,17 +395,18 @@ const Home: NextPage = () => {
                   ref={inputRef}
                   readOnly={isShowingAnswer}
                 />
-                {
-                  isShowingAnswer ? (
-                        gradeWasMarkedWrong ? renderGradeUndoButton() :
-                          <div                   className="tooltip tooltip-warning hidden md:block"
-                                                 data-tip={"Fix incorrect grading"}>
-                            {renderGradeUndoButton()}
-                          </div>
-                      )
-                       : null
-
-                }
+                {isShowingAnswer ? (
+                  gradeWasMarkedWrong ? (
+                    renderGradeUndoButton()
+                  ) : (
+                    <div
+                      className="tooltip tooltip-warning hidden md:block"
+                      data-tip={"Fix incorrect grading"}
+                    >
+                      {renderGradeUndoButton()}
+                    </div>
+                  )
+                ) : null}
                 <div
                   className="tooltip tooltip-primary hidden md:block"
                   data-tip={isShowingAnswer ? "Shortcut: N" : "Shortcut: Enter"}
