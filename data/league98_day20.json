@@ -1,0 +1,79 @@
+{
+    "date": "September 25, 2023",
+    "league": 98,
+    "day": 20,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The crude and dirty \"brutes\" of the land of the Houyhnhnms in Jonathan Swift's Gulliver's Travels give their name to what technology company?",
+            "answer": "yahoo!",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "63",
+            "c_percent": "48",
+            "d_percent": "33",
+            "e_percent": "18",
+            "r_percent": "30"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Identify the political leader who, beginning in 1893 at age 24, spent 21 years opposing discriminatory legislation against Indians in South Africa (among the many notable activities during his long life, which ended in 1948)?",
+            "answer": "mohandas gandhi",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "86",
+            "c_percent": "83",
+            "d_percent": "74",
+            "e_percent": "61",
+            "r_percent": "71"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"Pork Chop\" and \"Hamburger\", per the titles of military films from 1959 and 1987, respectively, are names of what?",
+            "answer": "hills",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "66",
+            "c_percent": "57",
+            "d_percent": "44",
+            "e_percent": "28",
+            "r_percent": "36"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Name either of the countries on whose border sit the national parks and World Heritage Sites known as Iguazu/Igua\u00e7u.",
+            "answer": "argentina, brazil",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "72",
+            "c_percent": "63",
+            "d_percent": "54",
+            "e_percent": "42",
+            "r_percent": "53"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "What constitutes the content of videos on the extremely popular YouTube channel Cocomelon (which is in fact the platform's most-subscribed channel featuring such content)?",
+            "answer": "nursery rhymes/educational songs/children's songs",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "63",
+            "c_percent": "61",
+            "d_percent": "58",
+            "e_percent": "56",
+            "r_percent": "62"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Two different animals are classified as monotremes\u2014one comprising a single species, the other comprising four species. The single species is the platypus. Animals of the four species are commonly known as what?",
+            "answer": "echidna",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "42",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "28"
+        }
+    ]
+}

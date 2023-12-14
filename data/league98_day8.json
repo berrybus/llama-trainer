@@ -1,0 +1,79 @@
+{
+    "date": "September 7, 2023",
+    "league": 98,
+    "day": 8,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "\"Welcome to the first [BLANK] ceremony of the summer here in paradise,\" proclaimed host Jesse Palmer on the October 4, 2022 episode of Bachelor in Paradise, with what word filling in the blank?",
+            "answer": "rose",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "84",
+            "c_percent": "82",
+            "d_percent": "80",
+            "e_percent": "76",
+            "r_percent": "76"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In a 2012 children's book by Jon Klassen, a small fish steals the titular object from a big fish (and doesn't get away with it), while in P.D. Eastman's Go Dog Go, a pink dog repeatedly asks a yellow dog if he likes a certain object of hers. In both of these stories, what is the object in question?",
+            "answer": "hat",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "59",
+            "c_percent": "52",
+            "d_percent": "47",
+            "e_percent": "37",
+            "r_percent": "42"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The Boltzmann constant, named after Austrian physicist Ludwig Boltzmann, has the symbol KB, and is a ratio of two other constants. Give the name of either of these other two constants, which are represented respectively by the symbols R and NA.",
+            "answer": "(universal/ideal) gas constant, avogadro constant",
+            "image": null,
+            "a_percent": "45",
+            "b_percent": "36",
+            "c_percent": "29",
+            "d_percent": "24",
+            "e_percent": "18",
+            "r_percent": "22"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the musical artist, one of the most successful of all time in the genre of urban contemporary gospel with 19 Grammy awards and over 40 Dove and Stellar awards (gospel and Christian music awards), who over the years has recorded with the ensembles God's Property, The Family, and One Nation Crew.",
+            "answer": "kirk franklin",
+            "image": null,
+            "a_percent": "27",
+            "b_percent": "18",
+            "c_percent": "14",
+            "d_percent": "12",
+            "e_percent": "9",
+            "r_percent": "12"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The world's largest cryptocurrency exchange (by far) as measured in daily trading volume, which was founded in China in 2017 and has a native coin with the code BNB, has what name?",
+            "answer": "binance",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "47",
+            "c_percent": "41",
+            "d_percent": "37",
+            "e_percent": "30",
+            "r_percent": "37"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What was the name of the Chinese dynasty, ruling from 1368 to 1644, which was the last indigenous Chinese dynasty, and moved the capital from Nanjing to its present location in Beijing?",
+            "answer": "ming",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "55",
+            "d_percent": "49",
+            "e_percent": "46",
+            "r_percent": "56"
+        }
+    ]
+}

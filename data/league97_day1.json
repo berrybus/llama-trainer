@@ -1,0 +1,79 @@
+{
+    "date": "May 22, 2023",
+    "league": 97,
+    "day": 1,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The large (541,000-square-mile) peninsula known in the Inuktitut language as Nunatsuak gives its more common name to what popular British dog breed?",
+            "answer": "labrador (retriever)",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "41",
+            "e_percent": "26",
+            "r_percent": "34"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The Latin phrase orbis non sufficit appears on the crest of the arms of the family of what fictional character of literature and film?",
+            "answer": "james bond",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "40",
+            "e_percent": "22",
+            "r_percent": "34"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the common term for the numerical measure of the concentration (or \"potential\") of hydrogen ions (i.e., protons) in a substance, devised by Danish biochemist S\u00f8ren P. L. S\u00f8rensen in 1909?",
+            "answer": "ph",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "48",
+            "c_percent": "37",
+            "d_percent": "30",
+            "e_percent": "22",
+            "r_percent": "29"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "While Willis Ward was the team's leading scorer and a second-team All-American, what other player, a center, was voted the Most Valuable Player for the (woeful) 1934 University of Michigan Wolverines football team? He would go on to win other elections in his lifetime, though he acceded to his most prestigious role via other means.",
+            "answer": "gerald r. ford (leslie lynch king, jr.)",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "45",
+            "r_percent": "50"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "An estimated 10,000 tons of garbage, with some piles nearly seven feet high, were strewn about the streets of what city by late March 2023, after a strike by the city's sanitation workers that began on the sixth of that month?",
+            "answer": "paris",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "75",
+            "c_percent": "70",
+            "d_percent": "65",
+            "e_percent": "56",
+            "r_percent": "59"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The central family of the Rugrats TV and film series (which includes Tommy, Angelica, Dil, Stu, Didi, et al.) has what uncommon, food-related last name?",
+            "answer": "pickles",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "69",
+            "c_percent": "64",
+            "d_percent": "60",
+            "e_percent": "56",
+            "r_percent": "62"
+        }
+    ]
+}

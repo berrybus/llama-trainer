@@ -1,0 +1,79 @@
+{
+    "date": "September 5, 2023",
+    "league": 98,
+    "day": 6,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "In the culinary world, what word can be used for a thin slice of tender, lean meat and also for a particular bivalve?",
+            "answer": "scallop",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "58",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "25",
+            "r_percent": "37"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "When construction of a certain infrastructure project began in 1817, the longest of its type in the US measured only 27 miles. What was the name of this feat of civil engineering, which would ultimately stretch for 363 miles?",
+            "answer": "erie canal",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "53",
+            "e_percent": "31",
+            "r_percent": "44"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Japanese festival Shichi-Go-San is a celebration and rite of passage held annually on November 15 for children at three different ages. What are those three ages?",
+            "answer": "7, 5, 3",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "27",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "13",
+            "r_percent": "18"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "What is the term used today for the typeface style that was first introduced, with the aim of replicating handwritten manuscripts, by Lazio-born Aldus Manutius around the year 1500 in Venice?",
+            "answer": "italic",
+            "image": null,
+            "a_percent": "59",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "21",
+            "e_percent": "12",
+            "r_percent": "22"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "At a party hosted by his sister in the Bronx on August 11, 1973, a Jamaican-born DJ named Clive Campbell mixed the breakbeats of two identical records to form one continuous beat, and this is widely regarded as the birth of what is today known as hip hop music. By what stage name is this \"Father of Hip-Hop\" better known?",
+            "answer": "dj kool herc",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "26",
+            "c_percent": "19",
+            "d_percent": "12",
+            "e_percent": "8",
+            "r_percent": "14"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Incus, the name of the middle of the three ossicles of the mammalian middle ear, is the Latin word for what tool?",
+            "answer": "anvil",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "60",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "21",
+            "r_percent": "32"
+        }
+    ]
+}

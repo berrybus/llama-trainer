@@ -1,0 +1,79 @@
+{
+    "date": "June 9, 2023",
+    "league": 97,
+    "day": 14,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What is the name of the administrative division, essentially an equivalent to the United States' District of Columbia, that was created in 1911 from the Limestone Plains region of New South Wales?",
+            "answer": "australian capital territory",
+            "image": null,
+            "a_percent": "39",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "What is the common name of Anton\u00edn Dvo\u0159\u00e1k's ninth symphony, composed in 1893 during his residence in the United States (and thusly influenced, and thusly named)?",
+            "answer": "new world symphony",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "47",
+            "d_percent": "32",
+            "e_percent": "17",
+            "r_percent": "31"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What was the last name of the German-born British physiologist who won the 1953 Nobel Prize in Physiology or Medicine for his work on the cyclical nature of metabolic processes?",
+            "answer": "(hans) krebs",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "54",
+            "c_percent": "46",
+            "d_percent": "39",
+            "e_percent": "30",
+            "r_percent": "38"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "A Wind in the Door (1973), A Swiftly Tilting Planet (1978), and Many Waters (1986) continue the story first told by author Madeleine L'Engle in what 1962 novel?",
+            "answer": "a wrinkle in time",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "85",
+            "c_percent": "79",
+            "d_percent": "69",
+            "e_percent": "51",
+            "r_percent": "60"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The imperial period of ancient Roman history began when Octavian became emperor (as Augustus) and ended when Romulus Augustus was deposed by the German king Odoacer. Given these boundaries, for how many years did the Roman Empire exist, rounded to the nearest 100 years (i.e., the correct answer will end in two zeroes)?",
+            "answer": "500",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "44",
+            "c_percent": "33",
+            "d_percent": "23",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Caman is the Gaelic word for a broad-bladed, curved stick that is the primary implement of a stick-and-ball game that has been played for over 3,000 years. What is the name of this sport, or the more commonly used name for the stick used in it?",
+            "answer": "hurling/camogie/shinty, hurley",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "50",
+            "c_percent": "41",
+            "d_percent": "31",
+            "e_percent": "20",
+            "r_percent": "29"
+        }
+    ]
+}

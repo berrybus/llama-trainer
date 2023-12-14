@@ -1,0 +1,79 @@
+{
+    "date": "September 14, 2023",
+    "league": 98,
+    "day": 13,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "The British novelist and poet with the given names David Herbert, the American physicist with the given names Ernest Orlando, and the British soldier and writer with the given names Thomas Edward all share what surname?",
+            "answer": "lawrence",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "76",
+            "c_percent": "62",
+            "d_percent": "41",
+            "e_percent": "18",
+            "r_percent": "33"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The port and ancient town of Roskilde, famous today for hosting its namesake music festival, was for roughly 500 years the capital of what country?",
+            "answer": "denmark",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "52",
+            "c_percent": "41",
+            "d_percent": "32",
+            "e_percent": "22",
+            "r_percent": "33"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The ancient civilization of Bactria has not existed in over 1,000 years, but its name lives on thanks in large part to what herbivore?",
+            "answer": "camel",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "49",
+            "e_percent": "27",
+            "r_percent": "42"
+        },
+        {
+            "category": "ART",
+            "prompt": "Contemporary artist Shepard Fairey is known for designing the famous Barack Obama poster with the word \"HOPE\", and earlier for creating an iconic image of the wrestler Andr\u00e9 the Giant with what other four-letter word?",
+            "answer": "obey",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "53",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "24",
+            "r_percent": "34"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the name of the only arena currently serving as the primary home of an NBA franchise that is not named after a corporate sponsor?",
+            "answer": "madison square garden",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "75",
+            "d_percent": "71",
+            "e_percent": "59",
+            "r_percent": "65"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Joyce Davenport, Patty Hewes, Annalise Keating, Clair Huxtable, and Diane Lockhart are all names of television characters who held what occupation?",
+            "answer": "lawyer",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "73",
+            "c_percent": "68",
+            "d_percent": "60",
+            "e_percent": "49",
+            "r_percent": "58"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "August 29, 2023",
+    "league": 98,
+    "day": 2,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "While its name comes from a word for \"barley\", orgeat syrup is characterized by the dominant flavor of what ingredient, which puts it in a category with frangipane, mandelbrot, marzipan, and biscotti?",
+            "answer": "almond",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "68",
+            "r_percent": "72"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Four Horsemen of the Apocalypse are described as riding horses of different colors, with the first three being white (conquest/pestilence), red (war), and black (famine). The fourth horse (death) is green, but is more often described not with a specific color but as what other word, such as is used by Agatha Christie in a novel from 1961?",
+            "answer": "pale",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "77",
+            "c_percent": "63",
+            "d_percent": "46",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "From 1949 to 1962, New York City-based teams won baseball's World Series every year, with three exceptions. One exception was in 1959, when the Los Angeles (formerly Brooklyn) Dodgers won. Name either of the other two non-NY teams (both location and team name), who won the World Series in 1957 and 1960, respectively.",
+            "answer": "milwaukee braves, pittsburgh pirates",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "37",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "14",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Lion's Mound and the Battle Panorama Mural are attractions located within the Wallonian municipality of Braine-l'Alleud, very near its border with what other Belgian municipality, which itself is home to the Wellington Museum?",
+            "answer": "waterloo",
+            "image": null,
+            "a_percent": "79",
+            "b_percent": "63",
+            "c_percent": "50",
+            "d_percent": "31",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "What literary form, whose precise origins are unknown, was popularized in 1846 by Edward Lear's The Book of Nonsense?",
+            "answer": "limerick",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "69",
+            "c_percent": "57",
+            "d_percent": "47",
+            "e_percent": "31",
+            "r_percent": "34"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The HBO drama series The Idol was co-created by and stars Abel Tesfaye, who is better known by what stage name?",
+            "answer": "the weeknd",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "73",
+            "c_percent": "66",
+            "d_percent": "59",
+            "e_percent": "51",
+            "r_percent": "59"
+        }
+    ]
+}

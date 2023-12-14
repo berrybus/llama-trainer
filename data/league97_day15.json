@@ -1,0 +1,79 @@
+{
+    "date": "June 12, 2023",
+    "league": 97,
+    "day": 15,
+    "questions": [
+        {
+            "category": "AMER HIST",
+            "prompt": "The International Civil Rights Center and Museum, in Greensboro, North Carolina, occupies the former site of what store, where four African American students staged a sit-in at the store's lunch counter and refused to leave after being denied service in 1960?",
+            "answer": "woolworth's",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "68",
+            "d_percent": "55",
+            "e_percent": "37",
+            "r_percent": "45"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A coulter (or skeith) cuts a vertical slice, and a share makes a horizontal cut underneath; the slice is then turned by the moldboard while lateral accuracy and stability are maintained by the landside. This describes the operation of the \"moldboard\" or \"bottom\" type of what mechanical implement?",
+            "answer": "plow",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "27",
+            "c_percent": "19",
+            "d_percent": "12",
+            "e_percent": "6",
+            "r_percent": "16"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Tishri, Muharram, and Chaitra are the first names on certain Jewish, Islamic, and Hindu lists, respectively. What is normally the first name on the corresponding list adopted by Pope Gregory XIII in 1582?",
+            "answer": "january",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "74",
+            "c_percent": "63",
+            "d_percent": "47",
+            "e_percent": "26",
+            "r_percent": "38"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A romantic comedy film from the 1950s refers to a condition that could be categorized as septennial pruritus. By what other word is pruritus better known in this context (and most others as well)?",
+            "answer": "itch",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "91",
+            "d_percent": "80",
+            "e_percent": "57",
+            "r_percent": "65"
+        },
+        {
+            "category": "FILM",
+            "prompt": "English brothers Richard, an Oscar-winning director; David, a BBC broadcaster and natural historian; and John, a motor industry executive, all share what last name?",
+            "answer": "attenborough",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "94",
+            "d_percent": "88",
+            "e_percent": "75",
+            "r_percent": "82"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Entrepreneurs and HGTV stars Chip and Joanna Gaines purchased and refurbished a marketplace in their hometown of Waco, Texas, with what name, which the Gaineses now use as branding for their various business ventures (including their kitchen and home d\u00e9cor lines and their own cable television network)?",
+            "answer": "magnolia",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "47",
+            "c_percent": "45",
+            "d_percent": "42",
+            "e_percent": "39",
+            "r_percent": "42"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "August 30, 2023",
+    "league": 98,
+    "day": 3,
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Mukbang is a term for a special type of video that shows its subject engaged in what activity (in fact, the word itself combines the Korean words for this activity and \"broadcast\")?",
+            "answer": "eating",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "69",
+            "c_percent": "66",
+            "d_percent": "62",
+            "e_percent": "57",
+            "r_percent": "64"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A German named Johann Bayer invented a system, which was published in the early 1600s and primarily used Greek letters and Latin names in the genitive case, for the naming of what?",
+            "answer": "stars",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "The Nose and Lady Macbeth of Mtsensk are operas by what composer, whose fifteen symphonies include his WWII-era seventh known as the Leningrad?",
+            "answer": "dmitri shostakovich",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "15"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Although numerous cities have hosted multiple Olympic Games, only one city has hosted both a Summer and a Winter Games (both in this century). What is that city?",
+            "answer": "beijing",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "62",
+            "e_percent": "50",
+            "r_percent": "59"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Although the evidence is wildly varied and hotly disputed, some historians suggest that as much as 60%\u201370% of the total population of what country perished during a catastrophic 1864\u201370 war that is sometimes called the War of the Triple Alliance? The deaths suffered by the triumphant \"Triple Alliance\" of Brazil, Uruguay, and Argentina were significant but far fewer.",
+            "answer": "paraguay",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "64",
+            "c_percent": "56",
+            "d_percent": "46",
+            "e_percent": "33",
+            "r_percent": "45"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The Indian city of Jaipur, the capital of Rajasthan state, has been known since 1876 as the \"[BLANK] City\" because Maharaja Sawai Ram Singh II had buildings of the city painted this color\u2014at the time deemed the \"color of hospitality\"\u2014in preparation for a visit by Albert, the Prince of Wales. (Fill in the blank.)",
+            "answer": "pink",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "51",
+            "c_percent": "42",
+            "d_percent": "32",
+            "e_percent": "24",
+            "r_percent": "32"
+        }
+    ]
+}

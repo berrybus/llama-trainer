@@ -1,0 +1,79 @@
+{
+    "date": "September 1, 2023",
+    "league": 98,
+    "day": 5,
+    "questions": [
+        {
+            "category": "THEATRE",
+            "prompt": "The 1884 Broadway production of David Belasco's May Blossom is regarded (including by the magazine itself, perhaps dubiously) as the origin of a magazine known today by what name?",
+            "answer": "playbill",
+            "image": null,
+            "a_percent": "43",
+            "b_percent": "30",
+            "c_percent": "24",
+            "d_percent": "17",
+            "e_percent": "10",
+            "r_percent": "13"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "\"A\" is the international vehicle registration code for Austria, \"B\" is the code for Belgium, \"C\" is the code for Cuba, \"D\" is the code for Germany, and \"F\" is the code for France. What country of roughly 47 million people has the international vehicle registration code \"E\"?",
+            "answer": "spain",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "39",
+            "r_percent": "52"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "A warrior from Norse legend and history who wore a \"bear shirt\" and fought with such frenzy and wild fury that he believed himself to be impervious to wounds is the source of what word?",
+            "answer": "berserk/berserker",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "80",
+            "c_percent": "71",
+            "d_percent": "59",
+            "e_percent": "41",
+            "r_percent": "57"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Film critic Nathan Rabin coined a four-word term in a 2007 essay to describe the character played by Kirsten Dunst in the film Elizabethtown, and the term subsequently became a label for describing similar characters in previous and subsequent films. What are the first two words in the name of this \"dream girl\" trope?",
+            "answer": "manic pixie",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "70",
+            "c_percent": "64",
+            "d_percent": "57",
+            "e_percent": "45",
+            "r_percent": "54"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The name of what casino, famous in its own right, took on another use starting with work by mathematicians and physicists Stanis\u0142aw Ulam and John von Neumann in the 1940s at the Los Alamos National Laboratory?",
+            "answer": "monte carlo",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "60",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "22",
+            "r_percent": "30"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "A Massachusetts-born bookseller of the late 19th and 20th centuries has a last name that, by coincidence, is a word used to describe a certain set that includes neon and krypton. What is that last name?",
+            "answer": "noble",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "95",
+            "c_percent": "94",
+            "d_percent": "90",
+            "e_percent": "78",
+            "r_percent": "83"
+        }
+    ]
+}

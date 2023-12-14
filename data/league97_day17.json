@@ -1,0 +1,79 @@
+{
+    "date": "June 14, 2023",
+    "league": 97,
+    "day": 17,
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "In the 1810s, some English workers and craftsmen who had been impacted by the advanced mechanization of the Industrial Revolution expressed their resentment by attacking the machinery and factories that had cost them their livelihoods. They became known by what name, after a legendary character who had smashed two knitting frames in a \"fit of passion\" (a name that today refers to individuals with similar antitechnology attitudes)?",
+            "answer": "luddites",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "94",
+            "c_percent": "91",
+            "d_percent": "83",
+            "e_percent": "65",
+            "r_percent": "74"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "The musical instrument known in some circles as a tam-tam is also widely known by what other name, which was used in the title of a television show that featured the instrument prominently and first aired in 1976?",
+            "answer": "gong",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "67",
+            "c_percent": "56",
+            "d_percent": "42",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "An incomplete flower is defined as a flower lacking in one or more of the structures that constitute a complete flower. Those structures are the sepals, petals, stamen, and what fourth (which itself comprises the stigma, style, and ovary)?",
+            "answer": "pistil/carpel",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "80",
+            "c_percent": "72",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "53"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A figure skater approaches in a long curve, launches from the left back outside edge with assistance from the right toe, and turns counterclockwise before landing on the outside back edge of the right foot. This skater has just performed what maneuver, one of the few jumps that takes off counter to the natural rotation of the edge?",
+            "answer": "lutz",
+            "image": null,
+            "a_percent": "37",
+            "b_percent": "31",
+            "c_percent": "27",
+            "d_percent": "24",
+            "e_percent": "18",
+            "r_percent": "21"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Introductory courses in marketing often present a \"marketing mix\" composed of the \"Four P's\". Three of the four are place, price, and promotion\u2014traditionally, and most often, what is the fourth (which is usually listed first)?",
+            "answer": "product",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "70",
+            "e_percent": "63",
+            "r_percent": "68"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What French word is the basic equivalent of the German Ziegenk\u00e4se and the Italian caprino? Some examples categorized by this word include Bucheron, Chabis, Chavroux, Valen\u00e7ay, and Montrachet.",
+            "answer": "ch\u00e8vre",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "43",
+            "c_percent": "31",
+            "d_percent": "20",
+            "e_percent": "10",
+            "r_percent": "20"
+        }
+    ]
+}

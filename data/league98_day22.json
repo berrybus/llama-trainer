@@ -1,0 +1,79 @@
+{
+    "date": "September 27, 2023",
+    "league": 98,
+    "day": 22,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name for the cooking technique in which food is vacuum sealed and cooked for an extended period in a precisely controlled, low-heat water bath?",
+            "answer": "sous vide",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "89",
+            "c_percent": "86",
+            "d_percent": "84",
+            "e_percent": "79",
+            "r_percent": "81"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"The woods are lovely, dark and deep / But I have promises to keep\u2026\" What seven-word line, repeated, comes next in this excerpt from a 1923 lyric poem?",
+            "answer": "and miles to go before i sleep",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "67",
+            "d_percent": "57",
+            "e_percent": "38",
+            "r_percent": "48"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Representatives from eight countries convened at a conference in July 2023 in Leticia, the southernmost city in the country of Colombia, to discuss strategies for the conservation of what?",
+            "answer": "(amazon) rainforest",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "88",
+            "d_percent": "84",
+            "e_percent": "79",
+            "r_percent": "83"
+        },
+        {
+            "category": "FILM",
+            "prompt": "In 1997, Hollywood released two disaster films\u2014one starring Pierce Brosnan and Linda Hamilton, the other starring Tommy Lee Jones and Anne Heche\u2014about a specific type of natural-disaster threat. What was that threat, which also provided the title of the latter of the two films?",
+            "answer": "volcano",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "72",
+            "c_percent": "64",
+            "d_percent": "56",
+            "e_percent": "43",
+            "r_percent": "51"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "A shoe polish whose production ceased in 1960 had a brand name that was acquired in 2011 and is now used by a Detroit-based company that produces watches and other lifestyle goods. What is that brand name?",
+            "answer": "shinola",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "48",
+            "c_percent": "42",
+            "d_percent": "35",
+            "e_percent": "27",
+            "r_percent": "31"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Treaty of Friendship, Cooperation, and Mutual Assistance was signed in 1955 by the Soviet Union and seven other Eastern Bloc countries in what city, by whose name the treaty is commonly known?",
+            "answer": "warsaw",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "82",
+            "c_percent": "72",
+            "d_percent": "57",
+            "e_percent": "37",
+            "r_percent": "55"
+        }
+    ]
+}

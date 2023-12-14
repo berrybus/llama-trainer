@@ -1,0 +1,79 @@
+{
+    "date": "June 5, 2023",
+    "league": 97,
+    "day": 10,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "In 1836, a Unitarian discussion group in Boston gave its name to what philosophical and literary movement, which was prominent in that part of the country from that time until the dawn of the Civil War?",
+            "answer": "transcendentalism",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "48",
+            "d_percent": "34",
+            "e_percent": "19",
+            "r_percent": "32"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The colorless, corrosive liquid known as formic acid gets that name from the Latin for what highly social and ubiquitous animal, some species of which secrete the acid as a defense?",
+            "answer": "ant",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "84",
+            "c_percent": "75",
+            "d_percent": "64",
+            "e_percent": "44",
+            "r_percent": "58"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Mike Damone (played by Patrick Dempsey), Mark Ratner (Wally Ward, now known as Wallace Langham), Stacey Hamilton (Courtney Thorne-Smith), and Jeff Spicoli (Dean Cameron) were students at what high school in a CBS sitcom broadcast in March and April 1986?",
+            "answer": "ridgemont high",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "76",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "51",
+            "r_percent": "55"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Name the country music legend, a member of the so-called Outlaws coterie in the mid-1970s and the supergroup The Highwaymen in the mid-1980s, who began his career as a member of Buddy Holly's post-Crickets band and later became an outspoken advocate of high school education and antidrug initiatives (having overcome addiction himself), before his death in 2002.",
+            "answer": "waylon jennings",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "53",
+            "c_percent": "40",
+            "d_percent": "30",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "What is the name of the fully developed urban center that existed in present-day Western Illinois in the 12th century CE and was built around a central mound that reached a height of over 100 feet?`",
+            "answer": "cahokia",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "28",
+            "d_percent": "19",
+            "e_percent": "10",
+            "r_percent": "19"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "A sudden migration of tens of thousands of individuals (mostly men) to Northwestern Canada in the late 19th century is the source (or at least one possible source) of the name of a popular solo card game. What is that name?",
+            "answer": "klondike",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "71",
+            "c_percent": "59",
+            "d_percent": "46",
+            "e_percent": "26",
+            "r_percent": "30"
+        }
+    ]
+}

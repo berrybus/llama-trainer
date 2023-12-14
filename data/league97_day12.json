@@ -1,0 +1,79 @@
+{
+    "date": "June 7, 2023",
+    "league": 97,
+    "day": 12,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What East African seaport was settled by the Arabs in the eighth century, was visited by Vasco da Gama in 1498 and sacked by the Portuguese in 1500, was captured by the Sultanate of Oman in 1698, was passed to the control of Zanzibar in 1837, was brought within Britain's East African Protectorate around 1890, and is today Kenya's second-largest city and principal port?",
+            "answer": "mombasa",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "55",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "33"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Per the FCC, the lowest frequency for an FM broadcast radio station in the United States in 88.1 MHz (such as Baltimore's 88.1 WYPR). As all FM radio frequencies in the US end in an odd decimal, what is the number of the highest possible frequency (used, for example, by \"Philly's Classic R&B\" WPPZ)?",
+            "answer": "107.9",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "69",
+            "c_percent": "63",
+            "d_percent": "57",
+            "e_percent": "48",
+            "r_percent": "51"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The poor performance of the Mexican economy and ascension of a democratic movement under Francisco Madero were factors in the forced resignation and exile in 1911 of what president of Mexico, who led a military coup in 1876 and whose second term ran from 1884 until his resignation?",
+            "answer": "porfirio d\u00edaz",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "23",
+            "c_percent": "16",
+            "d_percent": "9",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What term, derived from the Greek for \"solid\" and \"impression\", originally referred to a method of duplicate printing, but was given its current (and often pejorative) meaning in social psychology by Walter Lippmann's 1922 book Public Opinion?",
+            "answer": "stereotype",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "40",
+            "c_percent": "28",
+            "d_percent": "16",
+            "e_percent": "6",
+            "r_percent": "20"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What is the name of the cake, similar in concept to a French tarte Tatin or Brazilian bolo de anan\u00e1s, whose popularity is widely attributed to a 1925 recipe contest held by a fruit producer and distributor founded by James Dole?",
+            "answer": "pineapple upside-down cake",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "85",
+            "c_percent": "81",
+            "d_percent": "76",
+            "e_percent": "66",
+            "r_percent": "69"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "In the hierarchy of the nine types of winning hands in 52-card poker games, with \"high card\" at the bottom and \"straight flush\" at the top (\"royal flush\" being the optimal straight flush), what hand is third from the bottom (i.e., the third-weakest)?",
+            "answer": "two pairs",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "78",
+            "c_percent": "73",
+            "d_percent": "69",
+            "e_percent": "61",
+            "r_percent": "64"
+        }
+    ]
+}
