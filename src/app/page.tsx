@@ -562,6 +562,9 @@ const Home: NextPage = () => {
                 Reset
               </button>
             </div>
+              <h3 className="text-md">
+                Data: Seasons 60-98
+              </h3>
           </div>
         </div>
       </div>
