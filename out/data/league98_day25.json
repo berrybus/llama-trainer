@@ -1,0 +1,79 @@
+{
+    "date": "October 2, 2023",
+    "league": 98,
+    "day": 25,
+    "questions": [
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The Spingarn Medal, which is awarded annually for outstanding achievement, was first given to cell biologist Ernest E. Just in 1915, and is presented by what American organization that was formed a few years prior?",
+            "answer": "naacp",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "24",
+            "c_percent": "15",
+            "d_percent": "8",
+            "e_percent": "4",
+            "r_percent": "11"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Which Grand Slam tennis tournament is considered to have the slowest surface, with its courts rated at a 1 (\"slow\", on a scale from 1 to 5) by the International Tennis Federation?",
+            "answer": "french open",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "57",
+            "c_percent": "51",
+            "d_percent": "44",
+            "e_percent": "37",
+            "r_percent": "43"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Bughead, Barchie, Varchie, and Jeronica were some of the \"ships\" named by the fandom of what CW series, which wrapped up its seventh and final season in August 2023?",
+            "answer": "riverdale",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "82",
+            "c_percent": "75",
+            "d_percent": "67",
+            "e_percent": "56",
+            "r_percent": "64"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Old advertisements for what soap, widely cited as the first antibacterial soap (and today still the top brand of antibacterial bar soap, at least per its own marketing), promised to stop odor before it starts, keeping you fresh round the clock?",
+            "answer": "dial",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "75",
+            "c_percent": "71",
+            "d_percent": "64",
+            "e_percent": "53",
+            "r_percent": "57"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What dog breed takes its name from a strip of territory bordering the Adriatic Sea in Southwest Croatia, largely barren and mountainous and formerly a part of the Greek province of Illyria?",
+            "answer": "dalmatian",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "61",
+            "d_percent": "43",
+            "e_percent": "23",
+            "r_percent": "39"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of an Ornette Coleman recording from 1960 subtitled A Collective Improvisation is a source for the name of what jazz style, which is mostly undefinable but is characterized by a lack of rules (or a breaking of rules) and a rejection of conventions (like chord progressions, harmony, and melody)?",
+            "answer": "free jazz",
+            "image": null,
+            "a_percent": "66",
+            "b_percent": "57",
+            "c_percent": "51",
+            "d_percent": "43",
+            "e_percent": "32",
+            "r_percent": "43"
+        }
+    ]
+}

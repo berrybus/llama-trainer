@@ -1,0 +1,79 @@
+{
+    "date": "September 6, 2023",
+    "league": 98,
+    "day": 7,
+    "questions": [
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In November 2020, former prosecutor and municipal judge Fani Willis defeated six-term incumbent (and former boss) Paul Howard Jr. to become District Attorney for what county?",
+            "answer": "fulton county (georgia)",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "56",
+            "e_percent": "40",
+            "r_percent": "46"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "What last name, one of the most common in the United States, is essentially the English-language equivalent (in meaning) to the Spanish patronymic Ib\u00e1\u00f1ez?",
+            "answer": "johnson",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "43",
+            "e_percent": "34",
+            "r_percent": "42"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The title of historian Richard Aldous's 2006 book The Lion and the Unicorn refers generally to two traditional symbols of the UK (representing England and Scotland, respectively). Specifically, the title refers to (and the book is about) two bitter political rivals and British Prime Ministers of the late 19th century. Identify either of these two politicians.",
+            "answer": "benjamin disraeli, william ewart gladstone",
+            "image": null,
+            "a_percent": "82",
+            "b_percent": "71",
+            "c_percent": "56",
+            "d_percent": "38",
+            "e_percent": "18",
+            "r_percent": "32"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Identify the dystopian 1932 novel whose title originated from a line spoken by Miranda in Act V, Scene 1 of William Shakespeare's The Tempest.",
+            "answer": "brave new world",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "87",
+            "c_percent": "78",
+            "d_percent": "65",
+            "e_percent": "43",
+            "r_percent": "57"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Former Oakland/Los Angeles Raider star Ray Guy, who passed away in November 2022, is the only inductee in the Pro Football Hall of Fame who primarily played what position?",
+            "answer": "punter",
+            "image": null,
+            "a_percent": "69",
+            "b_percent": "57",
+            "c_percent": "52",
+            "d_percent": "45",
+            "e_percent": "37",
+            "r_percent": "41"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Brokopondo Reservoir, once known formally as Professor Doctor Ingenieur W.J. van Blommestein Meer, is the largest lake in what South American country?",
+            "answer": "suriname",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "49",
+            "c_percent": "36",
+            "d_percent": "22",
+            "e_percent": "10",
+            "r_percent": "23"
+        }
+    ]
+}

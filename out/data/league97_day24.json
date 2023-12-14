@@ -1,0 +1,79 @@
+{
+    "date": "June 26, 2023",
+    "league": 97,
+    "day": 24,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "Songs by Ray Charles from 1960, Vicki Lawrence from 1972, and Gladys Knight and the Pips from 1973 all mention what location?",
+            "answer": "georgia",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "76",
+            "e_percent": "62",
+            "r_percent": "70"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What trade name for a borosilicate glass used extensively in domestic and scientific settings\u2014it resists strong acids and alkalis, has a low coefficient for thermal expansion, and has high mechanical strength\u2014originates (per company lore) from the use of its first sample for the preparation of a certain sweet dish?",
+            "answer": "pyrex",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "73",
+            "e_percent": "59",
+            "r_percent": "68"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "Takahashi and Delvecchio were the last names of two different (and largely sequential) characters on the television series Happy Days. Give the respective first names of these two characters, by which they were better known\u2014generally due to their proprietorship of a certain business establishment. (Note, two names required.)",
+            "answer": "arnold, al",
+            "image": null,
+            "a_percent": "49",
+            "b_percent": "30",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "8",
+            "r_percent": "14"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The psychological condition in which a hostage and their captor develop an unnatural and close relationship was first described in a group held hostage in a bank in 1973, who remained supportive of the thieves during and after their captivity. In what city did this episode take place?",
+            "answer": "stockholm",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "98",
+            "d_percent": "97",
+            "e_percent": "93",
+            "r_percent": "95"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "In literature, the mistaken use of an incorrect word in place of one it resembles, usually for comic effect, is known by what word? The noun comes from the name of a character in Richard Brinsley Sheridan's 1775 comedy The Rivals (with the character's name itself taken from a French phrase)\u2014as the character, in her attempts to demonstrate a vast vocabulary, makes remarks such as \"he is the very pineapple of politeness.\"",
+            "answer": "malapropism",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "75",
+            "c_percent": "64",
+            "d_percent": "48",
+            "e_percent": "26",
+            "r_percent": "42"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "While her last name may evoke a proficiency with pastries, breads, etc., what 20th-century Parisian woman was renowned as a composer, organist, conductor, and\u2014perhaps greatest of all\u2014a teacher, with a roster of pupils that included Aaron Copland, Daniel Barenboim, Philip Glass, Quincy Jones, Lennox Berkeley, and many many others?",
+            "answer": "nadia boulanger",
+            "image": null,
+            "a_percent": "46",
+            "b_percent": "31",
+            "c_percent": "24",
+            "d_percent": "16",
+            "e_percent": "8",
+            "r_percent": "16"
+        }
+    ]
+}

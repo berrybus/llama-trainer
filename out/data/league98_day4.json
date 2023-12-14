@@ -1,0 +1,79 @@
+{
+    "date": "August 31, 2023",
+    "league": 98,
+    "day": 4,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The culinary technique of crimping or making slashes, grooves, or decorative marks on vegetables or pastries shares a name with both a long, French, baguette-like crusty bread stick and a musical instrument. What is that name?",
+            "answer": "flute",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "55",
+            "c_percent": "50",
+            "d_percent": "44",
+            "e_percent": "38",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A 1952 coup led by General Mohamed Naguib forced the abdication and ended the reign of the last king of what country?",
+            "answer": "egypt",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "40",
+            "e_percent": "30",
+            "r_percent": "40"
+        },
+        {
+            "category": "ART",
+            "prompt": "Due to his Expressionist work completed in New York in 1962, Finnish-born US architect Eero Saarinen will likely forever be associated most closely with what airline?",
+            "answer": "trans-world airlines (twa)",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "52",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "22",
+            "r_percent": "26"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "In particle physics (and in common terminology), a lepton with a rest mass of 9.1093897(54) x 10-31kg and a negative charge of 1.60217733(49) x 10-19 coulombs is best known by what term?",
+            "answer": "electron",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "60",
+            "c_percent": "54",
+            "d_percent": "49",
+            "e_percent": "42",
+            "r_percent": "48"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What is the name used for the formal equestrian discipline\u2014either its own competition or part of a larger, three-day event\u2014that tests the horse's obedience skills via a series of movements at walk, trot, and canter?",
+            "answer": "dressage",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "83",
+            "e_percent": "67",
+            "r_percent": "72"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Walt Whitman poem \"O Captain! My Captain!\" was written to commemorate the death of whom (the poem's Captain, who has \"fallen cold and dead\")?",
+            "answer": "abraham lincoln",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "87",
+            "c_percent": "78",
+            "d_percent": "64",
+            "e_percent": "41",
+            "r_percent": "54"
+        }
+    ]
+}

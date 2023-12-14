@@ -1,0 +1,79 @@
+{
+    "date": "September 19, 2023",
+    "league": 98,
+    "day": 16,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "\"Pictures of the floating world\" is a translation of the name for what genre of Japanese art, represented commonly in prints created from carvings in woodblocks (such as Hokusai's The Great Wave off Kanagawa)?",
+            "answer": "ukiyo-e",
+            "image": null,
+            "a_percent": "35",
+            "b_percent": "21",
+            "c_percent": "15",
+            "d_percent": "9",
+            "e_percent": "5",
+            "r_percent": "13"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "In early January 2023, a song became the first in Billboard Hot 100 history to rank #1 on that chart in five separate calendar years (every year from 2019 to 2023). Give the title of this song or the name of the artist who cowrote and released it.",
+            "answer": "all i want for christmas is you, mariah carey",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "37",
+            "e_percent": "28",
+            "r_percent": "34"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "\"Heroic\" or \"elegiac\" (with an abab rhyming pattern in iambic pentameter), \"ballad\" (abcb in iambic tetrameter or iambic trimeter), and \"memoriam\" (abba in iambic tetrameter) are terms for different types of a stanza that is defined by its four-line structure and is the most common stanza in English verse. By what term is this stanza known?",
+            "answer": "quatrain",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "57",
+            "c_percent": "42",
+            "d_percent": "28",
+            "e_percent": "13",
+            "r_percent": "29"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The name of the legendary Phrygian king Gordius is most commonly invoked alongside the name for what object (the king\u2019s having been severed by Alexander the Great)?",
+            "answer": "knot",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "90",
+            "c_percent": "81",
+            "d_percent": "66",
+            "e_percent": "40",
+            "r_percent": "54"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The South American dish known as escabeche is usually prepared by marinating it for an extended period in a liquid known as what? This liquid is a solution of acetic acid, and the term \"acetic acid\" itself comes from the Latin word for the liquid in question (acetum) .",
+            "answer": "vinegar",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "65",
+            "d_percent": "55",
+            "e_percent": "42",
+            "r_percent": "55"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Dextromethorphan is one example of a medicine known as an antitussive, whose purpose is to suppress what?",
+            "answer": "cough",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "88",
+            "d_percent": "81",
+            "e_percent": "66",
+            "r_percent": "73"
+        }
+    ]
+}

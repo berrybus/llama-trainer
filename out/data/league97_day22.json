@@ -1,0 +1,79 @@
+{
+    "date": "June 22, 2023",
+    "league": 97,
+    "day": 22,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "A newborn Mandinka baby is held aloft by his father\u2014a symbolic image of opportunity and freedom that will become bitterly ironic\u2014during the iconic opening sequence in what miniseries (in a scene that would be replicated by Disney's The Lion King)?",
+            "answer": "roots",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "92",
+            "c_percent": "87",
+            "d_percent": "78",
+            "e_percent": "58",
+            "r_percent": "65"
+        },
+        {
+            "category": "ART",
+            "prompt": "American artist Mary Beth Edelson's 1972 feminist appropriation of da Vinci, titled Some Living American Women Artists/Last Supper, includes, in its central portion, fellow painter Alma Thomas, who achieved a level of acclaim during her lifetime that has grown since her death in 1978. For most of Thomas's life, she worked and lived in what city, where she was associated with its \"Color School\" art movement, where she taught for 35 years at Shaw Junior High School, and where she was the first graduate of an HBCU's fine arts program?",
+            "answer": "washington, dc",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "41",
+            "c_percent": "35",
+            "d_percent": "29",
+            "e_percent": "20",
+            "r_percent": "28"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What dish, which consists of its namesake ingredient with liqueur (often kirsch) and is flamb\u00e9ed tableside and served over ice cream, was prepared for Queen Victoria in 1897 by legendary French chef Auguste Escoffier?",
+            "answer": "cherries jubilee",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "44",
+            "d_percent": "33",
+            "e_percent": "20",
+            "r_percent": "29"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1999 film 10 Things I Hate about You and 2003's Deliver Us from Eva are loose adaptations of what comedy written in the late 16th century?",
+            "answer": "the taming of the shrew",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "75",
+            "e_percent": "59",
+            "r_percent": "67"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The first known philatelist was very possibly a Briton named John Tomlynson, who became such on May 7, 1840, one day after the first-ever issuance of what?",
+            "answer": "postage stamp",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "90",
+            "c_percent": "82",
+            "d_percent": "68",
+            "e_percent": "43",
+            "r_percent": "56"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Carnegiea gigantea is the scientific name of what cactus, the largest of the cacti, reaching up to 70 feet in height and possessing a thick stem and candelabra-like branches? Found in the Southwest United States and Mexico, it's the typical choice for cactus logos and iconography (e.g., the logo for the MLB's Cactus League and a former secondary logo for the Arizona Wildcats).",
+            "answer": "saguaro",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "48",
+            "r_percent": "57"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "September 18, 2023",
+    "league": 98,
+    "day": 15,
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "Rotation of the forearm so that one's palm faces upward, with the radius and ulna parallel, is supination. What is the opposite term, for rotation of the forearm so that the palm faces downward and the radius and ulna are crossed?",
+            "answer": "pronation",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "77",
+            "c_percent": "70",
+            "d_percent": "64",
+            "e_percent": "52",
+            "r_percent": "60"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Pulte's 2009 acquisition of a company named Centex was a union of two of the largest players in what industry, which includes D.R. Horton, Lennar, and Taylor Morrison?",
+            "answer": "home building/construction",
+            "image": null,
+            "a_percent": "57",
+            "b_percent": "43",
+            "c_percent": "38",
+            "d_percent": "32",
+            "e_percent": "26",
+            "r_percent": "33"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "La Isla de la Juventud (\"Isle of Youth\"), which was once known as the Isla de Tesoros (\"Treasure Island\") and served as the inspiration for the Robert Louis Stevenson novel and J.M.  Barrie's Peter Pan, is the much much smaller of the two main islands of what Caribbean nation?",
+            "answer": "cuba",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "43",
+            "c_percent": "33",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "25"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A 1964 film nominated for an Academy Award for Best Picture was directed by a Best Director Oscar nominee (Robert Stevenson), featured the Best Original Score winner (by Richard and Robert Sherman, who also wrote the Best Song), and won for Best Special Visual Effects. The film's star, playing the title character, also won for Best Actress. What is the name of this star?",
+            "answer": "julie andrews",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "58",
+            "c_percent": "47",
+            "d_percent": "35",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Geronimo and Cochise were leaders among what Native American people, as was\u2014nominally at least\u2014a colossal (but less prominent and arguably problematic) member of Hanna-Barbera's Super Friends?",
+            "answer": "apache",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "71",
+            "c_percent": "61",
+            "d_percent": "46",
+            "e_percent": "31",
+            "r_percent": "44"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Taylor Jenkins Reid's novel Daisy Jones & the Six, which was adapted into a Prime Video miniseries, is often cited as one of the many beneficiaries of what influential, literary-focused TikTok subcommunity?",
+            "answer": "booktok",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "55",
+            "c_percent": "49",
+            "d_percent": "46",
+            "e_percent": "42",
+            "r_percent": "48"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "September 13, 2023",
+    "league": 98,
+    "day": 12,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "In the lyrics of the biggest hit song in the career of Ricky Martin (so far)\u2014reaching Billboard #1 in 1999\u2014her lips are devil red, and her skin is the color of what?",
+            "answer": "mocha",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "79",
+            "c_percent": "73",
+            "d_percent": "69",
+            "e_percent": "60",
+            "r_percent": "61"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "When it was established in 1960, the Organization of Petroleum Exporting Countries (OPEC) had five founding members. Four of them are contiguous\u2014Iran, Iraq, Kuwait, Saudi Arabia\u2014and the fifth is roughly 7,500 miles (about 12,000 km) away. What was that fifth founding member?",
+            "answer": "venezuela",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "86",
+            "c_percent": "79",
+            "d_percent": "67",
+            "e_percent": "48",
+            "r_percent": "57"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "The first word spoken on the moon was \"contact\" (when Buzz Aldrin uttered \"contact light, ok, engine stop\" once the lunar module had reached the moon's surface), and not what other word, as has been widely believed and reported? However, the word in question\u2014specifically, a location \u2014was the first word uttered by Neil Armstrong.",
+            "answer": "houston",
+            "image": null,
+            "a_percent": "74",
+            "b_percent": "70",
+            "c_percent": "69",
+            "d_percent": "66",
+            "e_percent": "63",
+            "r_percent": "67"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "What is the French phrase, translating to \"allow to do\", which originated with a group of 18th-century economists who believed in a policy of minimal governmental interference in commercial concerns, and is also closely associated today with Scottish economist Adam Smith from that same century?",
+            "answer": "laissez-faire",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "98",
+            "d_percent": "96",
+            "e_percent": "89",
+            "r_percent": "91"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Following a judicial ruling the previous year, companies by the name of Donruss and Fleer entered a particular market in 1981 that was previously a monopoly long held by a company called Topps. What was the product?",
+            "answer": "baseball cards",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "90",
+            "c_percent": "87",
+            "d_percent": "81",
+            "e_percent": "69",
+            "r_percent": "69"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Name the Broadway legend who wrote the lyrics for the musicals Show Boat (1927), South Pacific (1949), and The Sound of Music (1959), among other shows.",
+            "answer": "oscar hammerstein ii",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "67",
+            "c_percent": "56",
+            "d_percent": "46",
+            "e_percent": "33",
+            "r_percent": "40"
+        }
+    ]
+}

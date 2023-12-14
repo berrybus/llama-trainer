@@ -1,0 +1,79 @@
+{
+    "date": "June 16, 2023",
+    "league": 97,
+    "day": 19,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Edible seaweeds of the genus Porphyra (and others of the genus Pyropia) are known in some parts of the world as laver, and in others as sloke, but in the United States they are referred to commonly by what Japanese name?",
+            "answer": "nori",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "62",
+            "e_percent": "52",
+            "r_percent": "62"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What two-word phrase completes the title of the following classic hip-hop album, and is also the name of the artist who recorded this breakthrough album in 1988? Life Is \u2026 _____",
+            "answer": "too $hort",
+            "image": null,
+            "a_percent": "38",
+            "b_percent": "26",
+            "c_percent": "21",
+            "d_percent": "15",
+            "e_percent": "11",
+            "r_percent": "19"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "George Feeny, Richard Katimski, Will Schuester, Lydia Grant, Chuck Noblet, and Carrie Bliss are names of fictional television characters who held what occupation?",
+            "answer": "teacher",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "54",
+            "e_percent": "47",
+            "r_percent": "55"
+        },
+        {
+            "category": "ART",
+            "prompt": "What French word for \"raw\" or \"unrefined\" did French painter Jean Dubuffet pair with \"art\" to coin a term for a genre of art created by people without formal art training, in particular prisoners, individuals with mental illness, and those on the fringes of society in general?",
+            "answer": "brut",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "13",
+            "e_percent": "6",
+            "r_percent": "19"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What word is shared in the names of the largest known accumulation of coral on Earth; the basin in the Western United States between the Sierra Nevadas and Cascades to the west and the Wasatch Range and Colorado Plateau to the east; the largest lake entirely within Canada; and the largest island in Europe?",
+            "answer": "great",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "87",
+            "c_percent": "83",
+            "d_percent": "76",
+            "e_percent": "63",
+            "r_percent": "74"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "The city of Winston-Salem, North Carolina, is sometimes nicknamed what \"City\"\u2014after an animal, whose namesake brand's products were developed and produced there starting in the 1910s?",
+            "answer": "camel",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "76",
+            "c_percent": "69",
+            "d_percent": "57",
+            "e_percent": "41",
+            "r_percent": "48"
+        }
+    ]
+}

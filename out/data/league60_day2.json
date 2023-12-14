@@ -17,7 +17,7 @@
         },
         {
             "category": "SCIENCE",
-            "prompt": "Give the most common name for the scientific instrument pictured here. ",
+            "prompt": "Give the most common name for the scientific instrument pictured here.",
             "answer": "geiger counter",
             "image": "/images/art/984y0598340598d304n.jpg",
             "a_percent": "90",

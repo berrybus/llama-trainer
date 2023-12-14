@@ -1,0 +1,79 @@
+{
+    "date": "June 20, 2023",
+    "league": 97,
+    "day": 20,
+    "questions": [
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Whereas the Caspian Sea is the world's largest lake by surface area (by far), the world's deepest lake by average depth (by far) and the world's largest freshwater lake by volume are both what other lake, which is located in an active continental rift zone (the reason for its extreme depth) in Southern Siberia?",
+            "answer": "lake baikal",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "77",
+            "c_percent": "65",
+            "d_percent": "49",
+            "e_percent": "29",
+            "r_percent": "45"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In April 2023, two Democratic lawmakers were expelled from their state legislature for their role in a protest calling for greater gun control in response to a tragic mass shooting that occurred ten days earlier in the same city, seven miles from the state capitol building. In what city did this sequence of events take place?",
+            "answer": "nashville",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "80",
+            "c_percent": "74",
+            "d_percent": "65",
+            "e_percent": "53",
+            "r_percent": "60"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Identify the Austrian physicist of the 19th\u201320th centuries whose work on supersonic projectiles and the flow of gases laid a foundation for developments in aeronautical design and projectile science (as evidenced by the illusory bands of light and dark and the speed ratio that are named for him).",
+            "answer": "ernst mach",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "55",
+            "c_percent": "44",
+            "d_percent": "34",
+            "e_percent": "22",
+            "r_percent": "34"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Among the many bridges that span the River Thames in London, the most recent new construction is a footbridge that connects the area of Bankside with the City of London. What is the common name for this bridge, which opened for good in 2002 following the repairs made after its initial ceremonious opening in the year 2000?",
+            "answer": "millennium bridge",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "77",
+            "c_percent": "68",
+            "d_percent": "57",
+            "e_percent": "40",
+            "r_percent": "50"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Elizabeth Bowen's in 1935 is in Paris, Dante Gabriel Rossetti's in 1881 is \"of Life\", and Edith Wharton's in 1905 is of Mirth. What are they?",
+            "answer": "houses",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "71",
+            "c_percent": "58",
+            "d_percent": "42",
+            "e_percent": "23",
+            "r_percent": "31"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "From 1980 until 1990, the NHL's Hart Memorial Trophy (for the \"player adjudged to be the most valuable to his team\") was awarded nine times to a player from what team (both location and team name required)?",
+            "answer": "edmonton oilers",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "59",
+            "d_percent": "50",
+            "e_percent": "37",
+            "r_percent": "48"
+        }
+    ]
+}

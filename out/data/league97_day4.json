@@ -1,0 +1,79 @@
+{
+    "date": "May 25, 2023",
+    "league": 97,
+    "day": 4,
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "On a modern guitar, what is the name of the device (often made of rosewood or ebony) whose primary purpose is to hold the saddle and strings in place and transfer string energy to the top of the guitar?",
+            "answer": "bridge",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "55",
+            "c_percent": "49",
+            "d_percent": "45",
+            "e_percent": "39",
+            "r_percent": "43"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "A brief, five-section, approximately 150-word legislative act, signed into law on December 21, 1948, and enacted on April 18, 1949, begins as follows, with what word missing? \"An act to repeal the Executive Authority (External Relations) Act, 1936, to declare that the description of the State shall be the Republic of [BLANK].\"",
+            "answer": "ireland",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "27",
+            "c_percent": "18",
+            "d_percent": "11",
+            "e_percent": "7",
+            "r_percent": "13"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The first National Book Award for fiction was won by novelist Nelson Algren for his 1949 book, which told the story (per its title) of a man with what extraordinary limb?",
+            "answer": "golden arm",
+            "image": null,
+            "a_percent": "68",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "29",
+            "e_percent": "16",
+            "r_percent": "19"
+        },
+        {
+            "category": "MATH",
+            "prompt": "The mathematical unit defined as the square root of -1 is customarily known by what descriptor? The first letter of this descriptor is the symbol for the unit (except in a few other fields such as electrical engineering, which use j). Note, the question asks for the descriptor, not its first letter.",
+            "answer": "imaginary",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "74",
+            "c_percent": "69",
+            "d_percent": "65",
+            "e_percent": "57",
+            "r_percent": "63"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Despite the fact that over 40% of its land is forest (mostly in its southeast part), which US state is the country's most densely populated (at over 1,200 people per square mile), and its eleventh most populous overall?",
+            "answer": "new jersey",
+            "image": null,
+            "a_percent": "85",
+            "b_percent": "74",
+            "c_percent": "64",
+            "d_percent": "52",
+            "e_percent": "36",
+            "r_percent": "49"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The 1986 song \"Something about You\" was the biggest hit in the United States for what band? The band formed in London in 1979 and took its name from Douglas Adams's The Hitchhiker's Guide to the Galaxy (specifically, from the novel's \"Answer to the Ultimate Question of Life, The Universe, and Everything\").",
+            "answer": "level 42",
+            "image": null,
+            "a_percent": "47",
+            "b_percent": "32",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "9",
+            "r_percent": "16"
+        }
+    ]
+}

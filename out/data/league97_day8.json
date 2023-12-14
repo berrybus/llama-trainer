@@ -1,0 +1,79 @@
+{
+    "date": "June 1, 2023",
+    "league": 97,
+    "day": 8,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "Italian engineer Pier Luigi Nervi's Palazzetto dello Sport, built in Rome for the 1960 Olympics, has been cited as an inspiration for what somewhat similar (but much larger) iconic building in the United States that was completed in 1965 and still stands today, though it is now mostly unused?",
+            "answer": "astrodome",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "40",
+            "c_percent": "31",
+            "d_percent": "22",
+            "e_percent": "14",
+            "r_percent": "20"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "Journalist, editor, and sportswriter George Plimpton is widely known for his journalistic exploits (QB for the Detroit Lions, Playboy-centerfold photographer, etc.), and for his best-selling books (Out of My League, Paper Lion, The Bogey Man, etc.), but in literary circles he is perhaps most highly regarded for cofounding a showcase for literary fiction and poetry\u2014a Review\u2014established in 1953 in what city?",
+            "answer": "paris",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "53",
+            "c_percent": "42",
+            "d_percent": "28",
+            "e_percent": "17",
+            "r_percent": "27"
+        },
+        {
+            "category": "FILM",
+            "prompt": "Provide the full title or the subtitle of the 1982 film whose titular character was portrayed richly by Mexican actor Ricardo Montalb\u00e1\u00e1\u00e1\u00e1\u00e1n.",
+            "answer": "star trek ii: the wrath of khan",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "69",
+            "c_percent": "56",
+            "d_percent": "41",
+            "e_percent": "22",
+            "r_percent": "32"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Come as You Are is the title of a 1993 biography, written by music journalist and Rolling Stone contributing editor Michael Azerrad, about what band?",
+            "answer": "nirvana",
+            "image": null,
+            "a_percent": "93",
+            "b_percent": "88",
+            "c_percent": "84",
+            "d_percent": "80",
+            "e_percent": "73",
+            "r_percent": "77"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Identify the river that runs in a giant arc for more than 1,700 miles beginning in the Guiana Highlands and discharges from an easterly flow into the Atlantic Ocean not far from the island of Trinidad.",
+            "answer": "orinoco",
+            "image": null,
+            "a_percent": "73",
+            "b_percent": "55",
+            "c_percent": "37",
+            "d_percent": "21",
+            "e_percent": "9",
+            "r_percent": "20"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Name any one of the US states that were formally admitted to the union in the 20th century and are neither Alaska nor Hawaii.",
+            "answer": "oklahoma, new mexico, arizona",
+            "image": null,
+            "a_percent": "94",
+            "b_percent": "86",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "52",
+            "r_percent": "63"
+        }
+    ]
+}

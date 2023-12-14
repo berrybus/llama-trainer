@@ -1,0 +1,79 @@
+{
+    "date": "September 28, 2023",
+    "league": 98,
+    "day": 23,
+    "questions": [
+        {
+            "category": "SCIENCE",
+            "prompt": "The most common photoreceptor cells of the retina in vertebrates are of what two types, so named because of their shapes? (Two answers required.)",
+            "answer": "rods, cones",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "95",
+            "c_percent": "92",
+            "d_percent": "88",
+            "e_percent": "77",
+            "r_percent": "84"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Boxing matches in the 18th century that included as many as eight fighters in the ring at a time presented an early use of what two-word phrase, whose immense popularity in modern video gaming is often attributed to a video game known as PUBG?",
+            "answer": "battle royale",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "67",
+            "c_percent": "59",
+            "d_percent": "54",
+            "e_percent": "46",
+            "r_percent": "54"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The Claudine series (1900\u201303), Ch\u00e9ri (1920), and Gigi (1944) are works of what mononymous French novelist?",
+            "answer": "colette",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "37",
+            "c_percent": "26",
+            "d_percent": "16",
+            "e_percent": "7",
+            "r_percent": "18"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "What mountain, rising from the Troodos Range in the center of the island, is the highest peak on Cyprus (not to be confused with another mountain just over 675 miles to the northwest or with many other mountains across the globe and beyond)?",
+            "answer": "mount olympus",
+            "image": null,
+            "a_percent": "90",
+            "b_percent": "82",
+            "c_percent": "76",
+            "d_percent": "65",
+            "e_percent": "46",
+            "r_percent": "57"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Among the accidentals in musical notation, the sharp raises pitch a semitone, and a flat lowers pitch a semitone. What is the name for the accidental that cancels the previous sharp or flat (which either appeared within the measure or was indicated by a key signature)?",
+            "answer": "natural",
+            "image": null,
+            "a_percent": "71",
+            "b_percent": "61",
+            "c_percent": "54",
+            "d_percent": "45",
+            "e_percent": "33",
+            "r_percent": "44"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Isis Gaston, the Bronx-born-and-raised rapper whose 2023 debut EP Like..? includes the songs \"Munch (Feelin' U)\", \"Bikini Bottom\", \"Princess Diana\", and \"In Ha Mood\", is known professionally by what rhyming name?",
+            "answer": "ice spice",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "44",
+            "c_percent": "41",
+            "d_percent": "36",
+            "e_percent": "30",
+            "r_percent": "40"
+        }
+    ]
+}
