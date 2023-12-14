@@ -1,0 +1,79 @@
+{
+    "date": "September 11, 2023",
+    "league": 98,
+    "day": 10,
+    "questions": [
+        {
+            "category": "TELEVISION",
+            "prompt": "Due in large part to a show he hosted from 1952 to 1989, TV pioneer Dick Clark was often dubbed (especially in tributes after his death in 2012) as \"America's oldest\" what?",
+            "answer": "teenager",
+            "image": null,
+            "a_percent": "75",
+            "b_percent": "62",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "21",
+            "r_percent": "33"
+        },
+        {
+            "category": "ART",
+            "prompt": "What was the last name of Stockholm-born American brothers Richard, the director of New York's Museum of Modern Art from 1972 to 1995, and Claes, a Pop artist known for his monumental public installations of everyday objects?",
+            "answer": "oldenburg",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "33",
+            "c_percent": "23",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "14"
+        },
+        {
+            "category": "MATH",
+            "prompt": "1) Opposite angles are equal, 2) All sides are equal and opposite sides are parallel, 3) Diagonals bisect each other perpendicularly, and 4) Sum of any two adjacent angles is 180\u00b0. These four properties define what geometric figure (i.e., any shape that has these four properties is this geometric figure, by definition)?",
+            "answer": "rhombus",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "46",
+            "c_percent": "43",
+            "d_percent": "39",
+            "e_percent": "31",
+            "r_percent": "31"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "Leading up to the 1952 US Presidential election, Dwight Eisenhower's running mate countered accusations of corruption (foreshadowing!) with a maudlin television speech that included allusions to his young daughter's \"little dog\". What was this dog's name, by which the speech is widely referred?",
+            "answer": "checkers",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "79",
+            "c_percent": "66",
+            "d_percent": "47",
+            "e_percent": "25",
+            "r_percent": "38"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "1) A sport, 2) A financial measure of active ROI (but misspelled), 3) A Shakespeare character, 4) A New York Judge. These descriptions of code words in the NATO phonetic alphabet, when converted to the letters they represent, spell the name of what city?",
+            "answer": "gary",
+            "image": null,
+            "a_percent": "83",
+            "b_percent": "72",
+            "c_percent": "59",
+            "d_percent": "46",
+            "e_percent": "28",
+            "r_percent": "39"
+        },
+        {
+            "category": "BUS/ECON",
+            "prompt": "Portugal has long been the far-and-away world leader in the export of what natural resource, with its 1.8 million acre Montado de Sobro the largest supplier, and the global wine industry the largest buyer?",
+            "answer": "cork",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "85",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "57",
+            "r_percent": "63"
+        }
+    ]
+}

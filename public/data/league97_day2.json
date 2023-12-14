@@ -1,0 +1,79 @@
+{
+    "date": "May 23, 2023",
+    "league": 97,
+    "day": 2,
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "Spanish is one of the official languages of Bilbao, a port city on the Bay of Biscay. What is the other, which is not related to Spanish (or any other European language)?",
+            "answer": "basque/euskara",
+            "image": null,
+            "a_percent": "89",
+            "b_percent": "76",
+            "c_percent": "64",
+            "d_percent": "49",
+            "e_percent": "29",
+            "r_percent": "41"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "Within the four largest North American professional sports leagues (the NFL, MLB, the NBA, and the NHL), which is the only team that is named after a literary talking bird? (Both the team's location and its name are required.)",
+            "answer": "baltimore ravens",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "89",
+            "c_percent": "82",
+            "d_percent": "73",
+            "e_percent": "57",
+            "r_percent": "65"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The particles that carry cholesterol through the human bloodstream to the cells are known most commonly by what name? They are divided into two main groups\u2014\"high density\" (HDL) and \"low density\" (LDL).",
+            "answer": "lipoproteins",
+            "image": null,
+            "a_percent": "52",
+            "b_percent": "37",
+            "c_percent": "30",
+            "d_percent": "23",
+            "e_percent": "17",
+            "r_percent": "21"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "Russian smetana (a typical ingredient of beef Stroganoff) and Polish \u015bmietana (commonly served as a salad dressing or with pierogi) are most closely equivalent to a food known in English by what name?",
+            "answer": "sour cream",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "74",
+            "c_percent": "66",
+            "d_percent": "56",
+            "e_percent": "43",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "The Franco-Prussian war of 1870\u201371 was provoked by a telegram (and Otto von Bismarck's alteration thereof) that was sent by the Prussian king Wilhelm. What is the three-letter name of this telegram, based on the Prussian spa town from which the king sent Bismarck the \"Dispatch\"?",
+            "answer": "ems",
+            "image": null,
+            "a_percent": "32",
+            "b_percent": "15",
+            "c_percent": "9",
+            "d_percent": "5",
+            "e_percent": "2",
+            "r_percent": "7"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What hard-rock band did the musicians born Chaim Witz, Stanley Eisen, and Peter Criscoula form in New York in 1972, before adding a guitarist later that year to complete the group's original (and most iconic) lineup?",
+            "answer": "kiss",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "78",
+            "c_percent": "70",
+            "d_percent": "61",
+            "e_percent": "48",
+            "r_percent": "55"
+        }
+    ]
+}

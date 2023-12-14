@@ -21,6 +21,7 @@ export default function RootLayout({
             <div className="flex items-baseline prose w-full divide-x">
               <h1 className="text-xl px-2">LLama Trainer</h1>
               <p className="px-2">Historical LearnedLeague questions</p>
+              <p className="px-2">Seasons 60-98</p>
             </div>
           </div>
         </div>

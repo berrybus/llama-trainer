@@ -1,0 +1,79 @@
+{
+    "date": "September 20, 2023",
+    "league": 98,
+    "day": 17,
+    "questions": [
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "E. Power Biggs, Marcel Dupr\u00e9, Charles-Marie Widor, Jimmy Smith, Shirley Scott, Brother Jack McDuff, Joey DeFrancesco, Jon Lord, and Albert Schweitzer were (or are) masters at what musical instrument?",
+            "answer": "organ",
+            "image": null,
+            "a_percent": "54",
+            "b_percent": "38",
+            "c_percent": "30",
+            "d_percent": "21",
+            "e_percent": "11",
+            "r_percent": "20"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The cricket ground located in Kennington, South London, one of the largest such grounds in the world, has what appropriately shapely name?",
+            "answer": "the (kia) oval",
+            "image": null,
+            "a_percent": "77",
+            "b_percent": "66",
+            "c_percent": "56",
+            "d_percent": "44",
+            "e_percent": "34",
+            "r_percent": "43"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Both a genus of typically rod-shaped bacteria and a product developed to kill bacteria (though not this particular bacteria) are named after a British surgeon who revolutionized modern surgery by introducing the use of antisepsis in the 1860s. What was his last name?",
+            "answer": "lister",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "70",
+            "c_percent": "58",
+            "d_percent": "40",
+            "e_percent": "20",
+            "r_percent": "34"
+        },
+        {
+            "category": "MATH",
+            "prompt": "Euler's number, when taken to one decimal place and then multiplied by 10, becomes a two-digit number that is the first composite number not divisible by any of its digits and is the only positive integer that is three times the sum of its digits. What is that two-digit number?",
+            "answer": "27",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "85",
+            "c_percent": "83",
+            "d_percent": "80",
+            "e_percent": "70",
+            "r_percent": "76"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The literary reputation of novelist George Sand (Amantine Aurore Dupin) was established with the 1832 publication of her novel named after its title character, who shares her name (unrelatedly) with a US state that had achieved statehood 16 years prior. What is that name?",
+            "answer": "indiana",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "42",
+            "c_percent": "29",
+            "d_percent": "19",
+            "e_percent": "11",
+            "r_percent": "23"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Anthony Mamo, Anton Buttigieg, Agatha Barbara, and Vincent Tabone are former presidents of what island nation?",
+            "answer": "malta",
+            "image": null,
+            "a_percent": "58",
+            "b_percent": "42",
+            "c_percent": "32",
+            "d_percent": "20",
+            "e_percent": "11",
+            "r_percent": "23"
+        }
+    ]
+}

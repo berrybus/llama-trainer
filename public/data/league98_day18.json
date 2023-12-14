@@ -1,0 +1,79 @@
+{
+    "date": "September 21, 2023",
+    "league": 98,
+    "day": 18,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "Fill in the blanks with the two words missing from the following title of a best-selling memoir by writer and former actor Jennette McCurdy, published in 2022: I'm [BLANK] My [BLANK] Died.",
+            "answer": "glad, mom",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "53",
+            "c_percent": "48",
+            "d_percent": "43",
+            "e_percent": "39",
+            "r_percent": "47"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "On a game show from the 1950s and 1960s whose regular panelists included former Miss America Bess Myerson, actress Betsy Palmer, game-show host Bill Cullen, and comedian Henry Morgan, what did each contestant have (per the show's title)?",
+            "answer": "secret",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "52",
+            "c_percent": "45",
+            "d_percent": "36",
+            "e_percent": "24",
+            "r_percent": "30"
+        },
+        {
+            "category": "FILM",
+            "prompt": "A 1998 film starring Brad Pitt as Death, a 1944 film starring Judy Garland as a young Midwestern fianc\u00e9e, and a 2000 film starring Ben Stiller as a nurse all have titles that begin with what imperative?",
+            "answer": "meet",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "89",
+            "c_percent": "84",
+            "d_percent": "77",
+            "e_percent": "66",
+            "r_percent": "72"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Atomic Aquatics, Cressi, Zeagle, Apeks, Sherwood, and Mares are all popular brands of scuba regulators, but arguably the best-known is what other brand, not least because of the title of a famous rock song and album from 1971?",
+            "answer": "aqualung",
+            "image": null,
+            "a_percent": "76",
+            "b_percent": "61",
+            "c_percent": "51",
+            "d_percent": "38",
+            "e_percent": "23",
+            "r_percent": "35"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The strategic but largely uninhabited Spratly Islands, comprising 18 or so islands and cays among numerous other banks and reefs, are spread over more than 150,000 square miles off the coasts of Vietnam, Malaysia, and the Philippines in what sea (as it is best known in English)?",
+            "answer": "south china sea",
+            "image": null,
+            "a_percent": "88",
+            "b_percent": "81",
+            "c_percent": "73",
+            "d_percent": "63",
+            "e_percent": "46",
+            "r_percent": "60"
+        },
+        {
+            "category": "ART",
+            "prompt": "What six-letter word fills in the blank in this line from a 2016 Washington Post review of a food-photography app: \"You can open the app, choose the [BLANK] ratio (3:4 or 1:1), and decide if you want blurred edges or to use the flash before selecting one of the 26 filters and shooting away.\"",
+            "answer": "aspect",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "84",
+            "c_percent": "82",
+            "d_percent": "79",
+            "e_percent": "71",
+            "r_percent": "78"
+        }
+    ]
+}

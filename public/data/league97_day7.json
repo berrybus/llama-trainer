@@ -1,0 +1,79 @@
+{
+    "date": "May 31, 2023",
+    "league": 97,
+    "day": 7,
+    "questions": [
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "The simplest and most common pastry\u2014made in a quick process using flour, fat (e.g., butter), water, and salt and sometimes known as \"medium flake pastry\" or simply \"pie dough\"\u2014has a name derived from a word once used to describe foods that are crumbly. What is that name?",
+            "answer": "shortcrust",
+            "image": null,
+            "a_percent": "33",
+            "b_percent": "26",
+            "c_percent": "22",
+            "d_percent": "16",
+            "e_percent": "11",
+            "r_percent": "16"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "Dua Lipa's 2018 hit single \"Electricity\" was released by the artist as a collaboration with a musical duo who are highly successful DJs and producers in their own right. Identify either of these two producers or the name they use for this duo.",
+            "answer": "diplo, mark ronson / silk city",
+            "image": null,
+            "a_percent": "40",
+            "b_percent": "27",
+            "c_percent": "21",
+            "d_percent": "17",
+            "e_percent": "12",
+            "r_percent": "22"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What was the name of the arcade video game published in 1980 (or its 1982 sequel) in which players shoot at segments of a flattened, wormlike arthropod of the class Chilopoda (Diplopoda in the sequel) that winds down the playing screen?",
+            "answer": "centipede/millipede",
+            "image": null,
+            "a_percent": "91",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "70",
+            "e_percent": "56",
+            "r_percent": "60"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "The island group known as the Caicos Islands forms a British Overseas Territory with what other island group?",
+            "answer": "turks islands",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "96",
+            "c_percent": "93",
+            "d_percent": "87",
+            "e_percent": "75",
+            "r_percent": "78"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the Spanish word used for a group of political or military leaders who form an administrative council (often after a coup or revolution), such as the one headed by the Argentinian general Galtieri in the 1980s, the one that followed the Chilean president Salvador Allende's overthrow in 1973, and the one led by the future Salvadoran president Jos\u00e9 Napole\u00f3n Duarte until 1982?",
+            "answer": "junta",
+            "image": null,
+            "a_percent": "97",
+            "b_percent": "93",
+            "c_percent": "89",
+            "d_percent": "79",
+            "e_percent": "56",
+            "r_percent": "65"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What word, coined in English in 1949, identified the novel area of applied science where the characteristics of human anatomy and physiology met with engineering and physics, with reference to tools, machines, and equipment humans use?",
+            "answer": "ergonomics",
+            "image": null,
+            "a_percent": "51",
+            "b_percent": "43",
+            "c_percent": "38",
+            "d_percent": "31",
+            "e_percent": "22",
+            "r_percent": "26"
+        }
+    ]
+}

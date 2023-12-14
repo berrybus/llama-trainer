@@ -1,0 +1,79 @@
+{
+    "date": "May 30, 2023",
+    "league": 97,
+    "day": 6,
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "The first modern English use of what French word dates to a mid-18th century collection of letters written by a British earl and diplomat to his son on the importance of social manners? The word is often associated with Emily Post, as it was the subject of her life's work and the title of her best-selling book (which had ten editions during her lifetime and many more afterward).",
+            "answer": "etiquette",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "93",
+            "d_percent": "87",
+            "e_percent": "75",
+            "r_percent": "81"
+        },
+        {
+            "category": "LITERATURE",
+            "prompt": "The man often credited with founding the first magazine exclusively for science fiction (which he called \"scientifiction\") had the last name Gernsback. Today, in the genre, particularly with respect to laurels, his first name is likely more widely known. What is that first name?",
+            "answer": "hugo",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "72",
+            "d_percent": "58",
+            "e_percent": "34",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "Among the earliest European universities were those in Paris (c. 1150), Oxford (c. 1100), Cambridge (1209), Prague (1348), Vienna (1365), and Heidelberg (1386), all of which were predated by the university established in 1088 in what Italian city?",
+            "answer": "bologna",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "48",
+            "c_percent": "35",
+            "d_percent": "24",
+            "e_percent": "13",
+            "r_percent": "24"
+        },
+        {
+            "category": "GEOGRAPHY",
+            "prompt": "Bolerium is the ancient name for a granite head at the western extremity of England, in Cornwall, that is known today by a name that is also used by a clothing retailer (with a misplaced punctuation mark). What is that name?",
+            "answer": "land's end",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "62",
+            "c_percent": "48",
+            "d_percent": "32",
+            "e_percent": "16",
+            "r_percent": "32"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "Geophagia (the consumption of soil) is a form of a general eating disorder\u2014the consumption of nonfood items\u2014that is known by what word? It comes from a Latin term for magpies that refers to their reputed habit of eating assorted things that are not food.",
+            "answer": "pica",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "55",
+            "c_percent": "50",
+            "d_percent": "41",
+            "e_percent": "33",
+            "r_percent": "40"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "The John Wooden Awards (for the most outstanding players in women's and men's college basketball) were given in 2023 to players on teams in the Big Ten Conference. Identify both of these two teams.",
+            "answer": "iowa hawkeyes, purdue boilermakers",
+            "image": null,
+            "a_percent": "41",
+            "b_percent": "33",
+            "c_percent": "27",
+            "d_percent": "23",
+            "e_percent": "18",
+            "r_percent": "22"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "September 26, 2023",
+    "league": 98,
+    "day": 21,
+    "questions": [
+        {
+            "category": "LITERATURE",
+            "prompt": "In a novel set in 1889 in South West England, a family of gentry named Baskerville is seemingly cursed by a demonic animal who has killed numerous members of the family over the years. What kind of animal was this?",
+            "answer": "dog/hound",
+            "image": null,
+            "a_percent": "99",
+            "b_percent": "99",
+            "c_percent": "96",
+            "d_percent": "92",
+            "e_percent": "78",
+            "r_percent": "83"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "What successful emo pop group shares a name with a comic-book-sidekick character on The Simpsons?",
+            "answer": "fall out boy",
+            "image": null,
+            "a_percent": "78",
+            "b_percent": "68",
+            "c_percent": "61",
+            "d_percent": "53",
+            "e_percent": "38",
+            "r_percent": "50"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Identify the term that originally applied to all musical plays, including opera\u2014and thus fittingly comes in part from the Greek for \"song\"\u2014and can now apply to any work that relies on sensational action and implausible events, often with exaggerated theatricality and emotion.",
+            "answer": "melodrama",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "56",
+            "c_percent": "47",
+            "d_percent": "37",
+            "e_percent": "22",
+            "r_percent": "31"
+        },
+        {
+            "category": "ART",
+            "prompt": "When one vowel of an Italian name for a mild white fish known as European sea bass or loup de mer is changed, it becomes the sobriquet of a Florentine mannerist painter so named for his reddish hair or dark skin. What is either of these names?",
+            "answer": "branzino/bronzino",
+            "image": null,
+            "a_percent": "56",
+            "b_percent": "45",
+            "c_percent": "35",
+            "d_percent": "28",
+            "e_percent": "18",
+            "r_percent": "26"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "For 72 years beginning in 1945, New York's Harlem neighborhood was represented in the US Congress by one of two powerful and long-serving politicians. Name either of these two men, the latter of whom defeated the former in the 1970 Democratic primary.",
+            "answer": "adam clayton powell, jr.; charles rangel",
+            "image": null,
+            "a_percent": "62",
+            "b_percent": "46",
+            "c_percent": "37",
+            "d_percent": "27",
+            "e_percent": "14",
+            "r_percent": "21"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "Formula Rossa, Kingda Ka, Red Force, Smiler, The Beast, Goliath, and Fujiyama are all names of popular what?",
+            "answer": "roller coasters",
+            "image": null,
+            "a_percent": "67",
+            "b_percent": "55",
+            "c_percent": "49",
+            "d_percent": "43",
+            "e_percent": "35",
+            "r_percent": "46"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "date": "September 12, 2023",
+    "league": 98,
+    "day": 11,
+    "questions": [
+        {
+            "category": "POP MUSIC",
+            "prompt": "The Taylor Swift albums Fearless, Red, and Speak Now have been re-recorded by the artist and released in 2021, 2021, and 2023, respectively, with a re-recorded 1989 planned later this year. These new releases retain the originals' titles, with what parenthetical phrase appended?",
+            "answer": "taylor's version",
+            "image": null,
+            "a_percent": "87",
+            "b_percent": "81",
+            "c_percent": "76",
+            "d_percent": "73",
+            "e_percent": "68",
+            "r_percent": "72"
+        },
+        {
+            "category": "CURR EVENTS",
+            "prompt": "In July 2023, the International Atomic Energy Agency controversially approved the Japanese government's proposal to discharge treated radioactive wastewater into the Pacific Ocean from the disabled \"number one\" (Daiichi) nuclear power plant in what prefecture, after which the plant is named?",
+            "answer": "fukushima",
+            "image": null,
+            "a_percent": "95",
+            "b_percent": "91",
+            "c_percent": "87",
+            "d_percent": "79",
+            "e_percent": "64",
+            "r_percent": "72"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "What is the name of the protein hormone\u2014first isolated in 1921 by Frederick Banting and Charles Best and detailed in amino acid composition and 3D structure by Frederick Sanger and Dorothy Hodgkin\u2014which is secreted by the islets of Langerhans in the pancreas and stimulates uptake of glucose and amino acids from the blood into tissue?",
+            "answer": "insulin",
+            "image": null,
+            "a_percent": "96",
+            "b_percent": "91",
+            "c_percent": "88",
+            "d_percent": "82",
+            "e_percent": "71",
+            "r_percent": "79"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Violetta is the name of the title character from what opera, one of the most performed of all time (in some years #1 overall) since its premiere in 1853?",
+            "answer": "la traviata",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "44",
+            "c_percent": "29",
+            "d_percent": "18",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "FILM",
+            "prompt": "The 1985 film Vision Quest, the 2014 film Foxcatcher, the 2010 film Legendary, and the 2011 film Win Win are all sports films (to one degree or another) around what sport?",
+            "answer": "wrestling",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "69",
+            "c_percent": "62",
+            "d_percent": "53",
+            "e_percent": "41",
+            "r_percent": "49"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What name was given by ancient peoples to the northernmost land in Europe, was used by the Greek navigator Pytheas of Massalia for a far northern island, and was used by Danes for a specific settlement and trading post in far northwestern Greenland (now a town called Qaanaaq)?",
+            "answer": "thule",
+            "image": null,
+            "a_percent": "42",
+            "b_percent": "24",
+            "c_percent": "14",
+            "d_percent": "6",
+            "e_percent": "3",
+            "r_percent": "9"
+        }
+    ]
+}

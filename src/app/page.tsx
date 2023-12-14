@@ -13,6 +13,7 @@ import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
 import { AiOutlineInfoCircle } from "react-icons/ai";
 import { Question } from "@/app/question";
 import { AnswerAction } from "@/app/answerAction";
+import { useReward } from 'react-rewards';
 
 function randomInt(min: number, max: number) {
   // min and max included
@@ -20,7 +21,7 @@ function randomInt(min: number, max: number) {
 }
 
 let currentData: Question;
-let [minLeague, maxLeague] = [60, 96];
+let [minLeague, maxLeague] = [60, 98];
 let [minDay, maxDay] = [1, 25];
 let [minIndex, maxIndex] = [0, 5];
 
@@ -71,6 +72,8 @@ const Home: NextPage = () => {
   const [isShowingAnswer, setIsShowingAnswer] = useState<boolean>(true);
   const [gradeWasMarkedWrong, setGradeWasMarkedWrong] =
     useState<boolean>(false);
+  const { reward: reward, isAnimating: isAnimating } = useReward('rewardId', 'confetti', {'startVelocity': 15, 'spread': 90, 'zIndex': 100});
+  const { reward: reward2, isAnimating: isAnimating2 } = useReward('rewardId2', 'confetti', {'startVelocity': 15, 'spread': 90, 'zIndex': 100});
 
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -243,6 +246,10 @@ const Home: NextPage = () => {
         answerRatioByCategory[currentData.category].correct += 1;
         setCorrect(true);
         localDatabase.markAnswerAsCorrect(questionId);
+        if (answerRatio.correct % 3 == 0) {
+          reward();
+          reward2();
+        }
       } else {
         setCorrect(false);
         localDatabase.markAnswerAsIncorrect(questionId);
@@ -385,6 +392,7 @@ const Home: NextPage = () => {
                 ANSWER - {answer}
               </h2>
               <div className="flex flex-row gap-2 mt-6">
+                    <span id="rewardId" />
                 <input
                   type="text"
                   placeholder="Type the answer"
@@ -395,6 +403,8 @@ const Home: NextPage = () => {
                   ref={inputRef}
                   readOnly={isShowingAnswer}
                 />
+
+                    <span id="rewardId2" />
                 {isShowingAnswer ? (
                   gradeWasMarkedWrong ? (
                     renderGradeUndoButton()

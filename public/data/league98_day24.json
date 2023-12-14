@@ -1,0 +1,79 @@
+{
+    "date": "September 29, 2023",
+    "league": 98,
+    "day": 24,
+    "questions": [
+        {
+            "category": "ART",
+            "prompt": "The Dymaxion house (designed in the late 1920s), Dymaxion car (1933), and Dymaxion bathroom unit (1936)\u2014pretty much anything \"Dymaxion\", which is a portmanteau of \"dynamic\", \"maximum\", and \"tension\"\u2014are inventions of what American designer and architect?",
+            "answer": "r. buckminster fuller",
+            "image": null,
+            "a_percent": "63",
+            "b_percent": "44",
+            "c_percent": "31",
+            "d_percent": "19",
+            "e_percent": "8",
+            "r_percent": "18"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "In 1971, the International Court of Justice at The Hague ruled that the continued occupation of Namibia by its neighbor was illegal, and that same year the United Nations recognized a nationalist group and \"People's Organization\" known as SWAPO as the legitimate representative of the people of Namibia. What do the first three letters in \"SWAPO\" stand for?",
+            "answer": "south west africa",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "78",
+            "c_percent": "72",
+            "d_percent": "64",
+            "e_percent": "53",
+            "r_percent": "64"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "The time standard by which clocks are regulated globally, a replacement for and essentially an equivalent of GMT (Greenwich Mean Time), is officially abbreviated \"UTC\" (a compromise used in all languages). In English, the T stands for Time, and the C and U stand for what other two words?",
+            "answer": "coordinated universal",
+            "image": null,
+            "a_percent": "60",
+            "b_percent": "48",
+            "c_percent": "39",
+            "d_percent": "32",
+            "e_percent": "21",
+            "r_percent": "34"
+        },
+        {
+            "category": "GAMES/SPORT",
+            "prompt": "What Austria-based company owns the reigning Formula One World Constructor Champion racing team, with drivers Max Verstappen (the 2022 World Drivers' Champion) and Sergio P\u00e9rez (the third-place finisher in the World Drivers' Championship in 2022)?",
+            "answer": "red bull",
+            "image": null,
+            "a_percent": "61",
+            "b_percent": "51",
+            "c_percent": "45",
+            "d_percent": "41",
+            "e_percent": "36",
+            "r_percent": "45"
+        },
+        {
+            "category": "FOOD/DRINK",
+            "prompt": "What city in the heart of France's Burgundy region is regarded as the mustard capital of the world, with a namesake recipe that dates to the 14th century?",
+            "answer": "dijon",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "95",
+            "d_percent": "91",
+            "e_percent": "82",
+            "r_percent": "88"
+        },
+        {
+            "category": "FILM",
+            "prompt": "\"I'm laughin' at clouds so dark up above / the sun's in my heart and I'm ready for love.\" These lines, which first appeared in The Hollywood Revue of 1929 and were further popularized 23 years later, are from what song?",
+            "answer": "singin' in the rain",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "67",
+            "d_percent": "60",
+            "e_percent": "45",
+            "r_percent": "55"
+        }
+    ]
+}

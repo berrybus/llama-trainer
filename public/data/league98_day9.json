@@ -1,0 +1,79 @@
+{
+    "date": "September 8, 2023",
+    "league": 98,
+    "day": 9,
+    "questions": [
+        {
+            "category": "LANGUAGE",
+            "prompt": "What is the word most commonly used in legal proceedings for the type of court order (usually \"temporary\" or \"permanent\") which instructs a person to refrain from committing (or perhaps to commit) a particular act?",
+            "answer": "injunction",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "64",
+            "c_percent": "61",
+            "d_percent": "57",
+            "e_percent": "43",
+            "r_percent": "45"
+        },
+        {
+            "category": "FILM",
+            "prompt": "What fictional football star, decorated war hero, ping-pong champion, and business magnate was the titular protagonist of a 1994 film?",
+            "answer": "forrest gump",
+            "image": null,
+            "a_percent": "98",
+            "b_percent": "97",
+            "c_percent": "96",
+            "d_percent": "94",
+            "e_percent": "89",
+            "r_percent": "90"
+        },
+        {
+            "category": "AMER HIST",
+            "prompt": "July 4, 1863, is widely considered the turning point in the American Civil War, as that is when two important battles resulted in defeats for the Confederacy\u2014the Battle of Gettysburg in the east, and the fall of what Mississippi River stronghold in the west?",
+            "answer": "vicksburg",
+            "image": null,
+            "a_percent": "80",
+            "b_percent": "63",
+            "c_percent": "51",
+            "d_percent": "36",
+            "e_percent": "20",
+            "r_percent": "35"
+        },
+        {
+            "category": "THEATRE",
+            "prompt": "Oscar Wilde's from 1895 was Ideal, Henry Fielding's from 1732 was Modern, and various others' on Broadway from 1897 to 1931 were Temporary, Superfluous, Perplexed, Unexpected, Happy, Prodigal, and Laughing. What were they?",
+            "answer": "husbands",
+            "image": null,
+            "a_percent": "65",
+            "b_percent": "47",
+            "c_percent": "33",
+            "d_percent": "21",
+            "e_percent": "10",
+            "r_percent": "17"
+        },
+        {
+            "category": "SCIENCE",
+            "prompt": "10th-century Scandinavian king Harald Gormsson had a nickname which lives on today in the name of what technology standard?",
+            "answer": "bluetooth",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "75",
+            "c_percent": "66",
+            "d_percent": "53",
+            "e_percent": "40",
+            "r_percent": "49"
+        },
+        {
+            "category": "POP MUSIC",
+            "prompt": "The title of what jazz standard composed and popularized by Thelonious Monk is also an instruction one might request when ordering a whiskey or other spirit without anything mixed in or to follow?",
+            "answer": "straight, no chaser",
+            "image": null,
+            "a_percent": "70",
+            "b_percent": "54",
+            "c_percent": "43",
+            "d_percent": "32",
+            "e_percent": "18",
+            "r_percent": "26"
+        }
+    ]
+}

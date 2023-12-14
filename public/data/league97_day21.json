@@ -1,0 +1,79 @@
+{
+    "date": "June 21, 2023",
+    "league": 97,
+    "day": 21,
+    "questions": [
+        {
+            "category": "WORLD HIST",
+            "prompt": "Mainly due to the transformation conducted by Philip II from 359 to 336 BCE, what territory at the northwest corner of the Aegean Sea was the most powerful state in Greece in the 3rd and 4th centuries BCE?",
+            "answer": "macedon",
+            "image": null,
+            "a_percent": "86",
+            "b_percent": "77",
+            "c_percent": "64",
+            "d_percent": "50",
+            "e_percent": "31",
+            "r_percent": "47"
+        },
+        {
+            "category": "CLASS MUSIC",
+            "prompt": "Salome, Elektra, and Ariadne are among the subjects of operas written in the early 20th century by what German composer and conductor, whose early career is highlighted by a series of well-known symphonic poems?",
+            "answer": "richard strauss",
+            "image": null,
+            "a_percent": "64",
+            "b_percent": "41",
+            "c_percent": "28",
+            "d_percent": "15",
+            "e_percent": "7",
+            "r_percent": "19"
+        },
+        {
+            "category": "LANGUAGE",
+            "prompt": "The Egyptian language is an extinct language, surviving in papyrus manuscripts and inscriptions, that evolved in the 2nd century BCE into another language used today as a liturgical language by Egypt's Monophysite Christians. What is that language?",
+            "answer": "coptic",
+            "image": null,
+            "a_percent": "84",
+            "b_percent": "76",
+            "c_percent": "65",
+            "d_percent": "53",
+            "e_percent": "30",
+            "r_percent": "44"
+        },
+        {
+            "category": "LIFESTYLE",
+            "prompt": "An area of Scotland named for its local river gave its name to what breed of horse, which originated in the 18th century when Flemish stallions were mated with Scottish mares, producing a large and powerful breed with a weight upwards of 2,000 lbs. and a height of 17 to 18 hands?",
+            "answer": "clydesdale",
+            "image": null,
+            "a_percent": "92",
+            "b_percent": "84",
+            "c_percent": "79",
+            "d_percent": "72",
+            "e_percent": "60",
+            "r_percent": "67"
+        },
+        {
+            "category": "TELEVISION",
+            "prompt": "\"Why do we always come here? / I guess we'll never know. / It's like a kind a torture / [BLANK].\" What are the six words that constitute this blanked fourth line from a classic theme song, one of the most popular in television history?",
+            "answer": "to have to watch the show",
+            "image": null,
+            "a_percent": "50",
+            "b_percent": "36",
+            "c_percent": "26",
+            "d_percent": "18",
+            "e_percent": "9",
+            "r_percent": "19"
+        },
+        {
+            "category": "WORLD HIST",
+            "prompt": "What is the current name of the city in Southeast China, founded in 472 BCE (by one historical account) on the Yangtze River and the country's capital during various periods of history, that was the center of the Taiping Rebellion, which began in 1850?",
+            "answer": "nanjing/nanking",
+            "image": null,
+            "a_percent": "44",
+            "b_percent": "29",
+            "c_percent": "22",
+            "d_percent": "14",
+            "e_percent": "7",
+            "r_percent": "18"
+        }
+    ]
+}
